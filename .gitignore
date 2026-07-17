@@ -1,0 +1,4 @@
+.server-*.log
+.update-logs/
+outputs/
+tmp/

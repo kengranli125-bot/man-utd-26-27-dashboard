@@ -1,0 +1,2195 @@
+{
+  "updatedAt": "2026-07-17T12:49:15.963Z",
+  "season": "2026/27",
+  "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
+  "summary": {
+    "position": null,
+    "played": 0,
+    "points": 0,
+    "goalDifference": 0
+  },
+  "fixtures": [
+    {
+      "id": "401863531",
+      "date": "2026-07-18T15:00Z",
+      "status": "upcoming",
+      "venue": "Helsinki Olympic Stadium",
+      "competition": "季前赛",
+      "competitionKey": "club.friendly",
+      "competitionGroup": "friendly",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "352",
+        "name": "Wrexham",
+        "nameZh": "雷克瑟姆",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401869196",
+      "date": "2026-07-24T16:00Z",
+      "status": "upcoming",
+      "venue": "Lerkendal Stadion",
+      "competition": "季前赛",
+      "competitionKey": "club.friendly",
+      "competitionGroup": "friendly",
+      "home": {
+        "id": "438",
+        "name": "Rosenborg",
+        "nameZh": "罗森博格",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/438.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401869198",
+      "date": "2026-08-01T13:00Z",
+      "status": "upcoming",
+      "venue": "Friends Arena",
+      "competition": "季前赛",
+      "competitionKey": "club.friendly",
+      "competitionGroup": "friendly",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "nameZh": "马德里竞技",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401868048",
+      "date": "2026-08-08T15:00Z",
+      "status": "upcoming",
+      "venue": "Ullevi Stadium",
+      "competition": "季前赛",
+      "competitionKey": "club.friendly",
+      "competitionGroup": "friendly",
+      "home": {
+        "id": "160",
+        "name": "Paris Saint-Germain",
+        "nameZh": "巴黎圣日耳曼",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401867394",
+      "date": "2026-08-12T18:30Z",
+      "status": "upcoming",
+      "venue": "",
+      "competition": "季前赛",
+      "competitionKey": "club.friendly",
+      "competitionGroup": "friendly",
+      "home": {
+        "id": "357",
+        "name": "Leeds United",
+        "nameZh": "利兹联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401886562",
+      "date": "2026-08-15T18:00Z",
+      "status": "upcoming",
+      "venue": "Municipal Stadium Wroclaw",
+      "competition": "季前赛",
+      "competitionKey": "club.friendly",
+      "competitionGroup": "friendly",
+      "home": {
+        "id": "103",
+        "name": "AC Milan",
+        "nameZh": "AC米兰",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879322",
+      "date": "2026-08-22T11:30Z",
+      "status": "upcoming",
+      "venue": "The MKM Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "306",
+        "name": "Hull City",
+        "nameZh": "赫尔城",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879293",
+      "date": "2026-08-30T15:30Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "373",
+        "name": "Ipswich Town",
+        "nameZh": "伊普斯维奇",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879291",
+      "date": "2026-09-06T13:00Z",
+      "status": "upcoming",
+      "venue": "Hill Dickinson Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "368",
+        "name": "Everton",
+        "nameZh": "埃弗顿",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879278",
+      "date": "2026-09-13T15:30Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "382",
+        "name": "Manchester City",
+        "nameZh": "曼城",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878777",
+      "date": "2026-09-20T15:30Z",
+      "status": "upcoming",
+      "venue": "Craven Cottage",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "370",
+        "name": "Fulham",
+        "nameZh": "富勒姆",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878773",
+      "date": "2026-10-10T14:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "nameZh": "托特纳姆热刺",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879260",
+      "date": "2026-10-17T14:00Z",
+      "status": "upcoming",
+      "venue": "Elland Road",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "357",
+        "name": "Leeds United",
+        "nameZh": "利兹联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879252",
+      "date": "2026-10-24T14:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "nameZh": "伯恩茅斯",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879248",
+      "date": "2026-10-31T15:00Z",
+      "status": "upcoming",
+      "venue": "Stamford Bridge",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "363",
+        "name": "Chelsea",
+        "nameZh": "切尔西",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879240",
+      "date": "2026-11-07T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "362",
+        "name": "Aston Villa",
+        "nameZh": "阿斯顿维拉",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878755",
+      "date": "2026-11-21T15:00Z",
+      "status": "upcoming",
+      "venue": "Anfield",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "364",
+        "name": "Liverpool",
+        "nameZh": "利物浦",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879226",
+      "date": "2026-11-28T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "337",
+        "name": "Brentford",
+        "nameZh": "布伦特福德",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879217",
+      "date": "2026-12-02T20:00Z",
+      "status": "upcoming",
+      "venue": "St. James' Park",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "361",
+        "name": "Newcastle United",
+        "nameZh": "纽卡斯尔联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879210",
+      "date": "2026-12-05T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "388",
+        "name": "Coventry City",
+        "nameZh": "考文垂",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879207",
+      "date": "2026-12-12T15:00Z",
+      "status": "upcoming",
+      "venue": "Selhurst Park",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "nameZh": "水晶宫",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879204",
+      "date": "2026-12-19T15:00Z",
+      "status": "upcoming",
+      "venue": "Emirates Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "359",
+        "name": "Arsenal",
+        "nameZh": "阿森纳",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879195",
+      "date": "2026-12-26T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "nameZh": "诺丁汉森林",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879188",
+      "date": "2026-12-30T20:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "366",
+        "name": "Sunderland",
+        "nameZh": "桑德兰",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878728",
+      "date": "2027-01-02T15:00Z",
+      "status": "upcoming",
+      "venue": "American Express Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "nameZh": "布莱顿",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879170",
+      "date": "2027-01-06T20:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "361",
+        "name": "Newcastle United",
+        "nameZh": "纽卡斯尔联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878725",
+      "date": "2027-01-16T15:00Z",
+      "status": "upcoming",
+      "venue": "Villa Park",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "362",
+        "name": "Aston Villa",
+        "nameZh": "阿斯顿维拉",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878718",
+      "date": "2027-01-23T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "364",
+        "name": "Liverpool",
+        "nameZh": "利物浦",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878715",
+      "date": "2027-01-30T15:00Z",
+      "status": "upcoming",
+      "venue": "Gtech Community Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "337",
+        "name": "Brentford",
+        "nameZh": "布伦特福德",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879148",
+      "date": "2027-02-06T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "363",
+        "name": "Chelsea",
+        "nameZh": "切尔西",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879142",
+      "date": "2027-02-10T20:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "nameZh": "布莱顿",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879134",
+      "date": "2027-02-20T15:00Z",
+      "status": "upcoming",
+      "venue": "The City Ground",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "nameZh": "诺丁汉森林",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878697",
+      "date": "2027-02-27T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "359",
+        "name": "Arsenal",
+        "nameZh": "阿森纳",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879122",
+      "date": "2027-03-03T20:00Z",
+      "status": "upcoming",
+      "venue": "Stadium of Light",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "366",
+        "name": "Sunderland",
+        "nameZh": "桑德兰",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879118",
+      "date": "2027-03-13T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "368",
+        "name": "Everton",
+        "nameZh": "埃弗顿",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879108",
+      "date": "2027-03-20T15:00Z",
+      "status": "upcoming",
+      "venue": "Etihad Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "382",
+        "name": "Manchester City",
+        "nameZh": "曼城",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879100",
+      "date": "2027-04-10T14:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "306",
+        "name": "Hull City",
+        "nameZh": "赫尔城",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879096",
+      "date": "2027-04-17T14:00Z",
+      "status": "upcoming",
+      "venue": "Portman Road",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "373",
+        "name": "Ipswich Town",
+        "nameZh": "伊普斯维奇",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879091",
+      "date": "2027-04-24T14:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "nameZh": "水晶宫",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878675",
+      "date": "2027-05-01T14:00Z",
+      "status": "upcoming",
+      "venue": "The Coventry Building Society Arena",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "388",
+        "name": "Coventry City",
+        "nameZh": "考文垂",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401878672",
+      "date": "2027-05-08T14:00Z",
+      "status": "upcoming",
+      "venue": "Vitality Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "nameZh": "伯恩茅斯",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879074",
+      "date": "2027-05-15T14:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "357",
+        "name": "Leeds United",
+        "nameZh": "利兹联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879065",
+      "date": "2027-05-23T14:00Z",
+      "status": "upcoming",
+      "venue": "Tottenham Hotspur Stadium",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "nameZh": "托特纳姆热刺",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+        "score": null
+      },
+      "away": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      }
+    },
+    {
+      "id": "401879058",
+      "date": "2027-05-30T15:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "英超",
+      "competitionKey": "eng.1",
+      "competitionGroup": "league",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "370",
+        "name": "Fulham",
+        "nameZh": "富勒姆",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+        "score": null
+      }
+    }
+  ],
+  "standings": [],
+  "championsStandings": [],
+  "scorers": [],
+  "news": [
+    {
+      "title": "Premier League 2026-27 kits: Ranking every jersey released",
+      "published": "2026-07-17T10:14:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
+    },
+    {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-07-17T06:37:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-07-17T06:37:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "published": "2026-07-17T07:45:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
+    },
+    {
+      "title": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
+      "published": "2026-07-16T00:10:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/49371654/tielemans-move-man-united-one-best-signings-window",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_.jpg",
+      "titleZh": "劳伦斯：蒂勒曼斯转会曼联是这个窗口中最好的签约之一"
+    },
+    {
+      "title": "England World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, coroner rules",
+      "published": "2026-07-15T15:54:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49367207/nobby-stiles-england-world-cup-winner-headers-brain-condition-1966",
+      "image": "https://a.espncdn.com/photo/2026/0715/r1689528_1296x729_16-9.jpg",
+      "titleZh": "英格兰世界杯冠军诺比·斯泰尔斯（ Nobby Stiles ）死于因反复踢足球而导致的脑部疾病，验尸官规定"
+    },
+    {
+      "title": "Man United's Manuel Ugarte undergoes successful knee surgery",
+      "published": "2026-07-15T13:10:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery",
+      "image": "https://a.espncdn.com/photo/2025/0916/r1546370_1296x518_5-2.jpg",
+      "titleZh": "曼联的曼努埃尔·乌加特成功接受膝盖手术"
+    },
+    {
+      "title": "Why Youri Tielemans is a 'great signing' for Man United",
+      "published": "2026-07-14T18:39:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49360682/why-youri-tielemans-great-signing-man-united",
+      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL.jpg",
+      "titleZh": "为什么Youri Tielemans是曼联的“伟大标志”"
+    },
+    {
+      "title": "Manchester United sign midfielder Youri Tielemans from Aston Villa",
+      "published": "2026-07-14T19:11:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "titleZh": "来自阿斯顿维拉的曼联签约中场球员Youri Tielemans"
+    },
+    {
+      "title": "Manchester United sign goalkeeper Karl Darlow from Leeds",
+      "published": "2026-07-14T13:42:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49358001/manchester-united-sign-goalkeeper-karl-darlow-leeds",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689035_1296x729_16-9.jpg",
+      "titleZh": "来自利兹的曼联签约守门员卡尔·达洛（ Karl Darlow ）"
+    },
+    {
+      "title": "Inside Man United's summer transfer rebuild, as Santos and Tielemans bolster midfield",
+      "published": "2026-07-14T11:03:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49354932/inside-manchester-united-summer-transfer-rebuild-santos-tielemans-bolster-midfield",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1688971_1296x729_16-9.jpg",
+      "titleZh": "在曼联的夏季转会重建中，桑托斯和蒂勒曼斯加强了中场"
+    },
+    {
+      "title": "Would Youri Tielemans be a good signing for Man United?",
+      "published": "2026-07-13T17:36:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
+      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
+      "titleZh": "对于曼联来说， Youri Tielemans会是一个很好的签约吗？"
+    }
+  ],
+  "transfers": [
+    {
+      "title": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
+      "published": "2026-07-16T00:10:37Z",
+      "url": "https://www.espn.com/video/clip/_/id/49371654/tielemans-move-man-united-one-best-signings-window",
+      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_.jpg",
+      "titleZh": "劳伦斯：蒂勒曼斯转会曼联是这个窗口中最好的签约之一",
+      "player": "尤里·蒂勒曼斯",
+      "status": "已完成",
+      "statusType": "done"
+    },
+    {
+      "title": "Manchester United sign goalkeeper Karl Darlow from Leeds",
+      "published": "2026-07-14T13:42:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49358001/manchester-united-sign-goalkeeper-karl-darlow-leeds",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689035_1296x729_16-9.jpg",
+      "titleZh": "来自利兹的曼联签约守门员卡尔·达洛（ Karl Darlow ）",
+      "player": "卡尔·达洛",
+      "status": "已完成",
+      "statusType": "done"
+    }
+  ],
+  "roster": [
+    {
+      "id": "274272",
+      "name": "Altay Bayindir",
+      "nameZh": "阿尔泰·巴因德尔",
+      "shortName": "A. Bayindir",
+      "shortNameZh": "巴因德尔",
+      "jersey": "1",
+      "position": "Goalkeeper",
+      "age": 28,
+      "nationality": "Türkiye",
+      "nationalityZh": "土耳其",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/866967.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "301425",
+      "name": "Senne Lammens",
+      "nameZh": "森内·拉门斯",
+      "shortName": "S. Lammens",
+      "shortNameZh": "拉门斯",
+      "jersey": "31",
+      "position": "Goalkeeper",
+      "age": 24,
+      "nationality": "Belgium",
+      "nationalityZh": "比利时",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1178602.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "215340",
+      "name": "André Onana",
+      "nameZh": "安德烈·奥纳纳",
+      "shortName": "A. Onana",
+      "shortNameZh": "奥纳纳",
+      "jersey": "",
+      "position": "Goalkeeper",
+      "age": 30,
+      "nationality": "Cameroon",
+      "nationalityZh": "喀麦隆",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/611491.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "fotmob-163604",
+      "name": "Karl Darlow",
+      "jersey": "",
+      "position": "Goalkeeper",
+      "age": 35,
+      "nationality": "Wales",
+      "countryCode": "wal",
+      "statusType": "available",
+      "statusLabel": "新援可用",
+      "availabilityScore": 88,
+      "nameZh": "卡尔·达洛",
+      "shortName": "Darlow",
+      "shortNameZh": "达洛",
+      "nationalityZh": "威尔士",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/163604.png",
+      "source": "confirmed-transfer"
+    },
+    {
+      "id": "238902",
+      "name": "Diogo Dalot",
+      "nameZh": "迪奥戈·达洛特",
+      "shortName": "D. Dalot",
+      "shortNameZh": "达洛特",
+      "jersey": "2",
+      "position": "Defender",
+      "age": 27,
+      "nationality": "Portugal",
+      "nationalityZh": "葡萄牙",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "239350",
+      "name": "Noussair Mazraoui",
+      "nameZh": "努赛尔·马兹拉维",
+      "shortName": "N. Mazraoui",
+      "shortNameZh": "马兹拉维",
+      "jersey": "3",
+      "position": "Defender",
+      "age": 28,
+      "nationality": "Morocco",
+      "nationalityZh": "摩洛哥",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "239349",
+      "name": "Matthijs de Ligt",
+      "nameZh": "马泰斯·德利赫特",
+      "shortName": "M. de Ligt",
+      "shortNameZh": "德利赫特",
+      "jersey": "4",
+      "position": "Defender",
+      "age": 26,
+      "nationality": "Netherlands",
+      "nationalityZh": "荷兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "157073",
+      "name": "Harry Maguire",
+      "nameZh": "哈里·马奎尔",
+      "shortName": "H. Maguire",
+      "shortNameZh": "马奎尔",
+      "jersey": "5",
+      "position": "Defender",
+      "age": 33,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/255610.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "233937",
+      "name": "Lisandro Martínez",
+      "nameZh": "利桑德罗·马丁内斯",
+      "shortName": "L. Martínez",
+      "shortNameZh": "利马",
+      "jersey": "6",
+      "position": "Defender",
+      "age": 28,
+      "nationality": "Argentina",
+      "nationalityZh": "阿根廷",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "366781",
+      "name": "Patrick Dorgu",
+      "nameZh": "帕特里克·多尔古",
+      "shortName": "P. Dorgu",
+      "shortNameZh": "多尔古",
+      "jersey": "13",
+      "position": "Defender",
+      "age": 21,
+      "nationality": "Denmark",
+      "nationalityZh": "丹麦",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "340206",
+      "name": "Leny Yoro",
+      "nameZh": "莱尼·约罗",
+      "shortName": "L. Yoro",
+      "shortNameZh": "约罗",
+      "jersey": "15",
+      "position": "Defender",
+      "age": 20,
+      "nationality": "France",
+      "nationalityZh": "法国",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "167127",
+      "name": "Luke Shaw",
+      "nameZh": "卢克·肖",
+      "shortName": "L. Shaw",
+      "shortNameZh": "卢克·肖",
+      "jersey": "23",
+      "position": "Defender",
+      "age": 31,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "356044",
+      "name": "Ayden Heaven",
+      "nameZh": "艾登·赫文",
+      "shortName": "A. Heaven",
+      "shortNameZh": "赫文",
+      "jersey": "26",
+      "position": "Defender",
+      "age": 19,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1559639.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "347052",
+      "name": "Tyler Fredricson",
+      "nameZh": "泰勒·弗雷德里克森",
+      "shortName": "T. Fredricson",
+      "shortNameZh": "弗雷德里克森",
+      "jersey": "33",
+      "position": "Defender",
+      "age": 21,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1403351.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "387634",
+      "name": "Diego León",
+      "nameZh": "迭戈·莱昂",
+      "shortName": "D. León",
+      "shortNameZh": "莱昂",
+      "jersey": "35",
+      "position": "Defender",
+      "age": 19,
+      "nationality": "Paraguay",
+      "nationalityZh": "巴拉圭",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
+      "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "356940",
+      "name": "Harry Amass",
+      "nameZh": "哈里·阿马斯",
+      "shortName": "H. Amass",
+      "shortNameZh": "阿马斯",
+      "jersey": "",
+      "position": "Defender",
+      "age": 19,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1430832.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "231167",
+      "name": "Mason Mount",
+      "nameZh": "梅森·芒特",
+      "shortName": "M. Mount",
+      "shortNameZh": "芒特",
+      "jersey": "7",
+      "position": "Midfielder",
+      "age": 27,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/750032.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "124091",
+      "name": "Bruno Fernandes",
+      "nameZh": "布鲁诺·费尔南德斯",
+      "shortName": "B. Fernandes",
+      "shortNameZh": "B费",
+      "jersey": "8",
+      "position": "Midfielder",
+      "age": 31,
+      "nationality": "Portugal",
+      "nationalityZh": "葡萄牙",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "291630",
+      "name": "Amad Diallo",
+      "nameZh": "阿马德·迪亚洛",
+      "shortName": "A. Diallo",
+      "shortNameZh": "阿马德",
+      "jersey": "16",
+      "position": "Midfielder",
+      "age": 24,
+      "nationality": "Ivory Coast",
+      "nationalityZh": "科特迪瓦",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1070052.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "241468",
+      "name": "Manuel Ugarte",
+      "nameZh": "曼努埃尔·乌加特",
+      "shortName": "M. Ugarte",
+      "shortNameZh": "乌加特",
+      "jersey": "25",
+      "position": "Midfielder",
+      "age": 25,
+      "nationality": "Uruguay",
+      "nationalityZh": "乌拉圭",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1035614.png",
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
+    },
+    {
+      "id": "328466",
+      "name": "Kobbie Mainoo",
+      "nameZh": "科比·梅努",
+      "shortName": "K. Mainoo",
+      "shortNameZh": "梅努",
+      "jersey": "37",
+      "position": "Midfielder",
+      "age": 21,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "205081",
+      "name": "Jack Fletcher",
+      "nameZh": "杰克·弗莱彻",
+      "shortName": "J. Fletcher",
+      "shortNameZh": "杰克·弗莱彻",
+      "jersey": "38",
+      "position": "Midfielder",
+      "age": 19,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "393138",
+      "name": "Tyler Fletcher",
+      "nameZh": "泰勒·弗莱彻",
+      "shortName": "T. Fletcher",
+      "shortNameZh": "泰勒·弗莱彻",
+      "jersey": "39",
+      "position": "Midfielder",
+      "age": 19,
+      "nationality": "Scotland",
+      "nationalityZh": "Scotland",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+      "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "308778",
+      "name": "Toby Collyer",
+      "nameZh": "托比·科利尔",
+      "shortName": "T. Collyer",
+      "shortNameZh": "科利尔",
+      "jersey": "",
+      "position": "Midfielder",
+      "age": 22,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1421810.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "fotmob-465960",
+      "name": "Youri Tielemans",
+      "jersey": "",
+      "position": "Midfielder",
+      "age": 29,
+      "nationality": "Belgium",
+      "countryCode": "bel",
+      "statusType": "watch",
+      "statusLabel": "伤情观察",
+      "availabilityScore": 68,
+      "nameZh": "尤里·蒂勒曼斯",
+      "shortName": "Tielemans",
+      "shortNameZh": "蒂勒曼斯",
+      "nationalityZh": "比利时",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+      "source": "confirmed-transfer"
+    },
+    {
+      "id": "fotmob-1372921",
+      "name": "Andrey Santos",
+      "jersey": "",
+      "position": "Midfielder",
+      "age": 22,
+      "nationality": "Brazil",
+      "countryCode": "bra",
+      "statusType": "available",
+      "statusLabel": "新援可用",
+      "availabilityScore": 88,
+      "nameZh": "安德烈·桑托斯",
+      "shortName": "Santos",
+      "shortNameZh": "桑托斯",
+      "nationalityZh": "巴西",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1372921.png",
+      "source": "confirmed-transfer"
+    },
+    {
+      "id": "259902",
+      "name": "Matheus Cunha",
+      "nameZh": "马特乌斯·库尼亚",
+      "shortName": "M. Cunha",
+      "shortNameZh": "库尼亚",
+      "jersey": "10",
+      "position": "Forward",
+      "age": 27,
+      "nationality": "Brazil",
+      "nationalityZh": "巴西",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "276327",
+      "name": "Joshua Zirkzee",
+      "nameZh": "约书亚·齐尔克泽",
+      "shortName": "J. Zirkzee",
+      "shortNameZh": "齐尔克泽",
+      "jersey": "11",
+      "position": "Forward",
+      "age": 25,
+      "nationality": "Netherlands",
+      "nationalityZh": "荷兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/950830.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "271170",
+      "name": "Bryan Mbeumo",
+      "nameZh": "布莱恩·姆伯莫",
+      "shortName": "B. Mbeumo",
+      "shortNameZh": "姆伯莫",
+      "jersey": "19",
+      "position": "Forward",
+      "age": 26,
+      "nationality": "Cameroon",
+      "nationalityZh": "喀麦隆",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "289155",
+      "name": "Benjamin Sesko",
+      "nameZh": "本杰明·谢什科",
+      "shortName": "B. Sesko",
+      "shortNameZh": "谢什科",
+      "jersey": "30",
+      "position": "Forward",
+      "age": 23,
+      "nationality": "Slovenia",
+      "nationalityZh": "斯洛文尼亚",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1073977.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "375738",
+      "name": "Chido Obi",
+      "nameZh": "奇多·奥比",
+      "shortName": "C. Obi",
+      "shortNameZh": "奥比",
+      "jersey": "32",
+      "position": "Forward",
+      "age": 18,
+      "nationality": "Denmark",
+      "nationalityZh": "丹麦",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "230945",
+      "name": "Marcus Rashford",
+      "nameZh": "马库斯·拉什福德",
+      "shortName": "M. Rashford",
+      "shortNameZh": "拉什福德",
+      "jersey": "",
+      "position": "Forward",
+      "age": 28,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/696365.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "368547",
+      "name": "Ethan Wheatley",
+      "nameZh": "伊桑·惠特利",
+      "shortName": "E. Wheatley",
+      "shortNameZh": "惠特利",
+      "jersey": "",
+      "position": "Forward",
+      "age": 20,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1398915.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "398006",
+      "name": "Enzo Kana-Biyik",
+      "nameZh": "恩佐·卡纳-比伊克",
+      "shortName": "E. Kana-Biyik",
+      "shortNameZh": "卡纳-比伊克",
+      "jersey": "",
+      "position": "Forward",
+      "age": 19,
+      "nationality": "France",
+      "nationalityZh": "法国",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1714514.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    }
+  ],
+  "staff": [
+    {
+      "id": "13044",
+      "name": "Michael Carrick",
+      "nameZh": "迈克尔·卡里克",
+      "role": "主教练",
+      "status": "已确认",
+      "source": "ESPN · 2026年6月",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/34944.png"
+    }
+  ],
+  "predictions": {
+    "league": {
+      "formation": "4-2-3-1",
+      "title": "英超预测首发",
+      "summary": "强调联赛连续性和前场压迫，边路保持速度，中场优先选择当前可用球员。",
+      "players": [
+        {
+          "id": "289155",
+          "name": "Benjamin Sesko",
+          "nameZh": "本杰明·谢什科",
+          "shortName": "B. Sesko",
+          "shortNameZh": "谢什科",
+          "jersey": "30",
+          "position": "Forward",
+          "age": 23,
+          "nationality": "Slovenia",
+          "nationalityZh": "斯洛文尼亚",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1073977.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "F",
+          "role": "中锋"
+        },
+        {
+          "id": "259902",
+          "name": "Matheus Cunha",
+          "nameZh": "马特乌斯·库尼亚",
+          "shortName": "M. Cunha",
+          "shortNameZh": "库尼亚",
+          "jersey": "10",
+          "position": "Forward",
+          "age": 27,
+          "nationality": "Brazil",
+          "nationalityZh": "巴西",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "AM",
+          "role": "左翼"
+        },
+        {
+          "id": "124091",
+          "name": "Bruno Fernandes",
+          "nameZh": "布鲁诺·费尔南德斯",
+          "shortName": "B. Fernandes",
+          "shortNameZh": "B费",
+          "jersey": "8",
+          "position": "Midfielder",
+          "age": 31,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "AM",
+          "role": "前腰"
+        },
+        {
+          "id": "271170",
+          "name": "Bryan Mbeumo",
+          "nameZh": "布莱恩·姆伯莫",
+          "shortName": "B. Mbeumo",
+          "shortNameZh": "姆伯莫",
+          "jersey": "19",
+          "position": "Forward",
+          "age": 26,
+          "nationality": "Cameroon",
+          "nationalityZh": "喀麦隆",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "AM",
+          "role": "右翼"
+        },
+        {
+          "id": "328466",
+          "name": "Kobbie Mainoo",
+          "nameZh": "科比·梅努",
+          "shortName": "K. Mainoo",
+          "shortNameZh": "梅努",
+          "jersey": "37",
+          "position": "Midfielder",
+          "age": 21,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "231167",
+          "name": "Mason Mount",
+          "nameZh": "梅森·芒特",
+          "shortName": "M. Mount",
+          "shortNameZh": "芒特",
+          "jersey": "7",
+          "position": "Midfielder",
+          "age": 27,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/750032.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "366781",
+          "name": "Patrick Dorgu",
+          "nameZh": "帕特里克·多尔古",
+          "shortName": "P. Dorgu",
+          "shortNameZh": "多尔古",
+          "jersey": "13",
+          "position": "Defender",
+          "age": 21,
+          "nationality": "Denmark",
+          "nationalityZh": "丹麦",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "左后卫"
+        },
+        {
+          "id": "233937",
+          "name": "Lisandro Martínez",
+          "nameZh": "利桑德罗·马丁内斯",
+          "shortName": "L. Martínez",
+          "shortNameZh": "利马",
+          "jersey": "6",
+          "position": "Defender",
+          "age": 28,
+          "nationality": "Argentina",
+          "nationalityZh": "阿根廷",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "中后卫"
+        },
+        {
+          "id": "239349",
+          "name": "Matthijs de Ligt",
+          "nameZh": "马泰斯·德利赫特",
+          "shortName": "M. de Ligt",
+          "shortNameZh": "德利赫特",
+          "jersey": "4",
+          "position": "Defender",
+          "age": 26,
+          "nationality": "Netherlands",
+          "nationalityZh": "荷兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "中后卫"
+        },
+        {
+          "id": "238902",
+          "name": "Diogo Dalot",
+          "nameZh": "迪奥戈·达洛特",
+          "shortName": "D. Dalot",
+          "shortNameZh": "达洛特",
+          "jersey": "2",
+          "position": "Defender",
+          "age": 27,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "右后卫"
+        },
+        {
+          "id": "301425",
+          "name": "Senne Lammens",
+          "nameZh": "森内·拉门斯",
+          "shortName": "S. Lammens",
+          "shortNameZh": "拉门斯",
+          "jersey": "31",
+          "position": "Goalkeeper",
+          "age": 24,
+          "nationality": "Belgium",
+          "nationalityZh": "比利时",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1178602.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "GK",
+          "role": "门将"
+        }
+      ],
+      "metrics": [
+        {
+          "label": "完整度",
+          "value": 90
+        },
+        {
+          "label": "经验值",
+          "value": 79
+        },
+        {
+          "label": "攻守平衡",
+          "value": 85
+        }
+      ]
+    },
+    "champions": {
+      "formation": "4-2-3-1",
+      "title": "欧冠预测首发",
+      "summary": "更重视转换防守与后场速度，使用机动性更强的右路组合，应对高强度淘汰赛节奏。",
+      "players": [
+        {
+          "id": "289155",
+          "name": "Benjamin Sesko",
+          "nameZh": "本杰明·谢什科",
+          "shortName": "B. Sesko",
+          "shortNameZh": "谢什科",
+          "jersey": "30",
+          "position": "Forward",
+          "age": 23,
+          "nationality": "Slovenia",
+          "nationalityZh": "斯洛文尼亚",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1073977.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "F",
+          "role": "中锋"
+        },
+        {
+          "id": "259902",
+          "name": "Matheus Cunha",
+          "nameZh": "马特乌斯·库尼亚",
+          "shortName": "M. Cunha",
+          "shortNameZh": "库尼亚",
+          "jersey": "10",
+          "position": "Forward",
+          "age": 27,
+          "nationality": "Brazil",
+          "nationalityZh": "巴西",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "AM",
+          "role": "左翼"
+        },
+        {
+          "id": "124091",
+          "name": "Bruno Fernandes",
+          "nameZh": "布鲁诺·费尔南德斯",
+          "shortName": "B. Fernandes",
+          "shortNameZh": "B费",
+          "jersey": "8",
+          "position": "Midfielder",
+          "age": 31,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "AM",
+          "role": "前腰"
+        },
+        {
+          "id": "291630",
+          "name": "Amad Diallo",
+          "nameZh": "阿马德·迪亚洛",
+          "shortName": "A. Diallo",
+          "shortNameZh": "阿马德",
+          "jersey": "16",
+          "position": "Midfielder",
+          "age": 24,
+          "nationality": "Ivory Coast",
+          "nationalityZh": "科特迪瓦",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1070052.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "AM",
+          "role": "右翼"
+        },
+        {
+          "id": "328466",
+          "name": "Kobbie Mainoo",
+          "nameZh": "科比·梅努",
+          "shortName": "K. Mainoo",
+          "shortNameZh": "梅努",
+          "jersey": "37",
+          "position": "Midfielder",
+          "age": 21,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "231167",
+          "name": "Mason Mount",
+          "nameZh": "梅森·芒特",
+          "shortName": "M. Mount",
+          "shortNameZh": "芒特",
+          "jersey": "7",
+          "position": "Midfielder",
+          "age": 27,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/750032.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "366781",
+          "name": "Patrick Dorgu",
+          "nameZh": "帕特里克·多尔古",
+          "shortName": "P. Dorgu",
+          "shortNameZh": "多尔古",
+          "jersey": "13",
+          "position": "Defender",
+          "age": 21,
+          "nationality": "Denmark",
+          "nationalityZh": "丹麦",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "左后卫"
+        },
+        {
+          "id": "233937",
+          "name": "Lisandro Martínez",
+          "nameZh": "利桑德罗·马丁内斯",
+          "shortName": "L. Martínez",
+          "shortNameZh": "利马",
+          "jersey": "6",
+          "position": "Defender",
+          "age": 28,
+          "nationality": "Argentina",
+          "nationalityZh": "阿根廷",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "中后卫"
+        },
+        {
+          "id": "340206",
+          "name": "Leny Yoro",
+          "nameZh": "莱尼·约罗",
+          "shortName": "L. Yoro",
+          "shortNameZh": "约罗",
+          "jersey": "15",
+          "position": "Defender",
+          "age": 20,
+          "nationality": "France",
+          "nationalityZh": "法国",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "中后卫"
+        },
+        {
+          "id": "239350",
+          "name": "Noussair Mazraoui",
+          "nameZh": "努赛尔·马兹拉维",
+          "shortName": "N. Mazraoui",
+          "shortNameZh": "马兹拉维",
+          "jersey": "3",
+          "position": "Defender",
+          "age": 28,
+          "nationality": "Morocco",
+          "nationalityZh": "摩洛哥",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "右后卫"
+        },
+        {
+          "id": "301425",
+          "name": "Senne Lammens",
+          "nameZh": "森内·拉门斯",
+          "shortName": "S. Lammens",
+          "shortNameZh": "拉门斯",
+          "jersey": "31",
+          "position": "Goalkeeper",
+          "age": 24,
+          "nationality": "Belgium",
+          "nationalityZh": "比利时",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1178602.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "GK",
+          "role": "门将"
+        }
+      ],
+      "metrics": [
+        {
+          "label": "完整度",
+          "value": 90
+        },
+        {
+          "label": "经验值",
+          "value": 77
+        },
+        {
+          "label": "攻守平衡",
+          "value": 88
+        }
+      ]
+    }
+  }
+}

@@ -356,7 +356,8 @@ footer span:first-child { color: var(--ink); font-weight: 900; }
   .recap-stats { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .legend { margin-top: 18px; }
   .squad-intro .model-note { margin-top: 18px; }
-  .lineup-toolbar { align-items: flex-end; }
+  .lineup-toolbar { align-items: flex-end; flex-wrap: wrap; gap: 10px; }
+  .formation-label { margin-left: auto; }
   .lineup-tabs button { min-width: 105px; }
   .lineup-layout { min-height: 0; border: 0; }
   .pitch { min-height: 600px; padding: 22px 10px; border-radius: 6px 6px 0 0; }

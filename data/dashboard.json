@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T16:15:01.451Z",
+  "updatedAt": "2026-07-17T16:19:15.616Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -1027,6 +1027,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Man United vs. Wrexham: Andrey Santos in travelling squad, Benjamin Sesko absent",
+      "published": "2026-07-17T14:14:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49384172/man-united-vs-wrexham-andrey-santos-travelling-squad-benjamin-sesko-absent",
+      "image": "https://a.espncdn.com/photo/2026/0717/r1690427_1296x729_16-9.jpg",
+      "titleZh": "曼联vs雷克瑟姆：安德烈·桑托斯在旅行队，本杰明·塞斯科缺席"
+    },
+    {
       "title": "Premier League 2026-27 kits: Ranking every jersey released",
       "published": "2026-07-17T10:14:38Z",
       "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
@@ -1049,7 +1056,7 @@
     },
     {
       "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-07-17T07:45:25Z",
+      "published": "2026-07-17T15:11:26Z",
       "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
@@ -1102,13 +1109,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49354932/inside-manchester-united-summer-transfer-rebuild-santos-tielemans-bolster-midfield",
       "image": "https://a.espncdn.com/photo/2026/0714/r1688971_1296x729_16-9.jpg",
       "titleZh": "在曼联的夏季转会重建中，桑托斯和蒂勒曼斯加强了中场"
-    },
-    {
-      "title": "Would Youri Tielemans be a good signing for Man United?",
-      "published": "2026-07-13T17:36:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/49351658/would-youri-tielemans-good-signing-man-united",
-      "image": "https://a.espncdn.com/media/motion/2026/0713/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL/dm_260713_COM_SOC_Analysis_Would_Youri_Tielemans_be_a_good_signing_for_Man_United_20260713_GLOBAL.jpg",
-      "titleZh": "对于曼联来说， Youri Tielemans会是一个很好的签约吗？"
     }
   ],
   "transfers": [
@@ -1561,25 +1561,6 @@
       "nationalityZh": "比利时",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
-      "source": "confirmed-transfer"
-    },
-    {
-      "id": "fotmob-1372921",
-      "name": "Andrey Santos",
-      "jersey": "",
-      "position": "Midfielder",
-      "age": 22,
-      "nationality": "Brazil",
-      "countryCode": "bra",
-      "statusType": "available",
-      "statusLabel": "新援可用",
-      "availabilityScore": 88,
-      "nameZh": "安德烈·桑托斯",
-      "shortName": "Santos",
-      "shortNameZh": "桑托斯",
-      "nationalityZh": "巴西",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/1372921.png",
       "source": "confirmed-transfer"
     },
     {
@@ -2273,23 +2254,21 @@
           "role": "右翼"
         },
         {
-          "id": "fotmob-1372921",
-          "name": "Andrey Santos",
+          "id": "308778",
+          "name": "Toby Collyer",
+          "nameZh": "托比·科利尔",
+          "shortName": "T. Collyer",
+          "shortNameZh": "科利尔",
           "jersey": "",
           "position": "Midfielder",
           "age": 22,
-          "nationality": "Brazil",
-          "countryCode": "bra",
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1421810.png",
           "statusType": "available",
-          "statusLabel": "新援可用",
-          "availabilityScore": 88,
-          "nameZh": "安德烈·桑托斯",
-          "shortName": "Santos",
-          "shortNameZh": "桑托斯",
-          "nationalityZh": "巴西",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1372921.png",
-          "source": "confirmed-transfer",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
           "line": "DM",
           "role": "中场"
         },

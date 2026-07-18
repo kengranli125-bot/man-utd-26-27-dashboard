@@ -2407,15 +2407,15 @@
   },
   "journalists": [
     {
-      "id": "Chris Wheeler:CBMi9AJBVV95cUxOWUVHWTc4Z2NtbUVDalpKUHFGeW82dW1mSDhLZ2NsZmNwSkYxMkZpVEw3RUNPaExrV0ZZZ181RDVTMXpNRWxsVTdJQUxuNDlGbkw1SWNndUd4eHAzTlVJYjdBLXRqUk1BVHBkS2FGc2ZKa1hkYlYtOWZoQ3dRNXJ5N3J6YVVkQnBBajVVM3czTmdDRkMxeUpXZDBCYmEtbGQtOUlZSm9FNmxYT2FLUlF2dnJRSUtwRUNvekRwSkR3WEVfXzZzaGI1Y0htUWZFRzRKZUl6RlRQTXVBVjFDbjB3XzFxUl9XMk1uWUxqRWhCSnBTU0tLX1VoZzhVRHJldVhuU2ZaLWR2SEVCN1VCeUJrTU03ZlJkUWlzNzFCaDlrTVZQMkppeE52YjdBOFE4ek1NNnZITXJfdmk0VTNEcFpZenVaR1RSZGY1UEJ3OGZvVUpQbEhTSUt5LTJnWGlTV1Fra3JmbmZGcTZPemhFV25MSkY0aXY",
+      "id": "Chris Wheeler:CBMi3gFBVV95cUxOMzN6ZkM2eDkyaHZMbGFKTFNDX1lqMmJIS0g2cTNCSDliLVExYjlTREhXdmxTdEhHNTM1Z21mLXlqWlNlYl85eFZXVTZKQWlLWUhuQ2k4alkwRHhNcDB6MHF4cEZ2WWtxUmJGajNnVjFZS3NzTV93a0dSZHRNUkM1YmdxNVZxcGVuVTY0Q2xvYkhDREh4RVBTUUU0N29uTGd6bDlMUTNyNGxtZXpPWm5QdWN2YXZjUXlQVmpzWUpKaDVWOGIyQzg4aE54NnI4S2k1SUtGeExra19qRFBWMXc",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
       "source": "MSN",
       "tier": 2,
       "title": "Manchester United reveal new images and models of their new £2bn 100,000-seater stadium plan",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOWUVHWTc4Z2NtbUVDalpKUHFGeW82dW1mSDhLZ2NsZmNwSkYxMkZpVEw3RUNPaExrV0ZZZ181RDVTMXpNRWxsVTdJQUxuNDlGbkw1SWNndUd4eHAzTlVJYjdBLXRqUk1BVHBkS2FGc2ZKa1hkYlYtOWZoQ3dRNXJ5N3J6YVVkQnBBajVVM3czTmdDRkMxeUpXZDBCYmEtbGQtOUlZSm9FNmxYT2FLUlF2dnJRSUtwRUNvekRwSkR3WEVfXzZzaGI1Y0htUWZFRzRKZUl6RlRQTXVBVjFDbjB3XzFxUl9XMk1uWUxqRWhCSnBTU0tLX1VoZzhVRHJldVhuU2ZaLWR2SEVCN1VCeUJrTU03ZlJkUWlzNzFCaDlrTVZQMkppeE52YjdBOFE4ek1NNnZITXJfdmk0VTNEcFpZenVaR1RSZGY1UEJ3OGZvVUpQbEhTSUt5LTJnWGlTV1Fra3JmbmZGcTZPemhFV25MSkY0aXY?oc=5",
-      "published": "2026-07-18T11:53:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMzN6ZkM2eDkyaHZMbGFKTFNDX1lqMmJIS0g2cTNCSDliLVExYjlTREhXdmxTdEhHNTM1Z21mLXlqWlNlYl85eFZXVTZKQWlLWUhuQ2k4alkwRHhNcDB6MHF4cEZ2WWtxUmJGajNnVjFZS3NzTV93a0dSZHRNUkM1YmdxNVZxcGVuVTY0Q2xvYkhDREh4RVBTUUU0N29uTGd6bDlMUTNyNGxtZXpPWm5QdWN2YXZjUXlQVmpzWUpKaDVWOGIyQzg4aE54NnI4S2k1SUtGeExra19qRFBWMXc?oc=5",
+      "published": "2026-07-17T15:19:48.000Z",
       "titleZh": "曼联公布其新的20亿英镑10万座体育场计划的新图像和模型"
     },
     {
@@ -2479,6 +2479,18 @@
       "titleZh": "利兹甚至拒绝在卡尔·达洛（ Karl Darlow ）被拒绝后的309字声明中提及曼联（ Man United ）"
     },
     {
+      "id": "Carl Anka:CBMiyAFBVV95cUxPZWZuMkJOazI2OTBpbFJPc0JIUXc5dnpsTm9zNTJ3WDUxYkt1SFNUbFVPVWx2eEtxN3J6Y0VJUTZpcXVOMnFJWnV2VGwzWGFIODhndENkUE01am1CSEo5Tm85ZkcxaENQSTc2ZmNSMTNUOUROZVhkYU8yLUVmdFhZRGNJY1JQR2w5UzhpcnZJb1JXSHd5SE4xcVJQT3MtWnFYREdKVElZVkNSLVp0SmFsWHdRcUF4UjgxV3hmZTFRVjhUT29xSTdmTA",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "MSN",
+      "tier": 2,
+      "title": "Man Utd to launch £70m 'premium' midfielder move as Ornstein reveals 'clear vision'",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWZuMkJOazI2OTBpbFJPc0JIUXc5dnpsTm9zNTJ3WDUxYkt1SFNUbFVPVWx2eEtxN3J6Y0VJUTZpcXVOMnFJWnV2VGwzWGFIODhndENkUE01am1CSEo5Tm85ZkcxaENQSTc2ZmNSMTNUOUROZVhkYU8yLUVmdFhZRGNJY1JQR2w5UzhpcnZJb1JXSHd5SE4xcVJQT3MtWnFYREdKVElZVkNSLVp0SmFsWHdRcUF4UjgxV3hmZTFRVjhUT29xSTdmTA?oc=5",
+      "published": "2026-07-16T22:32:54.000Z",
+      "titleZh": "曼联将推出£ 7000万“高级”中场球员，因为奥恩斯坦揭示了“清晰的愿景”"
+    },
+    {
       "id": "Simon Stone:CBMiZ0FVX3lxTFAtM1pVV2plYURQTmZBdmQtZHZMMmM5QWpjX3lWRmt0NGtZVG9nU1BFM2hleElKZmE5MG40MUxWVEVxajRMcEQwMVo3emFUbk5xYXpJcGl6cmJUZ2RHYUw4eHU3OF9pX3c",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -2513,18 +2525,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51NW9HT1VVVkRoTlhLU1M0NDFtWVAzMmR5eVpnQm5aQTV4YlFyUm05cTkxQVRlUG1OWmM2Z1g3SWtDMHRWcDFpa1Z6cXBadzVrOU1WYzYyOXJ4bkVKR0NGV0VJN3M4ZU15eW1CSThsSUhTa3VJeVdJ0gF8QVVfeXFMTjdiMmpPRWx6dkt4VUhSQk1RcVB6ejZ4dVN6TW1FN2lkSmZKeVg4Rnk3ZXY0OWx1VWR6SEZiWU03WkRaQ0pwb1k4aDdBU0tac2tZLUZKdU05RkZZNU9qWWs5U2F5Z2hBTklvdllMZk4zbmZNbzJRQmJ1RFkzUw?oc=5",
       "published": "2026-07-16T11:48:50.000Z",
       "titleZh": "曼联正在与科内的经纪人进行谈判，但尚未向罗马提出任何报价"
-    },
-    {
-      "id": "Carl Anka:CBMipgNBVV95cUxOSU1VNTluMndDc3ViazJyNkd4N3dHZmdJUGV3RzlSdGpnaFktWHFDRXRSbnN0a1dzRGdOLXZVZ2FkVmpPR2dUZFFFTEw4Z3JQVlZKa1cxRm8xYkZyLUdrZVNOa0tPNnpYemI5SGQtVHVvOUVjVHI4U2N4dHRkbU5uSHAzMFhhOXJUQi1zVDkyV0h5Z1Y1ZEFVc1M0WVJSdnhMMUJvOHVEWU5iZHFzeXZta3JvdXNKWkNJWW1YaFV4YVcwN0NiOUc5M0hBU2tjWHhKOWZXX1pXWW9ab2lRU0RFZGF4S1BiYXZ6bU81OFloTTR2YU82UW9HZkVwZ0l3VV9KQUgyWjBDU0ZBazFxYl9YTFdxUDBIamowVUFjb2VOZ1hoMW4zMjFrN0g3SF9JeFpGN1BtYUhOMFRmZXZudGFnbWt5U2JCVEZBNWNMU2p5Zk9CbHFrS0pyVEF5eVdWNTBXa3pOb2ZEQ3JFbjBzekQtTl9oRkh2S2Qyc01iNzZBTklvOW1rTUhwSHQxdlBJNWYyQlllcTBKc1lRWFlfRWFCUms5VXBVdw",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "MSN",
-      "tier": 2,
-      "title": "Man Utd to launch £70m 'premium' midfielder move as Ornstein reveals 'clear vision'",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOSU1VNTluMndDc3ViazJyNkd4N3dHZmdJUGV3RzlSdGpnaFktWHFDRXRSbnN0a1dzRGdOLXZVZ2FkVmpPR2dUZFFFTEw4Z3JQVlZKa1cxRm8xYkZyLUdrZVNOa0tPNnpYemI5SGQtVHVvOUVjVHI4U2N4dHRkbU5uSHAzMFhhOXJUQi1zVDkyV0h5Z1Y1ZEFVc1M0WVJSdnhMMUJvOHVEWU5iZHFzeXZta3JvdXNKWkNJWW1YaFV4YVcwN0NiOUc5M0hBU2tjWHhKOWZXX1pXWW9ab2lRU0RFZGF4S1BiYXZ6bU81OFloTTR2YU82UW9HZkVwZ0l3VV9KQUgyWjBDU0ZBazFxYl9YTFdxUDBIamowVUFjb2VOZ1hoMW4zMjFrN0g3SF9JeFpGN1BtYUhOMFRmZXZudGFnbWt5U2JCVEZBNWNMU2p5Zk9CbHFrS0pyVEF5eVdWNTBXa3pOb2ZEQ3JFbjBzekQtTl9oRkh2S2Qyc01iNzZBTklvOW1rTUhwSHQxdlBJNWYyQlllcTBKc1lRWFlfRWFCUms5VXBVdw?oc=5",
-      "published": "2026-07-16T11:48:48.000Z",
-      "titleZh": "曼联将推出£ 7000万“高级”中场球员，因为奥恩斯坦揭示了“清晰的愿景”"
     },
     {
       "id": "Fabrizio Romano:CBMilAFBVV95cUxPazJ3NFBhZzE4b1JJMVJuLTZrMzRiZ0JKYWFwMEV4YkoxM21wTjY2OVB6dW03ZWpOQ0E4MVlpSWg5blFuNHRmVFA3azlxV0pyR3E0UWhFWkZmTHFKaEhUWGtwQ19penlTVm8xNjhRYjVXRjdBVndTWjF0VmZpbzJvYXFja1NOZEs0RjZEZ1A1ZUgySmM1",
@@ -2695,5 +2695,5 @@
       "titleZh": "在曼联的夏季转会重建中，桑托斯和蒂勒曼斯加强了中场"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-18T15:42:33.222Z"
+  "journalistsUpdatedAt": "2026-07-18T17:38:29.374Z"
 }

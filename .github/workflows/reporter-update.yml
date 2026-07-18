@@ -1,8 +1,8 @@
-name: Six-hour dashboard update
+name: Trusted reporter live feed
 
 on:
   schedule:
-    - cron: '15 */6 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,31 +17,39 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.changes.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Fetch latest season data
-        run: node scripts/update-data.mjs
-      - name: Verify update freshness
-        run: node scripts/check-update-health.mjs 0.25
-      - name: Commit changed data
+      - name: Fetch trusted reporter updates
+        run: node scripts/update-journalists.mjs
+      - name: Detect changes
+        id: changes
+        run: |
+          if git diff --quiet data/dashboard.json; then echo "changed=false" >> "$GITHUB_OUTPUT"; else echo "changed=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Commit reporter updates
+        if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/dashboard.json
-          git diff --cached --quiet || git commit -m "data: refresh United dashboard"
+          git commit -m "data: refresh trusted reporter feed"
           git push
       - name: Configure GitHub Pages
+        if: steps.changes.outputs.changed == 'true'
         uses: actions/configure-pages@v5
       - name: Upload dashboard artifact
+        if: steps.changes.outputs.changed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
   deploy:
     needs: update
+    if: needs.update.outputs.changed == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

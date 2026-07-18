@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#0b0d0f" />
     <meta name="description" content="曼联 2026/27 英超赛季赛程、积分与球队动态看板" />
     <title>UNITED 26/27 | 曼联英超赛季看板</title>
-    <link rel="stylesheet" href="./styles.css?v=20260718-2" />
+    <link rel="stylesheet" href="./styles.css?v=20260718-3" />
   </head>
   <body>
     <div class="app-shell">
@@ -59,6 +59,12 @@
           <section class="transfer-band">
             <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> TRANSFER WATCH</p><h3>最新转会</h3></div><button class="text-button" data-jump="news">全部动态 <span>→</span></button></div>
             <div class="transfer-feed" id="transferPreview"></div>
+          </section>
+
+          <section class="journalist-band">
+            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> TRUSTED REPORTERS</p><h3>权威记者动态</h3></div><span class="journalist-updated">高频更新 · <time id="journalistsUpdatedAt">等待首次同步</time></span></div>
+            <div class="journalist-feed" id="journalistFeed"></div>
+            <p class="source-disclaimer">聚合公开报道链接；可靠性分级代表信源权威度，不等同于俱乐部官宣。</p>
           </section>
 
           <div class="overview-grid">
@@ -136,6 +142,6 @@
       </main>
     </div>
     <div class="scrim" id="scrim"></div>
-    <script type="module" src="./app.js?v=20260718-2"></script>
+    <script type="module" src="./app.js?v=20260718-3"></script>
   </body>
 </html>

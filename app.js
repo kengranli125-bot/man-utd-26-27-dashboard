@@ -118,6 +118,17 @@ function renderTransfers() {
   $('#allTransfers').innerHTML = content;
 }
 
+function renderJournalists() {
+  const items = state.data.journalists || [];
+  const updated = state.data.journalistsUpdatedAt;
+  $('#journalistsUpdatedAt').textContent = updated ? fmtDate(updated, true) : '等待首次同步';
+  if (!items.length) {
+    $('#journalistFeed').innerHTML = empty('记者动态正在接入', '首次抓取完成后将展示罗马诺、奥恩斯坦及曼联权威跟队记者的公开报道。');
+    return;
+  }
+  $('#journalistFeed').innerHTML = items.slice(0, 8).map(item => `<a class="journalist-item" href="${safe(item.url)}" target="_blank" rel="noreferrer"><div class="reporter-mark">${safe((item.reporterZh || item.reporter).slice(0,1))}</div><div class="journalist-copy"><div><strong>${safe(item.reporterZh || item.reporter)}</strong><span>${safe(item.reporterOutlet || item.source)}</span><i class="tier tier-${safe(item.tier)}">T${safe(item.tier)} 信源</i></div><p>${safe(item.titleZh || item.title)}</p><small>${safe(item.source)} · ${fmtDate(item.published, true)}</small></div><b>→</b></a>`).join('');
+}
+
 function renderStaff() {
   const staff = state.data.staff || [];
   const confirmed = staff.map(member => `<article class="staff-card"><div class="staff-photo">${playerAvatar(member)}</div><div><span class="staff-status">${safe(member.status)}</span><h4>${safe(member.nameZh)}</h4><p>${safe(member.role)}</p><small>${safe(member.source)}</small></div></article>`).join('');
@@ -138,7 +149,7 @@ function renderLineup() {
 function render() {
   $('#updatedAt').textContent = new Intl.DateTimeFormat('zh-CN', { month:'numeric', day:'numeric', hour:'2-digit', minute:'2-digit', hour12:false }).format(new Date(state.data.updatedAt));
   $('#seasonStatus').textContent = state.data.statusMessage;
-  renderStats(); renderNextMatch(); renderForm(); renderNews(); renderTransfers(); renderFixtures(); renderStandings(); renderChampionsBoard(); renderScorersBoard(); renderStaff(); renderRoster(); renderLineup();
+  renderStats(); renderNextMatch(); renderForm(); renderNews(); renderTransfers(); renderJournalists(); renderFixtures(); renderStandings(); renderChampionsBoard(); renderScorersBoard(); renderStaff(); renderRoster(); renderLineup();
 }
 
 async function loadLatestData({ initial = false } = {}) {

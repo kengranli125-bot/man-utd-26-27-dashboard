@@ -344,7 +344,9 @@ const data = {
   updatedAt: new Date().toISOString(), season: '2026/27',
   statusMessage: fixtures.length ? `已同步 ${fixtures.length} 场全赛事赛程 · 含季前赛` : '26/27 赛程尚待数据源发布 · 每日自动检查更新',
   summary: united ? { position: united.position, played: united.played, points: united.points, goalDifference: united.goalDifference } : previous.summary,
-  fixtures, standings, championsStandings, scorers, news, transfers, roster, staff, predictions: buildPredictions(roster, fixtures)
+  fixtures, standings, championsStandings, scorers, news, transfers, roster, staff,
+  journalists: previous.journalists || [], journalistsUpdatedAt: previous.journalistsUpdatedAt || null,
+  predictions: buildPredictions(roster, fixtures)
 };
 await writeFile(OUTPUT, `${JSON.stringify(data, null, 2)}\n`);
 console.log(`Updated: ${fixtures.length} fixtures, ${standings.length} teams, ${news.length} articles, ${roster.length} players`);

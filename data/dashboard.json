@@ -2439,16 +2439,28 @@
   ],
   "journalists": [
     {
-      "id": "Carl Anka:CBMilgFBVV95cUxOVll0YnhhZFJQLVU1U0FnQXdpSlpIMld5Zl85dnVlRV8tdnlnTEtlb1VtcGlaVmpHZmMwUldnY0R2YWR4LUJYRE1HTUwtQ24yUF9yNDRRZlVDYl9MTWc3OWJQMFVTdFRBUlpzTFpaTzVPTXZJbTRfN3N5ZVNTcGhCaFl1TjRlNGlVTnFXNTFUNmN0UEFvNkE",
+      "id": "Carl Anka:CBMirgFBVV95cUxPd2RkOXB5NDVDd0c3clZpSEtsWHJOMDhOOFV1eE1MWWx2Tk1HQ1B6MmpEQWY0UkkzaERORkNSV1gyeWlhcXBXRUVIZFZaX1RUc3BGdGR1VVdIY1hxSDY1aTB5bXNPenJtd1JvNlFiaHh2YjVwRnpIaFJuMFFGN195a21KUGZBTXRORy16bk1TZ1J3d3NKNlpvNlJzaS16MDJRVEx0SzdEQTNobmhKbHc",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
       "source": "The New York Times",
       "tier": 2,
-      "title": "Man United’s pre-season is underway. This is the start of a new chapter for Michael Carrick",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVll0YnhhZFJQLVU1U0FnQXdpSlpIMld5Zl85dnVlRV8tdnlnTEtlb1VtcGlaVmpHZmMwUldnY0R2YWR4LUJYRE1HTUwtQ24yUF9yNDRRZlVDYl9MTWc3OWJQMFVTdFRBUlpzTFpaTzVPTXZJbTRfN3N5ZVNTcGhCaFl1TjRlNGlVTnFXNTFUNmN0UEFvNkE?oc=5",
-      "published": "2026-07-19T04:16:00.000Z",
-      "titleZh": "曼联的季前赛正在进行中。这是迈克尔·卡里克的新篇章的开始"
+      "title": "Radek Vitek open to Manchester United departure: ‘I feel ready to go somewhere to be number one’",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2RkOXB5NDVDd0c3clZpSEtsWHJOMDhOOFV1eE1MWWx2Tk1HQ1B6MmpEQWY0UkkzaERORkNSV1gyeWlhcXBXRUVIZFZaX1RUc3BGdGR1VVdIY1hxSDY1aTB5bXNPenJtd1JvNlFiaHh2YjVwRnpIaFJuMFFGN195a21KUGZBTXRORy16bk1TZ1J3d3NKNlpvNlJzaS16MDJRVEx0SzdEQTNobmhKbHc?oc=5",
+      "published": "2026-07-19T09:56:57.000Z",
+      "titleZh": "拉德克·维特克（ Radek Vitek ）对曼联的离开持开放态度： “我觉得我已经准备好去某个地方成为第一名了”"
+    },
+    {
+      "id": "Simon Stone:CBMifEFVX3lxTE5DdkpVY2ZVQkdIc2l5WEJ0QXVoQk1HTWRCdHl6SUJXNVN3aUVoQXk1SFl3WHpVUDJ2QjdrMWMyN0RhaGVmVUROaU5pd2h0Y3FST2hId1JaSHIyZTRSNGZKR3l3aXFXV3AtR3JTSHAzVG1TRmM0dTFEbnBjeks",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports Canada",
+      "tier": 1,
+      "title": "Vitek ready for Man Utd exit",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DdkpVY2ZVQkdIc2l5WEJ0QXVoQk1HTWRCdHl6SUJXNVN3aUVoQXk1SFl3WHpVUDJ2QjdrMWMyN0RhaGVmVUROaU5pd2h0Y3FST2hId1JaSHIyZTRSNGZKR3l3aXFXV3AtR3JTSHAzVG1TRmM0dTFEbnBjeks?oc=5",
+      "published": "2026-07-19T09:09:57.000Z",
+      "titleZh": "Vitek为曼联退出做好准备"
     },
     {
       "id": "Laurie Whitwell:CBMiW0FVX3lxTE1QUHdCZE1kN2ZVemRYNDlQR1JudllxRkp5ZjZESTNGTHR2YmxLZXhUSDgwYnJpd19nWWZobGVtS3BsTjZVRHZkeHY1ZVpVZU91VjQ1SlJkTEJzUnM",
@@ -2463,15 +2475,15 @@
       "titleZh": "做出了决定！为什么曼联选择迈克尔·卡里克！ | Inside United W/Laurie Whitwell Dewald Brevis (qBbAN9U147)"
     },
     {
-      "id": "Chris Wheeler:CBMi3gFBVV95cUxOMzN6ZkM2eDkyaHZMbGFKTFNDX1lqMmJIS0g2cTNCSDliLVExYjlTREhXdmxTdEhHNTM1Z21mLXlqWlNlYl85eFZXVTZKQWlLWUhuQ2k4alkwRHhNcDB6MHF4cEZ2WWtxUmJGajNnVjFZS3NzTV93a0dSZHRNUkM1YmdxNVZxcGVuVTY0Q2xvYkhDREh4RVBTUUU0N29uTGd6bDlMUTNyNGxtZXpPWm5QdWN2YXZjUXlQVmpzWUpKaDVWOGIyQzg4aE54NnI4S2k1SUtGeExra19qRFBWMXc",
+      "id": "Chris Wheeler:CBMi9AJBVV95cUxOWUVHWTc4Z2NtbUVDalpKUHFGeW82dW1mSDhLZ2NsZmNwSkYxMkZpVEw3RUNPaExrV0ZZZ181RDVTMXpNRWxsVTdJQUxuNDlGbkw1SWNndUd4eHAzTlVJYjdBLXRqUk1BVHBkS2FGc2ZKa1hkYlYtOWZoQ3dRNXJ5N3J6YVVkQnBBajVVM3czTmdDRkMxeUpXZDBCYmEtbGQtOUlZSm9FNmxYT2FLUlF2dnJRSUtwRUNvekRwSkR3WEVfXzZzaGI1Y0htUWZFRzRKZUl6RlRQTXVBVjFDbjB3XzFxUl9XMk1uWUxqRWhCSnBTU0tLX1VoZzhVRHJldVhuU2ZaLWR2SEVCN1VCeUJrTU03ZlJkUWlzNzFCaDlrTVZQMkppeE52YjdBOFE4ek1NNnZITXJfdmk0VTNEcFpZenVaR1RSZGY1UEJ3OGZvVUpQbEhTSUt5LTJnWGlTV1Fra3JmbmZGcTZPemhFV25MSkY0aXY",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
       "source": "MSN",
       "tier": 2,
       "title": "Manchester United reveal new images and models of their new £2bn 100,000-seater stadium plan",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMzN6ZkM2eDkyaHZMbGFKTFNDX1lqMmJIS0g2cTNCSDliLVExYjlTREhXdmxTdEhHNTM1Z21mLXlqWlNlYl85eFZXVTZKQWlLWUhuQ2k4alkwRHhNcDB6MHF4cEZ2WWtxUmJGajNnVjFZS3NzTV93a0dSZHRNUkM1YmdxNVZxcGVuVTY0Q2xvYkhDREh4RVBTUUU0N29uTGd6bDlMUTNyNGxtZXpPWm5QdWN2YXZjUXlQVmpzWUpKaDVWOGIyQzg4aE54NnI4S2k1SUtGeExra19qRFBWMXc?oc=5",
-      "published": "2026-07-17T15:19:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOWUVHWTc4Z2NtbUVDalpKUHFGeW82dW1mSDhLZ2NsZmNwSkYxMkZpVEw3RUNPaExrV0ZZZ181RDVTMXpNRWxsVTdJQUxuNDlGbkw1SWNndUd4eHAzTlVJYjdBLXRqUk1BVHBkS2FGc2ZKa1hkYlYtOWZoQ3dRNXJ5N3J6YVVkQnBBajVVM3czTmdDRkMxeUpXZDBCYmEtbGQtOUlZSm9FNmxYT2FLUlF2dnJRSUtwRUNvekRwSkR3WEVfXzZzaGI1Y0htUWZFRzRKZUl6RlRQTXVBVjFDbjB3XzFxUl9XMk1uWUxqRWhCSnBTU0tLX1VoZzhVRHJldVhuU2ZaLWR2SEVCN1VCeUJrTU03ZlJkUWlzNzFCaDlrTVZQMkppeE52YjdBOFE4ek1NNnZITXJfdmk0VTNEcFpZenVaR1RSZGY1UEJ3OGZvVUpQbEhTSUt5LTJnWGlTV1Fra3JmbmZGcTZPemhFV25MSkY0aXY?oc=5",
+      "published": "2026-07-18T11:53:55.000Z",
       "titleZh": "曼联公布其新的20亿英镑10万座体育场计划的新图像和模型"
     },
     {
@@ -2535,6 +2547,18 @@
       "titleZh": "曼联最伟大的球员：第15名，马克·休斯"
     },
     {
+      "id": "Chris Wheeler:CBMiswJBVV95cUxQZXlrMDVscGZOUHVuaF9LRjJubTRqb3h1c0xCbUdtX0pENGJkd1FpdDJqRFBvdVJaVHJZZVpONmo3VlJZb2VEODJwVzFmMmlsb0NvVThTeGJ4QmM0MHNTNV9SN0ZUeGdiSF9RNHlDcnY3Rmc1R2ZXYmQwSWxZSm5rOXk3UmQwcTF2SWRsb2Izc1hNLVc2VldTWUZDeGNXTHYxUENCSmNhaG5JZGQzdkhuSnEwcUEwTHFFNjQtcXRhbkZlNndSSzNEYklsdlZBdFo1N2MxTXlPaVotLW5hSlNlSnFpajlWSlVzMThHV3JrUm9lM3lOemhZUUlpcjBIUXRoelJzd1B6OWdVRTJ4ZHRHTXVraWdMd2xxYXNHenFfMTlsVUtudWp4VFZ5VUdZeEJMWVlF",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "MSN",
+      "tier": 2,
+      "title": "Leeds refuse to even mention Man United in a 309-word statement on Karl Darlow after his rejection",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQZXlrMDVscGZOUHVuaF9LRjJubTRqb3h1c0xCbUdtX0pENGJkd1FpdDJqRFBvdVJaVHJZZVpONmo3VlJZb2VEODJwVzFmMmlsb0NvVThTeGJ4QmM0MHNTNV9SN0ZUeGdiSF9RNHlDcnY3Rmc1R2ZXYmQwSWxZSm5rOXk3UmQwcTF2SWRsb2Izc1hNLVc2VldTWUZDeGNXTHYxUENCSmNhaG5JZGQzdkhuSnEwcUEwTHFFNjQtcXRhbkZlNndSSzNEYklsdlZBdFo1N2MxTXlPaVotLW5hSlNlSnFpajlWSlVzMThHV3JrUm9lM3lOemhZUUlpcjBIUXRoelJzd1B6OWdVRTJ4ZHRHTXVraWdMd2xxYXNHenFfMTlsVUtudWp4VFZ5VUdZeEJMWVlF?oc=5",
+      "published": "2026-07-16T22:50:46.000Z",
+      "titleZh": "利兹甚至拒绝在卡尔·达洛（ Karl Darlow ）被拒绝后的309字声明中提及曼联（ Man United ）"
+    },
+    {
       "id": "Simon Stone:CBMiZ0FVX3lxTFAtM1pVV2plYURQTmZBdmQtZHZMMmM5QWpjX3lWRmt0NGtZVG9nU1BFM2hleElKZmE5MG40MUxWVEVxajRMcEQwMVo3emFUbk5xYXpJcGl6cmJUZ2RHYUw4eHU3OF9pX3c",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -2545,18 +2569,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtM1pVV2plYURQTmZBdmQtZHZMMmM5QWpjX3lWRmt0NGtZVG9nU1BFM2hleElKZmE5MG40MUxWVEVxajRMcEQwMVo3emFUbk5xYXpJcGl6cmJUZ2RHYUw4eHU3OF9pX3c?oc=5",
       "published": "2026-07-16T14:09:09.000Z",
       "titleZh": "曼联新闻：曼联阵容为雷克瑟姆做好准备"
-    },
-    {
-      "id": "Chris Wheeler:CBMitgNBVV95cUxNS3QyNVBDSWhsaU84eEx6T1Nmdlp1azlBT3hTVmd2RHpkQ3BicHo2MEhFN1p0N1R6cE1odVNwai1CWHZPc2R6ZDNRcm1Gd2dxRVRBNDRVVlBrQng3bF84aUpkWTViUEREOTNLVW5mN3lZRlhhaEpXQWU5QWRrWVNsZ18xVXJEdUlxal9SNUtUR2haQTB3TF8tRnBSUDBSQ1ZjZFotYXR4MU51bUQ2Y0NlVGdqbWFZemNrVGFMVkwzRGJsSExLVFpjQVhCWlZOdjBKMkdFX1hWZnRlZ3dFQ1phOFM4Wl9ENjR1UGRhWHZVYjhtSzNseWFIRkwxVTIzeThEUkhQWHVsdHg2UWdNMFNNZDBrWVJNQURzMG5VTm9Ic25qbF9CdTd0eDZjV0phbjVzOWhRSTUzZUtqSjVhNmdnbG9mbHpuNnBMYVhOaUI2WEk5LThrckNqS2RCa1lULUFJZ3YxeHBOZnpWSWlBUWh1WmFrZkF5THI3azUyZzFoaXNULUU4ZEZldWFHSnFiRUFrU0hvUWhHS1ktMnh0UnNDREwxQU16VE9PRW9NUVE4MjYzdTJqRlE",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "MSN",
-      "tier": 2,
-      "title": "Leeds refuse to even mention Man United in a 309-word statement on Karl Darlow after his rejection",
-      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNS3QyNVBDSWhsaU84eEx6T1Nmdlp1azlBT3hTVmd2RHpkQ3BicHo2MEhFN1p0N1R6cE1odVNwai1CWHZPc2R6ZDNRcm1Gd2dxRVRBNDRVVlBrQng3bF84aUpkWTViUEREOTNLVW5mN3lZRlhhaEpXQWU5QWRrWVNsZ18xVXJEdUlxal9SNUtUR2haQTB3TF8tRnBSUDBSQ1ZjZFotYXR4MU51bUQ2Y0NlVGdqbWFZemNrVGFMVkwzRGJsSExLVFpjQVhCWlZOdjBKMkdFX1hWZnRlZ3dFQ1phOFM4Wl9ENjR1UGRhWHZVYjhtSzNseWFIRkwxVTIzeThEUkhQWHVsdHg2UWdNMFNNZDBrWVJNQURzMG5VTm9Ic25qbF9CdTd0eDZjV0phbjVzOWhRSTUzZUtqSjVhNmdnbG9mbHpuNnBMYVhOaUI2WEk5LThrckNqS2RCa1lULUFJZ3YxeHBOZnpWSWlBUWh1WmFrZkF5THI3azUyZzFoaXNULUU4ZEZldWFHSnFiRUFrU0hvUWhHS1ktMnh0UnNDREwxQU16VE9PRW9NUVE4MjYzdTJqRlE?oc=5",
-      "published": "2026-07-16T13:30:05.000Z",
-      "titleZh": "利兹甚至拒绝在卡尔·达洛（ Karl Darlow ）被拒绝后的309字声明中提及曼联（ Man United ）"
     },
     {
       "id": "Laurie Whitwell:CBMikgFBVV95cUxNUV84dG05cWR4ZUd6dHg5eU5HRWRNb3BuSTh5ZnBSMG5NQ1g5aEJMRUpEZVZVa1U3QW5DU0NYcGsxQjExVGhQaVJzdVZ0VkNPNmI1WkhDRElHYUdUUHRIRjhjTjBydjZpd0ZfY1QwZ3NfbjNFQVNmU0J5YzhMRXhrczJKNmh6ZWQ4VC1yOGtBX2VxQQ",
@@ -2607,18 +2619,6 @@
       "titleZh": "曼联确认从切尔西签下安德烈·桑托斯£ 5000万，因为他们退出了£ 3900万埃德森交易"
     },
     {
-      "id": "Simon Stone:CBMigAFBVV95cUxQOEtfamNQbTRSQU9RNE9lOXpVMXJ2U1pCbzIxQjR1MURsbVFoY1lYVVN6YkZyb3JLdW5MYTIxOHZKMlFXN0pfT2JkZkFEcWtxYm5Ub0E5TDZYSDA1dWJ1bjZJaHZNWTFkeDZacDlSM1RfRE9vOHpjT1VmdXZYdmJyMA",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports Canada",
-      "tier": 1,
-      "title": "Ugarte knee surgery a success",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEtfamNQbTRSQU9RNE9lOXpVMXJ2U1pCbzIxQjR1MURsbVFoY1lYVVN6YkZyb3JLdW5MYTIxOHZKMlFXN0pfT2JkZkFEcWtxYm5Ub0E5TDZYSDA1dWJ1bjZJaHZNWTFkeDZacDlSM1RfRE9vOHpjT1VmdXZYdmJyMA?oc=5",
-      "published": "2026-07-15T13:25:19.000Z",
-      "titleZh": "Ugarte膝关节手术成功"
-    },
-    {
       "id": "Rob Dawson:CBMiqgFBVV95cUxQVC1HYXVERk1VQ0FZWjBqRVBiNjIzVnduYklzdTZBa084ajlMR3J0cDZLN0Z2Q25mdHFQeHBjUk1Rb2V2RVJnMU1HQ0twT0dlcXZyWGh4TDNwU01SejNoYXBEdlplbmI4NERYc1dZc3lQV1o1ZDBOZUI5elRXTXdYVkZ2cU9McWVDYWFvdlNrenNSeGdmRGVuZjRaeVFvTDVGU3BTZ2JPcEhqQQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -2641,6 +2641,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmMwdUdPVm8tSC1XTkhiUFl3OFFxeVNFYXRDS05XYzdJejYxWEU4bzQwWlBpa3NMWXVJbjFhZ2dWYmRGY0p1VXhQS0ZzalVCZF8zNUJYdnI5eDBYU0ZJMU9hRDNXbVlnVE9xOC1kOWh1eFdMUU1aaG56RTl5cUt5eDI2UDBhMWN1QURWbmU2WGtsLTVQTW01eGlJRk0wTDBr?oc=5",
       "published": "2026-07-15T06:00:00.000Z",
       "titleZh": "Fabrizio Romano确认曼联转会新闻提振纽卡斯尔联队"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMiqAFBVV95cUxQSGQwN0tBcmVlYnA1TllIbHRGQjNCM2lYSXdDc0ZZem5UQkkxWUtKMWtQZXFWd0VrX25tdHEyTjQ3MVlBcGZPWW1aUUNla0hhM2J4NktfV3JKZWZHTU92QVJrLUMzYUtzZVMxaE9EbktjMGdEREVOLVlGb3g5RG4tSzljOW1rRkpkRDh3bnBzaXRxc1FoWVVkOENTaXlYVGV2X3VESkhjNko",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "football360.com.au",
+      "tier": 2,
+      "title": "Manchester United complete $67million signing and they still want three more arrivals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGQwN0tBcmVlYnA1TllIbHRGQjNCM2lYSXdDc0ZZem5UQkkxWUtKMWtQZXFWd0VrX25tdHEyTjQ3MVlBcGZPWW1aUUNla0hhM2J4NktfV3JKZWZHTU92QVJrLUMzYUtzZVMxaE9EbktjMGdEREVOLVlGb3g5RG4tSzljOW1rRkpkRDh3bnBzaXRxc1FoWVVkOENTaXlYVGV2X3VESkhjNko?oc=5",
+      "published": "2026-07-15T03:42:25.000Z",
+      "titleZh": "曼联完成了6700万美元的签约，他们仍然希望再有三次签约"
     },
     {
       "id": "Carl Anka:CBMickFVX3lxTE5qMXhEYlMxUjBlVWdqNVBpR3dpZUctblFTS2RqWW1ocVZhc2Y1R3Mxb1R2WGRXanhkWXhJZ1QtOUctczBpaWsyR1ZpN2tuZFFxamlBVEZ2Rm9JNmRQRHlHRFAtZ3hCSHREV1NqSEFiRFI5dw",
@@ -2713,21 +2725,9 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGdyU1Y0Q1ZXMHQtV3U3VEZiVVlwMkI2VmJJeFphUkVYMm84NndGM0w3dEdmYl90MHhITDMyU1VWU1VzcDlWbXlqY0todXViZG15bWRaX2I2S183d3JtR0Fsb1I4YUgtVlhnYkVtX3RWVUcwLVNzQVMtVXlGWENRWjRtWmpfanhyT0JV?oc=5",
       "published": "2026-07-14T08:23:00.000Z",
       "titleZh": "Youri Tielemans是优秀的，但曼联出了点问题"
-    },
-    {
-      "id": "Rob Dawson:CBMiygFBVV95cUxOUHp4Nk81X29Ld01SMTQtYy1HZXdsMldPNkJKeEFKY3JKTzBfY2Y1ZVFwOHF5YnF5c2xNdVBZMzlvbkJDTkd0N0dyemtxWEtFejBONFlGN2lyLVh2d25nOTNOZnlWV0VhSEloRWFLdG0xTGl6T2RIU2NwdEtHZFYtdk1DYjhTMzFMSWFDdWpZdmJOcUZ3YzJNOXJHWE1ubVhmc1NiLTRndTNYUUg2eXZQZDNMelg4bUxpSi1xenIzdWpnU0tXck8xOVpn",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Inside Man United's summer transfer rebuild, as Santos and Tielemans bolster midfield",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHp4Nk81X29Ld01SMTQtYy1HZXdsMldPNkJKeEFKY3JKTzBfY2Y1ZVFwOHF5YnF5c2xNdVBZMzlvbkJDTkd0N0dyemtxWEtFejBONFlGN2lyLVh2d25nOTNOZnlWV0VhSEloRWFLdG0xTGl6T2RIU2NwdEtHZFYtdk1DYjhTMzFMSWFDdWpZdmJOcUZ3YzJNOXJHWE1ubVhmc1NiLTRndTNYUUg2eXZQZDNMelg4bUxpSi1xenIzdWpnU0tXck8xOVpn?oc=5",
-      "published": "2026-07-14T08:07:00.000Z",
-      "titleZh": "在曼联的夏季转会重建中，桑托斯和蒂勒曼斯加强了中场"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-19T08:39:20.980Z",
+  "journalistsUpdatedAt": "2026-07-19T10:12:37.568Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

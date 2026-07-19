@@ -2,14 +2,16 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0b0d0f" />
     <meta name="description" content="曼联 2026/27 英超赛季赛程、积分与球队动态看板" />
     <title>UNITED 26/27 | 曼联英超赛季看板</title>
-    <link rel="stylesheet" href="./styles.css?v=20260718-3" />
+    <link rel="stylesheet" href="./styles.css?v=20260719-2" />
   </head>
   <body>
-    <div class="app-shell">
+    <div id="top"></div>
+    <section id="heritageWorld" aria-label="曼联传奇沉浸式旅程"></section>
+    <div class="app-shell" id="dashboard">
       <aside class="sidebar" aria-label="主导航">
         <a class="brand" href="#overview" aria-label="United 26/27 首页">
           <img src="https://a.espncdn.com/i/teamlogos/soccer/500/360.png" alt="曼联队徽" />
@@ -138,10 +140,12 @@
           <div class="all-news-grid" id="allNews"></div>
         </section>
 
-        <footer><span>UNITED 26/27</span><span>球场图片来自 Manchester United 官网 · 数据来自 ESPN · 中文翻译由 MyMemory 提供 · 非官方产品</span></footer>
+        <footer><span>UNITED 26/27</span><span>球场来自 Manchester United 官网 · 奖杯柜与吉格斯球衣照片来自 Wikimedia Commons · 队徽/数据来自 ESPN · 球员头像来自 FotMob · 非官方产品</span></footer>
       </main>
     </div>
     <div class="scrim" id="scrim"></div>
-    <script type="module" src="./app.js?v=20260718-3"></script>
+    <script src="./scripts/scroll-world.js?v=20260719-2"></script>
+    <script src="./scripts/heritage-world.js?v=20260719-2"></script>
+    <script type="module" src="./app.js?v=20260719-2"></script>
   </body>
 </html>

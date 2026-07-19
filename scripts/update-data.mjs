@@ -1,4 +1,5 @@
 import { readFile, writeFile } from 'node:fs/promises';
+import { applyMatchDetails, matchSummaryUrl } from './match-details.mjs';
 
 const OUTPUT = new URL('../data/dashboard.json', import.meta.url);
 const TEAM_ID = '360';
@@ -117,73 +118,18 @@ function parseScorers(payload) {
   return [...byId.values()].sort((a,b) => b.goals-a.goals || b.assists-a.assists || a.appearances-b.appearances).slice(0,10);
 }
 
-function buildMatchRecap(fixture, payload = null) {
-  const unitedHome = fixture.home.id === TEAM_ID;
-  const united = unitedHome ? fixture.home : fixture.away;
-  const opponent = unitedHome ? fixture.away : fixture.home;
-  const us = Number(united.score || 0);
-  const them = Number(opponent.score || 0);
-  const outcome = us > them ? '战胜' : us === them ? '战平' : '不敌';
-  const headline = `曼联 ${us}–${them} ${opponent.nameZh || opponent.name}`;
-  const summary = `曼联${unitedHome ? '主场' : '客场'}以 ${us}–${them} ${outcome}${opponent.nameZh || opponent.name}。${fixture.venue ? `比赛在${fixture.venue}进行。` : ''}`;
-  const details = payload?.header?.competitions?.[0]?.details || payload?.details || [];
-  const goals = details.filter(detail => /goal/i.test(detail.type?.text || detail.type?.name || '')).map(detail => {
-    const participant = detail.participants?.[0]?.athlete || detail.athletesInvolved?.[0] || detail.athlete;
-    const name = participant?.displayName || participant?.shortName || '';
-    return { name, nameZh:PLAYER_NAMES_ZH[name]?.[0] || name, minute:detail.clock?.displayValue || '', teamId:String(detail.team?.id || '') };
-  }).filter(goal => goal.name);
-  const boxTeams = payload?.boxscore?.teams || [];
-  const statNames = [
-    { names:['possessionPct','possession'], label:'控球率' },
-    { names:['totalShots','shots'], label:'射门' },
-    { names:['shotsOnTarget'], label:'射正' },
-    { names:['wonCorners','corners'], label:'角球' },
-    { names:['foulsCommitted','fouls'], label:'犯规' },
-    { names:['offsides'], label:'越位' },
-    { names:['yellowCards'], label:'黄牌' },
-    { names:['redCards'], label:'红牌' }
-  ];
-  const statFor = (teamId, names) => { const team = boxTeams.find(item => String(item.team?.id) === String(teamId)); const stat = team?.statistics?.find(item => names.includes(item.name) || names.includes(item.abbreviation)); return stat?.displayValue ?? stat?.value ?? null; };
-  const stats = statNames.map(item => ({ label:item.label, united:statFor(united.id,item.names), opponent:statFor(opponent.id,item.names) })).filter(item => item.united != null && item.opponent != null);
-  const matchRosters = payload?.rosters || [];
-  const parseTeamPlayers = (teamId, teamName) => {
-    const teamRoster = matchRosters.find(item => String(item.team?.id) === String(teamId));
-    const pick = (stats, names) => {
-      const stat = stats?.find(item => names.includes(item.name) || names.includes(item.abbreviation) || names.includes(item.shortDisplayName));
-      return stat?.displayValue ?? stat?.value ?? '—';
-    };
-    const players = (teamRoster?.roster || []).filter(entry => {
-      const appearances = Number(pick(entry.stats,['appearances','APP']));
-      return entry.starter || entry.subbedIn || appearances > 0;
-    }).map(entry => {
-      const athlete = entry.athlete || {};
-      const name = athlete.displayName || athlete.fullName || athlete.name || '';
-      return {
-        id:String(athlete.id || name), name, nameZh:PLAYER_NAMES_ZH[name]?.[0] || name,
-        starter:Boolean(entry.starter), position:entry.position?.abbreviation || entry.position?.displayName || '', jersey:entry.jersey || '',
-        minutes:'—', goals:pick(entry.stats,['totalGoals','goals','G']), assists:pick(entry.stats,['goalAssists','assists','A']),
-        shots:pick(entry.stats,['totalShots','shots','SHOT']), shotsOnTarget:pick(entry.stats,['shotsOnTarget','SOG']), saves:pick(entry.stats,['saves','SV']),
-        yellowCards:pick(entry.stats,['yellowCards','YC']), redCards:pick(entry.stats,['redCards','RC'])
-      };
-    }).filter(player => player.name).sort((a,b) => Number(b.starter)-Number(a.starter));
-    return { teamId:String(teamId), teamName, players };
-  };
-  const playerStats = [parseTeamPlayers(united.id,'曼联'), parseTeamPlayers(opponent.id,opponent.nameZh || opponent.name)].filter(team => team.players.length);
-  return { headline, summary, outcome:us > them ? 'win' : us === them ? 'draw' : 'loss', goals, stats, playerStats, generatedAt:new Date().toISOString() };
-}
-
-async function attachMatchRecaps(fixtures, previousFixtures = []) {
+async function attachMatchDetails(fixtures, previousFixtures = []) {
   const previousById = new Map(previousFixtures.map(fixture => [fixture.id, fixture]));
   return Promise.all(fixtures.map(async fixture => {
-    if (fixture.status !== 'completed') return fixture;
     const previous = previousById.get(fixture.id);
     const matchAgeHours = (Date.now() - new Date(fixture.date)) / 3_600_000;
-    if (previous?.recap && matchAgeHours > 48) return { ...fixture, recap:previous.recap };
+    if (previous?.recap && matchAgeHours > 72) return { ...fixture, recap:previous.recap, lineups:previous.lineups || previous.recap.lineups || [] };
+    if (matchAgeHours < -36 || matchAgeHours > 72) return { ...fixture, lineups:previous?.lineups || [] };
     try {
-      const payload = await get(`https://site.api.espn.com/apis/site/v2/sports/soccer/${fixture.competitionKey}/summary?event=${fixture.id}`);
-      return { ...fixture, recap:buildMatchRecap(fixture,payload) };
+      const payload = await get(matchSummaryUrl(fixture));
+      return applyMatchDetails(fixture, payload, PLAYER_NAMES_ZH);
     } catch {
-      return { ...fixture, recap:buildMatchRecap(fixture) };
+      return { ...fixture, lineups:previous?.lineups || [], ...(previous?.recap ? { recap:previous.recap } : {}) };
     }
   }));
 }
@@ -321,7 +267,7 @@ const competitionResults = await Promise.allSettled(COMPETITIONS.map(competition
 const results = await Promise.allSettled([get(endpoints.standings), get(endpoints.championsStandings), get(endpoints.news), get(endpoints.roster), get(endpoints.playerStats)]);
 const nextFixtures = competitionResults.flatMap((result, index) => result.status === 'fulfilled' ? parseFixtures(result.value, COMPETITIONS[index]) : []);
 const uniqueFixtures = [...new Map(nextFixtures.map(fixture => [fixture.id, fixture])).values()].sort((a,b) => new Date(a.date) - new Date(b.date));
-const fixturesWithRecaps = await attachMatchRecaps(uniqueFixtures, previous.fixtures || []);
+const fixturesWithRecaps = await attachMatchDetails(uniqueFixtures, previous.fixtures || []);
 const nextStandings = results[0].status === 'fulfilled' ? parseStandings(results[0].value) : [];
 const nextChampionsStandings = results[1].status === 'fulfilled' ? parseStandings(results[1].value) : [];
 const nextNews = results[2].status === 'fulfilled' ? await parseNews(results[2].value, previous.news) : [];

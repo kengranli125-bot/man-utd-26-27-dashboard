@@ -59,14 +59,26 @@ function renderFixtures() {
   if (state.competition !== 'all') list = list.filter(f => f.competitionGroup === state.competition);
   if (!list.length) { $('#fixtureList').innerHTML = empty(state.filter === 'all' ? '赛程尚未发布' : '此分类暂无比赛', '每日更新任务会自动检查最新赛程。'); return; }
   const groups = list.reduce((acc, fixture) => { const date = new Date(fixture.date); const key = `${date.getFullYear()}年${date.getMonth()+1}月`; (acc[key] ||= []).push(fixture); return acc; }, {});
-  $('#fixtureList').innerHTML = Object.entries(groups).map(([month, fixtures]) => `<section class="fixture-month"><h3>${month}<span>${fixtures.length} 场</span></h3><div>${fixtures.map(g => `<article class="fixture-row"><div class="fixture-date"><strong>${fmtDate(g.date)}</strong>${new Date(g.date).toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit',hour12:false})}<span class="competition-badge ${safe(g.competitionGroup)}">${safe(g.competition)}</span></div><div class="fixture-teams"><div class="fixture-team"><img src="${safe(g.home.logo)}" alt="" />${safe(g.home.nameZh || g.home.name)}<span class="score">${g.status === 'completed' ? g.home.score : ''}</span></div><div class="fixture-team"><img src="${safe(g.away.logo)}" alt="" />${safe(g.away.nameZh || g.away.name)}<span class="score">${g.status === 'completed' ? g.away.score : ''}</span></div></div><div class="fixture-venue"><strong>${g.status === 'completed' ? '完场' : '未赛'}</strong>${safe(g.venue || '场地待定')}</div>${g.status === 'completed' && g.recap ? renderMatchRecap(g.recap) : ''}</article>`).join('')}</div></section>`).join('');
+  $('#fixtureList').innerHTML = Object.entries(groups).map(([month, fixtures]) => `<section class="fixture-month"><h3>${month}<span>${fixtures.length} 场</span></h3><div>${fixtures.map(g => `<article class="fixture-row"><div class="fixture-date"><strong>${fmtDate(g.date)}</strong>${new Date(g.date).toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit',hour12:false})}<span class="competition-badge ${safe(g.competitionGroup)}">${safe(g.competition)}</span></div><div class="fixture-teams"><div class="fixture-team"><img src="${safe(g.home.logo)}" alt="" />${safe(g.home.nameZh || g.home.name)}<span class="score">${g.status === 'completed' ? g.home.score : ''}</span></div><div class="fixture-team"><img src="${safe(g.away.logo)}" alt="" />${safe(g.away.nameZh || g.away.name)}<span class="score">${g.status === 'completed' ? g.away.score : ''}</span></div></div><div class="fixture-venue"><strong>${g.status === 'completed' ? '完场' : '未赛'}</strong>${safe(g.venue || '场地待定')}</div>${renderMatchLineups(g)}${g.status === 'completed' && g.recap ? renderMatchRecap(g.recap) : ''}</article>`).join('')}</div></section>`).join('');
+}
+
+function renderMatchLineups(fixture) {
+  const teams = fixture.lineups || fixture.recap?.lineups || [];
+  const confirmed = teams.filter(team => team.confirmed);
+  if (!confirmed.length) {
+    if (fixture.status === 'completed') return '';
+    return `<details class="match-lineups pending"><summary>官方首发与比赛名单 <span>等待发布</span></summary><div class="lineup-wait">比赛名单尚未由数据源发布，系统会在开赛前自动高频检查。</div></details>`;
+  }
+  const teamCards = confirmed.map(team => `<section><h5>${safe(team.teamName)}</h5><strong>首发</strong><div class="official-player-list">${team.starters.map(player => `<span><i>${safe(player.jersey || '—')}</i>${safe(player.nameZh || player.name)}</span>`).join('')}</div>${team.substitutes.length ? `<strong>替补</strong><div class="official-player-list substitutes">${team.substitutes.map(player => `<span><i>${safe(player.jersey || '—')}</i>${safe(player.nameZh || player.name)}</span>`).join('')}</div>` : ''}</section>`).join('');
+  return `<details class="match-lineups"><summary>官方首发与比赛名单 <span>${fixture.status === 'completed' ? '赛后名单' : '已发布'} →</span></summary><div class="official-lineups">${teamCards}</div></details>`;
 }
 
 function renderMatchRecap(recap) {
   const goals = recap.goals?.length ? `<div class="recap-goals"><strong>进球</strong>${recap.goals.map(goal => `<span>${safe(goal.nameZh || goal.name)} ${safe(goal.minute)}</span>`).join('')}</div>` : '';
   const stats = recap.stats?.length ? `<div class="recap-stats">${recap.stats.map(stat => `<div><span>${safe(stat.united)}</span><small>${safe(stat.label)}</small><span>${safe(stat.opponent)}</span></div>`).join('')}</div>` : '';
   const players = recap.playerStats?.length ? `<div class="match-player-data">${recap.playerStats.map(team => `<section><h5>${safe(team.teamName)}球员数据</h5><div class="player-data-scroll"><table><thead><tr><th>球员</th><th>身份</th><th>分钟</th><th>进球</th><th>助攻</th><th>射门</th><th>射正</th><th>扑救</th><th>黄牌</th><th>红牌</th></tr></thead><tbody>${team.players.map(player => `<tr><td>${safe(player.nameZh || player.name)}</td><td>${player.starter ? '首发' : '替补'}</td><td>${safe(player.minutes)}</td><td>${safe(player.goals)}</td><td>${safe(player.assists)}</td><td>${safe(player.shots)}</td><td>${safe(player.shotsOnTarget)}</td><td>${safe(player.saves)}</td><td>${safe(player.yellowCards)}</td><td>${safe(player.redCards)}</td></tr>`).join('')}</tbody></table></div></section>`).join('')}</div>` : '';
-  return `<details class="match-recap"><summary>赛后总结与技术统计 <span>展开 →</span></summary><div class="recap-content"><h4>${safe(recap.headline)}</h4><p>${safe(recap.summary)}</p>${goals}${stats}${players}</div></details>`;
+  const statsNote = recap.statsAvailable === false ? '<p class="stats-unavailable">数据源未提供本场球队技术统计；以下仅展示已确认的比分、事件与比赛名单。</p>' : '';
+  return `<details class="match-recap"><summary>赛后总结与技术统计 <span>展开 →</span></summary><div class="recap-content"><h4>${safe(recap.headline)}</h4><p>${safe(recap.summary)}</p>${goals}${statsNote}${stats}${players}</div></details>`;
 }
 
 function renderStandings() {

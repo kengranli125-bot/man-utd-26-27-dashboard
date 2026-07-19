@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T15:51:39.486Z",
+  "updatedAt": "2026-07-19T19:31:41.847Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -31,6 +31,654 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/352.png",
         "score": 1
       },
+      "lineups": [
+        {
+          "teamId": "360",
+          "teamName": "Manchester United",
+          "logo": "",
+          "formation": "4-2-3-1",
+          "confirmed": true,
+          "starters": [
+            {
+              "id": "42250",
+              "name": "Tom Heaton",
+              "nameZh": "Tom Heaton",
+              "jersey": "22",
+              "position": "G",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "356044",
+              "name": "Ayden Heaven",
+              "nameZh": "艾登·赫文",
+              "jersey": "26",
+              "position": "CD-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "157073",
+              "name": "Harry Maguire",
+              "nameZh": "哈里·马奎尔",
+              "jersey": "5",
+              "position": "CD-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "167127",
+              "name": "Luke Shaw",
+              "nameZh": "卢克·肖",
+              "jersey": "23",
+              "position": "LB",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "340206",
+              "name": "Leny Yoro",
+              "nameZh": "莱尼·约罗",
+              "jersey": "15",
+              "position": "RB",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "205081",
+              "name": "Jack Fletcher",
+              "nameZh": "杰克·弗莱彻",
+              "jersey": "38",
+              "position": "AM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "314858",
+              "name": "Andrey Santos",
+              "nameZh": "安德烈·桑托斯",
+              "jersey": "17",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "231167",
+              "name": "Mason Mount",
+              "nameZh": "梅森·芒特",
+              "jersey": "7",
+              "position": "RM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "276327",
+              "name": "Joshua Zirkzee",
+              "nameZh": "约书亚·齐尔克泽",
+              "jersey": "11",
+              "position": "F",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "366781",
+              "name": "Patrick Dorgu",
+              "nameZh": "帕特里克·多尔古",
+              "jersey": "13",
+              "position": "AM-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "271170",
+              "name": "Bryan Mbeumo",
+              "nameZh": "布莱恩·姆伯莫",
+              "jersey": "19",
+              "position": "AM-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            }
+          ],
+          "substitutes": [
+            {
+              "id": "356940",
+              "name": "Harry Amass",
+              "nameZh": "哈里·阿马斯",
+              "jersey": "41",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "386199",
+              "name": "Jaydan Kamason",
+              "nameZh": "Jaydan Kamason",
+              "jersey": "61",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "347049",
+              "name": "Daniel Gore",
+              "nameZh": "Daniel Gore",
+              "jersey": "44",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "368547",
+              "name": "Ethan Wheatley",
+              "nameZh": "伊桑·惠特利",
+              "jersey": "36",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "308778",
+              "name": "Toby Collyer",
+              "nameZh": "托比·科利尔",
+              "jersey": "43",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "384068",
+              "name": "Jacob Devaney",
+              "nameZh": "Jacob Devaney",
+              "jersey": "62",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "358180",
+              "name": "Shea Lacey",
+              "nameZh": "Shea Lacey",
+              "jersey": "46",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "325550",
+              "name": "Dermot Mee",
+              "nameZh": "Dermot Mee",
+              "jersey": "45",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "393138",
+              "name": "Tyler Fletcher",
+              "nameZh": "泰勒·弗莱彻",
+              "jersey": "39",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "381057",
+              "name": "Jim Thwaites",
+              "nameZh": "Jim Thwaites",
+              "jersey": "63",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "381055",
+              "name": "Daniel Armer",
+              "nameZh": "Daniel Armer",
+              "jersey": "69",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "375738",
+              "name": "Chido Obi",
+              "nameZh": "奇多·奥比",
+              "jersey": "32",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "325556",
+              "name": "Radek Vítek",
+              "nameZh": "Radek Vítek",
+              "jersey": "40",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "360077",
+              "name": "Ethan Williams",
+              "nameZh": "Ethan Williams",
+              "jersey": "53",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            }
+          ]
+        },
+        {
+          "teamId": "352",
+          "teamName": "Wrexham",
+          "logo": "",
+          "formation": "3-4-2-1",
+          "confirmed": true,
+          "starters": [
+            {
+              "id": "280554",
+              "name": "Arthur Okonkwo",
+              "nameZh": "Arthur Okonkwo",
+              "jersey": "1",
+              "position": "G",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "229801",
+              "name": "Dan Scarr",
+              "nameZh": "Dan Scarr",
+              "jersey": "24",
+              "position": "CD",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "310598",
+              "name": "Callum Doyle",
+              "nameZh": "Callum Doyle",
+              "jersey": "2",
+              "position": "CD-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "232415",
+              "name": "Zak Vyner",
+              "nameZh": "Zak Vyner",
+              "jersey": "26",
+              "position": "CD-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "269288",
+              "name": "Lewis O'Brien",
+              "nameZh": "Lewis O'Brien",
+              "jersey": "27",
+              "position": "CM-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "135430",
+              "name": "Matty James",
+              "nameZh": "Matty James",
+              "jersey": "37",
+              "position": "CM-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "301285",
+              "name": "George Thomason",
+              "nameZh": "George Thomason",
+              "jersey": "14",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "194458",
+              "name": "Aaron James",
+              "nameZh": "Aaron James",
+              "jersey": "34",
+              "position": "RM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "70'"
+            },
+            {
+              "id": "352804",
+              "name": "Bailey Cadamarteri",
+              "nameZh": "Bailey Cadamarteri",
+              "jersey": "11",
+              "position": "F",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "243334",
+              "name": "Nathan Broadhead",
+              "nameZh": "Nathan Broadhead",
+              "jersey": "33",
+              "position": "CF-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "243757",
+              "name": "Sam Smith",
+              "nameZh": "Sam Smith",
+              "jersey": "28",
+              "position": "CF-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            }
+          ],
+          "substitutes": [
+            {
+              "id": "3102541",
+              "name": "Joe Gavin Rees",
+              "nameZh": "Joe Gavin Rees",
+              "jersey": "98",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "3102542",
+              "name": "Oliver Jack Wilson Mctweed",
+              "nameZh": "Oliver Jack Wilson Mctweed",
+              "jersey": "97",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "3098955",
+              "name": "Rio Lloyd Owen",
+              "nameZh": "Rio Lloyd Owen",
+              "jersey": "95",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "3102544",
+              "name": "Tommy Stuart Neil Clayton",
+              "nameZh": "Tommy Stuart Neil Clayton",
+              "jersey": "96",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "3102543",
+              "name": "Dafydd Vaughan Edwards",
+              "nameZh": "Dafydd Vaughan Edwards",
+              "jersey": "99",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "408565",
+              "name": "Alexander James Moore",
+              "nameZh": "Alexander James Moore",
+              "jersey": "40",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "70'"
+            },
+            {
+              "id": "189605",
+              "name": "Kieffer Moore",
+              "nameZh": "Kieffer Moore",
+              "jersey": "19",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "156365",
+              "name": "Conor Coady",
+              "nameZh": "Conor Coady",
+              "jersey": "6",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "294311",
+              "name": "Lewis Brunt",
+              "nameZh": "Lewis Brunt",
+              "jersey": "3",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "238486",
+              "name": "Oliver Rathbone",
+              "nameZh": "Oliver Rathbone",
+              "jersey": "20",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "234449",
+              "name": "George Dobson",
+              "nameZh": "George Dobson",
+              "jersey": "15",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "374147",
+              "name": "Harry Ashfield",
+              "nameZh": "Harry Ashfield",
+              "jersey": "45",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "240688",
+              "name": "Davis Kellior-Dunn",
+              "nameZh": "Davis Kellior-Dunn",
+              "jersey": "7",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "231572",
+              "name": "Dominic Hyam",
+              "nameZh": "Dominic Hyam",
+              "jersey": "5",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "251076",
+              "name": "Ryan Barnett",
+              "nameZh": "Ryan Barnett",
+              "jersey": "29",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "17861",
+              "name": "Danny Ward",
+              "nameZh": "Danny Ward",
+              "jersey": "21",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "45'"
+            }
+          ]
+        }
+      ],
       "recap": {
         "headline": "曼联 0–1 雷克瑟姆",
         "summary": "曼联主场以 0–1 不敌雷克瑟姆。本场进球：Sam Smith（39'）。比赛在Helsinki Olympic Stadium进行。",
@@ -150,7 +798,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "starter": true,
                 "position": "LM",
                 "jersey": "17",
@@ -975,7 +1623,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "jersey": "17",
                 "position": "LM",
                 "starter": true,
@@ -1540,656 +2188,8 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-19T15:51:39.484Z"
-      },
-      "lineups": [
-        {
-          "teamId": "360",
-          "teamName": "Manchester United",
-          "logo": "",
-          "formation": "4-2-3-1",
-          "confirmed": true,
-          "starters": [
-            {
-              "id": "42250",
-              "name": "Tom Heaton",
-              "nameZh": "Tom Heaton",
-              "jersey": "22",
-              "position": "G",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "356044",
-              "name": "Ayden Heaven",
-              "nameZh": "艾登·赫文",
-              "jersey": "26",
-              "position": "CD-L",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "157073",
-              "name": "Harry Maguire",
-              "nameZh": "哈里·马奎尔",
-              "jersey": "5",
-              "position": "CD-R",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "167127",
-              "name": "Luke Shaw",
-              "nameZh": "卢克·肖",
-              "jersey": "23",
-              "position": "LB",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "340206",
-              "name": "Leny Yoro",
-              "nameZh": "莱尼·约罗",
-              "jersey": "15",
-              "position": "RB",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "205081",
-              "name": "Jack Fletcher",
-              "nameZh": "杰克·弗莱彻",
-              "jersey": "38",
-              "position": "AM",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "314858",
-              "name": "Andrey Santos",
-              "nameZh": "Andrey Santos",
-              "jersey": "17",
-              "position": "LM",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "231167",
-              "name": "Mason Mount",
-              "nameZh": "梅森·芒特",
-              "jersey": "7",
-              "position": "RM",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "276327",
-              "name": "Joshua Zirkzee",
-              "nameZh": "约书亚·齐尔克泽",
-              "jersey": "11",
-              "position": "F",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "366781",
-              "name": "Patrick Dorgu",
-              "nameZh": "帕特里克·多尔古",
-              "jersey": "13",
-              "position": "AM-L",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "271170",
-              "name": "Bryan Mbeumo",
-              "nameZh": "布莱恩·姆伯莫",
-              "jersey": "19",
-              "position": "AM-R",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            }
-          ],
-          "substitutes": [
-            {
-              "id": "356940",
-              "name": "Harry Amass",
-              "nameZh": "哈里·阿马斯",
-              "jersey": "41",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "386199",
-              "name": "Jaydan Kamason",
-              "nameZh": "Jaydan Kamason",
-              "jersey": "61",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "347049",
-              "name": "Daniel Gore",
-              "nameZh": "Daniel Gore",
-              "jersey": "44",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "368547",
-              "name": "Ethan Wheatley",
-              "nameZh": "伊桑·惠特利",
-              "jersey": "36",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "308778",
-              "name": "Toby Collyer",
-              "nameZh": "托比·科利尔",
-              "jersey": "43",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "384068",
-              "name": "Jacob Devaney",
-              "nameZh": "Jacob Devaney",
-              "jersey": "62",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "358180",
-              "name": "Shea Lacey",
-              "nameZh": "Shea Lacey",
-              "jersey": "46",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "325550",
-              "name": "Dermot Mee",
-              "nameZh": "Dermot Mee",
-              "jersey": "45",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "393138",
-              "name": "Tyler Fletcher",
-              "nameZh": "泰勒·弗莱彻",
-              "jersey": "39",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "381057",
-              "name": "Jim Thwaites",
-              "nameZh": "Jim Thwaites",
-              "jersey": "63",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "381055",
-              "name": "Daniel Armer",
-              "nameZh": "Daniel Armer",
-              "jersey": "69",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "375738",
-              "name": "Chido Obi",
-              "nameZh": "奇多·奥比",
-              "jersey": "32",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "325556",
-              "name": "Radek Vítek",
-              "nameZh": "Radek Vítek",
-              "jersey": "40",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "360077",
-              "name": "Ethan Williams",
-              "nameZh": "Ethan Williams",
-              "jersey": "53",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            }
-          ]
-        },
-        {
-          "teamId": "352",
-          "teamName": "Wrexham",
-          "logo": "",
-          "formation": "3-4-2-1",
-          "confirmed": true,
-          "starters": [
-            {
-              "id": "280554",
-              "name": "Arthur Okonkwo",
-              "nameZh": "Arthur Okonkwo",
-              "jersey": "1",
-              "position": "G",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "229801",
-              "name": "Dan Scarr",
-              "nameZh": "Dan Scarr",
-              "jersey": "24",
-              "position": "CD",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "310598",
-              "name": "Callum Doyle",
-              "nameZh": "Callum Doyle",
-              "jersey": "2",
-              "position": "CD-L",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "232415",
-              "name": "Zak Vyner",
-              "nameZh": "Zak Vyner",
-              "jersey": "26",
-              "position": "CD-R",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "269288",
-              "name": "Lewis O'Brien",
-              "nameZh": "Lewis O'Brien",
-              "jersey": "27",
-              "position": "CM-L",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "135430",
-              "name": "Matty James",
-              "nameZh": "Matty James",
-              "jersey": "37",
-              "position": "CM-R",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "301285",
-              "name": "George Thomason",
-              "nameZh": "George Thomason",
-              "jersey": "14",
-              "position": "LM",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "194458",
-              "name": "Aaron James",
-              "nameZh": "Aaron James",
-              "jersey": "34",
-              "position": "RM",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "70'"
-            },
-            {
-              "id": "352804",
-              "name": "Bailey Cadamarteri",
-              "nameZh": "Bailey Cadamarteri",
-              "jersey": "11",
-              "position": "F",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "243334",
-              "name": "Nathan Broadhead",
-              "nameZh": "Nathan Broadhead",
-              "jersey": "33",
-              "position": "CF-L",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "243757",
-              "name": "Sam Smith",
-              "nameZh": "Sam Smith",
-              "jersey": "28",
-              "position": "CF-R",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": true,
-              "substitutionTime": "45'"
-            }
-          ],
-          "substitutes": [
-            {
-              "id": "3102541",
-              "name": "Joe Gavin Rees",
-              "nameZh": "Joe Gavin Rees",
-              "jersey": "98",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "3102542",
-              "name": "Oliver Jack Wilson Mctweed",
-              "nameZh": "Oliver Jack Wilson Mctweed",
-              "jersey": "97",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "3098955",
-              "name": "Rio Lloyd Owen",
-              "nameZh": "Rio Lloyd Owen",
-              "jersey": "95",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "3102544",
-              "name": "Tommy Stuart Neil Clayton",
-              "nameZh": "Tommy Stuart Neil Clayton",
-              "jersey": "96",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "3102543",
-              "name": "Dafydd Vaughan Edwards",
-              "nameZh": "Dafydd Vaughan Edwards",
-              "jersey": "99",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "408565",
-              "name": "Alexander James Moore",
-              "nameZh": "Alexander James Moore",
-              "jersey": "40",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "70'"
-            },
-            {
-              "id": "189605",
-              "name": "Kieffer Moore",
-              "nameZh": "Kieffer Moore",
-              "jersey": "19",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "156365",
-              "name": "Conor Coady",
-              "nameZh": "Conor Coady",
-              "jersey": "6",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "294311",
-              "name": "Lewis Brunt",
-              "nameZh": "Lewis Brunt",
-              "jersey": "3",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "238486",
-              "name": "Oliver Rathbone",
-              "nameZh": "Oliver Rathbone",
-              "jersey": "20",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "234449",
-              "name": "George Dobson",
-              "nameZh": "George Dobson",
-              "jersey": "15",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "374147",
-              "name": "Harry Ashfield",
-              "nameZh": "Harry Ashfield",
-              "jersey": "45",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "240688",
-              "name": "Davis Kellior-Dunn",
-              "nameZh": "Davis Kellior-Dunn",
-              "jersey": "7",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "231572",
-              "name": "Dominic Hyam",
-              "nameZh": "Dominic Hyam",
-              "jersey": "5",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "251076",
-              "name": "Ryan Barnett",
-              "nameZh": "Ryan Barnett",
-              "jersey": "29",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            },
-            {
-              "id": "17861",
-              "name": "Danny Ward",
-              "nameZh": "Danny Ward",
-              "jersey": "21",
-              "position": "SUB",
-              "starter": false,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": false,
-              "substitutionTime": "45'"
-            }
-          ]
-        }
-      ]
+        "generatedAt": "2026-07-19T19:31:41.845Z"
+      }
     },
     {
       "id": "401869196",
@@ -2212,7 +2212,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401869198",
@@ -2235,7 +2236,8 @@
         "nameZh": "马德里竞技",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401868048",
@@ -2258,7 +2260,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401867394",
@@ -2281,7 +2284,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401886562",
@@ -2304,7 +2308,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879322",
@@ -2327,7 +2332,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879293",
@@ -2350,7 +2356,8 @@
         "nameZh": "伊普斯维奇",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879291",
@@ -2373,7 +2380,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879278",
@@ -2396,7 +2404,8 @@
         "nameZh": "曼城",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878777",
@@ -2419,7 +2428,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878773",
@@ -2442,7 +2452,8 @@
         "nameZh": "托特纳姆热刺",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879260",
@@ -2465,7 +2476,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879252",
@@ -2488,7 +2500,8 @@
         "nameZh": "伯恩茅斯",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879248",
@@ -2511,7 +2524,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879240",
@@ -2534,7 +2548,8 @@
         "nameZh": "阿斯顿维拉",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878755",
@@ -2557,7 +2572,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879226",
@@ -2580,7 +2596,8 @@
         "nameZh": "布伦特福德",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879217",
@@ -2603,7 +2620,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879210",
@@ -2626,7 +2644,8 @@
         "nameZh": "考文垂",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879207",
@@ -2649,7 +2668,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879204",
@@ -2672,7 +2692,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879195",
@@ -2695,7 +2716,8 @@
         "nameZh": "诺丁汉森林",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879188",
@@ -2718,7 +2740,8 @@
         "nameZh": "桑德兰",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878728",
@@ -2741,7 +2764,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879170",
@@ -2764,7 +2788,8 @@
         "nameZh": "纽卡斯尔联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878725",
@@ -2787,7 +2812,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878718",
@@ -2810,7 +2836,8 @@
         "nameZh": "利物浦",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878715",
@@ -2833,7 +2860,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879148",
@@ -2856,7 +2884,8 @@
         "nameZh": "切尔西",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879142",
@@ -2879,7 +2908,8 @@
         "nameZh": "布莱顿",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879134",
@@ -2902,7 +2932,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878697",
@@ -2925,7 +2956,8 @@
         "nameZh": "阿森纳",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879122",
@@ -2948,7 +2980,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879118",
@@ -2971,7 +3004,8 @@
         "nameZh": "埃弗顿",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879108",
@@ -2994,7 +3028,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879100",
@@ -3017,7 +3052,8 @@
         "nameZh": "赫尔城",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879096",
@@ -3040,7 +3076,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879091",
@@ -3063,7 +3100,8 @@
         "nameZh": "水晶宫",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878675",
@@ -3086,7 +3124,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401878672",
@@ -3109,7 +3148,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879074",
@@ -3132,7 +3172,8 @@
         "nameZh": "利兹联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879065",
@@ -3155,7 +3196,8 @@
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
         "score": null
-      }
+      },
+      "lineups": []
     },
     {
       "id": "401879058",
@@ -3178,7 +3220,8 @@
         "nameZh": "富勒姆",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
         "score": null
-      }
+      },
+      "lineups": []
     }
   ],
   "standings": [],

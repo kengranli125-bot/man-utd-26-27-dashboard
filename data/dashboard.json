@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T15:29:18.313Z",
+  "updatedAt": "2026-07-20T19:55:48.769Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -114,7 +114,7 @@
             {
               "id": "314858",
               "name": "Andrey Santos",
-              "nameZh": "Andrey Santos",
+              "nameZh": "安德烈·桑托斯",
               "jersey": "17",
               "position": "LM",
               "starter": true,
@@ -798,7 +798,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "starter": true,
                 "position": "LM",
                 "jersey": "17",
@@ -1623,7 +1623,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "jersey": "17",
                 "position": "LM",
                 "starter": true,
@@ -2188,7 +2188,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-20T15:29:18.312Z"
+        "generatedAt": "2026-07-20T19:55:47.839Z"
       }
     },
     {
@@ -2289,7 +2289,7 @@
     },
     {
       "id": "401886562",
-      "date": "2026-08-15T18:00Z",
+      "date": "2026-08-15T14:45Z",
       "status": "upcoming",
       "venue": "Municipal Stadium Wroclaw",
       "competition": "季前赛",
@@ -3229,6 +3229,27 @@
   "scorers": [],
   "news": [
     {
+      "title": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "published": "2026-07-20T18:07:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "titleZh": "世界杯是帮助还是阻碍了你的英超球队？锦标赛如何影响每个俱乐部"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-07-20T10:09:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Premier League 2026-27 kits: Ranking every jersey released",
+      "published": "2026-07-20T10:17:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
+      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
+    },
+    {
       "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
       "published": "2026-07-20T06:23:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
@@ -3241,13 +3262,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-07-20T06:22:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
@@ -3269,13 +3283,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49392372/wrexham-manchester-united-friendly-result-recap-helsinki-preseason",
       "image": "https://a.espncdn.com/photo/2026/0718/r1690888_1296x729_16-9.jpg",
       "titleZh": "雷克瑟姆在赫尔辛基友谊赛击败曼联，安德烈·桑托斯首次亮相"
-    },
-    {
-      "title": "Premier League 2026-27 kits: Ranking every jersey released",
-      "published": "2026-07-18T11:41:35Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0706/r1685327_1296x729_16-9.jpg",
-      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
     },
     {
       "title": "Man United vs. Wrexham: Andrey Santos in travelling squad, Benjamin Sesko absent",
@@ -3304,13 +3311,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery",
       "image": "https://a.espncdn.com/photo/2025/0916/r1546370_1296x518_5-2.jpg",
       "titleZh": "曼联的曼努埃尔·乌加特成功接受膝盖手术"
-    },
-    {
-      "title": "Why Youri Tielemans is a 'great signing' for Man United",
-      "published": "2026-07-14T18:39:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49360682/why-youri-tielemans-great-signing-man-united",
-      "image": "https://a.espncdn.com/media/motion/2026/0714/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL/dm_260714_COM_SOC_Presser_Why_Youri_Tielemans_is_a_great_signing_for_Man_United_20260713_GLOBAL.jpg",
-      "titleZh": "为什么Youri Tielemans是曼联的“伟大标志”"
     }
   ],
   "transfers": [

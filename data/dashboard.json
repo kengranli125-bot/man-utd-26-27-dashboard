@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T20:27:33.420Z",
+  "updatedAt": "2026-07-20T04:03:30.072Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -114,7 +114,7 @@
             {
               "id": "314858",
               "name": "Andrey Santos",
-              "nameZh": "Andrey Santos",
+              "nameZh": "安德烈·桑托斯",
               "jersey": "17",
               "position": "LM",
               "starter": true,
@@ -798,7 +798,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "starter": true,
                 "position": "LM",
                 "jersey": "17",
@@ -1623,7 +1623,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "jersey": "17",
                 "position": "LM",
                 "starter": true,
@@ -2188,7 +2188,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-19T20:27:33.419Z"
+        "generatedAt": "2026-07-20T04:03:30.070Z"
       }
     },
     {

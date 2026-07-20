@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T11:17:05.632Z",
+  "updatedAt": "2026-07-20T14:32:58.068Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -114,7 +114,7 @@
             {
               "id": "314858",
               "name": "Andrey Santos",
-              "nameZh": "Andrey Santos",
+              "nameZh": "安德烈·桑托斯",
               "jersey": "17",
               "position": "LM",
               "starter": true,
@@ -798,7 +798,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "starter": true,
                 "position": "LM",
                 "jersey": "17",
@@ -1623,7 +1623,7 @@
               {
                 "id": "314858",
                 "name": "Andrey Santos",
-                "nameZh": "Andrey Santos",
+                "nameZh": "安德烈·桑托斯",
                 "jersey": "17",
                 "position": "LM",
                 "starter": true,
@@ -2188,7 +2188,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-20T11:17:05.630Z"
+        "generatedAt": "2026-07-20T14:32:58.066Z"
       }
     },
     {
@@ -3229,6 +3229,27 @@
   "scorers": [],
   "news": [
     {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-07-20T06:23:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
+      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "published": "2026-07-20T06:24:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-07-20T06:22:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
       "title": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
       "published": "2026-07-19T12:19:47Z",
       "url": "https://www.espn.com/soccer/story/_/id/49398782/man-united-senne-lammens-bounce-back-well-belgium-world-cup-woe-tom-heaton",
@@ -3241,27 +3262,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49397847/radek-vitek-manchester-united-leave-game-preseason-wrexham-starter",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691162_1296x729_16-9.jpg",
       "titleZh": "守门员Radek Vitek准备离开曼联寻找头号角色"
-    },
-    {
-      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-07-19T06:30:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-07-19T06:29:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
-      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-07-19T06:30:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
     },
     {
       "title": "Wrexham beat Man United in Helsinki friendly as Andrey Santos makes strong debut",

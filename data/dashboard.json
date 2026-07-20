@@ -3886,6 +3886,18 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMi3AFBVV95cUxPN01VTWtIRE9Rbl9KWGg3TGplc0RETVBaVnBCMVlFT1hscHM0TjdQUXlBODk3cXQ0dWhtY2pLazZDQk04TUVidjg5Y3AyTTVYN0o4Nml4ZElrRUhKMVVHUG1qS1R5ZEhGVkdJaXozS2UxN1MtcU02V2Y4MWl6cWxjTWlxaHZBZFZ6MXNDZHgxbVRackNKS0xFNHJrY3U3c0RvX1VrR1lfaWktN3p5VXhsd0d2b1lxV0duUVlUbjk3TE5Dbk92ODJHVDdYalkyNFpMVlZLR3Q2c2tubTRr",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "MSN",
+      "tier": 2,
+      "title": "Manchester United reveal new images and models of their new £2bn 100,000-seater stadium plan",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN01VTWtIRE9Rbl9KWGg3TGplc0RETVBaVnBCMVlFT1hscHM0TjdQUXlBODk3cXQ0dWhtY2pLazZDQk04TUVidjg5Y3AyTTVYN0o4Nml4ZElrRUhKMVVHUG1qS1R5ZEhGVkdJaXozS2UxN1MtcU02V2Y4MWl6cWxjTWlxaHZBZFZ6MXNDZHgxbVRackNKS0xFNHJrY3U3c0RvX1VrR1lfaWktN3p5VXhsd0d2b1lxV0duUVlUbjk3TE5Dbk92ODJHVDdYalkyNFpMVlZLR3Q2c2tubTRr?oc=5",
+      "published": "2026-07-19T18:53:30.000Z",
+      "titleZh": "曼联公布其新的20亿英镑10万座体育场计划的新图像和模型"
+    },
+    {
       "id": "Carl Anka:CBMirgFBVV95cUxPd2RkOXB5NDVDd0c3clZpSEtsWHJOMDhOOFV1eE1MWWx2Tk1HQ1B6MmpEQWY0UkkzaERORkNSV1gyeWlhcXBXRUVIZFZaX1RUc3BGdGR1VVdIY1hxSDY1aTB5bXNPenJtd1JvNlFiaHh2YjVwRnpIaFJuMFFGN195a21KUGZBTXRORy16bk1TZ1J3d3NKNlpvNlJzaS16MDJRVEx0SzdEQTNobmhKbHc",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -3898,15 +3910,15 @@
       "titleZh": "拉德克·维特克（ Radek Vitek ）对曼联的离开持开放态度： “我觉得我已经准备好去某个地方成为第一名了”"
     },
     {
-      "id": "Simon Stone:CBMie0FVX3lxTE52ajVlLUgzWXNMWmpuQkhuWjhWU2hfX0xIRlN3Z0Z4NUVNY2N4aFBJVDFOcTRXQnNBTUZwMWV0RWZ2MUR5dWZndlk4NHZFVjI1U1RCQmxpNzZsa1h3eVl2OXNzcEM4aVRHSFRLVGstVzA0dENSQmhfM0ZZUQ",
+      "id": "Simon Stone:CBMidkFVX3lxTE1qeEZVZkhDUm5vUlp5NWJERG1OOExJRmlhZEFEdm52MG9RRl9TdUZ6aTRyU2F2N1VQRHBrUFBLTXBjWDF6ZG4yMUJ5WXhub1NISXBnS2RzWkRGTHJOUmRpamxnUHVGTGRqeDFhMXZUNGk1Um9FeUE",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "Yahoo",
+      "source": "Yahoo Sports Australia",
       "tier": 1,
       "title": "Vitek ready for Man Utd exit",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52ajVlLUgzWXNMWmpuQkhuWjhWU2hfX0xIRlN3Z0Z4NUVNY2N4aFBJVDFOcTRXQnNBTUZwMWV0RWZ2MUR5dWZndlk4NHZFVjI1U1RCQmxpNzZsa1h3eVl2OXNzcEM4aVRHSFRLVGstVzA0dENSQmhfM0ZZUQ?oc=5",
-      "published": "2026-07-19T09:09:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qeEZVZkhDUm5vUlp5NWJERG1OOExJRmlhZEFEdm52MG9RRl9TdUZ6aTRyU2F2N1VQRHBrUFBLTXBjWDF6ZG4yMUJ5WXhub1NISXBnS2RzWkRGTHJOUmRpamxnUHVGTGRqeDFhMXZUNGk1Um9FeUE?oc=5",
+      "published": "2026-07-19T06:50:00.000Z",
       "titleZh": "Vitek为曼联退出做好准备"
     },
     {
@@ -3922,16 +3934,16 @@
       "titleZh": "做出了决定！为什么曼联选择迈克尔·卡里克！ | Inside United W/Laurie Whitwell Dewald Brevis (qBbAN9U147)"
     },
     {
-      "id": "Chris Wheeler:CBMi9AJBVV95cUxOWUVHWTc4Z2NtbUVDalpKUHFGeW82dW1mSDhLZ2NsZmNwSkYxMkZpVEw3RUNPaExrV0ZZZ181RDVTMXpNRWxsVTdJQUxuNDlGbkw1SWNndUd4eHAzTlVJYjdBLXRqUk1BVHBkS2FGc2ZKa1hkYlYtOWZoQ3dRNXJ5N3J6YVVkQnBBajVVM3czTmdDRkMxeUpXZDBCYmEtbGQtOUlZSm9FNmxYT2FLUlF2dnJRSUtwRUNvekRwSkR3WEVfXzZzaGI1Y0htUWZFRzRKZUl6RlRQTXVBVjFDbjB3XzFxUl9XMk1uWUxqRWhCSnBTU0tLX1VoZzhVRHJldVhuU2ZaLWR2SEVCN1VCeUJrTU03ZlJkUWlzNzFCaDlrTVZQMkppeE52YjdBOFE4ek1NNnZITXJfdmk0VTNEcFpZenVaR1RSZGY1UEJ3OGZvVUpQbEhTSUt5LTJnWGlTV1Fra3JmbmZGcTZPemhFV25MSkY0aXY",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "MSN",
+      "id": "Samuel Luckhurst:CBMijAFBVV95cUxPSVQzelZmZk5FSnZfRVEwU1dlWFNqaXJYQ0JTYTc0SkVSUXhaNFVjVlZMVzR6ZHNFc1FWZWRpZXlHcDZwOFg0Y1REUmJ1cEVGbk5BM0lEeWprMzZDRzMwckwtaDVKZGw4QVJRbU5tUW5kNDdwWTg2eHVSWjdhdzJTdHlCSUtyUFNUWlRvZA",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
       "tier": 2,
-      "title": "Manchester United reveal new images and models of their new £2bn 100,000-seater stadium plan",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOWUVHWTc4Z2NtbUVDalpKUHFGeW82dW1mSDhLZ2NsZmNwSkYxMkZpVEw3RUNPaExrV0ZZZ181RDVTMXpNRWxsVTdJQUxuNDlGbkw1SWNndUd4eHAzTlVJYjdBLXRqUk1BVHBkS2FGc2ZKa1hkYlYtOWZoQ3dRNXJ5N3J6YVVkQnBBajVVM3czTmdDRkMxeUpXZDBCYmEtbGQtOUlZSm9FNmxYT2FLUlF2dnJRSUtwRUNvekRwSkR3WEVfXzZzaGI1Y0htUWZFRzRKZUl6RlRQTXVBVjFDbjB3XzFxUl9XMk1uWUxqRWhCSnBTU0tLX1VoZzhVRHJldVhuU2ZaLWR2SEVCN1VCeUJrTU03ZlJkUWlzNzFCaDlrTVZQMkppeE52YjdBOFE4ek1NNnZITXJfdmk0VTNEcFpZenVaR1RSZGY1UEJ3OGZvVUpQbEhTSUt5LTJnWGlTV1Fra3JmbmZGcTZPemhFV25MSkY0aXY?oc=5",
-      "published": "2026-07-18T11:53:55.000Z",
-      "titleZh": "曼联公布其新的20亿英镑10万座体育场计划的新图像和模型"
+      "title": "Man Utd files: Coach influential in Tielemans deal, JJ Gabriel misses Wrexham and academy star leaves after four years",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVQzelZmZk5FSnZfRVEwU1dlWFNqaXJYQ0JTYTc0SkVSUXhaNFVjVlZMVzR6ZHNFc1FWZWRpZXlHcDZwOFg0Y1REUmJ1cEVGbk5BM0lEeWprMzZDRzMwckwtaDVKZGw4QVJRbU5tUW5kNDdwWTg2eHVSWjdhdzJTdHlCSUtyUFNUWlRvZA?oc=5",
+      "published": "2026-07-17T18:44:15.000Z",
+      "titleZh": "曼联档案：教练在Tielemans交易中具有影响力， JJ Gabriel在四年后错过了Wrexham和青训明星的离职"
     },
     {
       "id": "Simon Stone:CBMiZ0FVX3lxTE9nenRtZ3MwOGZ3LVNmbFQ3SGZnQTY3cEtzT1d4UTZ0dG4tQXR1azdrQmpLZVJSaVIwdEV6MUowWHRZaHZhd1lTRmVHREY0SXMzN0FHVncyLUFOR3p5X2VHckNXZGRzOFE",
@@ -4054,6 +4066,18 @@
       "titleZh": "Romano让曼联对Camavinga提出“绿灯”要求，因为INEOS将签下“中场球员”"
     },
     {
+      "id": "Chris Wheeler:CBMitwNBVV95cUxPUFptTDlqeEtHdkJzTzktUWtRMmhkc0xPSWpmRW1rQk1YMG9RMWNyNTdhdG8zSFpmUFA5MFctdmRrNjY1cFRVNzJNNWwtRmVydmMyM1ZaUXpDUmNucVFmS05mTzVwUlV2akpaUHppcnl6QkZZM2o2MEpmUXJLNDFIcjJFbVpXMThvYi1pdVpkbFhHMkFLWkJwUTE5T1d6ZHlGSTJXRHYyVnMxOVF4ajZVdXhxWVVqTHlYdjd1cnFwMGxFV19JSkpVVV80VXZNSFczbHZMOTNNZHRpY2x4R280YUJJaUZycVNYTjM3S2JLQXlZdnpvMVNBXzA5Slp5ZDBEdXBnQU1GbXREaUw5cXZXY2gwTmdkTFpQZkxVS21UZzB2ZU9CSC1xOHRGUUhqeW1nVHRyZ3hhWmpFSldBSWFmb2tYQTljdnB6Zl9aSnVVTW40SmlNUTFWWGxZYjZMM19jRllrLVBOOGlGTGR1Mk5CaEprYTlhWFBqb0hGQ3AtRTBoUXV1Z0RiUWNINVVEN3VTTnpiWDF5dnNqZlFIcXpQV0JBT3pycFdvSDB4aWNyelhpelQ1QnYw",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "MSN",
+      "tier": 2,
+      "title": "Man United confirm £50m signing of Andrey Santos from Chelsea, as they pull out of £39m Ederson deal",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPUFptTDlqeEtHdkJzTzktUWtRMmhkc0xPSWpmRW1rQk1YMG9RMWNyNTdhdG8zSFpmUFA5MFctdmRrNjY1cFRVNzJNNWwtRmVydmMyM1ZaUXpDUmNucVFmS05mTzVwUlV2akpaUHppcnl6QkZZM2o2MEpmUXJLNDFIcjJFbVpXMThvYi1pdVpkbFhHMkFLWkJwUTE5T1d6ZHlGSTJXRHYyVnMxOVF4ajZVdXhxWVVqTHlYdjd1cnFwMGxFV19JSkpVVV80VXZNSFczbHZMOTNNZHRpY2x4R280YUJJaUZycVNYTjM3S2JLQXlZdnpvMVNBXzA5Slp5ZDBEdXBnQU1GbXREaUw5cXZXY2gwTmdkTFpQZkxVS21UZzB2ZU9CSC1xOHRGUUhqeW1nVHRyZ3hhWmpFSldBSWFmb2tYQTljdnB6Zl9aSnVVTW40SmlNUTFWWGxZYjZMM19jRllrLVBOOGlGTGR1Mk5CaEprYTlhWFBqb0hGQ3AtRTBoUXV1Z0RiUWNINVVEN3VTTnpiWDF5dnNqZlFIcXpQV0JBT3pycFdvSDB4aWNyelhpelQ1QnYw?oc=5",
+      "published": "2026-07-16T02:08:52.000Z",
+      "titleZh": "曼联确认从切尔西签下安德烈·桑托斯£ 5000万，因为他们退出了£ 3900万埃德森交易"
+    },
+    {
       "id": "Rob Dawson:CBMiqgFBVV95cUxQVC1HYXVERk1VQ0FZWjBqRVBiNjIzVnduYklzdTZBa084ajlMR3J0cDZLN0Z2Q25mdHFQeHBjUk1Rb2V2RVJnMU1HQ0twT0dlcXZyWGh4TDNwU01SejNoYXBEdlplbmI4NERYc1dZc3lQV1o1ZDBOZUI5elRXTXdYVkZ2cU9McWVDYWFvdlNrenNSeGdmRGVuZjRaeVFvTDVGU3BTZ2JPcEhqQQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -4088,18 +4112,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmMwdUdPVm8tSC1XTkhiUFl3OFFxeVNFYXRDS05XYzdJejYxWEU4bzQwWlBpa3NMWXVJbjFhZ2dWYmRGY0p1VXhQS0ZzalVCZF8zNUJYdnI5eDBYU0ZJMU9hRDNXbVlnVE9xOC1kOWh1eFdMUU1aaG56RTl5cUt5eDI2UDBhMWN1QURWbmU2WGtsLTVQTW01eGlJRk0wTDBr?oc=5",
       "published": "2026-07-15T06:00:00.000Z",
       "titleZh": "Fabrizio Romano确认曼联转会新闻提振纽卡斯尔联队"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMiqAFBVV95cUxQSGQwN0tBcmVlYnA1TllIbHRGQjNCM2lYSXdDc0ZZem5UQkkxWUtKMWtQZXFWd0VrX25tdHEyTjQ3MVlBcGZPWW1aUUNla0hhM2J4NktfV3JKZWZHTU92QVJrLUMzYUtzZVMxaE9EbktjMGdEREVOLVlGb3g5RG4tSzljOW1rRkpkRDh3bnBzaXRxc1FoWVVkOENTaXlYVGV2X3VESkhjNko",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "football360.com.au",
-      "tier": 2,
-      "title": "Manchester United complete $67million signing and they still want three more arrivals",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGQwN0tBcmVlYnA1TllIbHRGQjNCM2lYSXdDc0ZZem5UQkkxWUtKMWtQZXFWd0VrX25tdHEyTjQ3MVlBcGZPWW1aUUNla0hhM2J4NktfV3JKZWZHTU92QVJrLUMzYUtzZVMxaE9EbktjMGdEREVOLVlGb3g5RG4tSzljOW1rRkpkRDh3bnBzaXRxc1FoWVVkOENTaXlYVGV2X3VESkhjNko?oc=5",
-      "published": "2026-07-15T03:42:25.000Z",
-      "titleZh": "曼联完成了6700万美元的签约，他们仍然希望再有三次签约"
     },
     {
       "id": "Carl Anka:CBMickFVX3lxTE5qMXhEYlMxUjBlVWdqNVBpR3dpZUctblFTS2RqWW1ocVZhc2Y1R3Mxb1R2WGRXanhkWXhJZ1QtOUctczBpaWsyR1ZpN2tuZFFxamlBVEZ2Rm9JNmRQRHlHRFAtZ3hCSHREV1NqSEFiRFI5dw",
@@ -4160,21 +4172,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2FTdnYtaUdtZWdmZ3dXcTFJanVVZmV0Q3lPSGwxWlV6Ukw5ZHJwNVhFUlNFYzZVODUzOWtFYlVoN0Rjd2ktNWptejJKZERoX2lxdGdJMFZwVGdTR1Qzak9CWFFicmRCU2ZXbF9kanBfN1ZGWml4X0tRMTR6VDVuazhfRXdSQTQ3cWlzTDVkaw?oc=5",
       "published": "2026-07-14T11:12:15.000Z",
       "titleZh": "利兹联队退出后，曼联签约守门员卡尔·达洛（ Karl Darlow ） -田径"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMiiwFBVV95cUxNdGdyU1Y0Q1ZXMHQtV3U3VEZiVVlwMkI2VmJJeFphUkVYMm84NndGM0w3dEdmYl90MHhITDMyU1VWU1VzcDlWbXlqY0todXViZG15bWRaX2I2S183d3JtR0Fsb1I4YUgtVlhnYkVtX3RWVUcwLVNzQVMtVXlGWENRWjRtWmpfanhyT0JV",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
-      "tier": 2,
-      "title": "Youri Tielemans is quality but something has gone wrong at Manchester United",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGdyU1Y0Q1ZXMHQtV3U3VEZiVVlwMkI2VmJJeFphUkVYMm84NndGM0w3dEdmYl90MHhITDMyU1VWU1VzcDlWbXlqY0todXViZG15bWRaX2I2S183d3JtR0Fsb1I4YUgtVlhnYkVtX3RWVUcwLVNzQVMtVXlGWENRWjRtWmpfanhyT0JV?oc=5",
-      "published": "2026-07-14T08:23:00.000Z",
-      "titleZh": "Youri Tielemans是优秀的，但曼联出了点问题"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-19T22:31:27.714Z",
+  "journalistsUpdatedAt": "2026-07-20T01:11:16.894Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

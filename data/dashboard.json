@@ -3886,16 +3886,28 @@
   ],
   "journalists": [
     {
-      "id": "David Ornstein:CBMijAJBVV95cUxPUzlpT2VDdjgxWHNtWXZ1M19YVTBfY3FyYjFBM2wtLXA1aFlUSFZMaUdTaDFFRHdhTGVYN2ZpSXJaS3JoS20tYVJtdmp4Z3FDT1ZuTFEySWlWVEZUV1IxbksxanloZDVGUnN6MVBudHo3VUtteTNnallzaFpYNnJWLWlsS1JMV1kwdDU5V3F4aVVYZzRzOENRWGJ0Qk1ka0s3WEhkSDBSSnRVbFU1LWdYY0pSSGt5YXJ1dVpqSWk4djZIUzFpVHEzWkhwQWlTYlZ5cWNCM2JGdzlQSUtCaEhBdzFSeHZzN0J0ZF9lWHRBUVV5RExzWE1MUmpLSlBYdU5abVF5OWxyc1NYTF9P",
+      "id": "James Ducker:CBMipwFBVV95cUxPRzktcEdJbHk3YUVDMVUtcmtmMTVkdm9HUXhBc2RwdkMyNGNQeG1HV3YtbkdDTm9aeE9Sb3VCUG9mQzJzaW51UlVReFprcEJRbUpTWVUtcnZncEZoVWRxYm8tN0h4NHU4cmwtZGNMREVWajBrMUtHajFDT0EwYWRzSkFsZnlHUW9sdV83ZWRKQVlSQThzUVFWS0ZGWFpTTk9BX3RRSzFyaw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Man Utd accused of treating season ticket holders as ‘suspects’ in tout row",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzktcEdJbHk3YUVDMVUtcmtmMTVkdm9HUXhBc2RwdkMyNGNQeG1HV3YtbkdDTm9aeE9Sb3VCUG9mQzJzaW51UlVReFprcEJRbUpTWVUtcnZncEZoVWRxYm8tN0h4NHU4cmwtZGNMREVWajBrMUtHajFDT0EwYWRzSkFsZnlHUW9sdV83ZWRKQVlSQThzUVFWS0ZGWFpTTk9BX3RRSzFyaw?oc=5",
+      "published": "2026-07-21T21:16:00.000Z",
+      "titleZh": "曼联被指控在TOUT行中将季票持有人视为“嫌疑人”"
+    },
+    {
+      "id": "David Ornstein:CBMimwFBVV95cUxNdFdnSDRsVmhlaVVqd3luTm9fX053Mm9CZURveVNKTzlJVmEtOEVheGdDYXRCajNjb1NKRnIzS1FHdmJnQmxaa2U1MVBnR3F2bWM0d01Zdk01X1k4UV9GQTlsSTFnMmNPVmVRTEp0cl9hVHd3dER6eDNNd3h2VVRBUXo0aThYcTZFczZHYmI5OG9rbVFiVUhVelZsQQ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "Bavarian Football Works",
+      "source": "Read Man Utd",
       "tier": 1,
-      "title": "Five players poised to make big transfers after the World Cup",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUzlpT2VDdjgxWHNtWXZ1M19YVTBfY3FyYjFBM2wtLXA1aFlUSFZMaUdTaDFFRHdhTGVYN2ZpSXJaS3JoS20tYVJtdmp4Z3FDT1ZuTFEySWlWVEZUV1IxbksxanloZDVGUnN6MVBudHo3VUtteTNnallzaFpYNnJWLWlsS1JMV1kwdDU5V3F4aVVYZzRzOENRWGJ0Qk1ka0s3WEhkSDBSSnRVbFU1LWdYY0pSSGt5YXJ1dVpqSWk4djZIUzFpVHEzWkhwQWlTYlZ5cWNCM2JGdzlQSUtCaEhBdzFSeHZzN0J0ZF9lWHRBUVV5RExzWE1MUmpLSlBYdU5abVF5OWxyc1NYTF9P?oc=5",
-      "published": "2026-07-21T17:45:00.000Z",
-      "titleZh": "五名球员准备在世界杯结束后进行大笔转会"
+      "title": "Manchester United decide against signing Brighton midfielder",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFdnSDRsVmhlaVVqd3luTm9fX053Mm9CZURveVNKTzlJVmEtOEVheGdDYXRCajNjb1NKRnIzS1FHdmJnQmxaa2U1MVBnR3F2bWM0d01Zdk01X1k4UV9GQTlsSTFnMmNPVmVRTEp0cl9hVHd3dER6eDNNd3h2VVRBUXo0aThYcTZFczZHYmI5OG9rbVFiVUhVelZsQQ?oc=5",
+      "published": "2026-07-21T14:41:06.000Z",
+      "titleZh": "曼联决定不签约布莱顿中场"
     },
     {
       "id": "James Ducker:CBMiogFBVV95cUxNNFlxLUFXYlMwN1RTNVNCZEdYanh3V0NzRnBDSngwZGdRV2ZiU0R6b3gwUnNBT1lLUVdMcC1VbW9SSXZvakJLcm9CMlRLa3Y5OFJvb2RWNlYzckFDMWNwdHNNWDMxM2JyTU5iWFJac3FUUmcxX1RjWW9pd3JNX21VeDZIdm85Rk95Nl9JZXAyRnBFTm5STzNmd2k2cDFYczVDdGc",
@@ -3922,18 +3934,6 @@
       "titleZh": "淘汰了Mainoo并重返拉什福德：曼联的英格兰球员接下来该怎么办？"
     },
     {
-      "id": "Fabrizio Romano:CBMiugFBVV95cUxOWDktV0ZfTW1Kb3FwRHp0dmwzOTEwUmh6bUZlMGZPZmpqdWFQUDgtX09qRUlTV1JKR0R5QU11QjhVa0s2cnAtTDZoTFdJekl4TDhEVGZRTVRVM1c5ZDY1bWFOUDRXYU1HSm5ya1NndFotU25aRkFVd0hrTTJTSnBwQmhMdXJ1S3phNUxLRS1HczhOTXhBeUJ3emU0LWtldGdhZ0kzRlEwSjRYZ2pjYWJUQjNWbUFGSHZTU0E",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "OneFootball",
-      "tier": 1,
-      "title": "Fabrizio Romano: Manchester United ‘to keep’ Amad Diallo amid Newcastle interest",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDktV0ZfTW1Kb3FwRHp0dmwzOTEwUmh6bUZlMGZPZmpqdWFQUDgtX09qRUlTV1JKR0R5QU11QjhVa0s2cnAtTDZoTFdJekl4TDhEVGZRTVRVM1c5ZDY1bWFOUDRXYU1HSm5ya1NndFotU25aRkFVd0hrTTJTSnBwQmhMdXJ1S3phNUxLRS1HczhOTXhBeUJ3emU0LWtldGdhZ0kzRlEwSjRYZ2pjYWJUQjNWbUFGSHZTU0E?oc=5",
-      "published": "2026-07-21T11:37:52.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ） ：曼联在纽卡斯尔的兴趣中“留住”阿马德·迪亚洛（ Amad"
-    },
-    {
       "id": "Samuel Luckhurst:CBMiigFBVV95cUxOMlNiSWVhTzBnVUlLSzFaQVRENGFSZzRXSE01YkRRRjd6cW5ydVJ6TFYzUFR2SUdXYkx1R1BBXzlIUUpWRUtYX2ZIdUh6a3pUSmlOSXJxNkF2NHFzdEpHVFktY3dDTXRFUktEQ1NFN1N3c0JJZ0FWQ0UyMlNaRHV5c256bm9GV0prMnc",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -3956,6 +3956,18 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OeFc5TFFXZjZMdXZ3WDJweVRSdG5fNW1PdDVWTjY2bFpTUW5Rd0NFOXktUTFIV3pLR1lSVVpIb29GWEJjc0dKSS1XaGwtM0JmMlR1clh6eVRjUmFzVmM1T1ZJYVFfTmd3WHRQWmJ2blVDRDNROVVzeGo0R0xIQQ?oc=5",
       "published": "2026-07-21T05:00:00.000Z",
       "titleZh": "“如果我们击败他们，我会喜欢的” ： Keegan-Ferguson的竞争将英超联赛提升了一个水平"
+    },
+    {
+      "id": "Fabrizio Romano:CBMiugFBVV95cUxNMldRVjZaNkVDZU50N2Yzd2RoR0N3NTh5dmFTZ3cxYnhTbU1kZGtNSTBFaGNSX0hZZl8xaG5ZcG4xUDMtWjF4cEl3elJpeHdXTWtxLXZTUTVBMTMzX3Ata2dFcktXcGVOX2ZzTUxzOTk0S2oydkxjcEVqS3VxMm92TkFFdVIzdUMzZUE0TXBWOTYtV05NVjlqWnVSY1ZpYjRfZkoxOFgyTnlnQS1BQ1hIa2hVZzNSTVBOM1E",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "OneFootball",
+      "tier": 1,
+      "title": "Fabrizio Romano: Manchester United ‘to keep’ Amad Diallo amid Newcastle interest",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMldRVjZaNkVDZU50N2Yzd2RoR0N3NTh5dmFTZ3cxYnhTbU1kZGtNSTBFaGNSX0hZZl8xaG5ZcG4xUDMtWjF4cEl3elJpeHdXTWtxLXZTUTVBMTMzX3Ata2dFcktXcGVOX2ZzTUxzOTk0S2oydkxjcEVqS3VxMm92TkFFdVIzdUMzZUE0TXBWOTYtV05NVjlqWnVSY1ZpYjRfZkoxOFgyTnlnQS1BQ1hIa2hVZzNSTVBOM1E?oc=5",
+      "published": "2026-07-21T02:52:27.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ） ：曼联在纽卡斯尔的兴趣中“留住”阿马德·迪亚洛（ Amad"
     },
     {
       "id": "Samuel Luckhurst:CBMihgFBVV95cUxOeHdyc0tfa01SeEM1elVBWks4TEZDbUd5V2t0ZVVBMkJybk84LTRTc0tCQU5NYlhSVjBTRFhZTHZqN0NyazdIZWRKU25USnZyWFZqLUhZbnFCV0p1a0N0UlRQVnowb1JuSC1zc3ZuZklvV1JibXp3UkFHelR0NjlmTTQxdVk3UQ",
@@ -4114,6 +4126,18 @@
       "titleZh": "做出了决定！为什么曼联选择迈克尔·卡里克！ | Inside United W/Laurie Whitwell Dewald Brevis (qBbAN9U147)"
     },
     {
+      "id": "Andy Mitten:CBMiW0FVX3lxTE54NUlKdjBQRlo0Z2VPWWhFMFRWQU5rRDZMVVNjMEVPRU9YZzFydGZBblAyMXNMWGgybVl2eEVPOFFYTzJuY1JkMnNpQW5JWm9tVF93d05jcllIdTA",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Manchester United's NEW STADIUM Gets Fresh Update ONE YEAR ON Motherwell Vs Hearts (iwR8UEwqpi)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54NUlKdjBQRlo0Z2VPWWhFMFRWQU5rRDZMVVNjMEVPRU9YZzFydGZBblAyMXNMWGgybVl2eEVPOFFYTzJuY1JkMnNpQW5JWm9tVF93d05jcllIdTA?oc=5",
+      "published": "2026-07-18T08:27:05.000Z",
+      "titleZh": "曼彻斯特联队的新体育场在Motherwell Vs Hearts （ iwR8UEwqpi ）上获得了一年的最新更新"
+    },
+    {
       "id": "Chris Wheeler:CBMi8wJBVV95cUxQb2pnaTFjemlfMGNPSG0zRXNzMURwcTVPOENuODlieEI3V1JTUUV0Q1hvUGFKV1VsRHlwOUNVTEtiOFNzVDFYenUtWjM5ZERHSHlkaUZ6S2FhcTFNUk8wSGN5RjYxMEdlZ2VYRWl5SU9VamVZaUNfMjBkb19LYzZxSXd0UVM5ZVdwSzJkOFJZc05NUGhoQUNsZlppemx6UGdUWU1Gc0lUSlpGNzVzelhibTlOLVQ0VzU2M2RPZVJWaUo5dVd0RkRHMEZ6dmFrTDI0S19TZmxCdGVFRlBHdDRtSGZwZ25qTVZJVk1sZzV3Nmpvd3R3WGFnLUR3dzI0cDk2dkRvWHhPekZZc3FTSmpqNEl0dm4tamREaGJfMmVXRkZyY0F4Q0twendlMG1rUVVfbGJYUS1nRWtDaTg2NElLRDFZZFA4M29hLVdmMF96MFliUnRoUmpHdDBIX2JnNkFxaGY3Q0pwTktnaHBOa3pEczZRRQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -4148,33 +4172,9 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmJMWkhIUFBrdk1ESHZsOTJ4YUEtWVB2VThSZE9uaUxJcjJSSVF2RXI5ck1NVXZ0ZS1BRlRWRkYzZTVjUl93R08tSnBBcVJtdGFOODhCNDdVWF95YVJ5SC0tanpNbndENGo5Y3NOdU1tdXZGZ3o0REZfcEJqYWN2cDlMNA?oc=5",
       "published": "2026-07-17T13:42:21.000Z",
       "titleZh": "Man Utd squad for Wrexham revealed as one of three new signings involved"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiiAFBVV95cUxQQlhteTM0Z2tSM3FHcFcydXpKRnJtTHByeG9BeGlkZHVvUmVZZENXYWxlZWxjc2x6Z1BXR002R2FtRXU3N2lDWEV1bUVlWjhiQnA3LWpzRlZRZVU2NFQ0NDFySFAzbl8xYXBRai11NXpjRnZoVnU4aUNUenBCcHlJVm1iOXh3czRs",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms Man Utd transfer call that hints at next signing",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlhteTM0Z2tSM3FHcFcydXpKRnJtTHByeG9BeGlkZHVvUmVZZENXYWxlZWxjc2x6Z1BXR002R2FtRXU3N2lDWEV1bUVlWjhiQnA3LWpzRlZRZVU2NFQ0NDFySFAzbl8xYXBRai11NXpjRnZoVnU4aUNUenBCcHlJVm1iOXh3czRs?oc=5",
-      "published": "2026-07-17T08:50:00.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认曼联转会电话，暗示下次签约"
-    },
-    {
-      "id": "David Ornstein:CBMingFBVV95cUxPRzRud29rQXhlb2tSUTJDOXlOLUtzQ19fTHNRdnYtMGFDNnlEYXJNNVBtbUVYY3BzN0R4TENpajdac3VmTkttOFNYSnRrMkxvMDU5RWhwOXdyTm5jY3Z4QnlWdG03ay14MGdZZm1UT1VQanFWbkdfRHEwZjF2Z2RKMTUzQ21GMkpyOVZIdUV6S210YUJzMTRpTUhMZnJqUQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The Independent",
-      "tier": 1,
-      "title": "Marcus Rashford’s ‘Man United exit clause expires’ as uncertainty grows over his future",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzRud29rQXhlb2tSUTJDOXlOLUtzQ19fTHNRdnYtMGFDNnlEYXJNNVBtbUVYY3BzN0R4TENpajdac3VmTkttOFNYSnRrMkxvMDU5RWhwOXdyTm5jY3Z4QnlWdG03ay14MGdZZm1UT1VQanFWbkdfRHEwZjF2Z2RKMTUzQ21GMkpyOVZIdUV6S210YUJzMTRpTUhMZnJqUQ?oc=5",
-      "published": "2026-07-17T07:34:00.000Z",
-      "titleZh": "随着未来不确定性的增加，马库斯·拉什福德（ Marcus Rashford ）的“曼联退出条款”到期"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-21T20:10:47.856Z",
+  "journalistsUpdatedAt": "2026-07-21T21:31:29.117Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

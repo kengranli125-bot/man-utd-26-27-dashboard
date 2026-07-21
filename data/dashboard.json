@@ -3886,6 +3886,30 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMiogFBVV95cUxNNFlxLUFXYlMwN1RTNVNCZEdYanh3V0NzRnBDSngwZGdRV2ZiU0R6b3gwUnNBT1lLUVdMcC1VbW9SSXZvakJLcm9CMlRLa3Y5OFJvb2RWNlYzckFDMWNwdHNNWDMxM2JyTU5iWFJac3FUUmcxX1RjWW9pd3JNX21VeDZIdm85Rk95Nl9JZXAyRnBFTm5STzNmd2k2cDFYczVDdGc",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "‘I’ll love it if we beat them’: Keegan-Ferguson rivalry took Premier League up a level",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFlxLUFXYlMwN1RTNVNCZEdYanh3V0NzRnBDSngwZGdRV2ZiU0R6b3gwUnNBT1lLUVdMcC1VbW9SSXZvakJLcm9CMlRLa3Y5OFJvb2RWNlYzckFDMWNwdHNNWDMxM2JyTU5iWFJac3FUUmcxX1RjWW9pd3JNX21VeDZIdm85Rk95Nl9JZXAyRnBFTm5STzNmd2k2cDFYczVDdGc?oc=5",
+      "published": "2026-07-21T05:00:00.000Z",
+      "titleZh": "“如果我们击败他们，我会喜欢的” ： Keegan-Ferguson的竞争将英超联赛提升了一个水平"
+    },
+    {
+      "id": "Laurie Whitwell:CBMimgFBVV95cUxQZUZrUDdiLXg5WUJnRmZYWnJEUDdPQmJEOWl6V21UbC1WNDFLcTBCelFTMDFOZEFxNGFmOU9WdTB2MzdBV1k1NkNHYVBNZHZpNjVvZnNUdDNodjQ2ODN0dEl1Z1pMaXdudUxkWWdmZGlmbkJTZkljTWdySGhzMjBEVHluYnB2UERlUHpmMnR3N01RR1psY1g1QmJR",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Sidelined Mainoo and returning Rashford: What next for Manchester United’s England players?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUZrUDdiLXg5WUJnRmZYWnJEUDdPQmJEOWl6V21UbC1WNDFLcTBCelFTMDFOZEFxNGFmOU9WdTB2MzdBV1k1NkNHYVBNZHZpNjVvZnNUdDNodjQ2ODN0dEl1Z1pMaXdudUxkWWdmZGlmbkJTZkljTWdySGhzMjBEVHluYnB2UERlUHpmMnR3N01RR1psY1g1QmJR?oc=5",
+      "published": "2026-07-21T04:26:37.000Z",
+      "titleZh": "淘汰了Mainoo并重返拉什福德：曼联的英格兰球员接下来该怎么办？"
+    },
+    {
       "id": "Fabrizio Romano:CBMiugFBVV95cUxNMldRVjZaNkVDZU50N2Yzd2RoR0N3NTh5dmFTZ3cxYnhTbU1kZGtNSTBFaGNSX0hZZl8xaG5ZcG4xUDMtWjF4cEl3elJpeHdXTWtxLXZTUTVBMTMzX3Ata2dFcktXcGVOX2ZzTUxzOTk0S2oydkxjcEVqS3VxMm92TkFFdVIzdUMzZUE0TXBWOTYtV05NVjlqWnVSY1ZpYjRfZkoxOFgyTnlnQS1BQ1hIa2hVZzNSTVBOM1E",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -3954,7 +3978,7 @@
       "tier": 2,
       "title": "Manchester United’s greatest players: No 14, Ruud van Nistelrooy",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0VjOXg3a1p0QWpKOGVSWVpQTS1USW82LVVKRmY5WGRoTkV6NXIyeThoaGFYdnliSS0xZVVKTTZKRDlEUlQwQzVERmRNclR5ZTFvdE9uSXRlUFdYMmFPMXBDT1FsQS14RUZsS2dIMEZtRzRFYklhc1RVNFZvTng2Yy13anZ3bGxkNUJTUFR4LWJGaDdkcDc0WkpTYUJzWDdKRnVpOXM5UGN5U2M?oc=5",
-      "published": "2026-07-20T04:16:16.000Z",
+      "published": "2026-07-20T04:16:00.000Z",
       "titleZh": "曼联最伟大的球员： 14号， Ruud van Nistelrooy"
     },
     {
@@ -4102,18 +4126,6 @@
       "titleZh": "曼联新闻：曼联阵容为雷克瑟姆做好准备"
     },
     {
-      "id": "Laurie Whitwell:CBMikgFBVV95cUxNUV84dG05cWR4ZUd6dHg5eU5HRWRNb3BuSTh5ZnBSMG5NQ1g5aEJMRUpEZVZVa1U3QW5DU0NYcGsxQjExVGhQaVJzdVZ0VkNPNmI1WkhDRElHYUdUUHRIRjhjTjBydjZpd0ZfY1QwZ3NfbjNFQVNmU0J5YzhMRXhrczJKNmh6ZWQ4VC1yOGtBX2VxQQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Inside Youri Tielemans’ Man United transfer: Why Villa had release clause, Ederson issue, Emery call - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUV84dG05cWR4ZUd6dHg5eU5HRWRNb3BuSTh5ZnBSMG5NQ1g5aEJMRUpEZVZVa1U3QW5DU0NYcGsxQjExVGhQaVJzdVZ0VkNPNmI1WkhDRElHYUdUUHRIRjhjTjBydjZpd0ZfY1QwZ3NfbjNFQVNmU0J5YzhMRXhrczJKNmh6ZWQ4VC1yOGtBX2VxQQ?oc=5",
-      "published": "2026-07-16T12:00:04.000Z",
-      "titleZh": "Inside Youri Tielemans ’Man United transfer: Why Villa had release clause, Ederson issue, Emery call - The Athletic"
-    },
-    {
       "id": "Rob Dawson:CBMiW0FVX3lxTE1paGd2cWI3UlZjams1bnRvc0FHRUxUbDVjMXBBVGZxclVWdDNhTzNjdV9QZDJ0eXRkaV9IY0hrUVkwTmFRbmMtdlVua01VVWUzVWZYdlgxX0VkNms",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -4160,21 +4172,9 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHhLcm9zdnp1VHlfQTFFUHZXMV8wU19oM0lFYkNNc09PbzRkbXlSUWhaTDR0aENpNFA4R3RZVFB1T29XR2xPaVJiY2JiOXhNU2xZU0Fna0g5ZVRnX3VkUlFyTVZ5SzczVG5YTEs1Qk51N2FpZDZWT0JJNDZiQUdxMWhWV0ZhQQ?oc=5",
       "published": "2026-07-15T06:40:23.000Z",
       "titleZh": "罗马诺透露曼联就皇家马德里球星进行谈判，因为INEOS决定接下来的两个目标"
-    },
-    {
-      "id": "Fabrizio Romano:CBMioAFBVV95cUxObmMwdUdPVm8tSC1XTkhiUFl3OFFxeVNFYXRDS05XYzdJejYxWEU4bzQwWlBpa3NMWXVJbjFhZ2dWYmRGY0p1VXhQS0ZzalVCZF8zNUJYdnI5eDBYU0ZJMU9hRDNXbVlnVE9xOC1kOWh1eFdMUU1aaG56RTl5cUt5eDI2UDBhMWN1QURWbmU2WGtsLTVQTW01eGlJRk0wTDBr",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Read Newcastle",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms Man Utd transfer news that boosts Newcastle United",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmMwdUdPVm8tSC1XTkhiUFl3OFFxeVNFYXRDS05XYzdJejYxWEU4bzQwWlBpa3NMWXVJbjFhZ2dWYmRGY0p1VXhQS0ZzalVCZF8zNUJYdnI5eDBYU0ZJMU9hRDNXbVlnVE9xOC1kOWh1eFdMUU1aaG56RTl5cUt5eDI2UDBhMWN1QURWbmU2WGtsLTVQTW01eGlJRk0wTDBr?oc=5",
-      "published": "2026-07-15T06:00:00.000Z",
-      "titleZh": "Fabrizio Romano确认曼联转会新闻提振纽卡斯尔联队"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-21T04:12:12.062Z",
+  "journalistsUpdatedAt": "2026-07-21T06:40:15.545Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

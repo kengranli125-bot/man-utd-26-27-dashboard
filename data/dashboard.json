@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T03:45:09.395Z",
+  "updatedAt": "2026-07-22T08:43:46.254Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -3229,11 +3229,53 @@
   "scorers": [],
   "news": [
     {
+      "title": "Transfer rumors, news: Arsenal, Spurs, Chelsea want Rashford",
+      "published": "2026-07-22T07:49:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49422693/transfer-rumors-news-arsenal-spurs-chelsea-want-man-united-winger-marcus-rashford",
+      "image": "https://a.espncdn.com/photo/2026/0616/r1674090_1296x729_16-9.jpg",
+      "titleZh": "转会谣言、新闻：阿森纳、马刺、切尔西想要拉什福德"
+    },
+    {
+      "title": "Manchester United face backlash from support groups for season ticket restrictions",
+      "published": "2026-07-22T07:35:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49422691/manchester-united-face-backlash-support-groups-season-ticket-restrictions",
+      "image": "https://a.espncdn.com/photo/2026/0306/r1624085_1296x729_16-9.jpg",
+      "titleZh": "曼联面临支持团体对季票限制的强烈反对"
+    },
+    {
+      "title": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
+      "published": "2026-07-22T06:12:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
+      "titleZh": "世界杯是帮助还是阻碍了你的英超球队？锦标赛如何影响每个俱乐部"
+    },
+    {
+      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "published": "2026-07-22T06:09:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-07-22T06:09:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692213_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
       "title": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
-      "published": "2026-07-21T15:50:42Z",
+      "published": "2026-07-22T06:01:07Z",
       "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
       "titleZh": "ESPN挑选的季前友谊赛--夏季最大的关系是什么时候？"
+    },
+    {
+      "title": "Transfer rumors, news: Man United, Villa looking to sign Everton's Ndiaye",
+      "published": "2026-07-22T00:15:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692197_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联，别墅希望签署埃弗顿的Ndiaye"
     },
     {
       "title": "Sir Alex Ferguson pays tribute to great rival Kevin Keegan",
@@ -3250,32 +3292,11 @@
       "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
     },
     {
-      "title": "Did World Cup help or hinder your Premier League team? How tournament affected each club",
-      "published": "2026-07-21T08:34:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
-      "titleZh": "世界杯是帮助还是阻碍了你的英超球队？锦标赛如何影响每个俱乐部"
-    },
-    {
-      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-07-21T08:33:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
-    },
-    {
       "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
       "published": "2026-07-21T06:27:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-07-21T12:43:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0714/r1689166_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
@@ -3290,37 +3311,16 @@
       "url": "https://www.espn.com/soccer/story/_/id/49397847/radek-vitek-manchester-united-leave-game-preseason-wrexham-starter",
       "image": "https://a.espncdn.com/photo/2026/0719/r1691162_1296x729_16-9.jpg",
       "titleZh": "守门员Radek Vitek准备离开曼联寻找头号角色"
-    },
-    {
-      "title": "Wrexham beat Man United in Helsinki friendly as Andrey Santos makes strong debut",
-      "published": "2026-07-18T18:44:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49392372/wrexham-manchester-united-friendly-result-recap-helsinki-preseason",
-      "image": "https://a.espncdn.com/photo/2026/0718/r1690888_1296x729_16-9.jpg",
-      "titleZh": "雷克瑟姆在赫尔辛基友谊赛击败曼联，安德烈·桑托斯首次亮相"
-    },
-    {
-      "title": "Man United vs. Wrexham: Andrey Santos in travelling squad, Benjamin Sesko absent",
-      "published": "2026-07-17T14:14:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49384172/man-united-vs-wrexham-andrey-santos-travelling-squad-benjamin-sesko-absent",
-      "image": "https://a.espncdn.com/photo/2026/0717/r1690427_1296x729_16-9.jpg",
-      "titleZh": "曼联vs雷克瑟姆：安德烈·桑托斯在旅行队，本杰明·塞斯科缺席"
-    },
-    {
-      "title": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
-      "published": "2026-07-16T00:10:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49371654/tielemans-move-man-united-one-best-signings-window",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_.jpg",
-      "titleZh": "劳伦斯：蒂勒曼斯转会曼联是这个窗口中最好的签约之一"
     }
   ],
   "transfers": [
     {
-      "title": "Laurens: Tielemans' move to Man United is one of the best signings of the window",
-      "published": "2026-07-16T00:10:37Z",
-      "url": "https://www.espn.com/video/clip/_/id/49371654/tielemans-move-man-united-one-best-signings-window",
-      "image": "https://a.espncdn.com/media/motion/2026/0715/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_/dm_260715_COM_SOC_Analysis_Laurens3A_TielemansE28099_move_to_Man_United_is_one_of_the_best_signings_of_the_window_.jpg",
-      "titleZh": "劳伦斯：蒂勒曼斯转会曼联是这个窗口中最好的签约之一",
-      "player": "尤里·蒂勒曼斯",
+      "title": "Transfer rumors, news: Man United, Villa looking to sign Everton's Ndiaye",
+      "published": "2026-07-22T00:15:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
+      "image": "https://a.espncdn.com/photo/2026/0721/r1692197_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联，别墅希望签署埃弗顿的Ndiaye",
+      "player": "",
       "status": "已完成",
       "statusType": "done"
     }
@@ -3716,25 +3716,6 @@
       "statusType": "available",
       "statusLabel": "可用",
       "availabilityScore": 90
-    },
-    {
-      "id": "fotmob-465960",
-      "name": "Youri Tielemans",
-      "jersey": "",
-      "position": "Midfielder",
-      "age": 29,
-      "nationality": "Belgium",
-      "countryCode": "bel",
-      "statusType": "watch",
-      "statusLabel": "伤情观察",
-      "availabilityScore": 68,
-      "nameZh": "尤里·蒂勒曼斯",
-      "shortName": "Tielemans",
-      "shortNameZh": "蒂勒曼斯",
-      "nationalityZh": "比利时",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
-      "source": "confirmed-transfer"
     },
     {
       "id": "259902",

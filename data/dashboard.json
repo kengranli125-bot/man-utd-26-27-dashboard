@@ -3877,14 +3877,62 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE52SmRadGk5Zm81dDR0ai1pZWVBRk5ZVW45N2JNMnNJbld1VjdlTGN6UE9mc2IwUmhWamNUNUhwWF9qZUduSFVFcVRuR2lrRlpyUGFRWE9lN0ZQUzV3VG5xZ19DT2stTnVtMmc",
+      "id": "Carl Anka:CBMilgFBVV95cUxQY1NoSXZMd1E2OEc2TkJCTV9RYlFpRHRpQWloVm5WOEhaYmpveGFBcGxLMVlyV3VzbmpzNVlQcFdyNzctaGR6SExJUE95WHNuLW9JTTlaX1BmN2s0Y2tzb1lfYUdOS3hEbHU0WFUyLWozSm5kbEdPUmdaOHdDeF9WSjc3cmJHNDRyWW81ejI4Z3Z0WGlVZUE",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "JJ Gabriel included in first Manchester United senior squad",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1NoSXZMd1E2OEc2TkJCTV9RYlFpRHRpQWloVm5WOEhaYmpveGFBcGxLMVlyV3VzbmpzNVlQcFdyNzctaGR6SExJUE95WHNuLW9JTTlaX1BmN2s0Y2tzb1lfYUdOS3hEbHU0WFUyLWozSm5kbEdPUmdaOHdDeF9WSjc3cmJHNDRyWW81ejI4Z3Z0WGlVZUE?oc=5",
+      "published": "2026-07-23T16:00:15.000Z",
+      "titleZh": "JJ Gabriel入选曼联第一高级阵容"
+    },
+    {
+      "id": "James Ducker:CBMipAFBVV95cUxOM2VZQ0o2ZjEtcjAzblZYS2QtSzNpdG00ZkFPdUh2ZFRzZUZ0S3B1Nnc2T2VyUjNXOTI4VEVJQkd0WnFkOWVJOFEyS3NSVXExUldYN2loZWVZeG92WklOYXpoeHRlcVhUWmk2WjFiYTBJbWZZV1duaGRjSk1VTTkzZFdLT1RZSXdYU1ZJdEpvamJsd0N2akUwcnoxeWZXOXo4THF6bA",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Elliot Anderson taunts Man Utd with ‘Kings of Manchester’ jibe",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2VZQ0o2ZjEtcjAzblZYS2QtSzNpdG00ZkFPdUh2ZFRzZUZ0S3B1Nnc2T2VyUjNXOTI4VEVJQkd0WnFkOWVJOFEyS3NSVXExUldYN2loZWVZeG92WklOYXpoeHRlcVhUWmk2WjFiYTBJbWZZV1duaGRjSk1VTTkzZFdLT1RZSXdYU1ZJdEpvamJsd0N2akUwcnoxeWZXOXo4THF6bA?oc=5",
+      "published": "2026-07-23T16:00:00.000Z",
+      "titleZh": "埃利奥特·安德森（ Elliot Anderson ）用“曼彻斯特之王”嘲笑曼联"
+    },
+    {
+      "id": "Rob Dawson:CBMisgFBVV95cUxQc3JZbkVNSjlXQVYtUTVHd1I4SlFEb3o2bXpxR25rMjA3SEZGaTZCMzZ6WDNyNFItNmVmQVAyQzJVSlFZOU5GcEdOTVUxS2xaQkJIenh6dlZMZjJtNmIwd1FBOExfWFcyd2NJUmZxSi1kQU1lTUw4eFhPX2VJMUJobkVSdHVKcElFVzRBcDhUcWZxSDBEdnlaYjJLRjJVb3g5bWJpUnROeUM3NkJ4LU1nRXhB",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Elliot Anderson completes move to Manchester City from Nottingham Forest",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3JZbkVNSjlXQVYtUTVHd1I4SlFEb3o2bXpxR25rMjA3SEZGaTZCMzZ6WDNyNFItNmVmQVAyQzJVSlFZOU5GcEdOTVUxS2xaQkJIenh6dlZMZjJtNmIwd1FBOExfWFcyd2NJUmZxSi1kQU1lTUw4eFhPX2VJMUJobkVSdHVKcElFVzRBcDhUcWZxSDBEdnlaYjJLRjJVb3g5bWJpUnROeUM3NkJ4LU1nRXhB?oc=5",
+      "published": "2026-07-23T16:00:00.000Z",
+      "titleZh": "埃利奥特·安德森（ Elliot Anderson ）从诺丁汉森林（ Nottingham Forest ）搬到曼城"
+    },
+    {
+      "id": "Simon Stone:CBMiakFVX3lxTE9acThLZFM2Smk0eEEyMi1oU0txNmtxSnpuM0lhVTgxWTdRcHBGMGlLeGU5WG5VaWJlNWJWamx5SlNZWElHTW1VY1ZhSlEtNDFYcno4TkpiRllGaVlJWENZV2RrTWpuUDVKX3c",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Danilo: Man Utd and Newcastle interested Brazil and Botafogo midfielder",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9acThLZFM2Smk0eEEyMi1oU0txNmtxSnpuM0lhVTgxWTdRcHBGMGlLeGU5WG5VaWJlNWJWamx5SlNZWElHTW1VY1ZhSlEtNDFYcno4TkpiRllGaVlJWENZV2RrTWpuUDVKX3c?oc=5",
+      "published": "2026-07-23T14:43:24.000Z",
+      "titleZh": "达尼洛：曼联和纽卡斯尔对巴西和博塔弗戈中场感兴趣"
+    },
+    {
+      "id": "Simon Stone:CBMi8AFBVV95cUxPN2otbDIyWUNzMjMyTWN3S3E1aVpZNXE3dEVsQXV6ZGZBbGVsMWNtR0trTFpNaDY5VjRtY0JXZUhob0ZTNUI2dENEQTN0YVhybjlrUTA3SWZjUDJYLUYxTmlST2xSVWdZODlOQVEzYnloeVVUdDk0TG5BcUsyVWFnMGs2X1J4T2t0SHJtdVdCMzY3WnE2Q25EelA4dk1ibEpCYngtb2NIZkNuMHN1MGxsYS1vbmxyUm5VZDlyS19OMFdaQU9YM0ZnTjVQdUNlSVp3Zmp3eDNDR1A0eWNYdm1heGo4Smg0dDRYdzV2dTlJOVo",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "JJ Gabriel, 15, could make Man Utd debut in Rosenborg friendly after senior call-up",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52SmRadGk5Zm81dDR0ai1pZWVBRk5ZVW45N2JNMnNJbld1VjdlTGN6UE9mc2IwUmhWamNUNUhwWF9qZUduSFVFcVRuR2lrRlpyUGFRWE9lN0ZQUzV3VG5xZ19DT2stTnVtMmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2otbDIyWUNzMjMyTWN3S3E1aVpZNXE3dEVsQXV6ZGZBbGVsMWNtR0trTFpNaDY5VjRtY0JXZUhob0ZTNUI2dENEQTN0YVhybjlrUTA3SWZjUDJYLUYxTmlST2xSVWdZODlOQVEzYnloeVVUdDk0TG5BcUsyVWFnMGs2X1J4T2t0SHJtdVdCMzY3WnE2Q25EelA4dk1ibEpCYngtb2NIZkNuMHN1MGxsYS1vbmxyUm5VZDlyS19OMFdaQU9YM0ZnTjVQdUNlSVp3Zmp3eDNDR1A0eWNYdm1heGo4Smg0dDRYdzV2dTlJOVo?oc=5",
       "published": "2026-07-23T13:36:37.000Z",
       "titleZh": "15岁的JJ Gabriel在高层征召后可以让曼联在罗森堡首次亮相"
     },
@@ -3913,16 +3961,16 @@
       "titleZh": "皇家马德里愿意将Aurelien Tchouameni出售给曼联，何塞·穆里尼奥准备在价格达到要求时兑现"
     },
     {
-      "id": "Carl Anka:CBMizAFBVV95cUxQVEtkZ1pQeDVqNHVUWjJ6RUo5N0dVaVJGX1FOTWJWazd2clJIdzRMWXJEUHZyM1lmUjduYzJ6MFkycjdkNXlqUURVaE9iV0VrUXZLRU14d094RlBzR25LRWVwZ3FRRGNLcXM4bUJVWFh5RHNTTnV3dHRFN2MxTHRBY1I4bTBwVm41MGNQcDlHeW5NVU0zb0tuMU0tVml2cWoxOGwzUVZldk02LTh5ZG9adFA5SE1ZTVdVTXEyOW5qMmZ6WlIxeThNd2FkOFc",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Shopping for Carrick and Man Utd: Fernandez-Pardo and other left-winger options",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEtkZ1pQeDVqNHVUWjJ6RUo5N0dVaVJGX1FOTWJWazd2clJIdzRMWXJEUHZyM1lmUjduYzJ6MFkycjdkNXlqUURVaE9iV0VrUXZLRU14d094RlBzR25LRWVwZ3FRRGNLcXM4bUJVWFh5RHNTTnV3dHRFN2MxTHRBY1I4bTBwVm41MGNQcDlHeW5NVU0zb0tuMU0tVml2cWoxOGwzUVZldk02LTh5ZG9adFA5SE1ZTVdVTXEyOW5qMmZ6WlIxeThNd2FkOFc?oc=5",
-      "published": "2026-07-23T04:11:32.000Z",
-      "titleZh": "在Carrick and Man Utd购物： Fernandez-Pardo和其他左翼选择"
+      "id": "Fabrizio Romano:CBMimAFBVV95cUxQRDdiWjFJdkp4TUtQY0hBZEVsT3RoWDNiREJSU1hwSEZ0X1dDVGRqVkZXWnN1Rkd5NG95bHJPa1gxZEpMd25EaGNZdnI3NHZEOFlOaXRrV1d1RUU4YUdIckNQb29sUmtIRHRQOV9WSldodDJNQW5SQTVQc0hQQU52WU9Hd3NFN1F2MDhLSk84LTk5VjVFR0lRUQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals truth on Man Utd signing Real Madrid duo with 'everything done'",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDdiWjFJdkp4TUtQY0hBZEVsT3RoWDNiREJSU1hwSEZ0X1dDVGRqVkZXWnN1Rkd5NG95bHJPa1gxZEpMd25EaGNZdnI3NHZEOFlOaXRrV1d1RUU4YUdIckNQb29sUmtIRHRQOV9WSldodDJNQW5SQTVQc0hQQU52WU9Hd3NFN1F2MDhLSk84LTk5VjVFR0lRUQ?oc=5",
+      "published": "2026-07-22T20:21:35.000Z",
+      "titleZh": "罗马诺透露曼联签下皇家马德里二人组的真相， “一切都完成了”"
     },
     {
       "id": "Rob Dawson:CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA",
@@ -3983,18 +4031,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeGVtMDdIcHdLU0JmLU5rMVkwcnEyak10TzYxOW5YaWNuYjBQV3ZaRE9zM1ZFSHhkMU8tbjFwZlJuVWhVWnRFVjZrT29vWS10VWJXQlk5VHI3RV85bDNVcGNabDVLdWx1emhkNlM3MGtQelJLdGNrX3pjYXBCTmxIbkVCNXNqemlrcWliR1Q1S0FZVGh2Ry01dFRtT3h0RkVlWUtuay05Q2hOUFFJSkxIbzk5MjMwZGJrMmVJRi1NWmdudTVHVjIyRFJoSmhobWw4X3RPQlF5OHp3OExVenYtdDFlSzZQaU5PckxXNmNjUkZpblUtLS0xRGgtakdfRGNIWUUxNmdEaXZRZXZZUUZ1dVRTcEFVSHRVX1ZDcTlqTVZnR2x6YmdJUDVCSHBqOXI1ZmFQWUl3aGY4dWNDWTZlZUx1R291Q3h4WTV5RkVyVHlXRzg1anMwdXlOY1pqUQ?oc=5",
       "published": "2026-07-22T13:47:14.000Z",
       "titleZh": "英超联赛现场直播：迈克尔·卡里克谈论哈里·马奎尔的曼联未来"
-    },
-    {
-      "id": "Fabrizio Romano:CBMirgFBVV95cUxPYUdjQVdfcS1ydkRMX2pKNUxkV1I3RUNIUDRNZEg0REltVjZlSHBBZ2w1VllHb0xJMmFsVVNTdncyZ2k4VWticV9lajVfc3pJamk5SnNMd1k0Ykt3YjkzM3FTd2x0RUxsMUxOa08wS1BXUl9QbEhKc212ZjRrVXBCV0hpYUw0WjVtbkRhdEEwMk00aUhodWNIS2ZBRWY5Z1Z3V0pOTWszeDRqYnFUT3c",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano rules out three Man Utd transfers after £60m offer is 'accepted'",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUdjQVdfcS1ydkRMX2pKNUxkV1I3RUNIUDRNZEg0REltVjZlSHBBZ2w1VllHb0xJMmFsVVNTdncyZ2k4VWticV9lajVfc3pJamk5SnNMd1k0Ykt3YjkzM3FTd2x0RUxsMUxOa08wS1BXUl9QbEhKc212ZjRrVXBCV0hpYUw0WjVtbkRhdEEwMk00aUhodWNIS2ZBRWY5Z1Z3V0pOTWszeDRqYnFUT3c?oc=5",
-      "published": "2026-07-22T05:34:35.000Z",
-      "titleZh": "Romano在“接受” £ 6000万报价后排除了三次曼联转会"
     },
     {
       "id": "Andy Mitten:CBMiowFBVV95cUxPRVNyMDlERVhxZV9CQzFLZDloaFBTSmxXZzh2bDhjUnNCeXBpS2ZtRUNwdnRyaTl3SnhyZVpaT1BiS0F2TkJQNkk2MVY3MksyNzQwang2UGRRVU9iUEZ3elBNUG9YaXltS3dNZDZuQVFCY2tlRzRDSlQ4dDZNTk1kcGVKNld1ak5iMVFnVEF0VmJselE5d2Z5MWVkczBYaXdDaGJn",
@@ -4069,18 +4105,6 @@
       "titleZh": "淘汰了Mainoo并重返拉什福德：曼联的英格兰球员接下来该怎么办？"
     },
     {
-      "id": "Fabrizio Romano:CBMiugFBVV95cUxOWDktV0ZfTW1Kb3FwRHp0dmwzOTEwUmh6bUZlMGZPZmpqdWFQUDgtX09qRUlTV1JKR0R5QU11QjhVa0s2cnAtTDZoTFdJekl4TDhEVGZRTVRVM1c5ZDY1bWFOUDRXYU1HSm5ya1NndFotU25aRkFVd0hrTTJTSnBwQmhMdXJ1S3phNUxLRS1HczhOTXhBeUJ3emU0LWtldGdhZ0kzRlEwSjRYZ2pjYWJUQjNWbUFGSHZTU0E",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "OneFootball",
-      "tier": 1,
-      "title": "Fabrizio Romano: Manchester United ‘to keep’ Amad Diallo amid Newcastle interest",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDktV0ZfTW1Kb3FwRHp0dmwzOTEwUmh6bUZlMGZPZmpqdWFQUDgtX09qRUlTV1JKR0R5QU11QjhVa0s2cnAtTDZoTFdJekl4TDhEVGZRTVRVM1c5ZDY1bWFOUDRXYU1HSm5ya1NndFotU25aRkFVd0hrTTJTSnBwQmhMdXJ1S3phNUxLRS1HczhOTXhBeUJ3emU0LWtldGdhZ0kzRlEwSjRYZ2pjYWJUQjNWbUFGSHZTU0E?oc=5",
-      "published": "2026-07-21T11:37:52.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ） ：曼联在纽卡斯尔的兴趣中“留住”阿马德·迪亚洛（ Amad"
-    },
-    {
       "id": "Samuel Luckhurst:CBMiigFBVV95cUxOMlNiSWVhTzBnVUlLSzFaQVRENGFSZzRXSE01YkRRRjd6cW5ydVJ6TFYzUFR2SUdXYkx1R1BBXzlIUUpWRUtYX2ZIdUh6a3pUSmlOSXJxNkF2NHFzdEpHVFktY3dDTXRFUktEQ1NFN1N3c0JJZ0FWQ0UyMlNaRHV5c256bm9GV0prMnc",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -4117,6 +4141,18 @@
       "titleZh": "曼联新闻：马库斯·拉什福德（ Marcus Rashford ）未来的最新动态是什么？"
     },
     {
+      "id": "Fabrizio Romano:CBMiugFBVV95cUxNMldRVjZaNkVDZU50N2Yzd2RoR0N3NTh5dmFTZ3cxYnhTbU1kZGtNSTBFaGNSX0hZZl8xaG5ZcG4xUDMtWjF4cEl3elJpeHdXTWtxLXZTUTVBMTMzX3Ata2dFcktXcGVOX2ZzTUxzOTk0S2oydkxjcEVqS3VxMm92TkFFdVIzdUMzZUE0TXBWOTYtV05NVjlqWnVSY1ZpYjRfZkoxOFgyTnlnQS1BQ1hIa2hVZzNSTVBOM1E",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "OneFootball",
+      "tier": 1,
+      "title": "Fabrizio Romano: Manchester United ‘to keep’ Amad Diallo amid Newcastle interest",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMldRVjZaNkVDZU50N2Yzd2RoR0N3NTh5dmFTZ3cxYnhTbU1kZGtNSTBFaGNSX0hZZl8xaG5ZcG4xUDMtWjF4cEl3elJpeHdXTWtxLXZTUTVBMTMzX3Ata2dFcktXcGVOX2ZzTUxzOTk0S2oydkxjcEVqS3VxMm92TkFFdVIzdUMzZUE0TXBWOTYtV05NVjlqWnVSY1ZpYjRfZkoxOFgyTnlnQS1BQ1hIa2hVZzNSTVBOM1E?oc=5",
+      "published": "2026-07-21T02:52:27.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ） ：曼联在纽卡斯尔的兴趣中“留住”阿马德·迪亚洛（ Amad"
+    },
+    {
       "id": "Samuel Luckhurst:CBMihgFBVV95cUxOeHdyc0tfa01SeEM1elVBWks4TEZDbUd5V2t0ZVVBMkJybk84LTRTc0tCQU5NYlhSVjBTRFhZTHZqN0NyazdIZWRKU25USnZyWFZqLUhZbnFCV0p1a0N0UlRQVnowb1JuSC1zc3ZuZklvV1JibXp3UkFHelR0NjlmTTQxdVk3UQ",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -4127,45 +4163,9 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHdyc0tfa01SeEM1elVBWks4TEZDbUd5V2t0ZVVBMkJybk84LTRTc0tCQU5NYlhSVjBTRFhZTHZqN0NyazdIZWRKU25USnZyWFZqLUhZbnFCV0p1a0N0UlRQVnowb1JuSC1zc3ZuZklvV1JibXp3UkFHelR0NjlmTTQxdVk3UQ?oc=5",
       "published": "2026-07-20T20:41:00.000Z",
       "titleZh": "马刺队的Tynan Thompson交易可能为曼联最大规模的转会铺平道路"
-    },
-    {
-      "id": "Laurie Whitwell:CBMiqAFBVV95cUxQTmR1M3ZVdW5mclBCR29ob3FIWDdTd29aOW1meUpkQjhnQUtxTEM3UzZsbFhhbG5mUnlCbW1fR3F5Tl8wUVBkdzVCSDFxaEFMa2tXWERZR3VPeDRrR3JXU3dhMmtsS3JWN3Brb3hOaHBlTXdvbDNWUzF2ZmR3NV9yVkRMdWJIOFpDTFU3SW9VZEVockRZOTlKOHBWWnVsOVRLOG5MQjNCY3M",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United sign Tynan Thompson, 18, from Tottenham for fee of up to £8m - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmR1M3ZVdW5mclBCR29ob3FIWDdTd29aOW1meUpkQjhnQUtxTEM3UzZsbFhhbG5mUnlCbW1fR3F5Tl8wUVBkdzVCSDFxaEFMa2tXWERZR3VPeDRrR3JXU3dhMmtsS3JWN3Brb3hOaHBlTXdvbDNWUzF2ZmR3NV9yVkRMdWJIOFpDTFU3SW9VZEVockRZOTlKOHBWWnVsOVRLOG5MQjNCY3M?oc=5",
-      "published": "2026-07-20T11:15:40.000Z",
-      "titleZh": "曼联从托特纳姆热刺签下18岁的泰南·汤普森（ Tynan Thompson ） ，费用高达800万英镑- The Athletic"
-    },
-    {
-      "id": "Simon Stone:CBMingFBVV95cUxOSlRwSmd1RUt5c1RXS0FSZXBhM0pHZUs5MU4xZ1RTdmhySGxFZTJ3TDhpZGRKZTFva2t6WjBnZnpfRnppSUZGOWF1ZFFtbGtJeldMNG9panpfcE1kZ2ZEUHlyb1hhWlUtMmFHeno3QjJYejk5RGh0RXVEakM1WkN2VHROZkMyNFBKMVJTalhBTE1sOTltN00tNDByTFBTZw",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "‘Likeliest answer’ – Simon Stone reveals Rashford transfer outcome",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSlRwSmd1RUt5c1RXS0FSZXBhM0pHZUs5MU4xZ1RTdmhySGxFZTJ3TDhpZGRKZTFva2t6WjBnZnpfRnppSUZGOWF1ZFFtbGtJeldMNG9panpfcE1kZ2ZEUHlyb1hhWlUtMmFHeno3QjJYejk5RGh0RXVEakM1WkN2VHROZkMyNFBKMVJTalhBTE1sOTltN00tNDByTFBTZw?oc=5",
-      "published": "2026-07-20T09:58:39.000Z",
-      "titleZh": "“最有可能的答案” – Simon Stone透露Rashford转会结果"
-    },
-    {
-      "id": "Fabrizio Romano:CBMingFBVV95cUxOT2lfMzBFOHhIbkJEeWpfdEhnUHFTZmV0b0JxNkhYc0liWElpbHcwd1dfa0cwT3hkazNhZ0FJaHdrSVJxNFhGU2I5TjdVY1R2MUdpQjdHYXAzSmhmR3QtT0JEb0NESG80dVRGTDRUMGVJYnRoc0xCMV84d3I4N0J1TjBPSXZsZFo2TFlRV1RDUWJnTGM4S0NFNi1JcEFIQQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano gives update on next Man Utd midfield signing as Roma ‘send bid’ for top INEOS target",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2lfMzBFOHhIbkJEeWpfdEhnUHFTZmV0b0JxNkhYc0liWElpbHcwd1dfa0cwT3hkazNhZ0FJaHdrSVJxNFhGU2I5TjdVY1R2MUdpQjdHYXAzSmhmR3QtT0JEb0NESG80dVRGTDRUMGVJYnRoc0xCMV84d3I4N0J1TjBPSXZsZFo2TFlRV1RDUWJnTGM4S0NFNi1JcEFIQQ?oc=5",
-      "published": "2026-07-20T06:46:48.000Z",
-      "titleZh": "罗马诺就下一次曼联中场签约提供最新信息，罗马将“出价”收购INEOS顶级目标"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-23T15:07:09.556Z",
+  "journalistsUpdatedAt": "2026-07-23T16:43:07.524Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

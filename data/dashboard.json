@@ -4081,16 +4081,28 @@
   ],
   "journalists": [
     {
-      "id": "Samuel Luckhurst:CBMilAFBVV95cUxPZmdNRDZpaHFLdVBJdGk1SVNDWTRIclUxT28tNVd2ampsWWlpNU5OYWhQNnZaR2VYcjdYblhZY1dWM3VRaTdQWGxuVi1uYks2Q0RLSERrWkNVREJCNkQ1c1M5Y3RoMldOZXlkdVpoaFB6Q2Y3M0l6b081c04zSEV0RThQUmUwVHMydWIwZlU1THVQeTRU",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
+      "id": "Fabrizio Romano:CBMiowFBVV95cUxNdzZhWFZwV3lDZ1ZOZ2tFemI4eFpyNXVaRGNKeTJockRlcDMyVWYxQ25rME1LQ0xJQ0h0VHpobzVXenV3VGtCUmsyVVVsRWJiU2ppdnZWcGltRk1LR3U1UlA2ZVBOSW1zRGpjRXBJd0c4ODZfaTdjVURtak1oQWxYcXJyY215T2FZeVNPamV4blA0TGhyRUZYMjJaWGRyUnY0YzNR",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
       "source": "Football365",
-      "tier": 2,
-      "title": "Manchester United in crisis after Anderson quote",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmdNRDZpaHFLdVBJdGk1SVNDWTRIclUxT28tNVd2ampsWWlpNU5OYWhQNnZaR2VYcjdYblhZY1dWM3VRaTdQWGxuVi1uYks2Q0RLSERrWkNVREJCNkQ1c1M5Y3RoMldOZXlkdVpoaFB6Q2Y3M0l6b081c04zSEV0RThQUmUwVHMydWIwZlU1THVQeTRU?oc=5",
-      "published": "2026-07-24T10:31:24.000Z",
-      "titleZh": "安德森引用后，曼联陷入危机"
+      "tier": 1,
+      "title": "Man Utd: Contact made as Fabrizio Romano reveals £70m midfielder ‘crazy’ about joining",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzZhWFZwV3lDZ1ZOZ2tFemI4eFpyNXVaRGNKeTJockRlcDMyVWYxQ25rME1LQ0xJQ0h0VHpobzVXenV3VGtCUmsyVVVsRWJiU2ppdnZWcGltRk1LR3U1UlA2ZVBOSW1zRGpjRXBJd0c4ODZfaTdjVURtak1oQWxYcXJyY215T2FZeVNPamV4blA0TGhyRUZYMjJaWGRyUnY0YzNR?oc=5",
+      "published": "2026-07-24T11:19:06.000Z",
+      "titleZh": "曼联： Fabrizio Romano透露£ 7000万中场球员“疯狂”加入的联系方式"
+    },
+    {
+      "id": "Simon Stone:CBMiakFVX3lxTE8tNm5CUmFlMVFRclZ4VVk4ckU3cGZRZ3lETG04UG13UUVwdkZ1dzkxc3I4MmJOLWtic2NfZ2lTWThoVHlBNW4xUVEzYTlTWTRJQmpEeVQwV2Rvc3dMVDc0TmpnSjdkTEtpVkE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Manchester United receive enthusiastic welcome in Trondheim",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tNm5CUmFlMVFRclZ4VVk4ckU3cGZRZ3lETG04UG13UUVwdkZ1dzkxc3I4MmJOLWtic2NfZ2lTWThoVHlBNW4xUVEzYTlTWTRJQmpEeVQwV2Rvc3dMVDc0TmpnSjdkTEtpVkE?oc=5",
+      "published": "2026-07-24T10:42:13.000Z",
+      "titleZh": "曼联新闻：曼联在特隆赫姆受到热烈欢迎"
     },
     {
       "id": "David Ornstein:CBMipwFBVV95cUxOTzJEblh3VlpkRm00dld2VVFSSW5iMXViMUt2clp4SVRaYWdKaHN3dXVUTmNnT0VpYXRlbE0zQXRHZno3WjhOMmZrX2d0c19zWlJCbl9XUWllbFdLbkVVLXBGcUxfMVRQZ2dqZFpRbUlHdmFkTEdLOGxMWDFFVDNjYmpjcGFza3pWa3BveW5fSl85VUU4SEt4UG5ITkZFTnBwWkpINUtPQQ",
@@ -4177,18 +4189,6 @@
       "titleZh": "利兹与曼城就守门员詹姆斯·特拉福德进行谈判-消息来源"
     },
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE9acThLZFM2Smk0eEEyMi1oU0txNmtxSnpuM0lhVTgxWTdRcHBGMGlLeGU5WG5VaWJlNWJWamx5SlNZWElHTW1VY1ZhSlEtNDFYcno4TkpiRllGaVlJWENZV2RrTWpuUDVKX3c",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Danilo: Man Utd and Newcastle expressed interest in Brazil midfielder this summer",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9acThLZFM2Smk0eEEyMi1oU0txNmtxSnpuM0lhVTgxWTdRcHBGMGlLeGU5WG5VaWJlNWJWamx5SlNZWElHTW1VY1ZhSlEtNDFYcno4TkpiRllGaVlJWENZV2RrTWpuUDVKX3c?oc=5",
-      "published": "2026-07-23T14:43:24.000Z",
-      "titleZh": "达尼洛：曼联和纽卡斯尔对巴西和博塔弗戈中场感兴趣"
-    },
-    {
       "id": "Simon Stone:CBMi8AFBVV95cUxPN2otbDIyWUNzMjMyTWN3S3E1aVpZNXE3dEVsQXV6ZGZBbGVsMWNtR0trTFpNaDY5VjRtY0JXZUhob0ZTNUI2dENEQTN0YVhybjlrUTA3SWZjUDJYLUYxTmlST2xSVWdZODlOQVEzYnloeVVUdDk0TG5BcUsyVWFnMGs2X1J4T2t0SHJtdVdCMzY3WnE2Q25EelA4dk1ibEpCYngtb2NIZkNuMHN1MGxsYS1vbmxyUm5VZDlyS19OMFdaQU9YM0ZnTjVQdUNlSVp3Zmp3eDNDR1A0eWNYdm1heGo4Smg0dDRYdzV2dTlJOVo",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -4237,30 +4237,6 @@
       "titleZh": "曼联接近抓住两个曼城热门前景，因为他们继续投资于青年"
     },
     {
-      "id": "Carl Anka:CBMizAFBVV95cUxQVEtkZ1pQeDVqNHVUWjJ6RUo5N0dVaVJGX1FOTWJWazd2clJIdzRMWXJEUHZyM1lmUjduYzJ6MFkycjdkNXlqUURVaE9iV0VrUXZLRU14d094RlBzR25LRWVwZ3FRRGNLcXM4bUJVWFh5RHNTTnV3dHRFN2MxTHRBY1I4bTBwVm41MGNQcDlHeW5NVU0zb0tuMU0tVml2cWoxOGwzUVZldk02LTh5ZG9adFA5SE1ZTVdVTXEyOW5qMmZ6WlIxeThNd2FkOFc",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Shopping for Carrick and Man Utd: Fernandez-Pardo and other left-winger options",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEtkZ1pQeDVqNHVUWjJ6RUo5N0dVaVJGX1FOTWJWazd2clJIdzRMWXJEUHZyM1lmUjduYzJ6MFkycjdkNXlqUURVaE9iV0VrUXZLRU14d094RlBzR25LRWVwZ3FRRGNLcXM4bUJVWFh5RHNTTnV3dHRFN2MxTHRBY1I4bTBwVm41MGNQcDlHeW5NVU0zb0tuMU0tVml2cWoxOGwzUVZldk02LTh5ZG9adFA5SE1ZTVdVTXEyOW5qMmZ6WlIxeThNd2FkOFc?oc=5",
-      "published": "2026-07-23T04:11:32.000Z",
-      "titleZh": "在Carrick and Man Utd购物： Fernandez-Pardo和其他左翼选择"
-    },
-    {
-      "id": "Fabrizio Romano:CBMimAFBVV95cUxQRDdiWjFJdkp4TUtQY0hBZEVsT3RoWDNiREJSU1hwSEZ0X1dDVGRqVkZXWnN1Rkd5NG95bHJPa1gxZEpMd25EaGNZdnI3NHZEOFlOaXRrV1d1RUU4YUdIckNQb29sUmtIRHRQOV9WSldodDJNQW5SQTVQc0hQQU52WU9Hd3NFN1F2MDhLSk84LTk5VjVFR0lRUQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals truth on Man Utd signing Real Madrid duo with 'everything done'",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDdiWjFJdkp4TUtQY0hBZEVsT3RoWDNiREJSU1hwSEZ0X1dDVGRqVkZXWnN1Rkd5NG95bHJPa1gxZEpMd25EaGNZdnI3NHZEOFlOaXRrV1d1RUU4YUdIckNQb29sUmtIRHRQOV9WSldodDJNQW5SQTVQc0hQQU52WU9Hd3NFN1F2MDhLSk84LTk5VjVFR0lRUQ?oc=5",
-      "published": "2026-07-22T20:21:35.000Z",
-      "titleZh": "罗马诺透露曼联签下皇家马德里二人组的真相， “一切都完成了”"
-    },
-    {
       "id": "Rob Dawson:CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -4273,16 +4249,16 @@
       "titleZh": "转移谣言，新闻：曼联视线移动Camavinga"
     },
     {
-      "id": "Rob Dawson:CBMibEFVX3lxTFB3cW9CQlVDcG11cHg5NmVDbGppZGtFMEZITGVXUHpZWHdrZVpCbUo0UHQ3TkFQUlVsa3MwcDFhS3hubkJjbVF0TlEwVWtSbjBhRGZGYzE4SFBROGFmeHZLUnBoTkFsRGFGdHVRcQ",
+      "id": "Rob Dawson:CBMid0FVX3lxTE91Q0JkVXhXUWZpa3RoMllVQjJ4QUx3djNrVG9BNjA5N1ozNnFEYjY1Z2RqUGpXNjVpSU12dUEtdFRVVEVUbnVBZjRjSWR4aldyVzRHVDhyWUc1Y1poN0R6RDJ3U2FPc25ORVFmTy15a1hfdG1MNkI0",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
-      "title": "Vit Vann",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3cW9CQlVDcG11cHg5NmVDbGppZGtFMEZITGVXUHpZWHdrZVpCbUo0UHQ3TkFQUlVsa3MwcDFhS3hubkJjbVF0TlEwVWtSbjBhRGZGYzE4SFBROGFmeHZLUnBoTkFsRGFGdHVRcQ?oc=5",
-      "published": "2026-07-22T17:37:58.000Z",
-      "titleZh": "Vit Vann"
+      "title": "Brooklyn Kazungu",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91Q0JkVXhXUWZpa3RoMllVQjJ4QUx3djNrVG9BNjA5N1ozNnFEYjY1Z2RqUGpXNjVpSU12dUEtdFRVVEVUbnVBZjRjSWR4aldyVzRHVDhyWUc1Y1poN0R6RDJ3U2FPc25ORVFmTy15a1hfdG1MNkI0?oc=5",
+      "published": "2026-07-22T18:40:03.000Z",
+      "titleZh": "Brooklyn Kazungu"
     },
     {
       "id": "Samuel Luckhurst:CBMikwFBVV95cUxNUUdCZS1FUHJ3aFhRSlN4T0lvRHNQMnBwZFJPaG12VExqYndsRDBsY0QzdjZrajUzVDNzQnFRb1Q0NE90Y0kybkFCSDJjYVR1Y09ZakdnRWF5MjVaOVBhU3NMVzlqUUYwUENPeDg4bTZUTkl5OENveTlrYUxscG90aDNaVER4NHFkOXpJVFplZXV2RVk",
@@ -4367,9 +4343,33 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFlxLUFXYlMwN1RTNVNCZEdYanh3V0NzRnBDSngwZGdRV2ZiU0R6b3gwUnNBT1lLUVdMcC1VbW9SSXZvakJLcm9CMlRLa3Y5OFJvb2RWNlYzckFDMWNwdHNNWDMxM2JyTU5iWFJac3FUUmcxX1RjWW9pd3JNX21VeDZIdm85Rk95Nl9JZXAyRnBFTm5STzNmd2k2cDFYczVDdGc?oc=5",
       "published": "2026-07-21T12:24:00.000Z",
       "titleZh": "“如果我们击败他们，我会喜欢的” ： Keegan-Ferguson的竞争将英超联赛提升了一个水平"
+    },
+    {
+      "id": "Laurie Whitwell:CBMimgFBVV95cUxQZUZrUDdiLXg5WUJnRmZYWnJEUDdPQmJEOWl6V21UbC1WNDFLcTBCelFTMDFOZEFxNGFmOU9WdTB2MzdBV1k1NkNHYVBNZHZpNjVvZnNUdDNodjQ2ODN0dEl1Z1pMaXdudUxkWWdmZGlmbkJTZkljTWdySGhzMjBEVHluYnB2UERlUHpmMnR3N01RR1psY1g1QmJR",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Sidelined Mainoo and returning Rashford: What next for Manchester United’s England players? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUZrUDdiLXg5WUJnRmZYWnJEUDdPQmJEOWl6V21UbC1WNDFLcTBCelFTMDFOZEFxNGFmOU9WdTB2MzdBV1k1NkNHYVBNZHZpNjVvZnNUdDNodjQ2ODN0dEl1Z1pMaXdudUxkWWdmZGlmbkJTZkljTWdySGhzMjBEVHluYnB2UERlUHpmMnR3N01RR1psY1g1QmJR?oc=5",
+      "published": "2026-07-21T11:43:27.000Z",
+      "titleZh": "被淘汰的Mainoo和回归的Rashford ：曼联的英格兰球员接下来该怎么办？ - The Athletic"
+    },
+    {
+      "id": "Fabrizio Romano:CBMiugFBVV95cUxOWDktV0ZfTW1Kb3FwRHp0dmwzOTEwUmh6bUZlMGZPZmpqdWFQUDgtX09qRUlTV1JKR0R5QU11QjhVa0s2cnAtTDZoTFdJekl4TDhEVGZRTVRVM1c5ZDY1bWFOUDRXYU1HSm5ya1NndFotU25aRkFVd0hrTTJTSnBwQmhMdXJ1S3phNUxLRS1HczhOTXhBeUJ3emU0LWtldGdhZ0kzRlEwSjRYZ2pjYWJUQjNWbUFGSHZTU0E",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "OneFootball",
+      "tier": 1,
+      "title": "Fabrizio Romano: Manchester United ‘to keep’ Amad Diallo amid Newcastle interest",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDktV0ZfTW1Kb3FwRHp0dmwzOTEwUmh6bUZlMGZPZmpqdWFQUDgtX09qRUlTV1JKR0R5QU11QjhVa0s2cnAtTDZoTFdJekl4TDhEVGZRTVRVM1c5ZDY1bWFOUDRXYU1HSm5ya1NndFotU25aRkFVd0hrTTJTSnBwQmhMdXJ1S3phNUxLRS1HczhOTXhBeUJ3emU0LWtldGdhZ0kzRlEwSjRYZ2pjYWJUQjNWbUFGSHZTU0E?oc=5",
+      "published": "2026-07-21T11:37:52.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ） ：曼联在纽卡斯尔的兴趣中“留住”阿马德·迪亚洛（ Amad"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-24T11:17:08.289Z",
+  "journalistsUpdatedAt": "2026-07-24T12:51:34.486Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

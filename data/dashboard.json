@@ -4081,6 +4081,18 @@
   ],
   "journalists": [
     {
+      "id": "Andy Mitten:CBMipAFBVV95cUxQakx3bXdpa1VMRXdGOWtYTWtuc1dmdk9QNmpBTElHNDNwczF6TmpVanQtb3E0RF8tODNCNzBuYnFsM25LUlF0blJVcHVOVFMyU3ZSV3gxZC13QnN5eFVLRUVnMmFqNVNNc0VhdEh0dVFSalNhTUFpMVZjelJMSmc0TzBaYjFCX1cyRmladDk4bzlhMHBYQkRYVnZ4aTAtWWdkZkVoYw",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 12, Duncan Edwards",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakx3bXdpa1VMRXdGOWtYTWtuc1dmdk9QNmpBTElHNDNwczF6TmpVanQtb3E0RF8tODNCNzBuYnFsM25LUlF0blJVcHVOVFMyU3ZSV3gxZC13QnN5eFVLRUVnMmFqNVNNc0VhdEh0dVFSalNhTUFpMVZjelJMSmc0TzBaYjFCX1cyRmladDk4bzlhMHBYQkRYVnZ4aTAtWWdkZkVoYw?oc=5",
+      "published": "2026-07-24T04:16:20.000Z",
+      "titleZh": "曼联最伟大的球员：第12名，邓肯·爱德华兹"
+    },
+    {
       "id": "Carl Anka:CBMilgFBVV95cUxQY1NoSXZMd1E2OEc2TkJCTV9RYlFpRHRpQWloVm5WOEhaYmpveGFBcGxLMVlyV3VzbmpzNVlQcFdyNzctaGR6SExJUE95WHNuLW9JTTlaX1BmN2s0Y2tzb1lfYUdOS3hEbHU0WFUyLWozSm5kbEdPUmdaOHdDeF9WSjc3cmJHNDRyWW81ejI4Z3Z0WGlVZUE",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -4165,16 +4177,16 @@
       "titleZh": "利兹在詹姆斯·特拉福德与曼城体育俱乐部会谈"
     },
     {
-      "id": "Samuel Luckhurst:CBMimgFBVV95cUxOUjRGc1Z5d3FFbDdUR1NEcWtmV05HZzJ4eTNVdTdhQnI0b204UXdIYi0ybmRSTEE3NjV3ZWFMalVSc3dZR1Q5NVNMOW14LXVfZ3hwZVNsYTVQNmE2bE1TSm1JVXdCWDFuU04yZHpsTmZsTnFldGQ2YjJ0Ylp3R0ZUNUxqM05xQUpXb2ZtSENjaHlfS2NBX3JVazhB",
+      "id": "Samuel Luckhurst:CBMimAFBVV95cUxNMFVaRmhwZkpyekRaUmlZTE4xWlBiekdPLWlESnBKbmdDNUxsSVlrTVBUQlJtVFZLVEtNRzNPRmZCVU5sTEs4VmgzVXZiRzNrdW1oQmoyZEU4eDZYLTJHQWpBUkhBTVdMT09qWHAyamxreW9LX0lTZE9kVHVxSFd5dmU5YzhRa01EdlR4UDEyOXZROTdqcHNMaQ",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "Read Man Utd",
       "tier": 2,
-      "title": "Real Madrid willing to sell Aurelien Tchouameni to Man Utd with Jose Mourinho ready to cash in if price tag met",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjRGc1Z5d3FFbDdUR1NEcWtmV05HZzJ4eTNVdTdhQnI0b204UXdIYi0ybmRSTEE3NjV3ZWFMalVSc3dZR1Q5NVNMOW14LXVfZ3hwZVNsYTVQNmE2bE1TSm1JVXdCWDFuU04yZHpsTmZsTnFldGQ2YjJ0Ylp3R0ZUNUxqM05xQUpXb2ZtSENjaHlfS2NBX3JVazhB?oc=5",
-      "published": "2026-07-23T10:30:00.000Z",
-      "titleZh": "皇家马德里愿意将Aurelien Tchouameni出售给曼联，何塞·穆里尼奥准备在价格达到要求时兑现"
+      "title": "Manchester United make move trying to sign Real Madrid player",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFVaRmhwZkpyekRaUmlZTE4xWlBiekdPLWlESnBKbmdDNUxsSVlrTVBUQlJtVFZLVEtNRzNPRmZCVU5sTEs4VmgzVXZiRzNrdW1oQmoyZEU4eDZYLTJHQWpBUkhBTVdMT09qWHAyamxreW9LX0lTZE9kVHVxSFd5dmU5YzhRa01EdlR4UDEyOXZROTdqcHNMaQ?oc=5",
+      "published": "2026-07-23T07:13:33.000Z",
+      "titleZh": "曼联试图签下皇家马德里球员"
     },
     {
       "id": "Chris Wheeler:CBMi5AFBVV95cUxOWmNuUmVoQVFSR3JTQTJyTUtUcC1jb0ZZQUpNLVRIOExXeUN5VnQ2dmR2MXo4Y19xQm4yRkN0QXpod0cyRXdLUEY2Q3hhTWxtZEZ5ZjVrX3owNGJnUkFodDJMaEswRVpOQzlyVi1nSjgxdExxdWV1aWVudllLOVpmeVdadTdtSlVtamtHVEJnVmoxdnBJX21IdlpXd3BFT0hrV3dWbHV2RkI0Mnc5S3REbG8tbkI5S3JSamZZR05xcThSd0hxcmEzcE9WVDAwNm1PdWY0UFBnaWE0VUZwNVlkcVZDdWY",
@@ -4355,21 +4367,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXR5WGNkTnN2V3VNR3hZbEZDOU9tWlROc1IwWGt5TUtfOHNkOG53QTVpalZmcDhld3ljbGtnR1owTW41UnpSYlVuT1l6bWEtOGxrdXJEX2xnOXE2RTFVMDR4NUk0cFZnbXVwUnY4cUE2S0VwdGpwVlF5WFE4OUJYQ0Jlc1c4ZmlMcDA2U1Q0aHgwNjlmLWFVLXRBWQ?oc=5",
       "published": "2026-07-21T07:40:00.000Z",
       "titleZh": "曼联面对利物浦争夺签下£ 5100万中场"
-    },
-    {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE9xbnJFejFCR2tfclRudDMxdHJ1M3NfRGhIV2VXMlR4ZWRHQUlFMmZRb3RETGUwckQ4dGI1c0lFbXRYTVJuUTJZVHoxWFlodnk0dzVhZ2U2RklpaGh3dFUyX25yNmNid0k",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: What is the latest on Marcus Rashford's future?",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xbnJFejFCR2tfclRudDMxdHJ1M3NfRGhIV2VXMlR4ZWRHQUlFMmZRb3RETGUwckQ4dGI1c0lFbXRYTVJuUTJZVHoxWFlodnk0dzVhZ2U2RklpaGh3dFUyX25yNmNid0k?oc=5",
-      "published": "2026-07-21T07:38:08.000Z",
-      "titleZh": "曼联新闻：马库斯·拉什福德（ Marcus Rashford ）未来的最新动态是什么？"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-24T04:28:21.477Z",
+  "journalistsUpdatedAt": "2026-07-24T07:05:10.264Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

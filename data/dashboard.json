@@ -6245,18 +6245,6 @@
   ],
   "journalists": [
     {
-      "id": "Rob Dawson:CBMiiAFBVV95cUxQamFHTjdGd3BjYWU5bkdueklIU2xMcXJyVUlsTW9SZEdyMzNBTEs5Y2pwZ1J0bkVLVTRQU005Zk4wS1FtaVJBS19Fa09SZ285Q1Nyam5USE1nbFNzVUJTM1VMdWhQbnkzTGxlOUZXaUtLREthX0pKRFl3TWk2T1UxX3J5NnlGamg4",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Joseph Junior Andreou Gabriel",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamFHTjdGd3BjYWU5bkdueklIU2xMcXJyVUlsTW9SZEdyMzNBTEs5Y2pwZ1J0bkVLVTRQU005Zk4wS1FtaVJBS19Fa09SZ285Q1Nyam5USE1nbFNzVUJTM1VMdWhQbnkzTGxlOUZXaUtLREthX0pKRFl3TWk2T1UxX3J5NnlGamg4?oc=5",
-      "published": "2026-07-24T17:43:00.000Z",
-      "titleZh": "Joseph Junior Andreou Gabriel"
-    },
-    {
       "id": "James Ducker:CBMirAFBVV95cUxNTnZ1OE13Y01yeUNTUkg0RW1Ea19TYzd0ZHNkMFd3ZFdwdmtDbWxERUR3Qy1vQmFOSmVuZ0lZZ3ZZLWN3RExlMmdqZ0tBcHRrNFB3WnBaeG9KRGp0VWRMQll6TGEzRHMxbi1XdVBQajdicFpkQ1FTd3RiYk5fcDhDS1RRYTFIbldRQzRib291UWh3Ny04ejlwaHhveU5tdDhyZWhwWHVHendCQ2FR",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -6473,6 +6461,18 @@
       "titleZh": "罗马诺透露曼联签下皇家马德里二人组的真相， “一切都完成了”"
     },
     {
+      "id": "Rob Dawson:CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Transfer rumors, news: Man United eye move for Camavinga",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA?oc=5",
+      "published": "2026-07-22T20:12:00.000Z",
+      "titleZh": "转移谣言，新闻：曼联视线移动Camavinga"
+    },
+    {
       "id": "Samuel Luckhurst:CBMikwFBVV95cUxNUUdCZS1FUHJ3aFhRSlN4T0lvRHNQMnBwZFJPaG12VExqYndsRDBsY0QzdjZrajUzVDNzQnFRb1Q0NE90Y0kybkFCSDJjYVR1Y09ZakdnRWF5MjVaOVBhU3NMVzlqUUYwUENPeDg4bTZUTkl5OENveTlrYUxscG90aDNaVER4NHFkOXpJVFplZXV2RVk",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -6533,7 +6533,7 @@
       "titleZh": "曼联决定不签约布莱顿中场"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-24T20:39:22.904Z",
+  "journalistsUpdatedAt": "2026-07-24T21:42:32.691Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

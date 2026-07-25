@@ -6358,18 +6358,6 @@
       "titleZh": "埃利奥特·安德森（ Elliot Anderson ）从诺丁汉森林（ Nottingham Forest ）搬到曼城"
     },
     {
-      "id": "Rob Dawson:CBMiwgFBVV95cUxNZVVOaXVvT0Z3elRod1NJdjV5amVudVpaN1FieW5lY2l4aV9WT21PdHRGem1MTnJzT1VFRFNXb3hCQkN3MFB2WmgxQ3hzOGVxeUR2aUFlWVpIVDFMUUZsM3F6Q0ExMEE3aGRfR3JmZlFjdHFhSU1xeHZwRGpqbzNKNmN2THZtcGIzU1VkM0tKMlhsTW8xV3pKekFvN1plMTNTRmFadjdQUnlpM1gxN2lYeHhsc2dZVHkydjQ4ZUN5T1p2Zw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Leeds in talks with Manchester City for goalkeeper James Trafford - sources",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVVOaXVvT0Z3elRod1NJdjV5amVudVpaN1FieW5lY2l4aV9WT21PdHRGem1MTnJzT1VFRFNXb3hCQkN3MFB2WmgxQ3hzOGVxeUR2aUFlWVpIVDFMUUZsM3F6Q0ExMEE3aGRfR3JmZlFjdHFhSU1xeHZwRGpqbzNKNmN2THZtcGIzU1VkM0tKMlhsTW8xV3pKekFvN1plMTNTRmFadjdQUnlpM1gxN2lYeHhsc2dZVHkydjQ4ZUN5T1p2Zw?oc=5",
-      "published": "2026-07-23T15:09:00.000Z",
-      "titleZh": "利兹与曼城就守门员詹姆斯·特拉福德进行谈判-消息来源"
-    },
-    {
       "id": "Simon Stone:CBMiakFVX3lxTE9acThLZFM2Smk0eEEyMi1oU0txNmtxSnpuM0lhVTgxWTdRcHBGMGlLeGU5WG5VaWJlNWJWamx5SlNZWElHTW1VY1ZhSlEtNDFYcno4TkpiRllGaVlJWENZV2RrTWpuUDVKX3c",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -6454,6 +6442,18 @@
       "titleZh": "罗马诺透露曼联签下皇家马德里二人组的真相， “一切都完成了”"
     },
     {
+      "id": "Rob Dawson:CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Transfer rumors, news: Man United eye move for Camavinga",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA?oc=5",
+      "published": "2026-07-22T20:12:00.000Z",
+      "titleZh": "转移谣言，新闻：曼联视线移动Camavinga"
+    },
+    {
       "id": "Samuel Luckhurst:CBMikwFBVV95cUxNUUdCZS1FUHJ3aFhRSlN4T0lvRHNQMnBwZFJPaG12VExqYndsRDBsY0QzdjZrajUzVDNzQnFRb1Q0NE90Y0kybkFCSDJjYVR1Y09ZakdnRWF5MjVaOVBhU3NMVzlqUUYwUENPeDg4bTZUTkl5OENveTlrYUxscG90aDNaVER4NHFkOXpJVFplZXV2RVk",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -6502,7 +6502,7 @@
       "titleZh": "曼联被指控在TOUT行中将季票持有人视为“嫌疑人”"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-25T08:36:07.746Z",
+  "journalistsUpdatedAt": "2026-07-25T10:14:41.495Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

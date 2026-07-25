@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:45:45.088Z",
+  "updatedAt": "2026-07-25T03:35:57.759Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -4318,7 +4318,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-24T21:45:45.087Z"
+        "generatedAt": "2026-07-25T03:35:56.682Z"
       }
     },
     {
@@ -5335,6 +5335,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Darke: Premier League race promises to be a classic based on summer transfers",
+      "published": "2026-07-24T14:23:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49434425/premier-league-ian-darke-transfers-arsenal-manchester-city-manchester-united-liverpool-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693174_1296x729_16-9.jpg",
+      "titleZh": "Darke ：英超联赛有望成为基于夏季转会的经典之作"
+    },
+    {
       "title": "Premier League 2026-27 kits: Ranking every jersey released",
       "published": "2026-07-24T12:23:14Z",
       "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
@@ -5410,13 +5417,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49416802/alex-ferguson-kevin-keegan-tribute-manchester-united-newcastle",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692050_1296x729_16-9.jpg",
       "titleZh": "亚历克斯·弗格森爵士向伟大的竞争对手凯文·基根致敬"
-    },
-    {
-      "title": "Man United's Senne Lammens will bounce back well from Belgium World Cup woe - Tom Heaton",
-      "published": "2026-07-19T12:19:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49398782/man-united-senne-lammens-bounce-back-well-belgium-world-cup-woe-tom-heaton",
-      "image": "https://a.espncdn.com/photo/2026/0719/r1691190_1296x729_16-9.jpg",
-      "titleZh": "曼联的Senne Lammens将从比利时世界杯的困境中恢复过来- Tom Heaton"
     }
   ],
   "transfers": [

@@ -6204,6 +6204,18 @@
   ],
   "journalists": [
     {
+      "id": "Carl Anka:CBMikwFBVV95cUxPWF9TNzhhUUxfMUs1d1ZqcVl0ZXl1clJLZUZQa1lvNU5QUXRqYkJzaVZZNkJuU3U5NEZKVE5mWGp6ZE1JRGZ1STQtb2o4eUZJUldtTXhsbG4xQzUyXzZUajBGZlRKSzVkR3VXLWhCMnF5X1FHamh2ekZtcjlBTzM1QXNWb09LeWN6b1pFOFhhbF9GUGs",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Man Utd — and their impressive academy graduates — give Michael Carrick good questions to answer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWF9TNzhhUUxfMUs1d1ZqcVl0ZXl1clJLZUZQa1lvNU5QUXRqYkJzaVZZNkJuU3U5NEZKVE5mWGp6ZE1JRGZ1STQtb2o4eUZJUldtTXhsbG4xQzUyXzZUajBGZlRKSzVkR3VXLWhCMnF5X1FHamh2ekZtcjlBTzM1QXNWb09LeWN6b1pFOFhhbF9GUGs?oc=5",
+      "published": "2026-07-25T04:20:54.000Z",
+      "titleZh": "曼联及其令人印象深刻的学院毕业生向迈克尔·卡里克提出了很好的问题来回答"
+    },
+    {
       "id": "James Ducker:CBMirAFBVV95cUxNTnZ1OE13Y01yeUNTUkg0RW1Ea19TYzd0ZHNkMFd3ZFdwdmtDbWxERUR3Qy1vQmFOSmVuZ0lZZ3ZZLWN3RExlMmdqZ0tBcHRrNFB3WnBaeG9KRGp0VWRMQll6TGEzRHMxbi1XdVBQajdicFpkQ1FTd3RiYk5fcDhDS1RRYTFIbldRQzRib291UWh3Ny04ejlwaHhveU5tdDhyZWhwWHVHendCQ2FR",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -6250,18 +6262,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW1wdGZ1WU9ZdXplSGVBaEpIWktyREZxTzZRUm1QYzZiTUFIOXUtNmROMTFrdEdaR3NqYlUyTXpCSmxPYU4yZVhGOWlXXzJaMlN0ejNnRVVGY0tGS0VhTWxwdEJwa09kaDJrZ3pQUDBjcXhJSldYa3BOdm05Uy1GUXVvenpPX1hHV3NxSGc0RVNYMDAyd2R6OVdfZXlCQQ?oc=5",
       "published": "2026-07-24T13:10:00.000Z",
       "titleZh": "恩佐·马雷斯卡：在曼城接替瓜迪奥拉是一种“特权”"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiowFBVV95cUxNdzZhWFZwV3lDZ1ZOZ2tFemI4eFpyNXVaRGNKeTJockRlcDMyVWYxQ25rME1LQ0xJQ0h0VHpobzVXenV3VGtCUmsyVVVsRWJiU2ppdnZWcGltRk1LR3U1UlA2ZVBOSW1zRGpjRXBJd0c4ODZfaTdjVURtak1oQWxYcXJyY215T2FZeVNPamV4blA0TGhyRUZYMjJaWGRyUnY0YzNR",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd: Contact made as Fabrizio Romano reveals £70m midfielder ‘crazy’ about joining",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzZhWFZwV3lDZ1ZOZ2tFemI4eFpyNXVaRGNKeTJockRlcDMyVWYxQ25rME1LQ0xJQ0h0VHpobzVXenV3VGtCUmsyVVVsRWJiU2ppdnZWcGltRk1LR3U1UlA2ZVBOSW1zRGpjRXBJd0c4ODZfaTdjVURtak1oQWxYcXJyY215T2FZeVNPamV4blA0TGhyRUZYMjJaWGRyUnY0YzNR?oc=5",
-      "published": "2026-07-24T11:19:06.000Z",
-      "titleZh": "曼联： Fabrizio Romano透露£ 7000万中场球员“疯狂”加入的联系方式"
     },
     {
       "id": "David Ornstein:CBMipwFBVV95cUxOTzJEblh3VlpkRm00dld2VVFSSW5iMXViMUt2clp4SVRaYWdKaHN3dXVUTmNnT0VpYXRlbE0zQXRHZno3WjhOMmZrX2d0c19zWlJCbl9XUWllbFdLbkVVLXBGcUxfMVRQZ2dqZFpRbUlHdmFkTEdLOGxMWDFFVDNjYmpjcGFza3pWa3BveW5fSl85VUU4SEt4UG5ITkZFTnBwWkpINUtPQQ",
@@ -6444,6 +6444,18 @@
       "titleZh": "尽管续约协议，曼联在追逐皇家马德里中场方面毫不畏惧"
     },
     {
+      "id": "Fabrizio Romano:CBMirgFBVV95cUxPYUdjQVdfcS1ydkRMX2pKNUxkV1I3RUNIUDRNZEg0REltVjZlSHBBZ2w1VllHb0xJMmFsVVNTdncyZ2k4VWticV9lajVfc3pJamk5SnNMd1k0Ykt3YjkzM3FTd2x0RUxsMUxOa08wS1BXUl9QbEhKc212ZjRrVXBCV0hpYUw0WjVtbkRhdEEwMk00aUhodWNIS2ZBRWY5Z1Z3V0pOTWszeDRqYnFUT3c",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano rules out three Man Utd transfers after £60m offer is 'accepted'",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUdjQVdfcS1ydkRMX2pKNUxkV1I3RUNIUDRNZEg0REltVjZlSHBBZ2w1VllHb0xJMmFsVVNTdncyZ2k4VWticV9lajVfc3pJamk5SnNMd1k0Ykt3YjkzM3FTd2x0RUxsMUxOa08wS1BXUl9QbEhKc212ZjRrVXBCV0hpYUw0WjVtbkRhdEEwMk00aUhodWNIS2ZBRWY5Z1Z3V0pOTWszeDRqYnFUT3c?oc=5",
+      "published": "2026-07-22T05:34:35.000Z",
+      "titleZh": "Romano在“接受” £ 6000万报价后排除了三次曼联转会"
+    },
+    {
       "id": "Andy Mitten:CBMiowFBVV95cUxPRVNyMDlERVhxZV9CQzFLZDloaFBTSmxXZzh2bDhjUnNCeXBpS2ZtRUNwdnRyaTl3SnhyZVpaT1BiS0F2TkJQNkk2MVY3MksyNzQwang2UGRRVU9iUEZ3elBNUG9YaXltS3dNZDZuQVFCY2tlRzRDSlQ4dDZNTk1kcGVKNld1ak5iMVFnVEF0VmJselE5d2Z5MWVkczBYaXdDaGJn",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -6478,21 +6490,9 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXhPeFgxSElHel9ZVmtud25UUUZmMVRWXzFKN0Qwb1FRZERibFBJTVU1MFpKYzFNbDN0THlTNG1pRUtKNVU1OWNJcGlSRzFaM3V0YlZqa1ZhalpMaVNBS21EWDVncGR2Ym9rVkhRcnBtVlBRYlotNk1WSnI4aGV3Qmh4WTJxWHc?oc=5",
       "published": "2026-07-21T21:16:12.000Z",
       "titleZh": "曼联被指控在TOUT行中将季票持有人视为“嫌疑人”"
-    },
-    {
-      "id": "David Ornstein:CBMimwFBVV95cUxNdFdnSDRsVmhlaVVqd3luTm9fX053Mm9CZURveVNKTzlJVmEtOEVheGdDYXRCajNjb1NKRnIzS1FHdmJnQmxaa2U1MVBnR3F2bWM0d01Zdk01X1k4UV9GQTlsSTFnMmNPVmVRTEp0cl9hVHd3dER6eDNNd3h2VVRBUXo0aThYcTZFczZHYmI5OG9rbVFiVUhVelZsQQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "Manchester United decide against signing Brighton midfielder",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFdnSDRsVmhlaVVqd3luTm9fX053Mm9CZURveVNKTzlJVmEtOEVheGdDYXRCajNjb1NKRnIzS1FHdmJnQmxaa2U1MVBnR3F2bWM0d01Zdk01X1k4UV9GQTlsSTFnMmNPVmVRTEp0cl9hVHd3dER6eDNNd3h2VVRBUXo0aThYcTZFczZHYmI5OG9rbVFiVUhVelZsQQ?oc=5",
-      "published": "2026-07-21T14:41:06.000Z",
-      "titleZh": "曼联决定不签约布莱顿中场"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-25T01:08:11.904Z",
+  "journalistsUpdatedAt": "2026-07-25T06:34:41.869Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T03:35:57.759Z",
+  "updatedAt": "2026-07-25T08:23:30.321Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -4318,7 +4318,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-25T03:35:56.682Z"
+        "generatedAt": "2026-07-25T08:23:29.351Z"
       }
     },
     {
@@ -5335,6 +5335,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United eye move for Tchouaméni",
+      "published": "2026-07-24T20:55:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693330_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻： Man United为Tchouaméni眼动"
+    },
+    {
       "title": "Darke: Premier League race promises to be a classic based on summer transfers",
       "published": "2026-07-24T14:23:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/49434425/premier-league-ian-darke-transfers-arsenal-manchester-city-manchester-united-liverpool-chelsea",
@@ -5410,16 +5417,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49415431/transfer-rumors-news-arsenal-move-spain-world-cup-winner-williams",
       "image": "https://a.espncdn.com/photo/2026/0721/r1692197_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：曼联，别墅希望签署埃弗顿的Ndiaye"
-    },
-    {
-      "title": "Sir Alex Ferguson pays tribute to great rival Kevin Keegan",
-      "published": "2026-07-21T12:41:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49416802/alex-ferguson-kevin-keegan-tribute-manchester-united-newcastle",
-      "image": "https://a.espncdn.com/photo/2026/0721/r1692050_1296x729_16-9.jpg",
-      "titleZh": "亚历克斯·弗格森爵士向伟大的竞争对手凯文·基根致敬"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United eye move for Tchouaméni",
+      "published": "2026-07-24T20:55:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
+      "image": "https://a.espncdn.com/photo/2026/0724/r1693330_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻： Man United为Tchouaméni眼动",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Man United eye move for Camavinga",
       "published": "2026-07-22T20:18:05Z",

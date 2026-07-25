@@ -6214,6 +6214,18 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMiigFBVV95cUxPejFaMVRFQ1FydjRja0g4NUM4bFg0akF2WmppcjJNOUFSNHBRa0taM2dfVk93OWRPWjBHVkF2eDM3T0I1V3VtNlZjbmhaQi14UWtxNDFfNGRPdnI1bWFuX3ZQemtkSlpRbEFmX1liVld0UElDRWNubnVlYVotbEpUYTd2Q2lralFGcGc",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN Singapore",
+      "tier": 1,
+      "title": "Joseph Junior Andreou Gabriel",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPejFaMVRFQ1FydjRja0g4NUM4bFg0akF2WmppcjJNOUFSNHBRa0taM2dfVk93OWRPWjBHVkF2eDM3T0I1V3VtNlZjbmhaQi14UWtxNDFfNGRPdnI1bWFuX3ZQemtkSlpRbEFmX1liVld0UElDRWNubnVlYVotbEpUYTd2Q2lralFGcGc?oc=5",
+      "published": "2026-07-25T11:04:41.000Z",
+      "titleZh": "Joseph Junior Andreou Gabriel"
+    },
+    {
       "id": "Carl Anka:CBMikwFBVV95cUxPWF9TNzhhUUxfMUs1d1ZqcVl0ZXl1clJLZUZQa1lvNU5QUXRqYkJzaVZZNkJuU3U5NEZKVE5mWGp6ZE1JRGZ1STQtb2o4eUZJUldtTXhsbG4xQzUyXzZUajBGZlRKSzVkR3VXLWhCMnF5X1FHamh2ekZtcjlBTzM1QXNWb09LeWN6b1pFOFhhbF9GUGs",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -6248,6 +6260,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ1lSbWkwaTh2MlRkVExjV3RINVRScG9BYldYb25HdXVDN0JDa0pVQUhjRjYyT0lxeHpqSzN5QmxTTHFmVWN1VnpfS1RjaHp2Z01yNGlwNC1HaXBTZVplUDZaNEJiQ2xmYTVfVFQ5ZEpSR0Juc25DNC02dFBucy1pTTlLa3IzZldta2c?oc=5",
       "published": "2026-07-24T19:36:31.000Z",
       "titleZh": "Joseph Junior Andreou Gabriel"
+    },
+    {
+      "id": "David Ornstein:CBMimwFBVV95cUxPMGphUGxJbjFBUXFFUm5ZU2pYNFhwdjUtb0xLaHREa1NlakhTc3k3YmdCT2VDVUh0NmQ1Y3djVjhSS0pPendPU2xyODR6OW1GZFBOaWFIenctb2ZfV2xrWTYzbFdyaEY4SmJpeVdWeU1mcDRibXU0bm1rWFpvWnJ2N2QzYmVIOVBOMEV0RW12M2JOUUNVb3h2NFhyWQ",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Real Madrid working on deal to sign Rodri from Manchester City - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGphUGxJbjFBUXFFUm5ZU2pYNFhwdjUtb0xLaHREa1NlakhTc3k3YmdCT2VDVUh0NmQ1Y3djVjhSS0pPendPU2xyODR6OW1GZFBOaWFIenctb2ZfV2xrWTYzbFdyaEY4SmJpeVdWeU1mcDRibXU0bm1rWFpvWnJ2N2QzYmVIOVBOMEV0RW12M2JOUUNVb3h2NFhyWQ?oc=5",
+      "published": "2026-07-24T18:25:22.000Z",
+      "titleZh": "皇家马德里正在努力从曼城签下罗德里-体育"
     },
     {
       "id": "Carl Anka:CBMijAFBVV95cUxOeWNsRHV4MlJUS0xaYmxYd1ZESzZFVTUtdXp5NXRXQzE3UnFIaHJ3bFFuQ1NDZEZHcW5pLVZKcmdnLVNIZVhUTDBjREluSkJkYUxhTlR4WUUzSm5tQ0xSSzFBTDBPUXFCUFA3MzB2QzM2ZEpGZ09tZTUtVkhTYTBNZGRGbHpEeDIxZ21xZg",
@@ -6314,7 +6338,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
+      "source": "Daily Mail Online",
       "tier": 2,
       "title": "Man United considering £35m move for Bournemouth star Tyler Adams to add to £85m midfield overhaul",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZWQwaEt3WkNaQXl3ckp6RGVab0tyRlBDNWc3RUxtNXFERm5aY042OHRjNE5VV3lIS0xINXdTU2xfYzB3Y1R1bXgweTlOM1pucUdUXzBjVTRuVUJDQm9qWmhTSy12VnU5Xzk5SnM3TmZaR1lla3hSS29KaW5iSGxNVmQtUC03SlhjOUF5X0JpaE5XOU9vR2RDLUtiblo4bUxlR1U4ZGljcllrXy13MXY2d0xVc1VKYWFXZWhhN090ei0tU1YxeC1WcGJ1NTMwT3dFOEFrRFdRaHFzY3ha0gHiAUFVX3lxTE5KWW5LSmU4SW4xckxseWc2cU5qbWNxMnRMcjJBa04xb1BWSkNZdWU5SFRiU2NjRFBGVm1iRnpHckI0bjBOM2liTEdSUWRoVDFnLXF3cHJNNXBYSUJDUlZGVUw4ZmhfYWJlVnlvc2xMcnFJQUN2YmtjbnI0WUZ4VWlFZnJ0YWZoVWJZS3NuWXNNLWc1dEdDMmc1SUdWLTVHS0pBRDZwMFR6LXFZWXVJeHJvd2FlbkxYMjNPcTFkZ1BESU5uT0swdVVpZkxwS2ZLYjR1NjY1WmJKUEFfRVc5T0wwMFE?oc=5",
@@ -6442,18 +6466,6 @@
       "titleZh": "罗马诺透露曼联签下皇家马德里二人组的真相， “一切都完成了”"
     },
     {
-      "id": "Rob Dawson:CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Transfer rumors, news: Man United eye move for Camavinga",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBsZjZiOFlDZmhWUXZYOUowWm5nYTJsSTIwQVo5SG91ckhRQ2x6cVJsODZockF4M3UxampuODJaQWVIUW1keTNvSWZpSUV3YWdxZUhaeFEyVXJYV3NpV3J1NHREVXMwQjdNaFd4LUNqZ3hidm9RTWpmenNYT3U2UjUwZXluX0ZEVDlteE9hTzFZRENGSVZHVGVNLThpMV9mNzZuWnRZcVBZa1R5WF9iVExWWk5nM3NsVkpyaVBIb2RxcVZsSnpIVA?oc=5",
-      "published": "2026-07-22T20:12:00.000Z",
-      "titleZh": "转移谣言，新闻：曼联视线移动Camavinga"
-    },
-    {
       "id": "Samuel Luckhurst:CBMikwFBVV95cUxNUUdCZS1FUHJ3aFhRSlN4T0lvRHNQMnBwZFJPaG12VExqYndsRDBsY0QzdjZrajUzVDNzQnFRb1Q0NE90Y0kybkFCSDJjYVR1Y09ZakdnRWF5MjVaOVBhU3NMVzlqUUYwUENPeDg4bTZUTkl5OENveTlrYUxscG90aDNaVER4NHFkOXpJVFplZXV2RVk",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -6488,21 +6500,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTk5cllpbS0zSks1eThUMzh6NlJsUzIzM05HRGF2eWRhVlJsWEpWVzVid2t4SU84NXo2WGFXSEFwdGFCbzhsX0NMZEpZaG1ydEp2aFgzdXc3ZmRacjZJckNXc3lGdTF2UDh2MDJ2QUJQUmpadXRRbjRqbGotZS1pLURhdi1DcERCVnV4M2tVR1VtUFdHVHhvc3Y0S3JUcEhSd0x4aTUxZ2JtUlRrZS1hT2QxVmFWMDQteFhZ?oc=5",
       "published": "2026-07-21T23:33:30.000Z",
       "titleZh": "曼联球迷团体发表联合声明，敦促俱乐部暂停打击门票兜售"
-    },
-    {
-      "id": "James Ducker:CBMipwFBVV95cUxPRzktcEdJbHk3YUVDMVUtcmtmMTVkdm9HUXhBc2RwdkMyNGNQeG1HV3YtbkdDTm9aeE9Sb3VCUG9mQzJzaW51UlVReFprcEJRbUpTWVUtcnZncEZoVWRxYm8tN0h4NHU4cmwtZGNMREVWajBrMUtHajFDT0EwYWRzSkFsZnlHUW9sdV83ZWRKQVlSQThzUVFWS0ZGWFpTTk9BX3RRSzFyaw",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Man Utd accused of treating season ticket holders as ‘suspects’ in tout row",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzktcEdJbHk3YUVDMVUtcmtmMTVkdm9HUXhBc2RwdkMyNGNQeG1HV3YtbkdDTm9aeE9Sb3VCUG9mQzJzaW51UlVReFprcEJRbUpTWVUtcnZncEZoVWRxYm8tN0h4NHU4cmwtZGNMREVWajBrMUtHajFDT0EwYWRzSkFsZnlHUW9sdV83ZWRKQVlSQThzUVFWS0ZGWFpTTk9BX3RRSzFyaw?oc=5",
-      "published": "2026-07-21T21:16:00.000Z",
-      "titleZh": "曼联被指控在TOUT行中将季票持有人视为“嫌疑人”"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-25T11:34:08.581Z",
+  "journalistsUpdatedAt": "2026-07-25T12:41:40.682Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

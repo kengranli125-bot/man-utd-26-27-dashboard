@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T03:54:29.135Z",
+  "updatedAt": "2026-07-26T07:27:54.292Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -2878,8 +2878,49 @@
             "text": "Goal! Rosenborg 0, Manchester United 5. Ethan Williams (Manchester United) right footed shot from the centre of the box to the centre of the goal."
           }
         ],
-        "stats": [],
-        "statsAvailable": false,
+        "stats": [
+          {
+            "label": "控球率",
+            "united": "100",
+            "opponent": "0"
+          },
+          {
+            "label": "射门",
+            "united": "0",
+            "opponent": "0"
+          },
+          {
+            "label": "射正",
+            "united": "0",
+            "opponent": "0"
+          },
+          {
+            "label": "角球",
+            "united": "0",
+            "opponent": "0"
+          },
+          {
+            "label": "犯规",
+            "united": "0",
+            "opponent": "0"
+          },
+          {
+            "label": "越位",
+            "united": "0",
+            "opponent": "0"
+          },
+          {
+            "label": "黄牌",
+            "united": "1",
+            "opponent": "0"
+          },
+          {
+            "label": "红牌",
+            "united": "0",
+            "opponent": "0"
+          }
+        ],
+        "statsAvailable": true,
         "playerStats": [
           {
             "teamId": "438",
@@ -4318,7 +4359,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-07-26T03:54:29.133Z"
+        "generatedAt": "2026-07-26T07:27:54.292Z"
       }
     },
     {

@@ -6245,16 +6245,16 @@
   ],
   "journalists": [
     {
-      "id": "David Ornstein:CBMilwFBVV95cUxQUkJGUWFMT0xQdWZwRHp4Qm4zbjM1c0pWa2F6OWhIbEdFRzRTa05OV2ZJUXFJTFQ1QlJFZlpqcXNmME9pVm1PMmM4cXZJc01pOC1LYk5TUVJBVVUzYm1nLThIYk5YMGZndy1IeURVeHNWak1lNy1sRGN0QTdfa2RBZjY4dDk0anYycEN1cURhMTFFcktiblpj",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "id": "Rob Dawson:CBMiqwFBVV95cUxQUHAxNGlIdTA5cVFKSGdXT2xGWDBpTUlJNFpSc2NHamNVakhXRXkxSVhXVmJ4NWk4Q2hDMkVIdnQyeG55WXpfM2FGNy0zWGFNTUc3RmVBQ0lOU2phMTBsekxUR3ZPcmV3Rm5mdmwzcXk0bjZzX1BvVDJ1UVZDR3liYVZmVnJaQ0YtLXRXUDRkbEljZDZaUFRaR1JTS3pacG9DNXFONUthUVZ1THM",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
       "tier": 1,
-      "title": "Chelsea exploring Danny Welbeck move - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkJGUWFMT0xQdWZwRHp4Qm4zbjM1c0pWa2F6OWhIbEdFRzRTa05OV2ZJUXFJTFQ1QlJFZlpqcXNmME9pVm1PMmM4cXZJc01pOC1LYk5TUVJBVVUzYm1nLThIYk5YMGZndy1IeURVeHNWak1lNy1sRGN0QTdfa2RBZjY4dDk0anYycEN1cURhMTFFcktiblpj?oc=5",
-      "published": "2026-07-27T17:02:03.000Z",
-      "titleZh": "切尔西探索丹尼·韦尔贝克动作-体育"
+      "title": "Leeds United close in on deal for Man City's James Trafford - sources",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHAxNGlIdTA5cVFKSGdXT2xGWDBpTUlJNFpSc2NHamNVakhXRXkxSVhXVmJ4NWk4Q2hDMkVIdnQyeG55WXpfM2FGNy0zWGFNTUc3RmVBQ0lOU2phMTBsekxUR3ZPcmV3Rm5mdmwzcXk0bjZzX1BvVDJ1UVZDR3liYVZmVnJaQ0YtLXRXUDRkbEljZDZaUFRaR1JTS3pacG9DNXFONUthUVZ1THM?oc=5",
+      "published": "2026-07-27T19:50:00.000Z",
+      "titleZh": "利兹联队与曼城的詹姆斯·特拉福德达成协议-消息来源"
     },
     {
       "id": "Andy Mitten:CBMimAFBVV95cUxPY1kyQU84YkZaVjBhX2RHVncyWlRvbElGdllNZXBJa2VJNUJvVW5yMl9wX3dGaUdsWW1Menp1NWVSLUhKYlNSaWxMZS1VeTZSVk1SWjRpT3VqTHRxZE9PVXJjMWFFQ2ZVUWxVTzJpVlNuWF9tLVZBUFhETEJVUm5wSG42UEJkRi1GZUdPVGs4Q3ZoNWdKTkRKTg",
@@ -6353,6 +6353,18 @@
       "titleZh": "Fabrizio Romano透露曼联决定从Botafogo签下Danilo"
     },
     {
+      "id": "David Ornstein:CBMipAFBVV95cUxOMFRiWmVGdENsajFuYVVYN3ZON3lUNTBBb3IyU3AxSXFxOFRJeV9Fd1JCWUprVF9hdE1iX1Roc3FNY2h4WGZCM094MFV3cUVVbjk1Z0k1ZmhOWGNzczBRNnBBaWR1cXpzWjRuWlJDVmEyVE40bmJhU1c4Sy1WekwzNklWYzRRTXFnX01rckZFSW9YQXpDMEhfZ3VEY09GS1gzQ24wTw",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Arsenal exploring deal for Real Madrid winger Vinicius Junior - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFRiWmVGdENsajFuYVVYN3ZON3lUNTBBb3IyU3AxSXFxOFRJeV9Fd1JCWUprVF9hdE1iX1Roc3FNY2h4WGZCM094MFV3cUVVbjk1Z0k1ZmhOWGNzczBRNnBBaWR1cXpzWjRuWlJDVmEyVE40bmJhU1c4Sy1WekwzNklWYzRRTXFnX01rckZFSW9YQXpDMEhfZ3VEY09GS1gzQ24wTw?oc=5",
+      "published": "2026-07-25T12:46:35.000Z",
+      "titleZh": "阿森纳探索皇家马德里边锋Vinicius Junior - The Athletic的交易"
+    },
+    {
       "id": "Rob Dawson:CBMiigFBVV95cUxPejFaMVRFQ1FydjRja0g4NUM4bFg0akF2WmppcjJNOUFSNHBRa0taM2dfVk93OWRPWjBHVkF2eDM3T0I1V3VtNlZjbmhaQi14UWtxNDFfNGRPdnI1bWFuX3ZQemtkSlpRbEFmX1liVld0UElDRWNubnVlYVotbEpUYTd2Q2lralFGcGc",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -6401,6 +6413,18 @@
       "titleZh": "恩佐·马雷斯卡（ Enzo Maresca ）看起来很兴奋，要在曼城做事"
     },
     {
+      "id": "Chris Wheeler:CBMioAFBVV95cUxQaG9kMGxRMEpCZzA1OW4yRzQwSWhvanVFM3RXRlJZUDRxU0VuZGNSa214UVhOSGNnclJLNUVUREFYVnhmX0JYTzVVS0NRRFB2Y0JWSDlnS1BpTmZvaGl4X0VMWWhPX3lnRVBtTnVkZm5kdHFtZXRyQ3l0QUp0ek9ubmpDZzBPWTRzMzU2bHYxdXpVbWx5a1Bib1c4TjdNWnA10gGmAUFVX3lxTFBZU2dhdEh3Rml2TEZWRTZqWURHbUIwRnBreVBRLTZWUzE4blA1TGN2MHozNFozZlBzc3FaNUctM2dKeHhVNUhyZzJLMlJQS21ld1E5LXBhYWpKZUlPblBQOGlhVmRNdDRiZFU2dDZwNU9xcnY4MmZ4LVBVTkt3YjVtZ0ZZejFSWlB4WmEtZE4xY2syT3FwSVZoYU9iNGxTa3B4VmRkNHc",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Why Joshua Zirkzee might have a future at Man United after all, how Shea Lacey stole the show and the kids shine again: THINGS WE LEARNED as Michael Carrick's men thrash Rosenborg",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaG9kMGxRMEpCZzA1OW4yRzQwSWhvanVFM3RXRlJZUDRxU0VuZGNSa214UVhOSGNnclJLNUVUREFYVnhmX0JYTzVVS0NRRFB2Y0JWSDlnS1BpTmZvaGl4X0VMWWhPX3lnRVBtTnVkZm5kdHFtZXRyQ3l0QUp0ek9ubmpDZzBPWTRzMzU2bHYxdXpVbWx5a1Bib1c4TjdNWnA10gGmAUFVX3lxTFBZU2dhdEh3Rml2TEZWRTZqWURHbUIwRnBreVBRLTZWUzE4blA1TGN2MHozNFozZlBzc3FaNUctM2dKeHhVNUhyZzJLMlJQS21ld1E5LXBhYWpKZUlPblBQOGlhVmRNdDRiZFU2dDZwNU9xcnY4MmZ4LVBVTkt3YjVtZ0ZZejFSWlB4WmEtZE4xY2syT3FwSVZoYU9iNGxTa3B4VmRkNHc?oc=5",
+      "published": "2026-07-24T19:25:08.000Z",
+      "titleZh": "为什么Joshua Zirkzee毕竟可能在曼联有未来， Shea Lacey如何偷走节目，孩子们如何再次闪耀：我们在迈克尔·卡里克（ Michael Carrick ）的手下抨击罗森博格（ Rosenborg ）时学到的东西"
+    },
+    {
       "id": "Andy Mitten:CBMiiwFBVV95cUxPdV8wWE0tNVlIeXZIRk9XM09TT3JjUzRFb0syeTVoMzNjQUY1SldmVG4tRjJCOWpObzVReWxRdDRmMHFsVWNtZ3JTMEd2d1cyY0haa2FYU1ZBV1RROXhGOUxnRjdLaUU3QUFkM3BtaFRnS01BQklOYTc4VnNObzdRNXp3OS1rVmdfQm5Z",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -6411,18 +6435,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdV8wWE0tNVlIeXZIRk9XM09TT3JjUzRFb0syeTVoMzNjQUY1SldmVG4tRjJCOWpObzVReWxRdDRmMHFsVWNtZ3JTMEd2d1cyY0haa2FYU1ZBV1RROXhGOUxnRjdLaUU3QUFkM3BtaFRnS01BQklOYTc4VnNObzdRNXp3OS1rVmdfQm5Z?oc=5",
       "published": "2026-07-24T19:05:19.000Z",
       "titleZh": "Berrada解释夏季转会思维"
-    },
-    {
-      "id": "Rob Dawson:CBMiiAFBVV95cUxQamFHTjdGd3BjYWU5bkdueklIU2xMcXJyVUlsTW9SZEdyMzNBTEs5Y2pwZ1J0bkVLVTRQU005Zk4wS1FtaVJBS19Fa09SZ285Q1Nyam5USE1nbFNzVUJTM1VMdWhQbnkzTGxlOUZXaUtLREthX0pKRFl3TWk2T1UxX3J5NnlGamg4",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Joseph Junior Andreou Gabriel",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamFHTjdGd3BjYWU5bkdueklIU2xMcXJyVUlsTW9SZEdyMzNBTEs5Y2pwZ1J0bkVLVTRQU005Zk4wS1FtaVJBS19Fa09SZ285Q1Nyam5USE1nbFNzVUJTM1VMdWhQbnkzTGxlOUZXaUtLREthX0pKRFl3TWk2T1UxX3J5NnlGamg4?oc=5",
-      "published": "2026-07-24T17:43:00.000Z",
-      "titleZh": "Joseph Junior Andreou Gabriel"
     },
     {
       "id": "Carl Anka:CBMijAFBVV95cUxOeWNsRHV4MlJUS0xaYmxYd1ZESzZFVTUtdXp5NXRXQzE3UnFIaHJ3bFFuQ1NDZEZHcW5pLVZKcmdnLVNIZVhUTDBjREluSkJkYUxhTlR4WUUzSm5tQ0xSSzFBTDBPUXFCUFA3MzB2QzM2ZEpGZ09tZTUtVkhTYTBNZGRGbHpEeDIxZ21xZg",
@@ -6509,18 +6521,6 @@
       "titleZh": "埃利奥特·安德森（ Elliot Anderson ）从诺丁汉森林（ Nottingham Forest ）搬到曼城"
     },
     {
-      "id": "Rob Dawson:CBMiwgFBVV95cUxNZVVOaXVvT0Z3elRod1NJdjV5amVudVpaN1FieW5lY2l4aV9WT21PdHRGem1MTnJzT1VFRFNXb3hCQkN3MFB2WmgxQ3hzOGVxeUR2aUFlWVpIVDFMUUZsM3F6Q0ExMEE3aGRfR3JmZlFjdHFhSU1xeHZwRGpqbzNKNmN2THZtcGIzU1VkM0tKMlhsTW8xV3pKekFvN1plMTNTRmFadjdQUnlpM1gxN2lYeHhsc2dZVHkydjQ4ZUN5T1p2Zw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Leeds in talks with Manchester City for goalkeeper James Trafford - sources",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVVOaXVvT0Z3elRod1NJdjV5amVudVpaN1FieW5lY2l4aV9WT21PdHRGem1MTnJzT1VFRFNXb3hCQkN3MFB2WmgxQ3hzOGVxeUR2aUFlWVpIVDFMUUZsM3F6Q0ExMEE3aGRfR3JmZlFjdHFhSU1xeHZwRGpqbzNKNmN2THZtcGIzU1VkM0tKMlhsTW8xV3pKekFvN1plMTNTRmFadjdQUnlpM1gxN2lYeHhsc2dZVHkydjQ4ZUN5T1p2Zw?oc=5",
-      "published": "2026-07-23T15:09:00.000Z",
-      "titleZh": "利兹与曼城就守门员詹姆斯·特拉福德进行谈判-消息来源"
-    },
-    {
       "id": "Simon Stone:CBMiZ0FVX3lxTE1BN3NXbkxId28yNUVTTndmY2NNNFc5anpDZnhINFE4emxaX1g3dFRjLXNaNi1SWFRKdGpNZUtoME5zMXRLbXkxRi0wNG5iM3RIcDdtdnRQQWxxUXhTSUc5akZ1a3NhVzg",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -6533,7 +6533,7 @@
       "titleZh": "达尼洛：曼联和纽卡斯尔今年夏天表达了对巴西中场球员的兴趣"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-27T19:51:55.640Z",
+  "journalistsUpdatedAt": "2026-07-27T20:59:06.177Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

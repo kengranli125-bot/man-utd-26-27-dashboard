@@ -6228,6 +6228,18 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMixgFBVV95cUxORHhzTDFuNWRCVll6cTh4NGhpczgtS0x4TFpEemJZcWFHRE9HdGRnZVFSc1RCaTk1OGZBRUNIOGpGTWZHbThmTEk1eUlRMzFoT0tnbURmamo1dXVMTTMwdFNmTXc0aUhVelYyd3Y5dG8zS0ZINF9FczdBYUFqYThJWWhvMFJYVTVUbFA5U2s4Y3prT1dwb2d2c3NEUXJPWGFGb0hPTHp6Um1qbWFpdUwwOGxpQTdEM2NuNlViRWo0ZEJZYXM5eUE",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "The 5 most pressing issues facing Man United on their preseason tour of Europe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHhzTDFuNWRCVll6cTh4NGhpczgtS0x4TFpEemJZcWFHRE9HdGRnZVFSc1RCaTk1OGZBRUNIOGpGTWZHbThmTEk1eUlRMzFoT0tnbURmamo1dXVMTTMwdFNmTXc0aUhVelYyd3Y5dG8zS0ZINF9FczdBYUFqYThJWWhvMFJYVTVUbFA5U2s4Y3prT1dwb2d2c3NEUXJPWGFGb0hPTHp6Um1qbWFpdUwwOGxpQTdEM2NuNlViRWo0ZEJZYXM5eUE?oc=5",
+      "published": "2026-07-28T08:48:00.000Z",
+      "titleZh": "曼联在季前欧洲巡回赛中面临的5个最紧迫问题"
+    },
+    {
       "id": "Fabrizio Romano:CBMikgFBVV95cUxQTVJMS2hwcGd6bnVkR1lPZDRhV2c4TjFObElxSUpXOWdUbmd0M3dBeUFZLUdoZ3kxemdsVWU2U1owSlBjNEdaVDB6MUtQRmtjNWtSWjNVbHRhWFJodXU0bWVNQjZzaFpEMEN3Y0RVdnJSWm81UGNHSDJISHd1OFNpMlEyd1ZfYUtvNGlZUTJnWWQydw",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -6250,6 +6262,18 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUxqeTRTQTZhYnhJWFFRVGZjLVdGSUNsd2hUZFgzbjJELWZIVEJpMy1vRE5sTmRTZ0V5NUZLeUtrZ09fbFFWZG5DNWlQMzQtRmJwNkVzMXNYVlVUNDZwNGd2M2lGR3huSGpCNFE5aFJJbU9ES2twd1RnNmtFVC1oVjFNSmxoajdFZ0ZVT1hBRXFwQUdYUVE4Q1VMQmhJV2MxaTNCdHhB?oc=5",
       "published": "2026-07-27T19:50:00.000Z",
       "titleZh": "利兹联队与曼城的詹姆斯·特拉福德达成协议-消息来源"
+    },
+    {
+      "id": "David Ornstein:CBMilwFBVV95cUxQUkJGUWFMT0xQdWZwRHp4Qm4zbjM1c0pWa2F6OWhIbEdFRzRTa05OV2ZJUXFJTFQ1QlJFZlpqcXNmME9pVm1PMmM4cXZJc01pOC1LYk5TUVJBVVUzYm1nLThIYk5YMGZndy1IeURVeHNWak1lNy1sRGN0QTdfa2RBZjY4dDk0anYycEN1cURhMTFFcktiblpj",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Chelsea exploring Danny Welbeck move - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUkJGUWFMT0xQdWZwRHp4Qm4zbjM1c0pWa2F6OWhIbEdFRzRTa05OV2ZJUXFJTFQ1QlJFZlpqcXNmME9pVm1PMmM4cXZJc01pOC1LYk5TUVJBVVUzYm1nLThIYk5YMGZndy1IeURVeHNWak1lNy1sRGN0QTdfa2RBZjY4dDk0anYycEN1cURhMTFFcktiblpj?oc=5",
+      "published": "2026-07-27T17:02:03.000Z",
+      "titleZh": "切尔西探索丹尼·韦尔贝克动作-体育"
     },
     {
       "id": "Andy Mitten:CBMimAFBVV95cUxPY1kyQU84YkZaVjBhX2RHVncyWlRvbElGdllNZXBJa2VJNUJvVW5yMl9wX3dGaUdsWW1Menp1NWVSLUhKYlNSaWxMZS1VeTZSVk1SWjRpT3VqTHRxZE9PVXJjMWFFQ2ZVUWxVTzJpVlNuWF9tLVZBUFhETEJVUm5wSG42UEJkRi1GZUdPVGs4Q3ZoNWdKTkRKTg",
@@ -6288,18 +6312,6 @@
       "titleZh": "Dvvid Ornstein在切尔西和布莱顿声称震惊后发布Danny Welbeck更新"
     },
     {
-      "id": "David Ornstein:CBMi8wFBVV95cUxNdDVFTnNJaUlNRnJ2LVBzenF6Y0p1NFk3SUpiY0s3b1dDMDlQN1ZlY0pGekJ4b0h4MDlja3ZCeDZhN3ZSdWRtQ0FYaFgxdEpJN1NMQ0d3OEtxc0lJa2FzZzQ3b3ZHdWphRGZGM1dOOWUzcUlhVHFfUmM0cGRHclJnYjBPeGMweG5mSnBTS20wNU5PZG5uVmNacHhMakFETlR3dmc1aTVNWVR6ckJtenRHWkNIdTJTSVFDRnlWWm9leUhQUzZVMnBfZXJkQUdvNk9jUmduQTR1NThpX2tTN3MydzJheUxMOXBLLUhzRzJYTkh2RG8",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "SussexWorld",
-      "tier": 1,
-      "title": "David Ornstein issues Danny Welbeck update after shock Chelsea and Brighton claim",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdDVFTnNJaUlNRnJ2LVBzenF6Y0p1NFk3SUpiY0s3b1dDMDlQN1ZlY0pGekJ4b0h4MDlja3ZCeDZhN3ZSdWRtQ0FYaFgxdEpJN1NMQ0d3OEtxc0lJa2FzZzQ3b3ZHdWphRGZGM1dOOWUzcUlhVHFfUmM0cGRHclJnYjBPeGMweG5mSnBTS20wNU5PZG5uVmNacHhMakFETlR3dmc1aTVNWVR6ckJtenRHWkNIdTJTSVFDRnlWWm9leUhQUzZVMnBfZXJkQUdvNk9jUmduQTR1NThpX2tTN3MydzJheUxMOXBLLUhzRzJYTkh2RG8?oc=5",
-      "published": "2026-07-27T13:41:00.000Z",
-      "titleZh": "Dvvid Ornstein在切尔西和布莱顿声称震惊后发布Danny Welbeck更新"
-    },
-    {
       "id": "Simon Stone:CBMiakFVX3lxTE9fdlQzeHNlU3BwTFJhMnY3QVNIbGRqUE1qb2RXR0xfaXMyelNVUENmVDBUMDRHY3FQMzk3bnJpUmppQzZMUHJMQ0tVVUxFMElxUlBZTlVZVlBIOE12dDIwNXM4TVhGTTk1OUE",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -6310,6 +6322,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdlQzeHNlU3BwTFJhMnY3QVNIbGRqUE1qb2RXR0xfaXMyelNVUENmVDBUMDRHY3FQMzk3bnJpUmppQzZMUHJMQ0tVVUxFMElxUlBZTlVZVlBIOE12dDIwNXM4TVhGTTk1OUE?oc=5",
       "published": "2026-07-27T11:12:31.000Z",
       "titleZh": "“你必须雄心勃勃” - Kamason的目标是推动一线队"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMigAFBVV95cUxOSlFpb3ZhX29vSVczemJaLUNmYTQ5QzQ5cVQzZjVFNkZabEpaZVNiWjBNX1lMT3JSVVlVLTktUHhiZGpuMDZQbDM4RjQzTUlZUkpaUmdIZVd1YlVyOXBKZjg4bXJDTzVJY05FMzliUWVBWjUzVGctUmN1ZDJMNmhscg",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "How Man Utd can have perfect window with three signings and Rashford among exits",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlFpb3ZhX29vSVczemJaLUNmYTQ5QzQ5cVQzZjVFNkZabEpaZVNiWjBNX1lMT3JSVVlVLTktUHhiZGpuMDZQbDM4RjQzTUlZUkpaUmdIZVd1YlVyOXBKZjg4bXJDTzVJY05FMzliUWVBWjUzVGctUmN1ZDJMNmhscg?oc=5",
+      "published": "2026-07-26T17:03:51.000Z",
+      "titleZh": "曼联如何拥有完美的窗口，有三个签约和拉什福德的出口"
     },
     {
       "id": "Samuel Luckhurst:CBMigAFBVV95cUxOUzhzVTNkemJHUjNyZDNxeGhBckRTSGs5aTM2QkhhS3daZ0tXSFl2WUkxdnRjS2Ftel9UTVhVNFdfUnlOelJkV1RnWU1YWWhKdmV4T3FjYm9DWmFkcHlfS0NfRTM4ZmN1SV9NeVBKVi1xcV9Bd1VfYXhJZGQ1YnNCXw",
@@ -6420,18 +6444,6 @@
       "titleZh": "对阵罗森堡的倒计时"
     },
     {
-      "id": "Rob Dawson:CBMingFBVV95cUxOZW1wdGZ1WU9ZdXplSGVBaEpIWktyREZxTzZRUm1QYzZiTUFIOXUtNmROMTFrdEdaR3NqYlUyTXpCSmxPYU4yZVhGOWlXXzJaMlN0ejNnRVVGY0tGS0VhTWxwdEJwa09kaDJrZ3pQUDBjcXhJSldYa3BOdm05Uy1GUXVvenpPX1hHV3NxSGc0RVNYMDAyd2R6OVdfZXlCQQ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Enzo Maresca: It's a 'privilege' to succeed Pep Guardiola at Man City",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW1wdGZ1WU9ZdXplSGVBaEpIWktyREZxTzZRUm1QYzZiTUFIOXUtNmROMTFrdEdaR3NqYlUyTXpCSmxPYU4yZVhGOWlXXzJaMlN0ejNnRVVGY0tGS0VhTWxwdEJwa09kaDJrZ3pQUDBjcXhJSldYa3BOdm05Uy1GUXVvenpPX1hHV3NxSGc0RVNYMDAyd2R6OVdfZXlCQQ?oc=5",
-      "published": "2026-07-24T13:10:00.000Z",
-      "titleZh": "恩佐·马雷斯卡：在曼城接替瓜迪奥拉是一种“特权”"
-    },
-    {
       "id": "Simon Stone:CBMiZ0FVX3lxTE11ZDZ1UnBvV2c3RTNySDJLa0R5Nm1HQnk0bDlHbjdrelRIandJV3VpT092dVVrZURDOFU1bE5iQWhLNXBCUHo5aHpFei1KNDB2WElKNlhmUVlDalhVRHJ5SUFPdDNSVzg",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -6460,7 +6472,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
+      "source": "Daily Mail Online",
       "tier": 2,
       "title": "Man United considering £35m move for Bournemouth star Tyler Adams to add to £85m midfield overhaul",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZWQwaEt3WkNaQXl3ckp6RGVab0tyRlBDNWc3RUxtNXFERm5aY042OHRjNE5VV3lIS0xINXdTU2xfYzB3Y1R1bXgweTlOM1pucUdUXzBjVTRuVUJDQm9qWmhTSy12VnU5Xzk5SnM3TmZaR1lla3hSS29KaW5iSGxNVmQtUC03SlhjOUF5X0JpaE5XOU9vR2RDLUtiblo4bUxlR1U4ZGljcllrXy13MXY2d0xVc1VKYWFXZWhhN090ei0tU1YxeC1WcGJ1NTMwT3dFOEFrRFdRaHFzY3ha0gHiAUFVX3lxTE5KWW5LSmU4SW4xckxseWc2cU5qbWNxMnRMcjJBa04xb1BWSkNZdWU5SFRiU2NjRFBGVm1iRnpHckI0bjBOM2liTEdSUWRoVDFnLXF3cHJNNXBYSUJDUlZGVUw4ZmhfYWJlVnlvc2xMcnFJQUN2YmtjbnI0WUZ4VWlFZnJ0YWZoVWJZS3NuWXNNLWc1dEdDMmc1SUdWLTVHS0pBRDZwMFR6LXFZWXVJeHJvd2FlbkxYMjNPcTFkZ1BESU5uT0swdVVpZkxwS2ZLYjR1NjY1WmJKUEFfRVc5T0wwMFE?oc=5",
@@ -6502,21 +6514,9 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2VZQ0o2ZjEtcjAzblZYS2QtSzNpdG00ZkFPdUh2ZFRzZUZ0S3B1Nnc2T2VyUjNXOTI4VEVJQkd0WnFkOWVJOFEyS3NSVXExUldYN2loZWVZeG92WklOYXpoeHRlcVhUWmk2WjFiYTBJbWZZV1duaGRjSk1VTTkzZFdLT1RZSXdYU1ZJdEpvamJsd0N2akUwcnoxeWZXOXo4THF6bA?oc=5",
       "published": "2026-07-23T16:00:00.000Z",
       "titleZh": "埃利奥特·安德森（ Elliot Anderson ）用“曼彻斯特之王”嘲笑曼联"
-    },
-    {
-      "id": "Rob Dawson:CBMisgFBVV95cUxQc3JZbkVNSjlXQVYtUTVHd1I4SlFEb3o2bXpxR25rMjA3SEZGaTZCMzZ6WDNyNFItNmVmQVAyQzJVSlFZOU5GcEdOTVUxS2xaQkJIenh6dlZMZjJtNmIwd1FBOExfWFcyd2NJUmZxSi1kQU1lTUw4eFhPX2VJMUJobkVSdHVKcElFVzRBcDhUcWZxSDBEdnlaYjJLRjJVb3g5bWJpUnROeUM3NkJ4LU1nRXhB",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Elliot Anderson completes move to Manchester City from Nottingham Forest",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3JZbkVNSjlXQVYtUTVHd1I4SlFEb3o2bXpxR25rMjA3SEZGaTZCMzZ6WDNyNFItNmVmQVAyQzJVSlFZOU5GcEdOTVUxS2xaQkJIenh6dlZMZjJtNmIwd1FBOExfWFcyd2NJUmZxSi1kQU1lTUw4eFhPX2VJMUJobkVSdHVKcElFVzRBcDhUcWZxSDBEdnlaYjJLRjJVb3g5bWJpUnROeUM3NkJ4LU1nRXhB?oc=5",
-      "published": "2026-07-23T16:00:00.000Z",
-      "titleZh": "埃利奥特·安德森（ Elliot Anderson ）从诺丁汉森林（ Nottingham Forest ）搬到曼城"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-28T06:13:01.899Z",
+  "journalistsUpdatedAt": "2026-07-28T08:50:13.511Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

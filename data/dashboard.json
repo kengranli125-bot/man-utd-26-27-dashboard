@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T19:53:39.883Z",
+  "updatedAt": "2026-07-28T03:33:59.222Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -6113,23 +6113,6 @@
       "availabilityScore": 90
     },
     {
-      "id": "375738",
-      "name": "Chido Obi",
-      "nameZh": "奇多·奥比",
-      "shortName": "C. Obi",
-      "shortNameZh": "奥比",
-      "jersey": "32",
-      "position": "Forward",
-      "age": 18,
-      "nationality": "Denmark",
-      "nationalityZh": "丹麦",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
-    },
-    {
       "id": "368547",
       "name": "Ethan Wheatley",
       "nameZh": "伊桑·惠特利",
@@ -7001,18 +6984,18 @@
       "summary": "以考察新援和年轻球员为主，同时保留部分一线队骨干维持阵型结构与比赛节奏。",
       "players": [
         {
-          "id": "375738",
-          "name": "Chido Obi",
-          "nameZh": "奇多·奥比",
-          "shortName": "C. Obi",
-          "shortNameZh": "奥比",
-          "jersey": "32",
+          "id": "289155",
+          "name": "Benjamin Sesko",
+          "nameZh": "本杰明·谢什科",
+          "shortName": "B. Sesko",
+          "shortNameZh": "谢什科",
+          "jersey": "30",
           "position": "Forward",
-          "age": 18,
-          "nationality": "Denmark",
-          "nationalityZh": "丹麦",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1557220.png",
+          "age": 23,
+          "nationality": "Slovenia",
+          "nationalityZh": "斯洛文尼亚",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1073977.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -7217,7 +7200,7 @@
         },
         {
           "label": "经验值",
-          "value": 73
+          "value": 74
         },
         {
           "label": "攻守平衡",

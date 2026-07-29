@@ -6228,6 +6228,18 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "SPORTbible",
+      "tier": 2,
+      "title": "Man Utd tell four players they can leave the club after Michael Carrick watches them in pre-season",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw?oc=5",
+      "published": "2026-07-29T12:00:01.000Z",
+      "titleZh": "曼联告诉四名球员，在迈克尔·卡里克在赛季前观看他们的比赛后，他们可以离开俱乐部"
+    },
+    {
       "id": "Chris Wheeler:CBMi5gFBVV95cUxPQzd6UUs3cUZaYk9NMnM0TldYOWVaVUFNLTM0UGlJdjJoVHJnOW82bnNNM1RfbTZ0ZmVGallJRFZoVjRiSjZkNUpZSjJFUHpfTzR5NW11RTd1cnJLNjlyM0wzNnZOU2lsbFFtNWFhQ3JSdXhHR2RMZm1wQ1BiVDVBVEVjMjMyc2RnQm1fQ3BleVVja05weVJzbkk3c3NxaXBVQnRIY1FuY0xUR2xZRUp6TXdON3U5ZG5LSEJkaGxYc1hTN2dKSmNSM0FGU2RUUTlCYzZsOXVFWVZld3JMeE5LbmFGNFhzQQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -6456,18 +6468,6 @@
       "titleZh": "曼联及其令人印象深刻的学院毕业生向迈克尔·卡里克提出了很好的问题来回答"
     },
     {
-      "id": "David Ornstein:CBMipAFBVV95cUxOMFRiWmVGdENsajFuYVVYN3ZON3lUNTBBb3IyU3AxSXFxOFRJeV9Fd1JCWUprVF9hdE1iX1Roc3FNY2h4WGZCM094MFV3cUVVbjk1Z0k1ZmhOWGNzczBRNnBBaWR1cXpzWjRuWlJDVmEyVE40bmJhU1c4Sy1WekwzNklWYzRRTXFnX01rckZFSW9YQXpDMEhfZ3VEY09GS1gzQ24wTw",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Arsenal exploring deal for Real Madrid winger Vinicius Junior - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFRiWmVGdENsajFuYVVYN3ZON3lUNTBBb3IyU3AxSXFxOFRJeV9Fd1JCWUprVF9hdE1iX1Roc3FNY2h4WGZCM094MFV3cUVVbjk1Z0k1ZmhOWGNzczBRNnBBaWR1cXpzWjRuWlJDVmEyVE40bmJhU1c4Sy1WekwzNklWYzRRTXFnX01rckZFSW9YQXpDMEhfZ3VEY09GS1gzQ24wTw?oc=5",
-      "published": "2026-07-25T12:46:35.000Z",
-      "titleZh": "阿森纳探索皇家马德里边锋Vinicius Junior - The Athletic的交易"
-    },
-    {
       "id": "David Ornstein:CBMiqwFBVV95cUxPMlZTRmphLXY2b3hCQmQ3VFo4NUxHVUtnbmg1NG9rNW16OVZPdzRUUEYyT3hkaWNIVllrNFFJTDZybGxpTm5tVWcxUEJUWlRqMnVzckpCMWlzbnRGQjI5TWxKa0sxZWo0RG5WQjNNRXVnRzU5VGpSLTJRLVR2T1VWZEZrc1k4a215d0F3VWwzRHdadzdQRk5FUjlsWElINEYzZmJ0bnhleTJhV00",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -6516,7 +6516,7 @@
       "titleZh": "安德森引用后，曼联陷入危机"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-29T11:52:14.728Z",
+  "journalistsUpdatedAt": "2026-07-29T13:40:12.952Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

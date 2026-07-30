@@ -6228,6 +6228,18 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMizAFBVV95cUxPRkE5WWhJeG5lUEhvNHB0enB3SmhZQmxYcEswOXpldGFSUDBpdENDQXVoaG91d3BadWtlWjM5Z2w1RlpvbGtqUlI0WmJ5V3dveTZ4Qk5OUlUxOXVBZVhxcGpNb2hzcWRab3JMSWh5QmFGSjROdGFMRGhYR1g0LTAwSncxV2hFRTRKUG9JYVpxUk1OeDU2SW1pdmdUcFpGa00tT0wzRkdqNklzUHVsOGg3Q2lyV3VaVjl2UFN1NldZQVVTWXJVZDRoVy1yaGY",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Eddie Howe set to leave Newcastle United, Matthias Jaissle poised to replace him",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkE5WWhJeG5lUEhvNHB0enB3SmhZQmxYcEswOXpldGFSUDBpdENDQXVoaG91d3BadWtlWjM5Z2w1RlpvbGtqUlI0WmJ5V3dveTZ4Qk5OUlUxOXVBZVhxcGpNb2hzcWRab3JMSWh5QmFGSjROdGFMRGhYR1g0LTAwSncxV2hFRTRKUG9JYVpxUk1OeDU2SW1pdmdUcFpGa00tT0wzRkdqNklzUHVsOGg3Q2lyV3VaVjl2UFN1NldZQVVTWXJVZDRoVy1yaGY?oc=5",
+      "published": "2026-07-30T08:26:35.000Z",
+      "titleZh": "埃迪·豪（ Eddie Howe ）将离开纽卡斯尔联队，马蒂亚斯·贾斯尔（ Matthias Jaissle ）将"
+    },
+    {
       "id": "Chris Wheeler:CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -6236,8 +6248,20 @@
       "tier": 2,
       "title": "Man Utd tell four players they can leave the club after Michael Carrick watches them in pre-season",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw?oc=5",
-      "published": "2026-07-29T20:33:42.000Z",
+      "published": "2026-07-29T21:22:52.000Z",
       "titleZh": "曼联告诉四名球员，在迈克尔·卡里克在赛季前观看他们的比赛后，他们可以离开俱乐部"
+    },
+    {
+      "id": "Laurie Whitwell:CBMidEFVX3lxTE9lbHdnM2NpX1RLbWZmTkJsSHNzUEZweVJFaFhZaUR4THljaTlpS3hRY2E0MVh6Q25OOEs4WFREQnJ4Z1NYV1VQaV9JQXc1WlpXTEhaS1pzdXQ2NDhyb3B4aEhUWmdsV1JtcVNtWHlDZ3RwQkZ1",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "lastwordonsports.com",
+      "tier": 1,
+      "title": "Manchester United Open to Selling Harry Amass to Finance Big Splash",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lbHdnM2NpX1RLbWZmTkJsSHNzUEZweVJFaFhZaUR4THljaTlpS3hRY2E0MVh6Q25OOEs4WFREQnJ4Z1NYV1VQaV9JQXc1WlpXTEhaS1pzdXQ2NDhyb3B4aEhUWmdsV1JtcVNtWHlDZ3RwQkZ1?oc=5",
+      "published": "2026-07-29T13:35:37.000Z",
+      "titleZh": "曼联公开出售Harry Amass为Big Splash融资"
     },
     {
       "id": "Chris Wheeler:CBMi5gFBVV95cUxPQzd6UUs3cUZaYk9NMnM0TldYOWVaVUFNLTM0UGlJdjJoVHJnOW82bnNNM1RfbTZ0ZmVGallJRFZoVjRiSjZkNUpZSjJFUHpfTzR5NW11RTd1cnJLNjlyM0wzNnZOU2lsbFFtNWFhQ3JSdXhHR2RMZm1wQ1BiVDVBVEVjMjMyc2RnQm1fQ3BleVVja05weVJzbkk3c3NxaXBVQnRIY1FuY0xUR2xZRUp6TXdON3U5ZG5LSEJkaGxYc1hTN2dKSmNSM0FGU2RUUTlCYzZsOXVFWVZld3JMeE5LbmFGNFhzQQ",
@@ -6252,16 +6276,16 @@
       "titleZh": "Shea Lacey和JJ Gabriel与Fletcher Twins一起执教曼联一线队"
     },
     {
-      "id": "Laurie Whitwell:CBMi3AFBVV95cUxNY3g5SlpKRi1POVBtend5REpHNnZhQm1uYUZmTTZOZTRxQnhTaUNtcjR3SldOYWNBZHlhZUgxNkJaVGdDRUFFbmdIcWU5Yl8tRzhjZG9XVmJ0RFk3NUFiWENjOVgxYlUtTE1TT3JYblRpWkE4amlaWVFnWVU3NF8wUFM0R3JQUThVaTZNTjVjNTNoaHhXbFFld3hzdV9HeVpreWhYYVNNSDg2em1UNldyMVlBWFUzOWZoZDhTaFpJUEs3V0c3bGxjUDJCMVA1WmYzM09fVnNJWXZJRjRF",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Yardbarker",
-      "tier": 1,
-      "title": "Chelsea seen as likeliest destination despite Man United working on midfield target",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY3g5SlpKRi1POVBtend5REpHNnZhQm1uYUZmTTZOZTRxQnhTaUNtcjR3SldOYWNBZHlhZUgxNkJaVGdDRUFFbmdIcWU5Yl8tRzhjZG9XVmJ0RFk3NUFiWENjOVgxYlUtTE1TT3JYblRpWkE4amlaWVFnWVU3NF8wUFM0R3JQUThVaTZNTjVjNTNoaHhXbFFld3hzdV9HeVpreWhYYVNNSDg2em1UNldyMVlBWFUzOWZoZDhTaFpJUEs3V0c3bGxjUDJCMVA1WmYzM09fVnNJWXZJRjRF?oc=5",
-      "published": "2026-07-29T09:44:51.000Z",
-      "titleZh": "尽管曼联在中场目标上工作，但切尔西被视为最有可能的目的地"
+      "id": "Andy Mitten:CBMiqgFBVV95cUxOQ0xjSWFYWld5TkxuODNzY0RpbmRuWEIwVUZyYWFCdjFZamhObzBrd0lQdWJxSGVrXzhmdFE2OHhOVG9vcUdzaHpwOW54UWoyMFJyeGhmLUh3bE5RUkd4QXJFOVdBWldKWkNBZUt3X3o1cHBwU3VxdE9seGpURDQzSXk0SVdVMEl2MUdBbGpCMVp5VEQ0Z3JKYXhwZmVJQWZ1a0hoLVJXZ1Bkdw",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 10, Cristiano Ronaldo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0xjSWFYWld5TkxuODNzY0RpbmRuWEIwVUZyYWFCdjFZamhObzBrd0lQdWJxSGVrXzhmdFE2OHhOVG9vcUdzaHpwOW54UWoyMFJyeGhmLUh3bE5RUkd4QXJFOVdBWldKWkNBZUt3X3o1cHBwU3VxdE9seGpURDQzSXk0SVdVMEl2MUdBbGpCMVp5VEQ0Z3JKYXhwZmVJQWZ1a0hoLVJXZ1Bkdw?oc=5",
+      "published": "2026-07-29T04:10:00.000Z",
+      "titleZh": "曼联最伟大的球员：第10名，克里斯蒂亚诺·罗纳尔多"
     },
     {
       "id": "Laurie Whitwell:CBMigAFBVV95cUxNcnVvTTZFb0JPaGhzRjlTNzJyZWt4dUpicm1NbTRRM3dKTGlXeHB0S25kall5SXlSRTFXRlBYMWNRZDRKVUdPaENnc3lJSzY5cjJGN1JZMVNGSWFUMml0cTljS1lKYnFQMnRiUlFoSnVrSG9yd1ZpLWp1di1tbVQzTA",
@@ -6292,7 +6316,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Juventus keen on Joshua Zirkzee, Man United open to offers - sources",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGhxRjMzV0YzVWtpUHJfdHRvRGY4UFpPS1pDZ0M5WDh1UzhvNGdlRkRLYTlXV21HT195dmRtZ2ZrVTlKSFZYYko5RmtCYkhLd192b0RjVVdRNFZVbzR3RVAtdjRGSUdJclpBNHk4M0tMblVjTEpaclBXVGd1Q2Y1OTBsNmlnVVF4QVhzcHpXZlRmSFlzMlRFdk1XMlFLTWhiQndmc2UyazdZVnM?oc=5",
@@ -6304,7 +6328,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "The 5 most pressing issues facing Man United on their preseason tour of Europe",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHhzTDFuNWRCVll6cTh4NGhpczgtS0x4TFpEemJZcWFHRE9HdGRnZVFSc1RCaTk1OGZBRUNIOGpGTWZHbThmTEk1eUlRMzFoT0tnbURmamo1dXVMTTMwdFNmTXc0aUhVelYyd3Y5dG8zS0ZINF9FczdBYUFqYThJWWhvMFJYVTVUbFA5U2s4Y3prT1dwb2d2c3NEUXJPWGFGb0hPTHp6Um1qbWFpdUwwOGxpQTdEM2NuNlViRWo0ZEJZYXM5eUE?oc=5",
@@ -6340,7 +6364,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Leeds United close in on deal for Man City's James Trafford - sources",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUxqeTRTQTZhYnhJWFFRVGZjLVdGSUNsd2hUZFgzbjJELWZIVEJpMy1vRE5sTmRTZ0V5NUZLeUtrZ09fbFFWZG5DNWlQMzQtRmJwNkVzMXNYVlVUNDZwNGd2M2lGR3huSGpCNFE5aFJJbU9ES2twd1RnNmtFVC1oVjFNSmxoajdFZ0ZVT1hBRXFwQUdYUVE4Q1VMQmhJV2MxaTNCdHhB?oc=5",
@@ -6400,7 +6424,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "sussexexpress.co.uk",
+      "source": "SussexWorld",
       "tier": 1,
       "title": "David Ornstein issues Danny Welbeck update after shock Chelsea and Brighton claim",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdDVFTnNJaUlNRnJ2LVBzenF6Y0p1NFk3SUpiY0s3b1dDMDlQN1ZlY0pGekJ4b0h4MDlja3ZCeDZhN3ZSdWRtQ0FYaFgxdEpJN1NMQ0d3OEtxc0lJa2FzZzQ3b3ZHdWphRGZGM1dOOWUzcUlhVHFfUmM0cGRHclJnYjBPeGMweG5mSnBTS20wNU5PZG5uVmNacHhMakFETlR3dmc1aTVNWVR6ckJtenRHWkNIdTJTSVFDRnlWWm9leUhQUzZVMnBfZXJkQUdvNk9jUmduQTR1NThpX2tTN3MydzJheUxMOXBLLUhzRzJYTkh2RG8?oc=5",
@@ -6408,14 +6432,14 @@
       "titleZh": "Dvvid Ornstein在切尔西和布莱顿声称震惊后发布Danny Welbeck更新"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTFB5VmwzWVNIdkY3TVVwaVdnbzZ4RHhZMVdFYjI1SHEzWDRxMzNVY3NvSWR4YlZGTmt0dy1qczNjLUZUSDdiTkVYV0ZpNkpTR0dnQzNCRUk4eDNjLURmMlduOWo3OVlacGs",
+      "id": "Simon Stone:CBMiakFVX3lxTE9fdlQzeHNlU3BwTFJhMnY3QVNIbGRqUE1qb2RXR0xfaXMyelNVUENmVDBUMDRHY3FQMzk3bnJpUmppQzZMUHJMQ0tVVUxFMElxUlBZTlVZVlBIOE12dDIwNXM4TVhGTTk1OUE",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "'You have to be ambitious' - Kamason aims for first-team push",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5VmwzWVNIdkY3TVVwaVdnbzZ4RHhZMVdFYjI1SHEzWDRxMzNVY3NvSWR4YlZGTmt0dy1qczNjLUZUSDdiTkVYV0ZpNkpTR0dnQzNCRUk4eDNjLURmMlduOWo3OVlacGs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdlQzeHNlU3BwTFJhMnY3QVNIbGRqUE1qb2RXR0xfaXMyelNVUENmVDBUMDRHY3FQMzk3bnJpUmppQzZMUHJMQ0tVVUxFMElxUlBZTlVZVlBIOE12dDIwNXM4TVhGTTk1OUE?oc=5",
       "published": "2026-07-27T11:12:31.000Z",
       "titleZh": "“你必须雄心勃勃” - Kamason的目标是推动一线队"
     },
@@ -6490,33 +6514,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnZ1OE13Y01yeUNTUkg0RW1Ea19TYzd0ZHNkMFd3ZFdwdmtDbWxERUR3Qy1vQmFOSmVuZ0lZZ3ZZLWN3RExlMmdqZ0tBcHRrNFB3WnBaeG9KRGp0VWRMQll6TGEzRHMxbi1XdVBQajdicFpkQ1FTd3RiYk5fcDhDS1RRYTFIbldRQzRib291UWh3Ny04ejlwaHhveU5tdDhyZWhwWHVHendCQ2FR?oc=5",
       "published": "2026-07-24T21:30:00.000Z",
       "titleZh": "恩佐·马雷斯卡（ Enzo Maresca ）看起来很兴奋，要在曼城做事"
-    },
-    {
-      "id": "Chris Wheeler:CBMioAFBVV95cUxQaG9kMGxRMEpCZzA1OW4yRzQwSWhvanVFM3RXRlJZUDRxU0VuZGNSa214UVhOSGNnclJLNUVUREFYVnhmX0JYTzVVS0NRRFB2Y0JWSDlnS1BpTmZvaGl4X0VMWWhPX3lnRVBtTnVkZm5kdHFtZXRyQ3l0QUp0ek9ubmpDZzBPWTRzMzU2bHYxdXpVbWx5a1Bib1c4TjdNWnA10gGmAUFVX3lxTFBZU2dhdEh3Rml2TEZWRTZqWURHbUIwRnBreVBRLTZWUzE4blA1TGN2MHozNFozZlBzc3FaNUctM2dKeHhVNUhyZzJLMlJQS21ld1E5LXBhYWpKZUlPblBQOGlhVmRNdDRiZFU2dDZwNU9xcnY4MmZ4LVBVTkt3YjVtZ0ZZejFSWlB4WmEtZE4xY2syT3FwSVZoYU9iNGxTa3B4VmRkNHc",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Why Joshua Zirkzee might have a future at Man United after all, how Shea Lacey stole the show and the kids shine again: THINGS WE LEARNED as Michael Carrick's men thrash Rosenborg",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaG9kMGxRMEpCZzA1OW4yRzQwSWhvanVFM3RXRlJZUDRxU0VuZGNSa214UVhOSGNnclJLNUVUREFYVnhmX0JYTzVVS0NRRFB2Y0JWSDlnS1BpTmZvaGl4X0VMWWhPX3lnRVBtTnVkZm5kdHFtZXRyQ3l0QUp0ek9ubmpDZzBPWTRzMzU2bHYxdXpVbWx5a1Bib1c4TjdNWnA10gGmAUFVX3lxTFBZU2dhdEh3Rml2TEZWRTZqWURHbUIwRnBreVBRLTZWUzE4blA1TGN2MHozNFozZlBzc3FaNUctM2dKeHhVNUhyZzJLMlJQS21ld1E5LXBhYWpKZUlPblBQOGlhVmRNdDRiZFU2dDZwNU9xcnY4MmZ4LVBVTkt3YjVtZ0ZZejFSWlB4WmEtZE4xY2syT3FwSVZoYU9iNGxTa3B4VmRkNHc?oc=5",
-      "published": "2026-07-24T19:25:08.000Z",
-      "titleZh": "为什么Joshua Zirkzee毕竟可能在曼联有未来， Shea Lacey如何偷走节目，孩子们如何再次闪耀：我们在迈克尔·卡里克（ Michael Carrick ）的手下抨击罗森博格（ Rosenborg ）时学到的东西"
-    },
-    {
-      "id": "Carl Anka:CBMijAFBVV95cUxOeWNsRHV4MlJUS0xaYmxYd1ZESzZFVTUtdXp5NXRXQzE3UnFIaHJ3bFFuQ1NDZEZHcW5pLVZKcmdnLVNIZVhUTDBjREluSkJkYUxhTlR4WUUzSm5tQ0xSSzFBTDBPUXFCUFA3MzB2QzM2ZEpGZ09tZTUtVkhTYTBNZGRGbHpEeDIxZ21xZg",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "Manchester United Website",
-      "tier": 2,
-      "title": "Countdown to kick-off against Rosenborg",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWNsRHV4MlJUS0xaYmxYd1ZESzZFVTUtdXp5NXRXQzE3UnFIaHJ3bFFuQ1NDZEZHcW5pLVZKcmdnLVNIZVhUTDBjREluSkJkYUxhTlR4WUUzSm5tQ0xSSzFBTDBPUXFCUFA3MzB2QzM2ZEpGZ09tZTUtVkhTYTBNZGRGbHpEeDIxZ21xZg?oc=5",
-      "published": "2026-07-24T13:31:25.000Z",
-      "titleZh": "对阵罗森堡的倒计时"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-30T07:07:00.546Z",
+  "journalistsUpdatedAt": "2026-07-30T09:38:13.509Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

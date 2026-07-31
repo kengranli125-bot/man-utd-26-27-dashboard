@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T09:15:55.027Z",
+  "updatedAt": "2026-07-31T14:33:48.847Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -4443,17 +4443,17 @@
       "competitionKey": "club.friendly",
       "competitionGroup": "friendly",
       "home": {
-        "id": "103",
-        "name": "AC Milan",
-        "nameZh": "AC米兰",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-        "score": null
-      },
-      "away": {
         "id": "360",
         "name": "Manchester United",
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "103",
+        "name": "AC Milan",
+        "nameZh": "AC米兰",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
         "score": null
       },
       "lineups": []
@@ -5376,6 +5376,41 @@
   "scorers": [],
   "news": [
     {
+      "title": "Premier League 2026-27 kits: Ranking every jersey released",
+      "published": "2026-07-31T08:20:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
+      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
+    },
+    {
+      "title": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
+      "published": "2026-07-31T07:53:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联看着一对意甲边锋"
+    },
+    {
+      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "published": "2026-07-31T06:36:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
+    },
+    {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-07-31T06:35:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-07-31T06:35:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
       "title": "Senne Lammens cuts holiday short to return to Man United training - sources",
       "published": "2026-07-30T14:47:43Z",
       "url": "https://www.espn.com/soccer/story/_/id/49488549/senne-lammens-cuts-holiday-short-return-man-united-training-sources",
@@ -5388,34 +5423,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49488140/marcus-rashford-says-goodbye-barcelona-premier-league-season-nears",
       "image": "https://a.espncdn.com/photo/2026/0510/r1656309_1296x729_16-9.jpg",
       "titleZh": "马库斯·拉什福德（ Marcus Rashford ）告别巴塞罗那，英超赛季即将到来"
-    },
-    {
-      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-07-30T12:21:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
-    },
-    {
-      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-07-30T12:18:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-07-30T12:18:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
-      "title": "Premier League 2026-27 kits: Ranking every jersey released",
-      "published": "2026-07-30T13:59:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
-      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
     },
     {
       "title": "Who will be the young breakout Premier League star of the season?",
@@ -5451,16 +5458,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/49408793/did-world-cup-help-hinder-your-premier-league-team-how-tournament-affected-man-united-city-liverpool-arsenal-chelsea-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0720/r1691697_1296x729_16-9.jpg",
       "titleZh": "世界杯是帮助还是阻碍了你的英超球队？锦标赛如何影响每个俱乐部"
-    },
-    {
-      "title": "Premier League friendlies: Christos Tzolis' debut assist, Liverpool's injury bug - what you missed",
-      "published": "2026-07-28T06:18:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49455589/premier-league-preseason-friendlies-arsenal-christos-tzolis-liverpool-injuries",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692762_1296x729_16-9.jpg",
-      "titleZh": "英超友谊赛： Christos Tzolis的首次助攻，利物浦的伤病漏洞-你错过了什么"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
+      "published": "2026-07-31T07:53:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
+      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联看着一对意甲边锋",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "274272",

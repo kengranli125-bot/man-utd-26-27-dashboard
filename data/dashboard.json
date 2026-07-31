@@ -6194,7 +6194,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thebusbybabe.sbnation.com",
+      "source": "The Busby Babe",
       "tier": 2,
       "title": "Tyneside Turnover could present Lewis Hall opportunity for Manchester United",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ?oc=5",
@@ -6214,6 +6214,18 @@
       "titleZh": "最新转会新闻和谣言：皇家马德里接近罗德里"
     },
     {
+      "id": "Rob Dawson:CBMitgFBVV95cUxOSEpVRTVJWnBOTWUwQ0Q4eWJ1OU9tODdkdEdxWjRObDJNd3pQc2tOTlhmZnBfYUpuNFNYVEpJYjY5ODI1WUZSYzU4d1BsbDdxdlVaTldxUk9KdGdBRHdtRWE4eGMzSnZLVk5sd3lVd3JFcnFMQ1VTY3FLSjNCUnFaMktDcUxLczBkT2dHTkswUTZFSG1WVU5HLUdYR1BDcl9BRDNHd2luZWJpa0c4WkU5OF9MRWwtUQ",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Senne Lammens cuts holiday short to return to Man United training - sources",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEpVRTVJWnBOTWUwQ0Q4eWJ1OU9tODdkdEdxWjRObDJNd3pQc2tOTlhmZnBfYUpuNFNYVEpJYjY5ODI1WUZSYzU4d1BsbDdxdlVaTldxUk9KdGdBRHdtRWE4eGMzSnZLVk5sd3lVd3JFcnFMQ1VTY3FLSjNCUnFaMktDcUxLczBkT2dHTkswUTZFSG1WVU5HLUdYR1BDcl9BRDNHd2luZWJpa0c4WkU5OF9MRWwtUQ?oc=5",
+      "published": "2026-07-30T14:47:00.000Z",
+      "titleZh": "Senne Lammens缩短假期以重返曼联训练-来源"
+    },
+    {
       "id": "Chris Wheeler:CBMikgFBVV95cUxONE1zZk1WTm9vM3o2QVloMGotY1Y5bGRiOGx3Y0lZTDBXOEFTZkstbHZ0c0FQcHJDZ3J2YllxTkVweXJQc1loYThYTDNUWFg3NFNDZW5NN3FJVWh5UW9JdVJIS21NM0g1OGhTU3RJXzdBQWcwUnJBbVk1YlIySnhURXFuZGJCVmJkWVBpem5uVkQwQQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -6224,6 +6236,30 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONE1zZk1WTm9vM3o2QVloMGotY1Y5bGRiOGx3Y0lZTDBXOEFTZkstbHZ0c0FQcHJDZ3J2YllxTkVweXJQc1loYThYTDNUWFg3NFNDZW5NN3FJVWh5UW9JdVJIS21NM0g1OGhTU3RJXzdBQWcwUnJBbVk1YlIySnhURXFuZGJCVmJkWVBpem5uVkQwQQ?oc=5",
       "published": "2026-07-30T14:04:11.000Z",
       "titleZh": "五名曼联承包商被控殴打"
+    },
+    {
+      "id": "Simon Stone:CBMiZ0FVX3lxTE9pREFRRExoZWFOdUhDVW1PellXMWRab095R2FQZ1NoNmExY3EzN0N5cGJKYnpYQll4WktYelUzRTA5Yjd4ZEZjd012VDNtbENFLTlXZE04ZlVJRHd1U1NCR2RVd3dzRjg",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Public get first chance to assess Old Trafford plans",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pREFRRExoZWFOdUhDVW1PellXMWRab095R2FQZ1NoNmExY3EzN0N5cGJKYnpYQll4WktYelUzRTA5Yjd4ZEZjd012VDNtbENFLTlXZE04ZlVJRHd1U1NCR2RVd3dzRjg?oc=5",
+      "published": "2026-07-30T10:17:28.000Z",
+      "titleZh": "曼联新闻：公众首次有机会评估老特拉福德计划"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMikwFBVV95cUxORTBMamVRMEZSRlBKY3lYU29FVnpaWW1PcGZlUDJlSkdWeGZ4QWhyOXpCcEFfLVFDdVdYN291RkhZX2FQMFJNRUM5dGVLbE9VajdCT0lLNEFfWTVma1ZzeVItRHR5R3VwUHB3b3ZoQ1ljQ0gtV0h0anFWRzZHc3JodF9mQ2U0UHljamlvT3JMT3BPaUU",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Sun",
+      "tier": 2,
+      "title": "Man Utd consider Lewis Hall transfer raid amid Newcastle disarray",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTBMamVRMEZSRlBKY3lYU29FVnpaWW1PcGZlUDJlSkdWeGZ4QWhyOXpCcEFfLVFDdVdYN291RkhZX2FQMFJNRUM5dGVLbE9VajdCT0lLNEFfWTVma1ZzeVItRHR5R3VwUHB3b3ZoQ1ljQ0gtV0h0anFWRzZHc3JodF9mQ2U0UHljamlvT3JMT3BPaUU?oc=5",
+      "published": "2026-07-30T08:29:00.000Z",
+      "titleZh": "曼联考虑在纽卡斯尔混乱中进行刘易斯霍尔转会突袭"
     },
     {
       "id": "David Ornstein:CBMizAFBVV95cUxPRkE5WWhJeG5lUEhvNHB0enB3SmhZQmxYcEswOXpldGFSUDBpdENDQXVoaG91d3BadWtlWjM5Z2w1RlpvbGtqUlI0WmJ5V3dveTZ4Qk5OUlUxOXVBZVhxcGpNb2hzcWRab3JMSWh5QmFGSjROdGFMRGhYR1g0LTAwSncxV2hFRTRKUG9JYVpxUk1OeDU2SW1pdmdUcFpGa00tT0wzRkdqNklzUHVsOGg3Q2lyV3VaVjl2UFN1NldZQVVTWXJVZDRoVy1yaGY",
@@ -6290,7 +6326,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "thebusbybabe.sbnation.com",
+      "source": "The Busby Babe",
       "tier": 1,
       "title": "What to do with Harry Amass?",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnVvTTZFb0JPaGhzRjlTNzJyZWt4dUpicm1NbTRRM3dKTGlXeHB0S25kall5SXlSRTFXRlBYMWNRZDRKVUdPaENnc3lJSzY5cjJGN1JZMVNGSWFUMml0cTljS1lKYnFQMnRiUlFoSnVrSG9yd1ZpLWp1di1tbVQzTA?oc=5",
@@ -6306,7 +6342,7 @@
       "tier": 1,
       "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlNBOXBHb0tFYjI2Um5NVVI1VWtrRnZNa2Zra0ZZeWpVOFItc0ZHeGpHTDVOLXpvQ1lVRXpKYmhFY3pCWWsteE1qS2UyWEVvdDM5S3lueUNaLVZ1Q0lndG1kSERlbjN0UnpWd3J6dWw3a2VUT3pPb3lxWjVycWZwTGZycl9yeWVPeW5VcGFwLTJFYWRI?oc=5",
-      "published": "2026-07-28T11:38:16.000Z",
+      "published": "2026-07-28T17:14:43.000Z",
       "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
     },
     {
@@ -6394,23 +6430,11 @@
       "titleZh": "“80%几率” – Andy Mitten发布Marcus Rashford Man Utd更新"
     },
     {
-      "id": "Samuel Luckhurst:CBMihAFBVV95cUxNNG96Yno0cXhOZF9lV1JYME9lTDdHalZ1bUhSM2c3Y0wwbW4wLUZvN3RvS2swZDBzamhHWFA5T25yVHJYbG1UTkZHU2Z1VE05OEJLWmxoVXZHSGNIa2h0cGkxa0Q4ZmxzMnNGaTFxX0ZYQ1ZYTVQtSEUwRWZDdmprLW4yRHQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
-      "tier": 2,
-      "title": "Benjamin Sesko injury update after Man Utd striker missed first two pre-season friendlies with shin problem",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNG96Yno0cXhOZF9lV1JYME9lTDdHalZ1bUhSM2c3Y0wwbW4wLUZvN3RvS2swZDBzamhHWFA5T25yVHJYbG1UTkZHU2Z1VE05OEJLWmxoVXZHSGNIa2h0cGkxa0Q4ZmxzMnNGaTFxX0ZYQ1ZYTVQtSEUwRWZDdmprLW4yRHQ?oc=5",
-      "published": "2026-07-27T14:35:00.000Z",
-      "titleZh": "曼联前锋因胫骨问题错过前两场季前友谊赛后的本杰明·塞斯科伤病更新"
-    },
-    {
       "id": "David Ornstein:CBMi8wFBVV95cUxNdDVFTnNJaUlNRnJ2LVBzenF6Y0p1NFk3SUpiY0s3b1dDMDlQN1ZlY0pGekJ4b0h4MDlja3ZCeDZhN3ZSdWRtQ0FYaFgxdEpJN1NMQ0d3OEtxc0lJa2FzZzQ3b3ZHdWphRGZGM1dOOWUzcUlhVHFfUmM0cGRHclJnYjBPeGMweG5mSnBTS20wNU5PZG5uVmNacHhMakFETlR3dmc1aTVNWVR6ckJtenRHWkNIdTJTSVFDRnlWWm9leUhQUzZVMnBfZXJkQUdvNk9jUmduQTR1NThpX2tTN3MydzJheUxMOXBLLUhzRzJYTkh2RG8",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "SussexWorld",
+      "source": "sussexexpress.co.uk",
       "tier": 1,
       "title": "David Ornstein issues Danny Welbeck update after shock Chelsea and Brighton claim",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdDVFTnNJaUlNRnJ2LVBzenF6Y0p1NFk3SUpiY0s3b1dDMDlQN1ZlY0pGekJ4b0h4MDlja3ZCeDZhN3ZSdWRtQ0FYaFgxdEpJN1NMQ0d3OEtxc0lJa2FzZzQ3b3ZHdWphRGZGM1dOOWUzcUlhVHFfUmM0cGRHclJnYjBPeGMweG5mSnBTS20wNU5PZG5uVmNacHhMakFETlR3dmc1aTVNWVR6ckJtenRHWkNIdTJTSVFDRnlWWm9leUhQUzZVMnBfZXJkQUdvNk9jUmduQTR1NThpX2tTN3MydzJheUxMOXBLLUhzRzJYTkh2RG8?oc=5",
@@ -6422,7 +6446,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "tier": 1,
       "title": "'You have to be ambitious' - Kamason aims for first-team push",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdlQzeHNlU3BwTFJhMnY3QVNIbGRqUE1qb2RXR0xfaXMyelNVUENmVDBUMDRHY3FQMzk3bnJpUmppQzZMUHJMQ0tVVUxFMElxUlBZTlVZVlBIOE12dDIwNXM4TVhGTTk1OUE?oc=5",
@@ -6452,33 +6476,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN2dIY2hiV3VobTEteWU2a2ZTRGpXNEQ5MXF5X2FJb2htM2VqZFZVYmQ5RnNTUzE4VURtMGNsUDMtYXoyNkZzQnRnMXVFOXV5NENWdWZqVFJsTk95SmdZY0VIMnMwMGw3RkpVT0hwS2ZyQkVlVGUwOUYxdkM5cURyUENZcHNHVGdMemxKb2tEelBKVUhhdTl5aGhpcmY4SmJkT0tsMmltYVJ1cFVKeWNxQzg0ZTdYOXZmQ0d6TjBNYXcxbWl6cFp0T3I5RzRXaTZoQ1RicUJvNEVIdVVQ?oc=5",
       "published": "2026-07-26T06:52:40.000Z",
       "titleZh": "曼联季前更新：转会、伤病和马库斯·拉什福德的情况"
-    },
-    {
-      "id": "Fabrizio Romano:CBMinwFBVV95cUxQWjFOTHhmbVMyUUxMRmhyRHMxUGpHN0lfUWo2eGwtcHFxeXBEa1JwNm5LbGZ4Qy1sUUlaNUV2Z3ZmcjJzbXF3NDU4MGoyaEdHQ09feGstLTZKRFo0bGltT2E1ZjNscmFvRGRsdnY4bEtkMmZfTlI0NE0yZTJaZGIzTmFycXZRV0xpRTVQTVRBcHkwYkNtQnZzQ3l5N2haUnM",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano reveals Man Utd decision on signing Danilo from Botafogo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjFOTHhmbVMyUUxMRmhyRHMxUGpHN0lfUWo2eGwtcHFxeXBEa1JwNm5LbGZ4Qy1sUUlaNUV2Z3ZmcjJzbXF3NDU4MGoyaEdHQ09feGstLTZKRFo0bGltT2E1ZjNscmFvRGRsdnY4bEtkMmZfTlI0NE0yZTJaZGIzTmFycXZRV0xpRTVQTVRBcHkwYkNtQnZzQ3l5N2haUnM?oc=5",
-      "published": "2026-07-25T20:09:40.000Z",
-      "titleZh": "Fabrizio Romano透露曼联决定从Botafogo签下Danilo"
-    },
-    {
-      "id": "Carl Anka:CBMikwFBVV95cUxPWF9TNzhhUUxfMUs1d1ZqcVl0ZXl1clJLZUZQa1lvNU5QUXRqYkJzaVZZNkJuU3U5NEZKVE5mWGp6ZE1JRGZ1STQtb2o4eUZJUldtTXhsbG4xQzUyXzZUajBGZlRKSzVkR3VXLWhCMnF5X1FHamh2ekZtcjlBTzM1QXNWb09LeWN6b1pFOFhhbF9GUGs",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Man Utd – and their impressive academy graduates – give Michael Carrick good questions to answer",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWF9TNzhhUUxfMUs1d1ZqcVl0ZXl1clJLZUZQa1lvNU5QUXRqYkJzaVZZNkJuU3U5NEZKVE5mWGp6ZE1JRGZ1STQtb2o4eUZJUldtTXhsbG4xQzUyXzZUajBGZlRKSzVkR3VXLWhCMnF5X1FHamh2ekZtcjlBTzM1QXNWb09LeWN6b1pFOFhhbF9GUGs?oc=5",
-      "published": "2026-07-25T13:43:20.000Z",
-      "titleZh": "曼联及其令人印象深刻的学院毕业生向迈克尔·卡里克提出了很好的问题来回答"
     }
   ],
-  "journalistsUpdatedAt": "2026-07-31T04:53:11.870Z",
+  "journalistsUpdatedAt": "2026-07-31T07:42:45.455Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T19:50:49.263Z",
+  "updatedAt": "2026-07-31T03:48:32.701Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -5376,6 +5376,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Senne Lammens cuts holiday short to return to Man United training - sources",
+      "published": "2026-07-30T14:47:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49488549/senne-lammens-cuts-holiday-short-return-man-united-training-sources",
+      "image": "https://a.espncdn.com/photo/2026/0730/r1695568_1296x729_16-9.jpg",
+      "titleZh": "Senne Lammens缩短假期以重返曼联训练-来源"
+    },
+    {
       "title": "Marcus Rashford says goodbye to Barcelona as Premier League season nears",
       "published": "2026-07-30T13:46:29Z",
       "url": "https://www.espn.com/soccer/story/_/id/49488140/marcus-rashford-says-goodbye-barcelona-premier-league-season-nears",
@@ -5451,27 +5458,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/49455589/premier-league-preseason-friendlies-arsenal-christos-tzolis-liverpool-injuries",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692762_1296x729_16-9.jpg",
       "titleZh": "英超友谊赛： Christos Tzolis的首次助攻，利物浦的伤病漏洞-你错过了什么"
-    },
-    {
-      "title": "Transfer rumors, news: Man United eye move for Tchouaméni",
-      "published": "2026-07-24T20:55:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693330_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻： Man United为Tchouaméni眼动"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United eye move for Tchouaméni",
-      "published": "2026-07-24T20:55:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49437503/transfer-rumors-news-arsenal-agree-bruno-guimaraes-personal-terms",
-      "image": "https://a.espncdn.com/photo/2026/0724/r1693330_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻： Man United为Tchouaméni眼动",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "274272",

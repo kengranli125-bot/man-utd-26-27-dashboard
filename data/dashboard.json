@@ -6201,16 +6201,28 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE91bkZxNmx4d0pQRWY5QU12SEtCSUdGbEVObVdiN0JzaFYwQm9qbmVfcTZaY2lKSW5ZNmtNT0dLUjA5ejFxNjlQLWFkekJvUEx2MWM0ZmJrNEhFQk1kcWFMWjJzbF9MalRsOXc",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "id": "Fabrizio Romano:CBMimwFBVV95cUxQblpYaGM4c1F6a2RJQ3JvdFN4eDZGTnNQd1FCMnlLLWs2QW93TFBRa1diT1M5QlR3ZzBJaURtZzAxeXNtcG92Y3paWEtmZFVZS0NjV2hZYlpkX1NuaW9ST1p5al8tQWtjR2FKRGNmR1FGNE9QWFhFU01mTFh2OFJ5blpzRVQxdUhOSE5RU2UzbFBvZFA5dC0xZUxGTQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Read Newcastle",
       "tier": 1,
-      "title": "Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91bkZxNmx4d0pQRWY5QU12SEtCSUdGbEVObVdiN0JzaFYwQm9qbmVfcTZaY2lKSW5ZNmtNT0dLUjA5ejFxNjlQLWFkekJvUEx2MWM0ZmJrNEhFQk1kcWFMWjJzbF9MalRsOXc?oc=5",
-      "published": "2026-08-01T05:27:03.000Z",
-      "titleZh": "曼联： Shea Lacey和Tyler Fletcher将迎来一线队突破"
+      "title": "Fabrizio Romano drops major Lewis Hall to Manchester United transfer news",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblpYaGM4c1F6a2RJQ3JvdFN4eDZGTnNQd1FCMnlLLWs2QW93TFBRa1diT1M5QlR3ZzBJaURtZzAxeXNtcG92Y3paWEtmZFVZS0NjV2hZYlpkX1NuaW9ST1p5al8tQWtjR2FKRGNmR1FGNE9QWFhFU01mTFh2OFJ5blpzRVQxdUhOSE5RU2UzbFBvZFA5dC0xZUxGTQ?oc=5",
+      "published": "2026-08-01T10:15:34.000Z",
+      "titleZh": "Fabrizio Romano将刘易斯·霍尔（ Lewis Hall ）少校带到曼联转会新闻"
+    },
+    {
+      "id": "Fabrizio Romano:CBMijwFBVV95cUxOM0ViTzFuZFRIR0pBVC1uTHVPZlpUem1JUHhhRW1LZTJ3b29mRjYwdlFYWWlMaHVDM3FwWFdVcHN0QzFBdUI3bGhtRDFRYkc0Yjc2alFkT1FDUVk4Ny1yYTVLTDN3YllrNGYzdkRjQTRqVWFWaVFXNVpFb09PMmk4YTZKVGxLcHFfTjJCU2xMOA",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals next Man Utd transfer has been ‘approved’ as Newcastle chaos continues",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0ViTzFuZFRIR0pBVC1uTHVPZlpUem1JUHhhRW1LZTJ3b29mRjYwdlFYWWlMaHVDM3FwWFdVcHN0QzFBdUI3bGhtRDFRYkc0Yjc2alFkT1FDUVk4Ny1yYTVLTDN3YllrNGYzdkRjQTRqVWFWaVFXNVpFb09PMmk4YTZKVGxLcHFfTjJCU2xMOA?oc=5",
+      "published": "2026-08-01T06:57:02.000Z",
+      "titleZh": "Romano透露，随着纽卡斯尔的混乱局面继续，曼联的下一次转会已被“批准”"
     },
     {
       "id": "Carl Anka:CBMidEFVX3lxTFBuOFdFMW82d09XWWlNWUpuRkZrWTg5NVo5d2hEZjU1MU5KcW1Wdi1KbFRVWktzWGhVcGVnajVUQ0E1bDJnSnI4VzdEQTRRSjlNc1BvZkxHMjB4VHRlNXVpaDlfeWh4cG5YbGxKYWZ6eWw0Y0lQ",
@@ -6253,24 +6265,12 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd files: Star names in frame to narrate Amazon doc and JJ Gabriel latest",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVpobVR6TEFFQUJ5ZlMzREYtZno2YVBibmdzQzBwTXZzTTBBanVfRHpLYnFFSnJndGpGM20yNFhwQ1hRRVFDcXVQdS13OE1SUVRjbEFKNlhna1lvc1hZbzBLZm9FMk1vT2N1Tlkwb3dBVTl1RHlQZWlyb0NxLVk?oc=5",
       "published": "2026-07-31T13:36:00.000Z",
       "titleZh": "曼联档案：框架中的明星名字，以叙述亚马逊doc和JJ Gabriel最新"
-    },
-    {
-      "id": "Laurie Whitwell:CBMiwAFBVV95cUxQYXh2aXdVd2oxQi1XQmpXcURXaHBqcG5tWWQ4Sjg3eUFKRmxDOUhMR3ktRnVHWUt1QnJXMDl2MUZ1Y29CVTVNRnA5Q2ZTOU5iVnlVWDcxNlhmYUtFdm5BeS1SSW14ZWkwTm1NWEx4Q044emdUSGt3dDZOYUZfNFNYY3ZVUVJYZFNuLWtZVVNXQ0lJV2Vab2puSERqTzRUNHMtM3RFX29pX2JhSzFiNmVjeU9xZklVRTMwZHZZT1k3X08",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Premier League strength test: How ready are your club for the new season? - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXh2aXdVd2oxQi1XQmpXcURXaHBqcG5tWWQ4Sjg3eUFKRmxDOUhMR3ktRnVHWUt1QnJXMDl2MUZ1Y29CVTVNRnA5Q2ZTOU5iVnlVWDcxNlhmYUtFdm5BeS1SSW14ZWkwTm1NWEx4Q044emdUSGt3dDZOYUZfNFNYY3ZVUVJYZFNuLWtZVVNXQ0lJV2Vab2puSERqTzRUNHMtM3RFX29pX2JhSzFiNmVjeU9xZklVRTMwZHZZT1k3X08?oc=5",
-      "published": "2026-07-31T07:10:12.000Z",
-      "titleZh": "英超联赛实力测试：您的俱乐部为新赛季做好准备了吗？ - The Athletic"
     },
     {
       "id": "Samuel Luckhurst:CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ",
@@ -6283,18 +6283,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ?oc=5",
       "published": "2026-07-31T00:22:00.000Z",
       "titleZh": "泰恩赛德的周转可能为曼联带来刘易斯·霍尔的机会"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiqAFBVV95cUxQWElkbFFpazc0OVhrUG9lSFdpYlVIaXdLanlzS0R1Sk9kOXZVVmxIc3hPbkVxV0lpX1lWbTlBVDNWMnIzUFhtQS1EYXJYZEtPZ0syRWpTSkNJNHZJd0l3YmY4TGN3WWNYZXF0bmN3V3JnemhoeUpTLWNqMjIzdVpSVk1maW16WUVTNm95Y0lHYVlwUWI2STBCYkpWY3ZKLVo3b2JVSnZGWkM",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "theScore",
-      "tier": 1,
-      "title": "Latest transfer news and rumors: Real Madrid closing in on Rodri",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWElkbFFpazc0OVhrUG9lSFdpYlVIaXdLanlzS0R1Sk9kOXZVVmxIc3hPbkVxV0lpX1lWbTlBVDNWMnIzUFhtQS1EYXJYZEtPZ0syRWpTSkNJNHZJd0l3YmY4TGN3WWNYZXF0bmN3V3JnemhoeUpTLWNqMjIzdVpSVk1maW16WUVTNm95Y0lHYVlwUWI2STBCYkpWY3ZKLVo3b2JVSnZGWkM?oc=5",
-      "published": "2026-07-30T17:01:30.000Z",
-      "titleZh": "最新转会新闻和谣言：皇家马德里接近罗德里"
     },
     {
       "id": "Rob Dawson:CBMitgFBVV95cUxOSEpVRTVJWnBOTWUwQ0Q4eWJ1OU9tODdkdEdxWjRObDJNd3pQc2tOTlhmZnBfYUpuNFNYVEpJYjY5ODI1WUZSYzU4d1BsbDdxdlVaTldxUk9KdGdBRHdtRWE4eGMzSnZLVk5sd3lVd3JFcnFMQ1VTY3FLSjNCUnFaMktDcUxLczBkT2dHTkswUTZFSG1WVU5HLUdYR1BDcl9BRDNHd2luZWJpa0c4WkU5OF9MRWwtUQ",
@@ -6345,6 +6333,18 @@
       "titleZh": "曼联新闻：公众首次有机会评估老特拉福德计划"
     },
     {
+      "id": "David Ornstein:CBMimgFBVV95cUxQOG9KRlhZckFRRG1SZDhsSF9PeUJTOEpwMUZEWllObzVNXzU3cG9acy0xOW4xQk1feS1oTlB6OUd2ZThMdHo4SEFRdEpURndnejg3dHVPcGxWd3JoZHgxVExJWDV0bFIyRERSQzNHM2hPblBBdzNYMEw5TTRsS0lGS3FLZkJ6U3RUMDhfWjg2SmZBR1lhRnpTVFRB",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd 'ready to capitalise' on Howe to sign 'unhappy' Newcastle star who 'wants out'",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG9KRlhZckFRRG1SZDhsSF9PeUJTOEpwMUZEWllObzVNXzU3cG9acy0xOW4xQk1feS1oTlB6OUd2ZThMdHo4SEFRdEpURndnejg3dHVPcGxWd3JoZHgxVExJWDV0bFIyRERSQzNHM2hPblBBdzNYMEw5TTRsS0lGS3FLZkJ6U3RUMDhfWjg2SmZBR1lhRnpTVFRB?oc=5",
+      "published": "2026-07-30T09:36:05.000Z",
+      "titleZh": "曼联“准备好利用”豪签下“想要退出”的“不开心”纽卡斯尔球星"
+    },
+    {
       "id": "Chris Wheeler:CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -6367,6 +6367,18 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQzd6UUs3cUZaYk9NMnM0TldYOWVaVUFNLTM0UGlJdjJoVHJnOW82bnNNM1RfbTZ0ZmVGallJRFZoVjRiSjZkNUpZSjJFUHpfTzR5NW11RTd1cnJLNjlyM0wzNnZOU2lsbFFtNWFhQ3JSdXhHR2RMZm1wQ1BiVDVBVEVjMjMyc2RnQm1fQ3BleVVja05weVJzbkk3c3NxaXBVQnRIY1FuY0xUR2xZRUp6TXdON3U5ZG5LSEJkaGxYc1hTN2dKSmNSM0FGU2RUUTlCYzZsOXVFWVZld3JMeE5LbmFGNFhzQQ?oc=5",
       "published": "2026-07-29T11:00:06.000Z",
       "titleZh": "Shea Lacey和JJ Gabriel与Fletcher Twins一起执教曼联一线队"
+    },
+    {
+      "id": "Laurie Whitwell:CBMi3AFBVV95cUxNY3g5SlpKRi1POVBtend5REpHNnZhQm1uYUZmTTZOZTRxQnhTaUNtcjR3SldOYWNBZHlhZUgxNkJaVGdDRUFFbmdIcWU5Yl8tRzhjZG9XVmJ0RFk3NUFiWENjOVgxYlUtTE1TT3JYblRpWkE4amlaWVFnWVU3NF8wUFM0R3JQUThVaTZNTjVjNTNoaHhXbFFld3hzdV9HeVpreWhYYVNNSDg2em1UNldyMVlBWFUzOWZoZDhTaFpJUEs3V0c3bGxjUDJCMVA1WmYzM09fVnNJWXZJRjRF",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Yardbarker",
+      "tier": 1,
+      "title": "Chelsea seen as likeliest destination despite Man United working on midfield target",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY3g5SlpKRi1POVBtend5REpHNnZhQm1uYUZmTTZOZTRxQnhTaUNtcjR3SldOYWNBZHlhZUgxNkJaVGdDRUFFbmdIcWU5Yl8tRzhjZG9XVmJ0RFk3NUFiWENjOVgxYlUtTE1TT3JYblRpWkE4amlaWVFnWVU3NF8wUFM0R3JQUThVaTZNTjVjNTNoaHhXbFFld3hzdV9HeVpreWhYYVNNSDg2em1UNldyMVlBWFUzOWZoZDhTaFpJUEs3V0c3bGxjUDJCMVA1WmYzM09fVnNJWXZJRjRF?oc=5",
+      "published": "2026-07-29T09:44:51.000Z",
+      "titleZh": "尽管曼联在中场目标上工作，但切尔西被视为最有可能的目的地"
     },
     {
       "id": "Andy Mitten:CBMiqgFBVV95cUxOQ0xjSWFYWld5TkxuODNzY0RpbmRuWEIwVUZyYWFCdjFZamhObzBrd0lQdWJxSGVrXzhmdFE2OHhOVG9vcUdzaHpwOW54UWoyMFJyeGhmLUh3bE5RUkd4QXJFOVdBWldKWkNBZUt3X3o1cHBwU3VxdE9seGpURDQzSXk0SVdVMEl2MUdBbGpCMVp5VEQ0Z3JKYXhwZmVJQWZ1a0hoLVJXZ1Bkdw",
@@ -6475,21 +6487,9 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUxqeTRTQTZhYnhJWFFRVGZjLVdGSUNsd2hUZFgzbjJELWZIVEJpMy1vRE5sTmRTZ0V5NUZLeUtrZ09fbFFWZG5DNWlQMzQtRmJwNkVzMXNYVlVUNDZwNGd2M2lGR3huSGpCNFE5aFJJbU9ES2twd1RnNmtFVC1oVjFNSmxoajdFZ0ZVT1hBRXFwQUdYUVE4Q1VMQmhJV2MxaTNCdHhB?oc=5",
       "published": "2026-07-27T19:50:00.000Z",
       "titleZh": "利兹联队与曼城的詹姆斯·特拉福德达成协议-消息来源"
-    },
-    {
-      "id": "David Ornstein:CBMikwFBVV95cUxPOWd0V0hPWHFfTVlNSE1VVng1dW1JdERUMHU2eDgzTEN4ajdjSF9RajBVTkF6TDM5UFlRYzh1a2NMYl92cktGeDhodmVFbHJQNVpJcDdjVlJaSi1OalRJVko1UWxUSzlUQTVSXzNQWFhYSk91MHFWZmdrdlZMdFlXazhEZzFpVExnWUw4aXZPOGpJSGvSAZgBQVVfeXFMTnFtTGhZRWZmSEozeUlWRi1STlVhZVA3UUNVbHVwcE9QdlZxSWQ0Z04wZEdkSVJEWXFKN1VYQy12LS14cXQtVjhxdWprWnNGeEx5NXVRc3lxemE2N3gyZEMtT3djeUJRWFdOWE45Vi0wa0ZjUkFpdDhBNjExNEpVbTBRLXhoQUNERmx1bXpzTFpWM3FBcUpFMHk",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Talk Chelsea",
-      "tier": 1,
-      "title": "Ornstein drops second Chelsea transfer exclusive in one day as Blue chase England veteran",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWd0V0hPWHFfTVlNSE1VVng1dW1JdERUMHU2eDgzTEN4ajdjSF9RajBVTkF6TDM5UFlRYzh1a2NMYl92cktGeDhodmVFbHJQNVpJcDdjVlJaSi1OalRJVko1UWxUSzlUQTVSXzNQWFhYSk91MHFWZmdrdlZMdFlXazhEZzFpVExnWUw4aXZPOGpJSGvSAZgBQVVfeXFMTnFtTGhZRWZmSEozeUlWRi1STlVhZVA3UUNVbHVwcE9QdlZxSWQ0Z04wZEdkSVJEWXFKN1VYQy12LS14cXQtVjhxdWprWnNGeEx5NXVRc3lxemE2N3gyZEMtT3djeUJRWFdOWE45Vi0wa0ZjUkFpdDhBNjExNEpVbTBRLXhoQUNERmx1bXpzTFpWM3FBcUpFMHk?oc=5",
-      "published": "2026-07-27T18:48:50.000Z",
-      "titleZh": "奥恩斯坦在一天内以蓝色追逐英格兰老将的身份放弃切尔西的第二次独家转会"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-01T07:11:31.100Z",
+  "journalistsUpdatedAt": "2026-08-01T10:53:49.272Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -6190,6 +6190,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMiakFVX3lxTE91bkZxNmx4d0pQRWY5QU12SEtCSUdGbEVObVdiN0JzaFYwQm9qbmVfcTZaY2lKSW5ZNmtNT0dLUjA5ejFxNjlQLWFkekJvUEx2MWM0ZmJrNEhFQk1kcWFMWjJzbF9MalRsOXc",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91bkZxNmx4d0pQRWY5QU12SEtCSUdGbEVObVdiN0JzaFYwQm9qbmVfcTZaY2lKSW5ZNmtNT0dLUjA5ejFxNjlQLWFkekJvUEx2MWM0ZmJrNEhFQk1kcWFMWjJzbF9MalRsOXc?oc=5",
+      "published": "2026-08-01T05:27:03.000Z",
+      "titleZh": "曼联： Shea Lacey和Tyler Fletcher将迎来一线队突破"
+    },
+    {
       "id": "Carl Anka:CBMidEFVX3lxTFBuOFdFMW82d09XWWlNWUpuRkZrWTg5NVo5d2hEZjU1MU5KcW1Wdi1KbFRVWktzWGhVcGVnajVUQ0E1bDJnSnI4VzdEQTRRSjlNc1BvZkxHMjB4VHRlNXVpaDlfeWh4cG5YbGxKYWZ6eWw0Y0lQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -6254,7 +6266,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thebusbybabe.sbnation.com",
+      "source": "The Busby Babe",
       "tier": 2,
       "title": "Tyneside Turnover could present Lewis Hall opportunity for Manchester United",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ?oc=5",
@@ -6322,18 +6334,6 @@
       "titleZh": "曼联新闻：公众首次有机会评估老特拉福德计划"
     },
     {
-      "id": "Fabrizio Romano:CBMilAFBVV95cUxOQ0h4cXBaZ3JJVDB2Rk1WeXFNeW90dGhoRHVmVlNEYk1Qblp1VDNxcTktUjBnQmJZaHNFZFBrdGdHdUR5UGdRdWoxNERlZG5IYndiWnI1MUZyUjAzbGZ4N0Uwbm5tNk9wTWRZWkxENTFSS0o3TmpXSjJ0Q2JucXZTbkhoTG1iOGlyS3hReDQwejlMUDFR",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals Marcus Rashford ‘message’ about leaving Man Utd for Cristiano Ronaldo reunion",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0h4cXBaZ3JJVDB2Rk1WeXFNeW90dGhoRHVmVlNEYk1Qblp1VDNxcTktUjBnQmJZaHNFZFBrdGdHdUR5UGdRdWoxNERlZG5IYndiWnI1MUZyUjAzbGZ4N0Uwbm5tNk9wTWRZWkxENTFSS0o3TmpXSjJ0Q2JucXZTbkhoTG1iOGlyS3hReDQwejlMUDFR?oc=5",
-      "published": "2026-07-30T09:11:50.000Z",
-      "titleZh": "罗马诺透露马库斯·拉什福德关于离开曼联参加克里斯蒂亚诺·罗纳尔多重聚的“信息”"
-    },
-    {
       "id": "Chris Wheeler:CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -6374,7 +6374,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "thebusbybabe.sbnation.com",
+      "source": "The Busby Babe",
       "tier": 1,
       "title": "What to do with Harry Amass?",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnVvTTZFb0JPaGhzRjlTNzJyZWt4dUpicm1NbTRRM3dKTGlXeHB0S25kall5SXlSRTFXRlBYMWNRZDRKVUdPaENnc3lJSzY5cjJGN1JZMVNGSWFUMml0cTljS1lKYnFQMnRiUlFoSnVrSG9yd1ZpLWp1di1tbVQzTA?oc=5",
@@ -6478,7 +6478,7 @@
       "titleZh": "奥恩斯坦在一天内以蓝色追逐英格兰老将的身份放弃切尔西的第二次独家转会"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-01T04:33:05.271Z",
+  "journalistsUpdatedAt": "2026-08-01T07:11:31.100Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

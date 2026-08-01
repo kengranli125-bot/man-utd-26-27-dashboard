@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T03:48:32.349Z",
+  "updatedAt": "2026-08-01T08:33:29.804Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -5376,6 +5376,41 @@
   "scorers": [],
   "news": [
     {
+      "title": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
+      "published": "2026-08-01T08:16:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
+      "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：拜仁之眼曼联的Sesko取代凯恩"
+    },
+    {
+      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
+      "published": "2026-08-01T06:22:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
+      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-01T06:21:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-08-01T06:22:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
+      "title": "Man United vs Atlético Madrid: TV channel, how to watch in UK, kickoff time, live stream, team news",
+      "published": "2026-08-01T06:18:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49495220/man-united-vs-atletico-madrid-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695884_1296x729_16-9.jpg",
+      "titleZh": "曼联vs马德里竞技：电视频道，如何在英国观看，开球时间，直播，团队新闻"
+    },
+    {
       "title": "Where will Man United finish in the Premier League next season?",
       "published": "2026-07-31T16:23:38Z",
       "url": "https://www.espn.com/video/clip/_/id/49496984/where-man-united-finish-premier-league-next-season",
@@ -5397,39 +5432,11 @@
       "titleZh": "解释每支顶级英超球队的转会策略"
     },
     {
-      "title": "Man United vs Atlético Madrid: TV channel, how to watch in UK, kickoff time, live stream, team news",
-      "published": "2026-07-31T10:47:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49495220/man-united-vs-atletico-madrid-tv-channel-how-watch-uk-kickoff-live-stream-team-news",
-      "image": "https://a.espncdn.com/photo/2026/0731/r1695884_1296x729_16-9.jpg",
-      "titleZh": "曼联vs马德里竞技：电视频道，如何在英国观看，开球时间，直播，团队新闻"
-    },
-    {
       "title": "Premier League 2026-27 kits: Ranking every jersey released",
       "published": "2026-07-31T08:20:26Z",
       "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
       "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
-    },
-    {
-      "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-07-31T06:36:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
-      "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
-      "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
-    },
-    {
-      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-07-31T06:35:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-07-31T06:35:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0723/r1692804_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Senne Lammens cuts holiday short to return to Man United training - sources",
@@ -5451,16 +5458,20 @@
       "url": "https://www.espn.com/video/clip/_/id/49480746/who-young-breakout-premier-league-star-season",
       "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-.jpg",
       "titleZh": "谁将成为本赛季英超联赛的年轻突破明星？"
-    },
-    {
-      "title": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
-      "published": "2026-07-29T06:19:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-      "titleZh": "ESPN挑选的季前友谊赛--夏季最大的关系是什么时候？"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
+      "published": "2026-08-01T08:16:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
+      "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：拜仁之眼曼联的Sesko取代凯恩",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "274272",

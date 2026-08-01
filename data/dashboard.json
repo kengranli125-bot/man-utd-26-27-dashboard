@@ -8254,6 +8254,18 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMiiwFBVV95cUxNQ1g5ZVA5SXpnVDd0WWxIQklBTUluUHZUbGtKS01IV2Itb3E5WDBmM1V6Yy1IQmlEaEdKVnFGSjlvanJrcnc2cGp4NzczVWZsOUZtTFpqSG9ySDhyX0xTaEh0YXc2T0VxYVlGbFZ6czJXUERibkRNYl9Pd1RKS3VNdkgtRXhRcm9EQXQw",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Sun",
+      "tier": 2,
+      "title": "Altay Bayindir on verge of leaving Man Utd as Everton make shock transfer enquiry for youngster",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1g5ZVA5SXpnVDd0WWxIQklBTUluUHZUbGtKS01IV2Itb3E5WDBmM1V6Yy1IQmlEaEdKVnFGSjlvanJrcnc2cGp4NzczVWZsOUZtTFpqSG9ySDhyX0xTaEh0YXc2T0VxYVlGbFZ6czJXUERibkRNYl9Pd1RKS3VNdkgtRXhRcm9EQXQw?oc=5",
+      "published": "2026-08-01T16:41:00.000Z",
+      "titleZh": "Altay Bayindir即将离开曼联，因为埃弗顿正在为年轻人进行电击传输查询"
+    },
+    {
       "id": "Fabrizio Romano:CBMirgFBVV95cUxPemdTRjRBVkxRdVNRVlExUWdNTUtkTmJxbDkxcU5MWTlodDVtTllCRHRDRUFpM1B2WGUwb29va1BnQ3V1VlV6STUyNW9uQXU2SzNuek4tWDA5NGw4eENvWnRIX28zOHpxS3lCdnZsYVJMVU9icWJWUlRidGVoTWFQYlNOWmQ1QVVfbjA2TVdueTUtekNiVFhXdHVjTWk0cUZWT0dwbHdibjJlZnVrT3c",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -8330,7 +8342,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "sportskeeda.com",
+      "source": "Sportskeeda",
       "tier": 2,
       "title": "“One of the stumbling blocks” - Journalist reveals key reason why Manchester United could not agree deal to sign Chelsea target Danny Welbeck",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHhaZXNIM2JJRzBzTUpOUldMbV9zcm9fcHhfWVpvTl9oZWltOVdlbDBXVUs3Q29EbURZWGxKWmRsc3dsa0tCOWl4eVFYZlB0cWxfVXUtWnZvREZIRnV1XzYxQWpVN01PV2VDSjBuLUwxMERhRkxZdW5kRGJJZzE3TVYwWGhMck5OaWZCWDJEYzZERFROQ0dOYTUtakYySEFseVBtNER6QkZJWXNDNUN1Z3NzemVqRlN2LVpVLVpEMDVlM0pBcTRILTVjMjFRa2VvT2hhT0djMGVFUUJVX3RqT3lLRFZaQmQtWVpz?oc=5",
@@ -8354,7 +8366,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thebusbybabe.sbnation.com",
+      "source": "The Busby Babe",
       "tier": 2,
       "title": "Tyneside Turnover could present Lewis Hall opportunity for Manchester United",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ?oc=5",
@@ -8474,7 +8486,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "thebusbybabe.sbnation.com",
+      "source": "The Busby Babe",
       "tier": 1,
       "title": "What to do with Harry Amass?",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnVvTTZFb0JPaGhzRjlTNzJyZWt4dUpicm1NbTRRM3dKTGlXeHB0S25kall5SXlSRTFXRlBYMWNRZDRKVUdPaENnc3lJSzY5cjJGN1JZMVNGSWFUMml0cTljS1lKYnFQMnRiUlFoSnVrSG9yd1ZpLWp1di1tbVQzTA?oc=5",
@@ -8528,21 +8540,9 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHhzTDFuNWRCVll6cTh4NGhpczgtS0x4TFpEemJZcWFHRE9HdGRnZVFSc1RCaTk1OGZBRUNIOGpGTWZHbThmTEk1eUlRMzFoT0tnbURmamo1dXVMTTMwdFNmTXc0aUhVelYyd3Y5dG8zS0ZINF9FczdBYUFqYThJWWhvMFJYVTVUbFA5U2s4Y3prT1dwb2d2c3NEUXJPWGFGb0hPTHp6Um1qbWFpdUwwOGxpQTdEM2NuNlViRWo0ZEJZYXM5eUE?oc=5",
       "published": "2026-07-28T09:00:00.000Z",
       "titleZh": "曼联在季前欧洲巡回赛中面临的5个最紧迫问题"
-    },
-    {
-      "id": "Andy Mitten:CBMiygFBVV95cUxQNGlGcU5NRzhFRUkxM0FrS1dYaHZiVG93UlVfMnZSUzhzZnZZaHJDNXZLVmh6U2l6bm9aWUF0R0d1QmVVTUt3YllKVmVPalNaa3c0ckd4YlRrYllYWTgzN2JoRlUzUkt6cm1tQmhNcG1vTWZnbFhodmUxSWlLLW5ySXBrcWd6UlQ1Vkp3cUxqaUEyeERMMlE2QWlvOGJqTHVVZkJxZ3ZFcU41TkhXaVROVmFkVDBDUllxdWQwMXRVSEtMRC1XYzgtUlhR",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "thenationalnews.com",
-      "tier": 2,
-      "title": "Manchester United quiz 2026/27: Michael Carrick, Champions League and more",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGlGcU5NRzhFRUkxM0FrS1dYaHZiVG93UlVfMnZSUzhzZnZZaHJDNXZLVmh6U2l6bm9aWUF0R0d1QmVVTUt3YllKVmVPalNaa3c0ckd4YlRrYllYWTgzN2JoRlUzUkt6cm1tQmhNcG1vTWZnbFhodmUxSWlLLW5ySXBrcWd6UlQ1Vkp3cUxqaUEyeERMMlE2QWlvOGJqTHVVZkJxZ3ZFcU41TkhXaVROVmFkVDBDUllxdWQwMXRVSEtMRC1XYzgtUlhR?oc=5",
-      "published": "2026-07-28T06:53:51.000Z",
-      "titleZh": "2026/27曼联测验：迈克尔·卡里克、欧洲冠军联赛等"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-01T16:35:08.262Z",
+  "journalistsUpdatedAt": "2026-08-01T18:36:46.091Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:15:02.751Z",
+  "updatedAt": "2026-08-01T19:32:48.535Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -6436,7 +6436,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-01T15:15:02.751Z"
+        "generatedAt": "2026-08-01T19:32:47.766Z"
       }
     },
     {
@@ -7430,10 +7430,17 @@
   "news": [
     {
       "title": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
-      "published": "2026-08-01T08:16:20Z",
+      "published": "2026-08-01T13:49:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
       "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：拜仁之眼曼联的Sesko取代凯恩"
+    },
+    {
+      "title": "Man United vs Atlético Madrid LIVE: Latest updates as Andrey Santos, Amad Diallo start",
+      "published": "2026-08-01T13:43:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49503886/man-united-atletico-madrid-live-preseason-latest-updates-commentary-score-result",
+      "image": "https://a.espncdn.com/photo/2026/0801/r1696291_1296x729_16-9.jpg",
+      "titleZh": "曼联vs马德里竞技现场直播：安德烈·桑托斯最新动态，阿马德·迪亚洛首发"
     },
     {
       "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
@@ -7504,19 +7511,12 @@
       "url": "https://www.espn.com/soccer/story/_/id/49488140/marcus-rashford-says-goodbye-barcelona-premier-league-season-nears",
       "image": "https://a.espncdn.com/photo/2026/0510/r1656309_1296x729_16-9.jpg",
       "titleZh": "马库斯·拉什福德（ Marcus Rashford ）告别巴塞罗那，英超赛季即将到来"
-    },
-    {
-      "title": "Who will be the young breakout Premier League star of the season?",
-      "published": "2026-07-29T16:46:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49480746/who-young-breakout-premier-league-star-season",
-      "image": "https://a.espncdn.com/media/motion/2026/0729/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-/dm_260729_COM_SOC_Analysis_Who_will_be_the_young_breakout_Premier_League_star_of_the_season3F_GLOBAL_2026-07-.jpg",
-      "titleZh": "谁将成为本赛季英超联赛的年轻突破明星？"
     }
   ],
   "transfers": [
     {
       "title": "Transfer rumors, news: Bayern eye Man United's Sesko to replace Kane",
-      "published": "2026-08-01T08:16:20Z",
+      "published": "2026-08-01T13:49:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/49503204/transfer-rumors-news-bayern-munich-eye-manchester-united-benjamin-sesko-replace-harry-kane",
       "image": "https://a.espncdn.com/photo/2026/0301/r1621673_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：拜仁之眼曼联的Sesko取代凯恩",
@@ -9006,7 +9006,7 @@
     },
     "preseason": {
       "formation": "4-2-3-1",
-      "title": "季前赛预测首发 · 对马德里竞技",
+      "title": "季前赛预测首发 · 对巴黎圣日耳曼",
       "summary": "以考察新援和年轻球员为主，同时保留部分一线队骨干维持阵型结构与比赛节奏。",
       "players": [
         {

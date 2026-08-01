@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:51:53.319Z",
+  "updatedAt": "2026-08-01T03:48:32.349Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -5376,11 +5376,18 @@
   "scorers": [],
   "news": [
     {
-      "title": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
-      "published": "2026-07-31T14:28:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联看着一对意甲边锋"
+      "title": "Where will Man United finish in the Premier League next season?",
+      "published": "2026-07-31T16:23:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/49496984/where-man-united-finish-premier-league-next-season",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Where_will_Man_United_f743/dm_260731_COM_SOC_Analysis_Where_will_Man_United_f743.jpg",
+      "titleZh": "曼联下赛季将在哪里结束英超联赛？"
+    },
+    {
+      "title": "Ogden: Man United should keep Rashford at the club",
+      "published": "2026-07-31T15:37:21Z",
+      "url": "https://www.espn.com/video/clip/_/id/49496956/man-united-keep-rashford-club",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/dm_260731_COM_SOC_Analysis_Ogden3A_Man_United_should_keep_Rashford_at_the_club_GLOBAL_2026-07-31/dm_260731_COM_SOC_Analysis_Ogden3A_Man_United_should_keep_Rashford_at_the_club_GLOBAL_2026-07-31.jpg",
+      "titleZh": "奥格登：曼联应该让拉什福德留在俱乐部"
     },
     {
       "title": "Explaining each top Premier League team's transfer strategy",
@@ -5451,27 +5458,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
       "titleZh": "ESPN挑选的季前友谊赛--夏季最大的关系是什么时候？"
-    },
-    {
-      "title": "Juventus keen on Joshua Zirkzee, Man United open to offers - sources",
-      "published": "2026-07-28T09:38:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49468159/juventus-keen-joshua-zirkzee-man-united-open-offers-sources",
-      "image": "https://a.espncdn.com/photo/2026/0728/r1694548_1296x729_16-9.jpg",
-      "titleZh": "尤文图斯热衷于Joshua Zirkzee ，曼联对报价持开放态度-消息来源"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United looking at pair of Serie A wingers",
-      "published": "2026-07-31T14:28:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49494536/transfer-rumors-news-man-united-looking-pair-serie-wingers",
-      "image": "https://a.espncdn.com/photo/2026/0401/r1637319_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联看着一对意甲边锋",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "274272",

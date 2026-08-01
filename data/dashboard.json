@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:32:48.535Z",
+  "updatedAt": "2026-08-01T22:02:49.049Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -4648,8 +4648,8 @@
             },
             {
               "id": "3108507",
-              "name": "Joseph Junior Andreou Gabriel",
-              "nameZh": "Joseph Junior Andreou Gabriel",
+              "name": "JJ Gabriel",
+              "nameZh": "JJ Gabriel",
               "jersey": "77",
               "position": "SUB",
               "starter": false,
@@ -5397,8 +5397,8 @@
               },
               {
                 "id": "3108507",
-                "name": "Joseph Junior Andreou Gabriel",
-                "nameZh": "Joseph Junior Andreou Gabriel",
+                "name": "JJ Gabriel",
+                "nameZh": "JJ Gabriel",
                 "starter": false,
                 "position": "SUB",
                 "jersey": "77",
@@ -6100,8 +6100,8 @@
               },
               {
                 "id": "3108507",
-                "name": "Joseph Junior Andreou Gabriel",
-                "nameZh": "Joseph Junior Andreou Gabriel",
+                "name": "JJ Gabriel",
+                "nameZh": "JJ Gabriel",
                 "jersey": "77",
                 "position": "SUB",
                 "starter": false,
@@ -6436,7 +6436,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-01T19:32:47.766Z"
+        "generatedAt": "2026-08-01T22:02:49.048Z"
       }
     },
     {

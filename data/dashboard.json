@@ -8243,6 +8243,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMifkFVX3lxTE9IS2RvMEdMUHQtNUlPX3BacnRva1QweG5sdU5ub1I3UHRzWWU1cFg4aTR3RG1HaVVScWFCVFFQN1RHVmxJWVlzZG9BU3NXajVVakhiV2NWTklTTmFzS2ltSVA4N2E4M1B0c0hyWk1sMWhma0o1UE5hdjFzWloxUQ",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "Yoro aiming high at Man Utd title tilt",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IS2RvMEdMUHQtNUlPX3BacnRva1QweG5sdU5ub1I3UHRzWWU1cFg4aTR3RG1HaVVScWFCVFFQN1RHVmxJWVlzZG9BU3NXajVVakhiV2NWTklTTmFzS2ltSVA4N2E4M1B0c0hyWk1sMWhma0o1UE5hdjFzWloxUQ?oc=5",
+      "published": "2026-08-02T11:27:26.000Z",
+      "titleZh": "Yoro瞄准曼联冠军倾斜"
+    },
+    {
       "id": "Fabrizio Romano:CBMirgFBVV95cUxPemdTRjRBVkxRdVNRVlExUWdNTUtkTmJxbDkxcU5MWTlodDVtTllCRHRDRUFpM1B2WGUwb29va1BnQ3V1VlV6STUyNW9uQXU2SzNuek4tWDA5NGw4eENvWnRIX28zOHpxS3lCdnZsYVJMVU9icWJWUlRidGVoTWFQYlNOWmQ1QVVfbjA2TVdueTUtekNiVFhXdHVjTWk0cUZWT0dwbHdibjJlZnVrT3c",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -8291,11 +8303,23 @@
       "titleZh": "Fabrizio Romano将刘易斯·霍尔（ Lewis Hall ）少校带到曼联转会新闻"
     },
     {
+      "id": "Fabrizio Romano:CBMijwFBVV95cUxOM0ViTzFuZFRIR0pBVC1uTHVPZlpUem1JUHhhRW1LZTJ3b29mRjYwdlFYWWlMaHVDM3FwWFdVcHN0QzFBdUI3bGhtRDFRYkc0Yjc2alFkT1FDUVk4Ny1yYTVLTDN3YllrNGYzdkRjQTRqVWFWaVFXNVpFb09PMmk4YTZKVGxLcHFfTjJCU2xMOA",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals next Man Utd transfer has been ‘approved’ as Newcastle chaos continues",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0ViTzFuZFRIR0pBVC1uTHVPZlpUem1JUHhhRW1LZTJ3b29mRjYwdlFYWWlMaHVDM3FwWFdVcHN0QzFBdUI3bGhtRDFRYkc0Yjc2alFkT1FDUVk4Ny1yYTVLTDN3YllrNGYzdkRjQTRqVWFWaVFXNVpFb09PMmk4YTZKVGxLcHFfTjJCU2xMOA?oc=5",
+      "published": "2026-08-01T06:57:02.000Z",
+      "titleZh": "Romano透露，随着纽卡斯尔的混乱局面继续，曼联的下一次转会已被“批准”"
+    },
+    {
       "id": "Simon Stone:CBMiakFVX3lxTE91bkZxNmx4d0pQRWY5QU12SEtCSUdGbEVObVdiN0JzaFYwQm9qbmVfcTZaY2lKSW5ZNmtNT0dLUjA5ejFxNjlQLWFkekJvUEx2MWM0ZmJrNEhFQk1kcWFMWjJzbF9MalRsOXc",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91bkZxNmx4d0pQRWY5QU12SEtCSUdGbEVObVdiN0JzaFYwQm9qbmVfcTZaY2lKSW5ZNmtNT0dLUjA5ejFxNjlQLWFkekJvUEx2MWM0ZmJrNEhFQk1kcWFMWjJzbF9MalRsOXc?oc=5",
@@ -8319,7 +8343,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "Foot-Africa.com",
+      "source": "foot-africa.com",
       "tier": 2,
       "title": "Transfer window: Manchester United reach agreement with Brighton for Carlos Baleba transfer",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdW9IM0JYdkp2VUZkN3hSdDI2enZSWTRCaTNjOVcwd1Vtd2NRSTdXVVIyZ0hhVHFxVUV5cWFhNktod2g2ejFrdVlPMm9mdHNEOFV4RGFWOTVTSWpMdzk0cVljWjdETldadkpSMllMTFdQUVU3aE0tSUNzSEpNNmhYamtuZGdwZU9KUUcxZnp1XzBIMTlXRUM3MTRNaklMbi1oUnIzM0s0T0ZuOXNBMmNBWHpxM3JnOV9GLUxHQ3ZUOE9WQktSZDJLUnJHVQ?oc=5",
@@ -8399,14 +8423,14 @@
       "titleZh": "多名老特拉福德管家被控在静坐抗议期间袭击曼联球迷：报告"
     },
     {
-      "id": "Rob Dawson:CBMiuwFBVV95cUxQU1Z0WHlaUmNCNE4yZGlpeXFocFNrMzNyWTVmQ1F2aUMtdExyU1R6WmcxNkRBUklLY0xrTVBzQlN1Y21ZV0dTLWlFdWRlSW1hZk90aUFPeExzeEk1UGJJdVFTd045MXNyVGg2OU0yZnVmSjFFWk9sLXlxQW4yajFlQ1FnWHV5a1ZyOUMtaFNZSF8xOWJsVDBoMUxqNDFPX0RhZzcya0tUcTI2dUtod3hmOHZaZHdBVE9uZzln",
+      "id": "Rob Dawson:CBMitgFBVV95cUxOSEpVRTVJWnBOTWUwQ0Q4eWJ1OU9tODdkdEdxWjRObDJNd3pQc2tOTlhmZnBfYUpuNFNYVEpJYjY5ODI1WUZSYzU4d1BsbDdxdlVaTldxUk9KdGdBRHdtRWE4eGMzSnZLVk5sd3lVd3JFcnFMQ1VTY3FLSjNCUnFaMktDcUxLczBkT2dHTkswUTZFSG1WVU5HLUdYR1BDcl9BRDNHd2luZWJpa0c4WkU5OF9MRWwtUQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
       "title": "Senne Lammens cuts holiday short to return to Man United training - sources",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1Z0WHlaUmNCNE4yZGlpeXFocFNrMzNyWTVmQ1F2aUMtdExyU1R6WmcxNkRBUklLY0xrTVBzQlN1Y21ZV0dTLWlFdWRlSW1hZk90aUFPeExzeEk1UGJJdVFTd045MXNyVGg2OU0yZnVmSjFFWk9sLXlxQW4yajFlQ1FnWHV5a1ZyOUMtaFNZSF8xOWJsVDBoMUxqNDFPX0RhZzcya0tUcTI2dUtod3hmOHZaZHdBVE9uZzln?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEpVRTVJWnBOTWUwQ0Q4eWJ1OU9tODdkdEdxWjRObDJNd3pQc2tOTlhmZnBfYUpuNFNYVEpJYjY5ODI1WUZSYzU4d1BsbDdxdlVaTldxUk9KdGdBRHdtRWE4eGMzSnZLVk5sd3lVd3JFcnFMQ1VTY3FLSjNCUnFaMktDcUxLczBkT2dHTkswUTZFSG1WVU5HLUdYR1BDcl9BRDNHd2luZWJpa0c4WkU5OF9MRWwtUQ?oc=5",
       "published": "2026-07-30T14:47:00.000Z",
       "titleZh": "Senne Lammens缩短假期以重返曼联训练-来源"
     },
@@ -8423,23 +8447,11 @@
       "titleZh": "五名曼联承包商被控殴打"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTFBWVDFWUkttZ1JXMlJIS2VZenZNYVF4Mk04ankzSURXNWJkUFZ6Mk9vdXBRbkNFN0twek5oX1o5MTR3YVdYSzNscHpScVVnNDNNcW5uSTEzUWVtd28wc2VkeGlUcE5hdGM",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
-      "tier": 1,
-      "title": "Man Utd transfer news: Tyler Fredricson joins Lausanne Sports on three-year deal",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVDFWUkttZ1JXMlJIS2VZenZNYVF4Mk04ankzSURXNWJkUFZ6Mk9vdXBRbkNFN0twek5oX1o5MTR3YVdYSzNscHpScVVnNDNNcW5uSTEzUWVtd28wc2VkeGlUcE5hdGM?oc=5",
-      "published": "2026-07-30T11:51:01.000Z",
-      "titleZh": "曼联转会新闻：泰勒·弗雷德里克森以三年合约加盟洛桑体育"
-    },
-    {
       "id": "Simon Stone:CBMiZ0FVX3lxTE9pREFRRExoZWFOdUhDVW1PellXMWRab095R2FQZ1NoNmExY3EzN0N5cGJKYnpYQll4WktYelUzRTA5Yjd4ZEZjd012VDNtbENFLTlXZE04ZlVJRHd1U1NCR2RVd3dzRjg",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Public get first chance to assess Old Trafford plans",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pREFRRExoZWFOdUhDVW1PellXMWRab095R2FQZ1NoNmExY3EzN0N5cGJKYnpYQll4WktYelUzRTA5Yjd4ZEZjd012VDNtbENFLTlXZE04ZlVJRHd1U1NCR2RVd3dzRjg?oc=5",
@@ -8457,18 +8469,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG9KRlhZckFRRG1SZDhsSF9PeUJTOEpwMUZEWllObzVNXzU3cG9acy0xOW4xQk1feS1oTlB6OUd2ZThMdHo4SEFRdEpURndnejg3dHVPcGxWd3JoZHgxVExJWDV0bFIyRERSQzNHM2hPblBBdzNYMEw5TTRsS0lGS3FLZkJ6U3RUMDhfWjg2SmZBR1lhRnpTVFRB?oc=5",
       "published": "2026-07-30T09:36:05.000Z",
       "titleZh": "曼联“准备好利用”豪签下“想要退出”的“不开心”纽卡斯尔球星"
-    },
-    {
-      "id": "Fabrizio Romano:CBMilAFBVV95cUxOQ0h4cXBaZ3JJVDB2Rk1WeXFNeW90dGhoRHVmVlNEYk1Qblp1VDNxcTktUjBnQmJZaHNFZFBrdGdHdUR5UGdRdWoxNERlZG5IYndiWnI1MUZyUjAzbGZ4N0Uwbm5tNk9wTWRZWkxENTFSS0o3TmpXSjJ0Q2JucXZTbkhoTG1iOGlyS3hReDQwejlMUDFR",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals Marcus Rashford ‘message’ about leaving Man Utd for Cristiano Ronaldo reunion",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0h4cXBaZ3JJVDB2Rk1WeXFNeW90dGhoRHVmVlNEYk1Qblp1VDNxcTktUjBnQmJZaHNFZFBrdGdHdUR5UGdRdWoxNERlZG5IYndiWnI1MUZyUjAzbGZ4N0Uwbm5tNk9wTWRZWkxENTFSS0o3TmpXSjJ0Q2JucXZTbkhoTG1iOGlyS3hReDQwejlMUDFR?oc=5",
-      "published": "2026-07-30T09:11:50.000Z",
-      "titleZh": "罗马诺透露马库斯·拉什福德关于离开曼联参加克里斯蒂亚诺·罗纳尔多重聚的“信息”"
     },
     {
       "id": "Chris Wheeler:CBMisAFBVV95cUxPdlB0NDdod25sNmNfREV1bVFlWDFaUEZNalRpd0hRaFY2d1hqUVFuX2NGSzlRdU4xWDdsT1BBMXdFV1ZxYzQ5NGw1cmI2cmRPZzZuUXBSeWFuZi05WmZiVXhzYkVhdjJ3eE42N3J4Q3l0MUhnY09EZVgxWk1GZnFDMzNJMW5fN1RQczhST1ZhQ0JDeWlLaElQRl9VRS02bnV5QnlyR2Z5ZmpuZFJPZ3pJMw",
@@ -8531,7 +8531,7 @@
       "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-02T10:54:53.045Z",
+  "journalistsUpdatedAt": "2026-08-02T11:50:53.362Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

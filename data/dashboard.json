@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T14:38:32.147Z",
+  "updatedAt": "2026-08-04T19:55:16.111Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -7430,14 +7430,21 @@
   "news": [
     {
       "title": "Transfer rumors, news: Fenerbahce eye Man United's Rashford",
-      "published": "2026-08-04T07:40:36Z",
+      "published": "2026-08-04T13:21:42Z",
       "url": "https://www.espn.com/soccer/story/_/id/49526703/transfer-rumors-news-fenerbahce-eye-man-united-winger-marcus-rashford",
       "image": "https://a.espncdn.com/photo/2026/0111/r1599222_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻： Fenerbahce Eye Man United的Rashford"
     },
     {
-      "title": "Why \"winning the transfer window\" doesn't help Premier League clubs",
-      "published": "2026-08-04T07:16:03Z",
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-04T11:47:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Why 'winning the summer transfer window' doesn't help Premier League clubs",
+      "published": "2026-08-04T12:41:01Z",
       "url": "https://www.espn.com/soccer/story/_/id/49524791/why-winning-transfer-window-help-premier-league-clubs",
       "image": "https://a.espncdn.com/photo/2025/1126/r1581240_1296x729_16-9.jpg",
       "titleZh": "为什么“赢得转会窗口”对英超俱乐部没有帮助"
@@ -7457,15 +7464,8 @@
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
     },
     {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-04T06:15:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0804/r1697408_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
       "title": "Premier League 2026-27 kits: Ranking every jersey released",
-      "published": "2026-08-03T12:02:13Z",
+      "published": "2026-08-04T09:00:44Z",
       "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0723/r1692735_1296x729_16-9.jpg",
       "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
@@ -7516,7 +7516,7 @@
   "transfers": [
     {
       "title": "Transfer rumors, news: Fenerbahce eye Man United's Rashford",
-      "published": "2026-08-04T07:40:36Z",
+      "published": "2026-08-04T13:21:42Z",
       "url": "https://www.espn.com/soccer/story/_/id/49526703/transfer-rumors-news-fenerbahce-eye-man-united-winger-marcus-rashford",
       "image": "https://a.espncdn.com/photo/2026/0111/r1599222_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻： Fenerbahce Eye Man United的Rashford",

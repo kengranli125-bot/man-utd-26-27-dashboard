@@ -8254,6 +8254,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMiakFVX3lxTE9OcjM5bFhpc1hZTU1neXhUZjhna1c5c3o0NzdwVEtxTklGU3Jaa0lWaXJNb0dpTFNKMTd0TEhNN3JpUjlqbXZYOHc2UU10XzJXWUpCekJ2VFZmUEVOdXFlTC1ubHdRNTdZS0E",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Manchester United admit mistakes over ticket touting investigation",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OcjM5bFhpc1hZTU1neXhUZjhna1c5c3o0NzdwVEtxTklGU3Jaa0lWaXJNb0dpTFNKMTd0TEhNN3JpUjlqbXZYOHc2UU10XzJXWUpCekJ2VFZmUEVOdXFlTC1ubHdRNTdZS0E?oc=5",
+      "published": "2026-08-04T15:18:10.000Z",
+      "titleZh": "曼联承认在门票兜售调查中犯了错误"
+    },
+    {
       "id": "Chris Wheeler:CBMiygFBVV95cUxOMUU3djdoczFzUHhPcWNUVG1hcVlDbFU5N1dKd3ktYklBcnJjQ1RpMGVnQlpQSjJ3N0M0NENhTjZobHoxUTVRTUh5OEtrcGtpa1BDN2FyWmJHSEExY0xGMXY1ak11TEFrdDJIYmIyb3JVdWNaeGdDbGZ3ZjFpQmxGaTRuT0xQZVRPQTdxb0lsUC1fanM2Wkl3LWxvUGl3TWxuZ3dKaXFoMXN0M0xrVjVteGJnaUxPNmhvbzNINmQtaXBDbUo5dWtnVGhR",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -8266,6 +8278,18 @@
       "titleZh": "曼联宣布世界领先的2000万英镑交易，证明Ineos仍在90项目的轨道上"
     },
     {
+      "id": "Samuel Luckhurst:CBMiggFBVV95cUxPOE1PRWQtSkdFclFXVWtRR2pIMWhrRmNocTkxa0htWHJkMndSQ1RMSWRyWm9aRExYYnZiR0hkMUJ4eFc4dUFwNjVKY0pEd3lRMjMtNDZIc3B1RlNoTUpTSTJKT01mY25aSDVYNXA0VEFPTWpKNkMyUmpKcFZtWV93QzJn",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Sun",
+      "tier": 2,
+      "title": "Man Utd sign world's biggest training kit deal after a year without sponsor",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOE1PRWQtSkdFclFXVWtRR2pIMWhrRmNocTkxa0htWHJkMndSQ1RMSWRyWm9aRExYYnZiR0hkMUJ4eFc4dUFwNjVKY0pEd3lRMjMtNDZIc3B1RlNoTUpTSTJKT01mY25aSDVYNXA0VEFPTWpKNkMyUmpKcFZtWV93QzJn?oc=5",
+      "published": "2026-08-04T10:09:00.000Z",
+      "titleZh": "在没有赞助商的情况下，曼联在一年后签署了世界上最大的培训工具包协议"
+    },
+    {
       "id": "Laurie Whitwell:CBMikwFBVV95cUxNWjZiLWVxTzBYZ0FRMkZCZ1lfajkyZXFEaGVHeFZtREllRTdLazBnM3U0RUU1bFNUNEhfWEFjd25YMW5wMUJNUnQ0dzFmRWRLWlRxenQtWElydC1MWTJBek12d0hLczlkVXVvb1A3R0ZsWkI3X0VNcUdXRHBnZTRsZnJueVNNbUdlTndWcm5wZWdoYzA",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -8276,30 +8300,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWjZiLWVxTzBYZ0FRMkZCZ1lfajkyZXFEaGVHeFZtREllRTdLazBnM3U0RUU1bFNUNEhfWEFjd25YMW5wMUJNUnQ0dzFmRWRLWlRxenQtWElydC1MWTJBek12d0hLczlkVXVvb1A3R0ZsWkI3X0VNcUdXRHBnZTRsZnJueVNNbUdlTndWcm5wZWdoYzA?oc=5",
       "published": "2026-08-04T10:05:14.000Z",
       "titleZh": "曼联确认Betway为新培训包赞助商- The Athletic"
-    },
-    {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE9xRVVUTklsazVzLVdCX285S1o4Q3Vac1dwMzJnankwaVNqOVlxbkN5UnBud19zSWwyUlhESWtBWXRtYjRHTFNUaDNCNlRqSVhNYnZiTWJQeWFpZE5TUllkd21MQ3lXMmc",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
-      "tier": 1,
-      "title": "Man Utd transfers: Collyer, Wheatley, Gore, Vitek",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xRVVUTklsazVzLVdCX285S1o4Q3Vac1dwMzJnankwaVNqOVlxbkN5UnBud19zSWwyUlhESWtBWXRtYjRHTFNUaDNCNlRqSVhNYnZiTWJQeWFpZE5TUllkd21MQ3lXMmc?oc=5",
-      "published": "2026-08-04T07:58:03.000Z",
-      "titleZh": "曼联转会： Collyer、Wheatley、Gore、Vitek"
-    },
-    {
-      "id": "Andy Mitten:CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Manchester United’s greatest players: No 8, Paul Scholes",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc?oc=5",
-      "published": "2026-08-04T05:44:37.000Z",
-      "titleZh": "曼联最伟大的球员：第8名，保罗·斯科尔斯"
     },
     {
       "id": "Carl Anka:CBMifkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQdIBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
@@ -8318,7 +8318,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Ratcliffe's new 'Theatre of Dreams' - analysis on building new stadiums",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XcTdvVmxqX3M2OE0yazRVN0FBLVN5RnFINnAwX29FSUh4T3VBM3BVX0lOVFptYVVmZjNMcy16OTVJMTMyTGVKbUJ1WWpmM0RSZXpLTU5BWEtYX0RKMEJpRS1pTjg4TkE?oc=5",
@@ -8342,7 +8342,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd tell Toby Collyer he can leave in permanent transfer this summer",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzhreXZibk9qM1Nya3lyQU80Y2N2QlNYa1pXTmdzT2hhNncwRzUyWGZPZzI4NU0wQjEyc25oMVFCZHR4REV5UUtHbGtYR2J2RWVWeXpVd19QX1diMVRucUplX0RReUJkRG80NFBMQ29STk5IenlRdUdQN1VMVjNPRU1VQ2NLV1ZNeGVCQktvb3V5LVE?oc=5",
@@ -8374,18 +8374,6 @@
       "titleZh": "Fabrizio Romano透露曼联关于签约Francisco Conceicao的消息"
     },
     {
-      "id": "Andy Mitten:CBMi7wFBVV95cUxQbU1kSzJUSVpQZEFLdTk0RmFFUDFQMXJUWDcxSWdjWDgwSUlpekdqMnNnRHNyQjdzMHVibEg1WXhqRjd1a1BFNi1oT2NjSjB4QXpaYlNpN0Vud0dYcXFYbDFzcDNXY2tZWm42V0NoN3pxVHl0Rm9CcWVtV1JyYXJEVDEzV2JISEtSX2tnVHF6QURqMjRmeDI1dmRNLTZURm9KR1RXcHJ6MWdXYkE3d1ZXZ09Oankxb0poeUhXMmRBT21ZMWlmZDdmYWI5UFZoU0t3cXlaWUpOM2ZpZ2tJdWR5aTl6dDZkMjQ1TGV4MVZibw",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "thenationalnews.com",
-      "tier": 2,
-      "title": "Leny Yoro on the mood at Man United, his injury problems and chances of winning Premier League title",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbU1kSzJUSVpQZEFLdTk0RmFFUDFQMXJUWDcxSWdjWDgwSUlpekdqMnNnRHNyQjdzMHVibEg1WXhqRjd1a1BFNi1oT2NjSjB4QXpaYlNpN0Vud0dYcXFYbDFzcDNXY2tZWm42V0NoN3pxVHl0Rm9CcWVtV1JyYXJEVDEzV2JISEtSX2tnVHF6QURqMjRmeDI1dmRNLTZURm9KR1RXcHJ6MWdXYkE3d1ZXZ09Oankxb0poeUhXMmRBT21ZMWlmZDdmYWI5UFZoU0t3cXlaWUpOM2ZpZ2tJdWR5aTl6dDZkMjQ1TGV4MVZibw?oc=5",
-      "published": "2026-08-02T11:03:02.000Z",
-      "titleZh": "Leny Yoro谈论曼联的情绪、伤病问题和赢得英超联赛冠军的机会"
-    },
-    {
       "id": "Fabrizio Romano:CBMirgFBVV95cUxPemdTRjRBVkxRdVNRVlExUWdNTUtkTmJxbDkxcU5MWTlodDVtTllCRHRDRUFpM1B2WGUwb29va1BnQ3V1VlV6STUyNW9uQXU2SzNuek4tWDA5NGw4eENvWnRIX28zOHpxS3lCdnZsYVJMVU9icWJWUlRidGVoTWFQYlNOWmQ1QVVfbjA2TVdueTUtekNiVFhXdHVjTWk0cUZWT0dwbHdibjJlZnVrT3c",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -8396,18 +8384,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemdTRjRBVkxRdVNRVlExUWdNTUtkTmJxbDkxcU5MWTlodDVtTllCRHRDRUFpM1B2WGUwb29va1BnQ3V1VlV6STUyNW9uQXU2SzNuek4tWDA5NGw4eENvWnRIX28zOHpxS3lCdnZsYVJMVU9icWJWUlRidGVoTWFQYlNOWmQ1QVVfbjA2TVdueTUtekNiVFhXdHVjTWk0cUZWT0dwbHdibjJlZnVrT3c?oc=5",
       "published": "2026-08-02T07:00:00.000Z",
       "titleZh": "曼联准备£ 6000万竞购顶级目标Lewis Hall ， Fabrizio Romano确认此举“已获批准”"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMiiwFBVV95cUxNQ1g5ZVA5SXpnVDd0WWxIQklBTUluUHZUbGtKS01IV2Itb3E5WDBmM1V6Yy1IQmlEaEdKVnFGSjlvanJrcnc2cGp4NzczVWZsOUZtTFpqSG9ySDhyX0xTaEh0YXc2T0VxYVlGbFZ6czJXUERibkRNYl9Pd1RKS3VNdkgtRXhRcm9EQXQw",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
-      "tier": 2,
-      "title": "Altay Bayindir on verge of leaving Man Utd as Everton make shock transfer enquiry for youngster",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1g5ZVA5SXpnVDd0WWxIQklBTUluUHZUbGtKS01IV2Itb3E5WDBmM1V6Yy1IQmlEaEdKVnFGSjlvanJrcnc2cGp4NzczVWZsOUZtTFpqSG9ySDhyX0xTaEh0YXc2T0VxYVlGbFZ6czJXUERibkRNYl9Pd1RKS3VNdkgtRXhRcm9EQXQw?oc=5",
-      "published": "2026-08-01T16:41:00.000Z",
-      "titleZh": "Altay Bayindir即将离开曼联，因为埃弗顿正在为年轻人进行电击传输查询"
     },
     {
       "id": "Fabrizio Romano:CBMimwFBVV95cUxQblpYaGM4c1F6a2RJQ3JvdFN4eDZGTnNQd1FCMnlLLWs2QW93TFBRa1diT1M5QlR3ZzBJaURtZzAxeXNtcG92Y3paWEtmZFVZS0NjV2hZYlpkX1NuaW9ST1p5al8tQWtjR2FKRGNmR1FGNE9QWFhFU01mTFh2OFJ5blpzRVQxdUhOSE5RU2UzbFBvZFA5dC0xZUxGTQ",
@@ -8426,7 +8402,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
+      "source": "readmanutd.com",
       "tier": 1,
       "title": "Fabrizio Romano Confirms Manchester United Transfer Window Target",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3VNcGpOeWExZ1JpMkR4XzRBUGxoY19COGxUSzI5N3pUYTJOS3p1ZGlyWWpkMUJVRFBpUjYwN3RqWUZWZV95Yms4UXlCNHdENzZGOEhXdzlfR3Y3eGVjWjVPSlZZb1Q4Ym4wQXZsOThxNGY3X1c0cGlwcXNWbzZuMzVzbDRBQQ?oc=5",
@@ -8462,7 +8438,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OazM0eWVPME8tVTFMajZvLW1NdXRvRnBoWGt6RXJJLUdfTmNUVmVLNm5aV29QNi04UlZVb2wyczBNZ0drWkxNeW9HU2JMdi1lbmVtdmRUWkJPdkRWMFk2RkpTNS1ieFk?oc=5",
@@ -8498,12 +8474,36 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd files: Star names in frame to narrate Amazon doc and JJ Gabriel latest",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVpobVR6TEFFQUJ5ZlMzREYtZno2YVBibmdzQzBwTXZzTTBBanVfRHpLYnFFSnJndGpGM20yNFhwQ1hRRVFDcXVQdS13OE1SUVRjbEFKNlhna1lvc1hZbzBLZm9FMk1vT2N1Tlkwb3dBVTl1RHlQZWlyb0NxLVk?oc=5",
       "published": "2026-07-31T13:36:00.000Z",
       "titleZh": "曼联档案：框架中的明星名字，以叙述亚马逊doc和JJ Gabriel最新"
+    },
+    {
+      "id": "Laurie Whitwell:CBMiwAFBVV95cUxQYXh2aXdVd2oxQi1XQmpXcURXaHBqcG5tWWQ4Sjg3eUFKRmxDOUhMR3ktRnVHWUt1QnJXMDl2MUZ1Y29CVTVNRnA5Q2ZTOU5iVnlVWDcxNlhmYUtFdm5BeS1SSW14ZWkwTm1NWEx4Q044emdUSGt3dDZOYUZfNFNYY3ZVUVJYZFNuLWtZVVNXQ0lJV2Vab2puSERqTzRUNHMtM3RFX29pX2JhSzFiNmVjeU9xZklVRTMwZHZZT1k3X08",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Premier League strength test: How ready are your club for the new season? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXh2aXdVd2oxQi1XQmpXcURXaHBqcG5tWWQ4Sjg3eUFKRmxDOUhMR3ktRnVHWUt1QnJXMDl2MUZ1Y29CVTVNRnA5Q2ZTOU5iVnlVWDcxNlhmYUtFdm5BeS1SSW14ZWkwTm1NWEx4Q044emdUSGt3dDZOYUZfNFNYY3ZVUVJYZFNuLWtZVVNXQ0lJV2Vab2puSERqTzRUNHMtM3RFX29pX2JhSzFiNmVjeU9xZklVRTMwZHZZT1k3X08?oc=5",
+      "published": "2026-07-31T07:10:12.000Z",
+      "titleZh": "英超联赛实力测试：您的俱乐部为新赛季做好准备了吗？ - The Athletic"
+    },
+    {
+      "id": "Andy Mitten:CBMiogFBVV95cUxPMVp0QWxfZ2wxRVg4N0RXRUtRZjFBUkRCSGljaV84MHktM1VDTlpEY29sUDB3ZElhcjQ2MVBYSHhNelBOSy1RRFFYVDkxcVktb2hBMjZxWXlZZWc1ZFdXemJqRnhKWFhfVWVNQWUzbWFVbmZlWmE5YndDTXh4a2RDeFd1RldJS3lXdmhQWVJJY19sZW1VRFIydEotWU1ZdFl2dWc",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 9, Eric Cantona - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVp0QWxfZ2wxRVg4N0RXRUtRZjFBUkRCSGljaV84MHktM1VDTlpEY29sUDB3ZElhcjQ2MVBYSHhNelBOSy1RRFFYVDkxcVktb2hBMjZxWXlZZWc1ZFdXemJqRnhKWFhfVWVNQWUzbWFVbmZlWmE5YndDTXh4a2RDeFd1RldJS3lXdmhQWVJJY19sZW1VRFIydEotWU1ZdFl2dWc?oc=5",
+      "published": "2026-07-31T04:37:37.000Z",
+      "titleZh": "曼联最伟大的球员：第9名， Eric Cantona - The Athletic"
     },
     {
       "id": "Samuel Luckhurst:CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ",
@@ -8518,6 +8518,18 @@
       "titleZh": "泰恩赛德的周转可能为曼联带来刘易斯·霍尔的机会"
     },
     {
+      "id": "Andy Mitten:CBMilAFBVV95cUxQbWlSYng0V2tBUllWVFBUUVFuM1k0VGZTX0pNRzczak9KUVVSaHFqcHlqdHNmQ1liQmttOFotYnpMN1dDcEZYMGdkcUdhbEMxeGZCT2pVV3lhbzlNVGJ3NkhwQ1paVEtNVjdtR2F6d3g2NXhvUG1sVGNkVDNtQmZiZXBFWmxJQ1VVRHN1RTJLQlV6dW55",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Manchester United Website",
+      "tier": 2,
+      "title": "What's happening in Stockholm?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWlSYng0V2tBUllWVFBUUVFuM1k0VGZTX0pNRzczak9KUVVSaHFqcHlqdHNmQ1liQmttOFotYnpMN1dDcEZYMGdkcUdhbEMxeGZCT2pVV3lhbzlNVGJ3NkhwQ1paVEtNVjdtR2F6d3g2NXhvUG1sVGNkVDNtQmZiZXBFWmxJQ1VVRHN1RTJLQlV6dW55?oc=5",
+      "published": "2026-07-30T17:35:49.000Z",
+      "titleZh": "斯德哥尔摩发生了什么？"
+    },
+    {
       "id": "Rob Dawson:CBMiuwFBVV95cUxQU1Z0WHlaUmNCNE4yZGlpeXFocFNrMzNyWTVmQ1F2aUMtdExyU1R6WmcxNkRBUklLY0xrTVBzQlN1Y21ZV0dTLWlFdWRlSW1hZk90aUFPeExzeEk1UGJJdVFTd045MXNyVGg2OU0yZnVmSjFFWk9sLXlxQW4yajFlQ1FnWHV5a1ZyOUMtaFNZSF8xOWJsVDBoMUxqNDFPX0RhZzcya0tUcTI2dUtod3hmOHZaZHdBVE9uZzln",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -8528,21 +8540,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1Z0WHlaUmNCNE4yZGlpeXFocFNrMzNyWTVmQ1F2aUMtdExyU1R6WmcxNkRBUklLY0xrTVBzQlN1Y21ZV0dTLWlFdWRlSW1hZk90aUFPeExzeEk1UGJJdVFTd045MXNyVGg2OU0yZnVmSjFFWk9sLXlxQW4yajFlQ1FnWHV5a1ZyOUMtaFNZSF8xOWJsVDBoMUxqNDFPX0RhZzcya0tUcTI2dUtod3hmOHZaZHdBVE9uZzln?oc=5",
       "published": "2026-07-30T14:47:00.000Z",
       "titleZh": "Senne Lammens缩短假期以重返曼联训练-来源"
-    },
-    {
-      "id": "Chris Wheeler:CBMikgFBVV95cUxONE1zZk1WTm9vM3o2QVloMGotY1Y5bGRiOGx3Y0lZTDBXOEFTZkstbHZ0c0FQcHJDZ3J2YllxTkVweXJQc1loYThYTDNUWFg3NFNDZW5NN3FJVWh5UW9JdVJIS21NM0g1OGhTU3RJXzdBQWcwUnJBbVk1YlIySnhURXFuZGJCVmJkWVBpem5uVkQwQQ",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "centredevils.co.uk",
-      "tier": 2,
-      "title": "Five Manchester United contractors charged with assault",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONE1zZk1WTm9vM3o2QVloMGotY1Y5bGRiOGx3Y0lZTDBXOEFTZkstbHZ0c0FQcHJDZ3J2YllxTkVweXJQc1loYThYTDNUWFg3NFNDZW5NN3FJVWh5UW9JdVJIS21NM0g1OGhTU3RJXzdBQWcwUnJBbVk1YlIySnhURXFuZGJCVmJkWVBpem5uVkQwQQ?oc=5",
-      "published": "2026-07-30T14:04:11.000Z",
-      "titleZh": "五名曼联承包商被控殴打"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-04T13:40:17.919Z",
+  "journalistsUpdatedAt": "2026-08-04T15:59:48.134Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

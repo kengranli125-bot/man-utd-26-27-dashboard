@@ -8254,6 +8254,18 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMiqwFBVV95cUxPRjlvaHYtdXdUckdxamFTWUxfNTlCQWZrZWlPSGhzaExKUTVpUkV1QU9ERDE4YXd1Y0VxZTBoSnF0Wmp5SnFMaEo1YUJ5ajB0Zk56THhleU9JYWxmaTl5elBDZVB0LWtHSk0wbFZzZVNXaG5DTnNrRWdJX2g0VWdtWkJjUVVoSzlYWUxLc1VtMWk4WFdPclFibU80NHFGNVZwWWdxTzVRWnRycUU",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Key questions around Manchester United’s transfer business answered",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjlvaHYtdXdUckdxamFTWUxfNTlCQWZrZWlPSGhzaExKUTVpUkV1QU9ERDE4YXd1Y0VxZTBoSnF0Wmp5SnFMaEo1YUJ5ajB0Zk56THhleU9JYWxmaTl5elBDZVB0LWtHSk0wbFZzZVNXaG5DTnNrRWdJX2g0VWdtWkJjUVVoSzlYWUxLc1VtMWk4WFdPclFibU80NHFGNVZwWWdxTzVRWnRycUU?oc=5",
+      "published": "2026-08-04T16:12:00.000Z",
+      "titleZh": "有关曼联转会业务的关键问题得到了解答"
+    },
+    {
       "id": "Simon Stone:CBMiakFVX3lxTE9OcjM5bFhpc1hZTU1neXhUZjhna1c5c3o0NzdwVEtxTklGU3Jaa0lWaXJNb0dpTFNKMTd0TEhNN3JpUjlqbXZYOHc2UU10XzJXWUpCekJ2VFZmUEVOdXFlTC1ubHdRNTdZS0E",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -8264,6 +8276,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OcjM5bFhpc1hZTU1neXhUZjhna1c5c3o0NzdwVEtxTklGU3Jaa0lWaXJNb0dpTFNKMTd0TEhNN3JpUjlqbXZYOHc2UU10XzJXWUpCekJ2VFZmUEVOdXFlTC1ubHdRNTdZS0E?oc=5",
       "published": "2026-08-04T15:18:10.000Z",
       "titleZh": "曼联承认在门票兜售调查中犯了错误"
+    },
+    {
+      "id": "David Ornstein:CBMimwFBVV95cUxQbVo2RWJyYnlqSmtYV3ZQcjI5SlhZRERxcFdUVERTdkNWSDl1T2hQZlg1UUdmMTNOdDhkTGpCRC1aS1k3VUY3Zy1SdDVpTFBpOVo3WUNDWnNSS0dmbE40NTZva0lzZjFkWUpCYW9vMFR5TFJEY09EOTJmaTZXdWlsZFVydEtxbkdQUmhDREk2ZjY5U3NPZ3pxLWtkNA",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Arsenal nearing agreement for Bruno Guimaraes transfer from Newcastle - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVo2RWJyYnlqSmtYV3ZQcjI5SlhZRERxcFdUVERTdkNWSDl1T2hQZlg1UUdmMTNOdDhkTGpCRC1aS1k3VUY3Zy1SdDVpTFBpOVo3WUNDWnNSS0dmbE40NTZva0lzZjFkWUpCYW9vMFR5TFJEY09EOTJmaTZXdWlsZFVydEtxbkdQUmhDREk2ZjY5U3NPZ3pxLWtkNA?oc=5",
+      "published": "2026-08-04T14:54:38.000Z",
+      "titleZh": "阿森纳即将与Bruno Guimaraes达成从纽卡斯尔转会至The Athletic的协议"
     },
     {
       "id": "Chris Wheeler:CBMiygFBVV95cUxOMUU3djdoczFzUHhPcWNUVG1hcVlDbFU5N1dKd3ktYklBcnJjQ1RpMGVnQlpQSjJ3N0M0NENhTjZobHoxUTVRTUh5OEtrcGtpa1BDN2FyWmJHSEExY0xGMXY1ak11TEFrdDJIYmIyb3JVdWNaeGdDbGZ3ZjFpQmxGaTRuT0xQZVRPQTdxb0lsUC1fanM2Wkl3LWxvUGl3TWxuZ3dKaXFoMXN0M0xrVjVteGJnaUxPNmhvbzNINmQtaXBDbUo5dWtnVGhR",
@@ -8282,7 +8306,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd sign world's biggest training kit deal after a year without sponsor",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOE1PRWQtSkdFclFXVWtRR2pIMWhrRmNocTkxa0htWHJkMndSQ1RMSWRyWm9aRExYYnZiR0hkMUJ4eFc4dUFwNjVKY0pEd3lRMjMtNDZIc3B1RlNoTUpTSTJKT01mY25aSDVYNXA0VEFPTWpKNkMyUmpKcFZtWV93QzJn?oc=5",
@@ -8300,6 +8324,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWjZiLWVxTzBYZ0FRMkZCZ1lfajkyZXFEaGVHeFZtREllRTdLazBnM3U0RUU1bFNUNEhfWEFjd25YMW5wMUJNUnQ0dzFmRWRLWlRxenQtWElydC1MWTJBek12d0hLczlkVXVvb1A3R0ZsWkI3X0VNcUdXRHBnZTRsZnJueVNNbUdlTndWcm5wZWdoYzA?oc=5",
       "published": "2026-08-04T10:05:14.000Z",
       "titleZh": "曼联确认Betway为新培训包赞助商- The Athletic"
+    },
+    {
+      "id": "Chris Wheeler:CBMi7AFBVV95cUxOd0YwN3RUcGRTdDRieE9haUZlNWl5bjFsZHNfTjVNckZPbm1fSWlYSmhJdXNqbVlQN0JITmhQZFhsYk5kbDF6MUw3LWxLS0JoQTVJZ2ZRTVY5SGk4Qk1uZzV5a0Uwc0o3VXpSNi1VMW4wNnVmWW5YNDRsVG1uNlRQbU5iUmFncDhVWlZ6aEJKb055VUtJZnlhaHg1Y3JrYW1sNmpTZG5mdmZGR0dTVWNHZFQ3Rl9RQzd5ZEFoWHV4ZjFQSlh1eDlwaFBmcU9pUjhfWmRzSDQza3JIaG4zY0c2SjMwZnE1UFhqZnBPeNIB8gFBVV95cUxPcG1JU04zTjN1SmpFOEpBMFJyd0NXSGxrbXlDVEJDZ245N3h4Rzl6emdkb25HeEhfVDlKX1lDWUlJTVNEYkJ4MnhoaXU2VElXOU1vLVpuWDdzd3RRQUpJTGg0Ny1OOUdfRHNBVVlFZW5Wd0xxZzZxdGZHeThac2phQzhibTB4ZWIxTmtKczliQXJWenRBemhXUUlDaThwbG0tRGF1YjdrUnZTemdzcGo5cTVNZWdzbzJWRUV4dmgxdkRUbTNlN3FwQWlheE0xV25JSnFyZ3cxVnlJd3AyNm1ZODhXNUpndFhGdW14UEN6OVRwZw",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Man United confirm world's biggest training kit deal with Betway - with gambling firms banned from match shirts",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd0YwN3RUcGRTdDRieE9haUZlNWl5bjFsZHNfTjVNckZPbm1fSWlYSmhJdXNqbVlQN0JITmhQZFhsYk5kbDF6MUw3LWxLS0JoQTVJZ2ZRTVY5SGk4Qk1uZzV5a0Uwc0o3VXpSNi1VMW4wNnVmWW5YNDRsVG1uNlRQbU5iUmFncDhVWlZ6aEJKb055VUtJZnlhaHg1Y3JrYW1sNmpTZG5mdmZGR0dTVWNHZFQ3Rl9RQzd5ZEFoWHV4ZjFQSlh1eDlwaFBmcU9pUjhfWmRzSDQza3JIaG4zY0c2SjMwZnE1UFhqZnBPeNIB8gFBVV95cUxPcG1JU04zTjN1SmpFOEpBMFJyd0NXSGxrbXlDVEJDZ245N3h4Rzl6emdkb25HeEhfVDlKX1lDWUlJTVNEYkJ4MnhoaXU2VElXOU1vLVpuWDdzd3RRQUpJTGg0Ny1OOUdfRHNBVVlFZW5Wd0xxZzZxdGZHeThac2phQzhibTB4ZWIxTmtKczliQXJWenRBemhXUUlDaThwbG0tRGF1YjdrUnZTemdzcGo5cTVNZWdzbzJWRUV4dmgxdkRUbTNlN3FwQWlheE0xV25JSnFyZ3cxVnlJd3AyNm1ZODhXNUpndFhGdW14UEN6OVRwZw?oc=5",
+      "published": "2026-08-04T10:04:29.000Z",
+      "titleZh": "曼联确认与Betway达成全球最大的训练套装交易--禁止赌博公司使用比赛衬衫"
     },
     {
       "id": "Carl Anka:CBMifkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQdIBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
@@ -8320,7 +8356,7 @@
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
-      "title": "Man Utd news: Ratcliffe's new 'Theatre of Dreams' - analysis on building new stadiums",
+      "title": "Ratcliffe's new 'Theatre of Dreams' - analysis on stadium financials",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XcTdvVmxqX3M2OE0yazRVN0FBLVN5RnFINnAwX29FSUh4T3VBM3BVX0lOVFptYVVmZjNMcy16OTVJMTMyTGVKbUJ1WWpmM0RSZXpLTU5BWEtYX0RKMEJpRS1pTjg4TkE?oc=5",
       "published": "2026-08-03T14:09:11.000Z",
       "titleZh": "曼联新闻：拉特克利夫的新“梦幻剧场” --对建造新体育场的分析"
@@ -8342,7 +8378,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd tell Toby Collyer he can leave in permanent transfer this summer",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzhreXZibk9qM1Nya3lyQU80Y2N2QlNYa1pXTmdzT2hhNncwRzUyWGZPZzI4NU0wQjEyc25oMVFCZHR4REV5UUtHbGtYR2J2RWVWeXpVd19QX1diMVRucUplX0RReUJkRG80NFBMQ29STk5IenlRdUdQN1VMVjNPRU1VQ2NLV1ZNeGVCQktvb3V5LVE?oc=5",
@@ -8474,7 +8510,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd files: Star names in frame to narrate Amazon doc and JJ Gabriel latest",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVpobVR6TEFFQUJ5ZlMzREYtZno2YVBibmdzQzBwTXZzTTBBanVfRHpLYnFFSnJndGpGM20yNFhwQ1hRRVFDcXVQdS13OE1SUVRjbEFKNlhna1lvc1hZbzBLZm9FMk1vT2N1Tlkwb3dBVTl1RHlQZWlyb0NxLVk?oc=5",
@@ -8504,45 +8540,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVp0QWxfZ2wxRVg4N0RXRUtRZjFBUkRCSGljaV84MHktM1VDTlpEY29sUDB3ZElhcjQ2MVBYSHhNelBOSy1RRFFYVDkxcVktb2hBMjZxWXlZZWc1ZFdXemJqRnhKWFhfVWVNQWUzbWFVbmZlWmE5YndDTXh4a2RDeFd1RldJS3lXdmhQWVJJY19sZW1VRFIydEotWU1ZdFl2dWc?oc=5",
       "published": "2026-07-31T04:37:37.000Z",
       "titleZh": "曼联最伟大的球员：第9名， Eric Cantona - The Athletic"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Busby Babe",
-      "tier": 2,
-      "title": "Tyneside Turnover could present Lewis Hall opportunity for Manchester United",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUtTOFlPbGJjQmR0ZzN1b3NQTFZ0a1VjX0tJdGhERV9tVV90ZTVuNXJWM25tNEQyTXcwaXZJUzg5UW41cDlIZU1EY2hiUnRxQVpOZ2F1Z2pMd2gtbUVfdkN0WWpEZW92b19UZ2QwbExUN1k3R0xkaEN6X3BDRGdjOFlDcWVxTkNmYk5sYlJzaEYyb2c4Wm5tUF9YT0Y1eHFxTjhZOEpnNm1uVmo4ZVp0c21DVV9hUUQ0cVRkLTI1S1VEUQ?oc=5",
-      "published": "2026-07-31T00:22:00.000Z",
-      "titleZh": "泰恩赛德的周转可能为曼联带来刘易斯·霍尔的机会"
-    },
-    {
-      "id": "Andy Mitten:CBMilAFBVV95cUxQbWlSYng0V2tBUllWVFBUUVFuM1k0VGZTX0pNRzczak9KUVVSaHFqcHlqdHNmQ1liQmttOFotYnpMN1dDcEZYMGdkcUdhbEMxeGZCT2pVV3lhbzlNVGJ3NkhwQ1paVEtNVjdtR2F6d3g2NXhvUG1sVGNkVDNtQmZiZXBFWmxJQ1VVRHN1RTJLQlV6dW55",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "Manchester United Website",
-      "tier": 2,
-      "title": "What's happening in Stockholm?",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWlSYng0V2tBUllWVFBUUVFuM1k0VGZTX0pNRzczak9KUVVSaHFqcHlqdHNmQ1liQmttOFotYnpMN1dDcEZYMGdkcUdhbEMxeGZCT2pVV3lhbzlNVGJ3NkhwQ1paVEtNVjdtR2F6d3g2NXhvUG1sVGNkVDNtQmZiZXBFWmxJQ1VVRHN1RTJLQlV6dW55?oc=5",
-      "published": "2026-07-30T17:35:49.000Z",
-      "titleZh": "斯德哥尔摩发生了什么？"
-    },
-    {
-      "id": "Rob Dawson:CBMiuwFBVV95cUxQU1Z0WHlaUmNCNE4yZGlpeXFocFNrMzNyWTVmQ1F2aUMtdExyU1R6WmcxNkRBUklLY0xrTVBzQlN1Y21ZV0dTLWlFdWRlSW1hZk90aUFPeExzeEk1UGJJdVFTd045MXNyVGg2OU0yZnVmSjFFWk9sLXlxQW4yajFlQ1FnWHV5a1ZyOUMtaFNZSF8xOWJsVDBoMUxqNDFPX0RhZzcya0tUcTI2dUtod3hmOHZaZHdBVE9uZzln",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Senne Lammens cuts holiday short to return to Man United training - sources",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1Z0WHlaUmNCNE4yZGlpeXFocFNrMzNyWTVmQ1F2aUMtdExyU1R6WmcxNkRBUklLY0xrTVBzQlN1Y21ZV0dTLWlFdWRlSW1hZk90aUFPeExzeEk1UGJJdVFTd045MXNyVGg2OU0yZnVmSjFFWk9sLXlxQW4yajFlQ1FnWHV5a1ZyOUMtaFNZSF8xOWJsVDBoMUxqNDFPX0RhZzcya0tUcTI2dUtod3hmOHZaZHdBVE9uZzln?oc=5",
-      "published": "2026-07-30T14:47:00.000Z",
-      "titleZh": "Senne Lammens缩短假期以重返曼联训练-来源"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-04T15:59:48.134Z",
+  "journalistsUpdatedAt": "2026-08-04T17:48:19.651Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

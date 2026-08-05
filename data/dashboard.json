@@ -8243,6 +8243,30 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Pain in the Arsenal",
+      "tier": 1,
+      "title": "David Ornstein: Arsenal agree fee with Newcastle over Bruno Guimarães signing",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE?oc=5",
+      "published": "2026-08-05T08:01:42.000Z",
+      "titleZh": "大卫·奥恩斯坦（ David Ornstein ） ：阿森纳与纽卡斯尔就布鲁诺·吉马良斯（ Bruno Guimarães"
+    },
+    {
+      "id": "Simon Stone:CBMiZ0FVX3lxTE80bE5PeU1zVjJwdnBndkU1SDBmRWo0dDdoNmF1RmNkdk1fZ1hKcEVnbUltRFl4UURuUEZmSlZ1NkRqc2lkc0xvcjRzUkVMZXhqRHphR0tsd01OUUl5LTZSdnR0OW9QSEE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Marcus Rashford: Will he return to Man Utd - and what impact would he have?",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bE5PeU1zVjJwdnBndkU1SDBmRWo0dDdoNmF1RmNkdk1fZ1hKcEVnbUltRFl4UURuUEZmSlZ1NkRqc2lkc0xvcjRzUkVMZXhqRHphR0tsd01OUUl5LTZSdnR0OW9QSEE?oc=5",
+      "published": "2026-08-05T05:42:36.000Z",
+      "titleZh": "马库斯·拉什福德：他会回到曼联吗？他会产生什么影响？"
+    },
+    {
       "id": "James Ducker:CBMirAFBVV95cUxOTW5DQmJxQ0c4WXNocGVxMXRRbnZxcy1YYVFFbkJnN1FuczZRVmE2cTBJUE41YkpSMHJQdlNxcmJtRGgyTnVlMTBkcjhFVE9ic21vVG1RWklLMTZKMHgxb2hRY1RrN2dOMTRSUmNuVkxfdDctSU1hVFpWYnFaSU0wMTExVHZHUnFKLXFkemhRWTFycWNSRnJEYUVSZmdvZDFXVXlsdFFJVS11XzU0",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -8387,15 +8411,15 @@
       "titleZh": "曼联最伟大的球员：第8名，保罗·斯科尔斯"
     },
     {
-      "id": "Carl Anka:CBMifkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQdIBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
+      "id": "Carl Anka:CBMieEFVX3lxTFBsV0oyQlZETWtiRUoyZHZsTkNIMmw5c1BLb0EtZ2k4SmdSazdZY19IMnh4NHRmSnBDUi1aYTZfQzBJSHdyYnhsSmtHWG41TUMyV19fMkJaQ19acElucmJ2NUJUS3FsNlQ5S01MX0VtcnAtOW8yZW8xX9IBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "The Manc",
+      "source": "themanc.com",
       "tier": 2,
       "title": "Marc Skinner leaves Manchester United Women after half a decade",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQdIBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ?oc=5",
-      "published": "2026-08-03T15:10:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsV0oyQlZETWtiRUoyZHZsTkNIMmw5c1BLb0EtZ2k4SmdSazdZY19IMnh4NHRmSnBDUi1aYTZfQzBJSHdyYnhsSmtHWG41TUMyV19fMkJaQ19acElucmJ2NUJUS3FsNlQ5S01MX0VtcnAtOW8yZW8xX9IBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ?oc=5",
+      "published": "2026-08-03T16:02:28.000Z",
       "titleZh": "马克·斯金纳（ Marc Skinner ）离开曼联女足五年后"
     },
     {
@@ -8505,33 +8529,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblpYaGM4c1F6a2RJQ3JvdFN4eDZGTnNQd1FCMnlLLWs2QW93TFBRa1diT1M5QlR3ZzBJaURtZzAxeXNtcG92Y3paWEtmZFVZS0NjV2hZYlpkX1NuaW9ST1p5al8tQWtjR2FKRGNmR1FGNE9QWFhFU01mTFh2OFJ5blpzRVQxdUhOSE5RU2UzbFBvZFA5dC0xZUxGTQ?oc=5",
       "published": "2026-08-01T10:15:34.000Z",
       "titleZh": "Fabrizio Romano将刘易斯·霍尔（ Lewis Hall ）少校带到曼联转会新闻"
-    },
-    {
-      "id": "Fabrizio Romano:CBMihgFBVV95cUxNY3VNcGpOeWExZ1JpMkR4XzRBUGxoY19COGxUSzI5N3pUYTJOS3p1ZGlyWWpkMUJVRFBpUjYwN3RqWUZWZV95Yms4UXlCNHdENzZGOEhXdzlfR3Y3eGVjWjVPSlZZb1Q4Ym4wQXZsOThxNGY3X1c0cGlwcXNWbzZuMzVzbDRBQQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "Fabrizio Romano Confirms Manchester United Transfer Window Target",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3VNcGpOeWExZ1JpMkR4XzRBUGxoY19COGxUSzI5N3pUYTJOS3p1ZGlyWWpkMUJVRFBpUjYwN3RqWUZWZV95Yms4UXlCNHdENzZGOEhXdzlfR3Y3eGVjWjVPSlZZb1Q4Ym4wQXZsOThxNGY3X1c0cGlwcXNWbzZuMzVzbDRBQQ?oc=5",
-      "published": "2026-08-01T08:03:19.000Z",
-      "titleZh": "Fabrizio Romano确认曼联转会窗口目标"
-    },
-    {
-      "id": "David Ornstein:CBMisgFBVV95cUxOZ2hMLUVKUUhoa210MUltN0ZxcmVscFhVZHhOME13X2tLRXVMelU4ZUg1cHZ3ZG5UNnk4R0JoTFBYY2Q0NmZMQkdIWEtvYXFvSG51MUtEdjMxVjRDRWhYOVZ0ZHZkdWswWTlxMzllZW10aXRBUTdBckwyQzE5QTByelowM3FZbk5uZGZPLUxOYVpXMGNwM0R4dDhUcUVXVy1Oc0NzYWRHV0RBaXE2ckgwejVR",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Planet Football",
-      "tier": 1,
-      "title": "10 huge transfers where David Ornstein beat Fabrizio Romano to the scoop",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ2hMLUVKUUhoa210MUltN0ZxcmVscFhVZHhOME13X2tLRXVMelU4ZUg1cHZ3ZG5UNnk4R0JoTFBYY2Q0NmZMQkdIWEtvYXFvSG51MUtEdjMxVjRDRWhYOVZ0ZHZkdWswWTlxMzllZW10aXRBUTdBckwyQzE5QTByelowM3FZbk5uZGZPLUxOYVpXMGNwM0R4dDhUcUVXVy1Oc0NzYWRHV0RBaXE2ckgwejVR?oc=5",
-      "published": "2026-08-01T07:00:00.000Z",
-      "titleZh": "大卫·奥恩斯坦（ David Ornstein ）击败法布里奇奥·罗马诺（ Fabrizio Romano ）的10次大"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-05T06:16:39.272Z",
+  "journalistsUpdatedAt": "2026-08-05T09:15:06.522Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -8282,7 +8282,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "Irish Independent",
+      "source": "independent.ie",
       "tier": 1,
       "title": "Man City goalkeeper James Trafford completes medical ahead of £40m move to Leeds",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVZrbFRaRTdMUU9vOF9VNUhfaWNTR090eTlKQm5rXzJZNXVBTTNFVkxfbWpSYzBHRzNweEh5b1d1X0ticHQ0RDZOMlVNc1RNUWsyZC1icldpRWZoNm5qd1Vma0FYWUc0aXp2VzhybWVBN3psRzNVbkJ3SElqcEhBOFFCcXhzbjU5UUtuZGZDY2lkQWVkUTFqUlFQUTk3cUVfY2NRLThGOEUxZWttUFJZSk84RzZMUzJ1RXNGeU1jMTlCSlpvSGp0dmRWTzMxQVA0dko2LW93ODIxWC1YdkRyS2FWa19rdw?oc=5",
@@ -8294,7 +8294,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "Irish Independent",
+      "source": "independent.ie",
       "tier": 1,
       "title": "James Ducker: How Manchester United’s legacy contracts are slowing them down in the transfer market",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcHFZaXRSQ3hodl96YXhyQXdHRER1YWdGbTF4Y1kzdXVOa1ZHR2Vmc05UM3BELTlCOVIweVRRZDZPWWQxbjVGZWdYbGlJbGdYbERpWkliQkhKRHI4MXphS0tTOUJKbGZ5UW03bDd3cndVYzhTRWllS0IwajJsQ1hJUjdtR0VYOGtLRnJpQmZtWjQtTWhpNG8zd2dGODFXQmF1UmQtX0h3aExibDMzck8zQVVFcFI5RklWX2ZmV0phZDJPVng5QUtIaTJKSmlmcVhMNko3WGgxX3R6N0E2a1h5UXpKYVRQOVdfNVE?oc=5",
@@ -8506,6 +8506,18 @@
       "titleZh": "曼联确认与Betway达成全球最大的训练套装交易--禁止赌博公司使用比赛衬衫"
     },
     {
+      "id": "Andy Mitten:CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 8, Paul Scholes",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc?oc=5",
+      "published": "2026-08-04T05:44:37.000Z",
+      "titleZh": "曼联最伟大的球员：第8名，保罗·斯科尔斯"
+    },
+    {
       "id": "Carl Anka:CBMieEFVX3lxTFBsV0oyQlZETWtiRUoyZHZsTkNIMmw5c1BLb0EtZ2k4SmdSazdZY19IMnh4NHRmSnBDUi1aYTZfQzBJSHdyYnhsSmtHWG41TUMyV19fMkJaQ19acElucmJ2NUJUS3FsNlQ5S01MX0VtcnAtOW8yZW8xX9IBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -8528,21 +8540,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGlyNVZCOXIyZkp0VE44WTFqeTF4UVA4bWFZUDIteld4ZDdrNkplY3ZXaFF6UU1tVUZxSEk4V2k0c09YT0dhaksxYXRJVzR1dlA4UGtQZzdpRWV0d2FwV2NiY1FBUDZURGxyUUYwTnMxSk1YLVYyMG5Bdk5ObEJSWHFhQ2RQMUtwMWRLMU5ZQl9jVG9rdEVWSC0waXNjdEJBQlBN?oc=5",
       "published": "2026-08-03T11:57:29.000Z",
       "titleZh": "Jermaine Jenas告诉Lewis Hall是去曼联还是留在纽卡斯尔"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMikwFBVV95cUxPYzhreXZibk9qM1Nya3lyQU80Y2N2QlNYa1pXTmdzT2hhNncwRzUyWGZPZzI4NU0wQjEyc25oMVFCZHR4REV5UUtHbGtYR2J2RWVWeXpVd19QX1diMVRucUplX0RReUJkRG80NFBMQ29STk5IenlRdUdQN1VMVjNPRU1VQ2NLV1ZNeGVCQktvb3V5LVE",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
-      "tier": 2,
-      "title": "Man Utd tell Toby Collyer he can leave in permanent transfer this summer",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzhreXZibk9qM1Nya3lyQU80Y2N2QlNYa1pXTmdzT2hhNncwRzUyWGZPZzI4NU0wQjEyc25oMVFCZHR4REV5UUtHbGtYR2J2RWVWeXpVd19QX1diMVRucUplX0RReUJkRG80NFBMQ29STk5IenlRdUdQN1VMVjNPRU1VQ2NLV1ZNeGVCQktvb3V5LVE?oc=5",
-      "published": "2026-08-03T09:22:00.000Z",
-      "titleZh": "曼联告诉Toby Collyer ，他可以在今年夏天永久转会"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-07T10:40:12.676Z",
+  "journalistsUpdatedAt": "2026-08-07T11:29:05.515Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

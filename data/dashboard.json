@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:40:09.249Z",
+  "updatedAt": "2026-08-07T13:38:13.697Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -7307,7 +7307,7 @@
       "id": "401878675",
       "date": "2027-05-01T14:00Z",
       "status": "upcoming",
-      "venue": "The Coventry Building Society Arena",
+      "venue": "Coventry Building Society Arena",
       "competition": "英超",
       "competitionKey": "eng.1",
       "competitionGroup": "league",

@@ -8258,7 +8258,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Rashford's return to Man United brings a lot of questions",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE?oc=5",
@@ -8266,11 +8266,23 @@
       "titleZh": "拉什福德重返曼联带来了很多问题"
     },
     {
+      "id": "Andy Mitten:CBMingFBVV95cUxQQUdOY1VycnVsRWI5Z2NaYkxlZm1yQldvbVV3Ykw3ZlBZYmxDSXB3a3dxa2dWVVVmQUU3N2N0c0ZPQ3JvMWFWYkxoM1FFWVhCTXBqeHhtWDF5N1pYbGd4UWVwUHd1TUg1VE1DSkxtdy1jZkpJcDRwX0I0VWtlcHRPUW4yWnc2dXpKSWJIeFAzTHVRZFRRV1dQS1JPSTlEdw",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 6, Denis Law",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUdOY1VycnVsRWI5Z2NaYkxlZm1yQldvbVV3Ykw3ZlBZYmxDSXB3a3dxa2dWVVVmQUU3N2N0c0ZPQ3JvMWFWYkxoM1FFWVhCTXBqeHhtWDF5N1pYbGd4UWVwUHd1TUg1VE1DSkxtdy1jZkpJcDRwX0I0VWtlcHRPUW4yWnc2dXpKSWJIeFAzTHVRZFRRV1dQS1JPSTlEdw?oc=5",
+      "published": "2026-08-07T04:16:00.000Z",
+      "titleZh": "曼联最伟大的球员：第6名，丹尼斯·劳"
+    },
+    {
       "id": "Fabrizio Romano:CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "readmanutd.com",
+      "source": "Read Man Utd",
       "tier": 1,
       "title": "Romano issues Man Utd striker transfer reality check",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3?oc=5",
@@ -8354,7 +8366,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "Yahoo News New Zealand",
+      "source": "nz.news.yahoo.com",
       "tier": 1,
       "title": "Can Rashford have a positive impact at Man Utd?",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pSkkzSzJwVWVtMXBSSExHN0x2MXdKUDdhUkhPVmsyelNQYWN5RlFGc3Q1RTBFaW51SmNGcU55ay1Idm95b2s1UHRDajZKOFc1MkNmRXZ5QkZ1X1hScTFvU2xjQ29TdzBSaS1zaVlsc3RvNG1QUHltSjM2bTh4Zw?oc=5",
@@ -8402,7 +8414,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "paininthearsenal.com",
+      "source": "Pain in the Arsenal",
       "tier": 1,
       "title": "David Ornstein: Arsenal agree fee with Newcastle over Bruno Guimarães signing",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE?oc=5",
@@ -8414,7 +8426,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Marcus Rashford: Will he return to Man Utd - and what impact would he have?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bE5PeU1zVjJwdnBndkU1SDBmRWo0dDdoNmF1RmNkdk1fZ1hKcEVnbUltRFl4UURuUEZmSlZ1NkRqc2lkc0xvcjRzUkVMZXhqRHphR0tsd01OUUl5LTZSdnR0OW9QSEE?oc=5",
@@ -8506,18 +8518,6 @@
       "titleZh": "曼联确认与Betway达成全球最大的训练套装交易--禁止赌博公司使用比赛衬衫"
     },
     {
-      "id": "Andy Mitten:CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Manchester United’s greatest players: No 8, Paul Scholes",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc?oc=5",
-      "published": "2026-08-04T05:44:37.000Z",
-      "titleZh": "曼联最伟大的球员：第8名，保罗·斯科尔斯"
-    },
-    {
       "id": "Carl Anka:CBMieEFVX3lxTFBsV0oyQlZETWtiRUoyZHZsTkNIMmw5c1BLb0EtZ2k4SmdSazdZY19IMnh4NHRmSnBDUi1aYTZfQzBJSHdyYnhsSmtHWG41TUMyV19fMkJaQ19acElucmJ2NUJUS3FsNlQ5S01MX0VtcnAtOW8yZW8xX9IBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -8542,7 +8542,7 @@
       "titleZh": "Jermaine Jenas告诉Lewis Hall是去曼联还是留在纽卡斯尔"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-07T07:56:03.001Z",
+  "journalistsUpdatedAt": "2026-08-07T08:46:00.614Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

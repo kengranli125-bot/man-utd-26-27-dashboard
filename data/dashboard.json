@@ -8254,15 +8254,39 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Read Man Utd",
+      "tier": 1,
+      "title": "Romano issues Man Utd striker transfer reality check",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3?oc=5",
+      "published": "2026-08-06T18:05:00.000Z",
+      "titleZh": "Romano发行曼联前锋转会现实检查"
+    },
+    {
+      "id": "James Ducker:CBMi5gFBVV95cUxOYVZrbFRaRTdMUU9vOF9VNUhfaWNTR090eTlKQm5rXzJZNXVBTTNFVkxfbWpSYzBHRzNweEh5b1d1X0ticHQ0RDZOMlVNc1RNUWsyZC1icldpRWZoNm5qd1Vma0FYWUc0aXp2VzhybWVBN3psRzNVbkJ3SElqcEhBOFFCcXhzbjU5UUtuZGZDY2lkQWVkUTFqUlFQUTk3cUVfY2NRLThGOEUxZWttUFJZSk84RzZMUzJ1RXNGeU1jMTlCSlpvSGp0dmRWTzMxQVA0dko2LW93ODIxWC1YdkRyS2FWa19rdw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "independent.ie",
+      "tier": 1,
+      "title": "Man City goalkeeper James Trafford completes medical ahead of £40m move to Leeds",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVZrbFRaRTdMUU9vOF9VNUhfaWNTR090eTlKQm5rXzJZNXVBTTNFVkxfbWpSYzBHRzNweEh5b1d1X0ticHQ0RDZOMlVNc1RNUWsyZC1icldpRWZoNm5qd1Vma0FYWUc0aXp2VzhybWVBN3psRzNVbkJ3SElqcEhBOFFCcXhzbjU5UUtuZGZDY2lkQWVkUTFqUlFQUTk3cUVfY2NRLThGOEUxZWttUFJZSk84RzZMUzJ1RXNGeU1jMTlCSlpvSGp0dmRWTzMxQVA0dko2LW93ODIxWC1YdkRyS2FWa19rdw?oc=5",
+      "published": "2026-08-06T14:30:00.000Z",
+      "titleZh": "曼城守门员詹姆斯·特拉福德在£ 4000万移动到利兹之前完成医疗"
+    },
+    {
       "id": "James Ducker:CBMi6gFBVV95cUxOcHFZaXRSQ3hodl96YXhyQXdHRER1YWdGbTF4Y1kzdXVOa1ZHR2Vmc05UM3BELTlCOVIweVRRZDZPWWQxbjVGZWdYbGlJbGdYbERpWkliQkhKRHI4MXphS0tTOUJKbGZ5UW03bDd3cndVYzhTRWllS0IwajJsQ1hJUjdtR0VYOGtLRnJpQmZtWjQtTWhpNG8zd2dGODFXQmF1UmQtX0h3aExibDMzck8zQVVFcFI5RklWX2ZmV0phZDJPVng5QUtIaTJKSmlmcVhMNko3WGgxX3R6N0E2a1h5UXpKYVRQOVdfNVE",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "Irish Independent",
+      "source": "independent.ie",
       "tier": 1,
-      "title": "James Ducker: How Manchester United's legacy contracts are slowing them down in the transfer market",
+      "title": "James Ducker: How Manchester United’s legacy contracts are slowing them down in the transfer market",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcHFZaXRSQ3hodl96YXhyQXdHRER1YWdGbTF4Y1kzdXVOa1ZHR2Vmc05UM3BELTlCOVIweVRRZDZPWWQxbjVGZWdYbGlJbGdYbERpWkliQkhKRHI4MXphS0tTOUJKbGZ5UW03bDd3cndVYzhTRWllS0IwajJsQ1hJUjdtR0VYOGtLRnJpQmZtWjQtTWhpNG8zd2dGODFXQmF1UmQtX0h3aExibDMzck8zQVVFcFI5RklWX2ZmV0phZDJPVng5QUtIaTJKSmlmcVhMNko3WGgxX3R6N0E2a1h5UXpKYVRQOVdfNVE?oc=5",
-      "published": "2026-08-06T12:31:16.000Z",
+      "published": "2026-08-06T13:30:00.000Z",
       "titleZh": "詹姆斯·达克：曼联的遗留合同如何减缓他们在转会市场的步伐"
     },
     {
@@ -8270,7 +8294,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "Yahoo Sports Canada",
+      "source": "ca.sports.yahoo.com",
       "tier": 1,
       "title": "David Ornstein provides update on Manchester United move for Lewis Hall",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzhNVldLd1BjUGZoeFVVbHEwTW1NQVZuVm4wQ0pDZDhVLWZyY3ZZd0Nacmd4WkVxZVl0SHJTZGp3SWhfUWRKcEU1eUl1aUhpOVo4UUNYb0tkT0JkYUlCeHIzRnNYN0xZdHhDMVJsTUxCMHc4SVhHOE9kN0F3QklHemNDZjNvZEdjQUpOeW9ZUWNQM00?oc=5",
@@ -8318,7 +8342,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 1,
       "title": "Man Utd told to offer £60m to sign Juventus star; Ornstein confirms 'two' priority signings",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbG5qV1ZEYi1wNEhReEJPdmdfZ1B1QW1UdHhIOVpCdzBXUll0NFZORmdzMDJZZUI2d3pWenlqN3oyYlVXUVpHaVFZWVZpNnZNdE4yN2xwSFU2dnBsZ0s1MmlLcklhT3JVdzBuQndLZkNxSkk3amJSUXBQVTJUNXY1V215UjlnMHZJQVNoNVNpOTBkc3VobnVpQjlqM2tGdEctY0FEc1lHYlY4R1E1bGhVVDFPM0s4Qzh5amNNZXd3?oc=5",
@@ -8354,7 +8378,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 1,
       "title": "Fabrizio Romano confirms ‘here we go’ for Man Utd double transfer with ‘medical authorised’",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw?oc=5",
@@ -8378,12 +8402,24 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "source": "bbc.com",
       "tier": 1,
       "title": "Marcus Rashford: Will he return to Man Utd - and what impact would he have?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bE5PeU1zVjJwdnBndkU1SDBmRWo0dDdoNmF1RmNkdk1fZ1hKcEVnbUltRFl4UURuUEZmSlZ1NkRqc2lkc0xvcjRzUkVMZXhqRHphR0tsd01OUUl5LTZSdnR0OW9QSEE?oc=5",
       "published": "2026-08-05T05:42:36.000Z",
       "titleZh": "马库斯·拉什福德：他会回到曼联吗？他会产生什么影响？"
+    },
+    {
+      "id": "Chris Wheeler:CBMiuwFBVV95cUxNWnhuQ0dHemgwbm51eVlRZVdYZXhaOFBtWElZbW9tMHFXX3pjVnR3UzR6VjZaRkJnUENWVVNzWDRsQ3hKWW0td0ZfM3U0U2Itb2JFOEMyZURyTnVMU2ZmTWZsMFVoUnd2M0V1b0tNVHBIXzlJUkxBTlVvUld3TU1LZkZXZDcwUk42dEJaOHhyLUZQNW9WVFFNMWhJcWJabFZISWlnZnotcjVXc3RkcjdUNXB0OG94ZWJGcS1R",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Dailysports",
+      "tier": 2,
+      "title": "The battle for Rashford heats up! Five top leagues want to snatch the star from Man United",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnhuQ0dHemgwbm51eVlRZVdYZXhaOFBtWElZbW9tMHFXX3pjVnR3UzR6VjZaRkJnUENWVVNzWDRsQ3hKWW0td0ZfM3U0U2Itb2JFOEMyZURyTnVMU2ZmTWZsMFVoUnd2M0V1b0tNVHBIXzlJUkxBTlVvUld3TU1LZkZXZDcwUk42dEJaOHhyLUZQNW9WVFFNMWhJcWJabFZISWlnZnotcjVXc3RkcjdUNXB0OG94ZWJGcS1R?oc=5",
+      "published": "2026-08-04T19:31:48.000Z",
+      "titleZh": "拉什福德之战升温了！五个顶级联赛想要从曼联手中夺取明星"
     },
     {
       "id": "Laurie Whitwell:CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg",
@@ -8408,18 +8444,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjlvaHYtdXdUckdxamFTWUxfNTlCQWZrZWlPSGhzaExKUTVpUkV1QU9ERDE4YXd1Y0VxZTBoSnF0Wmp5SnFMaEo1YUJ5ajB0Zk56THhleU9JYWxmaTl5elBDZVB0LWtHSk0wbFZzZVNXaG5DTnNrRWdJX2g0VWdtWkJjUVVoSzlYWUxLc1VtMWk4WFdPclFibU80NHFGNVZwWWdxTzVRWnRycUU?oc=5",
       "published": "2026-08-04T16:12:00.000Z",
       "titleZh": "有关曼联转会业务的关键问题得到了解答"
-    },
-    {
-      "id": "Simon Stone:CBMiZ0FVX3lxTFBhU2NRdy0tXy12YkUzSjJRckMyS0pJZ0dyOEhydDN1QkcxUVMwOUhydEstRUZkRnk4NEdJWWtRbURYUUlRMEkzYzVTTEozc3FPM1N1bWdkRnlSaHBsaG0zUDZtY2Nob1E",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United admit mistakes over ticket touting investigation",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhU2NRdy0tXy12YkUzSjJRckMyS0pJZ0dyOEhydDN1QkcxUVMwOUhydEstRUZkRnk4NEdJWWtRbURYUUlRMEkzYzVTTEozc3FPM1N1bWdkRnlSaHBsaG0zUDZtY2Nob1E?oc=5",
-      "published": "2026-08-04T15:18:10.000Z",
-      "titleZh": "曼联承认在门票兜售调查中犯了错误"
     },
     {
       "id": "Chris Wheeler:CBMiygFBVV95cUxOMUU3djdoczFzUHhPcWNUVG1hcVlDbFU5N1dKd3ktYklBcnJjQ1RpMGVnQlpQSjJ3N0M0NENhTjZobHoxUTVRTUh5OEtrcGtpa1BDN2FyWmJHSEExY0xGMXY1ak11TEFrdDJIYmIyb3JVdWNaeGdDbGZ3ZjFpQmxGaTRuT0xQZVRPQTdxb0lsUC1fanM2Wkl3LWxvUGl3TWxuZ3dKaXFoMXN0M0xrVjVteGJnaUxPNmhvbzNINmQtaXBDbUo5dWtnVGhR",
@@ -8470,6 +8494,18 @@
       "titleZh": "曼联确认与Betway达成全球最大的训练套装交易--禁止赌博公司使用比赛衬衫"
     },
     {
+      "id": "Andy Mitten:CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 8, Paul Scholes",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajZsakRjR281dEZIc3RWMEZVZjEwbkp1RUNyQWN4Z0RnOFhYd3JiNjFpWVZNQnBlQUdkZ0dGd1h5ZDJ3RHM1Y0VuWk12TUlheHF1cWIwa2FmZ0ZEdEJWdXQ1RUtteXFlektLNWtFYVY5MUUyUHB2Tnh1aTlCVXJEenFIa0NCNFdVbHdZd2VWNXJoa21aRE5Gck94NjFfTm1JRmc?oc=5",
+      "published": "2026-08-04T05:44:37.000Z",
+      "titleZh": "曼联最伟大的球员：第8名，保罗·斯科尔斯"
+    },
+    {
       "id": "Carl Anka:CBMieEFVX3lxTFBsV0oyQlZETWtiRUoyZHZsTkNIMmw5c1BLb0EtZ2k4SmdSazdZY19IMnh4NHRmSnBDUi1aYTZfQzBJSHdyYnhsSmtHWG41TUMyV19fMkJaQ19acElucmJ2NUJUS3FsNlQ5S01MX0VtcnAtOW8yZW8xX9IBfkFVX3lxTFBqSmZHN2FWWDhmRll2M1dfTkNocGNOYVZxWTZOSHVjc3VXRDQ2UzVDNXZpUU1JdGtTNTB2WHh4SW94QzNKTnVaeGVoRlNHb0I5dVVNU0hRNnZPRHZiOUtfVHdVNW5WX3Z2Ql9sbjIwUXZVVzI3bTIzTWxLMUdWQQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -8482,23 +8518,11 @@
       "titleZh": "马克·斯金纳（ Marc Skinner ）离开曼联女足五年后"
     },
     {
-      "id": "James Ducker:CBMi1AFBVV95cUxOTzluQjNodzg2NHNJZjR3ejNEZkp6d2M2LXkwNzFHTDBVRDlOMlRERW9OZzJ1S1g5ckF6cTktTXJFRVlZUFZRWG1YNzUtTkV2MU1nLVFUZm5XS0RmekRhSkxQUl9mOHFQUW1uQ0FMMTRkcExjSXBCcTZpQ28tREhKX2tFekp1dFIyZGNaNGVzM2FRakJobFVTOXBkR0U0OEtGcVQ4VW13dHRvTEJCMmc2Zk9NeTllTTdDOGEtMm1mQ3Y1REVTdElFdUlWZGY1cHhETXpfVw",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Irish Independent",
-      "tier": 1,
-      "title": "Man United women's head coach Marc Skinner departs club after five years in charge",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTzluQjNodzg2NHNJZjR3ejNEZkp6d2M2LXkwNzFHTDBVRDlOMlRERW9OZzJ1S1g5ckF6cTktTXJFRVlZUFZRWG1YNzUtTkV2MU1nLVFUZm5XS0RmekRhSkxQUl9mOHFQUW1uQ0FMMTRkcExjSXBCcTZpQ28tREhKX2tFekp1dFIyZGNaNGVzM2FRakJobFVTOXBkR0U0OEtGcVQ4VW13dHRvTEJCMmc2Zk9NeTllTTdDOGEtMm1mQ3Y1REVTdElFdUlWZGY1cHhETXpfVw?oc=5",
-      "published": "2026-08-03T13:52:19.000Z",
-      "titleZh": "曼联女主教练马克·斯金纳执教5年后离开俱乐部"
-    },
-    {
       "id": "Andy Mitten:CBMiowFBVV95cUxObGlyNVZCOXIyZkp0VE44WTFqeTF4UVA4bWFZUDIteld4ZDdrNkplY3ZXaFF6UU1tVUZxSEk4V2k0c09YT0dhaksxYXRJVzR1dlA4UGtQZzdpRWV0d2FwV2NiY1FBUDZURGxyUUYwTnMxSk1YLVYyMG5Bdk5ObEJSWHFhQ2RQMUtwMWRLMU5ZQl9jVG9rdEVWSC0waXNjdEJBQlBN",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 2,
       "title": "Jermaine Jenas tells Lewis Hall whether to go to Man Utd or stay at Newcastle",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGlyNVZCOXIyZkp0VE44WTFqeTF4UVA4bWFZUDIteld4ZDdrNkplY3ZXaFF6UU1tVUZxSEk4V2k0c09YT0dhaksxYXRJVzR1dlA4UGtQZzdpRWV0d2FwV2NiY1FBUDZURGxyUUYwTnMxSk1YLVYyMG5Bdk5ObEJSWHFhQ2RQMUtwMWRLMU5ZQl9jVG9rdEVWSC0waXNjdEJBQlBN?oc=5",
@@ -8516,33 +8540,9 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzhreXZibk9qM1Nya3lyQU80Y2N2QlNYa1pXTmdzT2hhNncwRzUyWGZPZzI4NU0wQjEyc25oMVFCZHR4REV5UUtHbGtYR2J2RWVWeXpVd19QX1diMVRucUplX0RReUJkRG80NFBMQ29STk5IenlRdUdQN1VMVjNPRU1VQ2NLV1ZNeGVCQktvb3V5LVE?oc=5",
       "published": "2026-08-03T09:22:00.000Z",
       "titleZh": "曼联告诉Toby Collyer ，他可以在今年夏天永久转会"
-    },
-    {
-      "id": "Chris Wheeler:CBMijAFBVV95cUxNOE5wOWVTMnZLWmZZd0dMcDlpaXQ1WjZjMC1zU1lqTEM0NEZjU2tZcEQ1dWx1MjkwVmswbGtISnY4MEtjUGdQMm01dEM0ZDB6dVdsWWcxQ2JvTWxLU2tBUlBzVmVLOUlzU3JRQ2NGdWMzNUxHOUpzWEJZaktxeWMtSjg1RlBUTVl6NEF3V9IBkgFBVV95cUxQR0xURjctcWVLLVlzTzlaVzlLbWY0WnRCUlVvSnVTTHRWT1BpSm1rM3JZeUd2X0tnNHRFd2VBTmtvbDhWUFJveTJ5N2hoNFZtbzVJRkdDY1JGU1RIanp6OEdEb2FFNFVWSjZBNFR0ek12MkNmY1o4clhCOHNQeWNlVFlnbEhEZHQ0SjVHUUQzanRXQQ",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Stretty News",
-      "tier": 2,
-      "title": "Celta Vigo Loan Agreed for Bayindir as United Push for Permanent Sale",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE5wOWVTMnZLWmZZd0dMcDlpaXQ1WjZjMC1zU1lqTEM0NEZjU2tZcEQ1dWx1MjkwVmswbGtISnY4MEtjUGdQMm01dEM0ZDB6dVdsWWcxQ2JvTWxLU2tBUlBzVmVLOUlzU3JRQ2NGdWMzNUxHOUpzWEJZaktxeWMtSjg1RlBUTVl6NEF3V9IBkgFBVV95cUxQR0xURjctcWVLLVlzTzlaVzlLbWY0WnRCUlVvSnVTTHRWT1BpSm1rM3JZeUd2X0tnNHRFd2VBTmtvbDhWUFJveTJ5N2hoNFZtbzVJRkdDY1JGU1RIanp6OEdEb2FFNFVWSjZBNFR0ek12MkNmY1o4clhCOHNQeWNlVFlnbEhEZHQ0SjVHUUQzanRXQQ?oc=5",
-      "published": "2026-08-03T09:00:00.000Z",
-      "titleZh": "Celta Vigo贷款同意Bayindir作为联合推动永久出售"
-    },
-    {
-      "id": "Andy Mitten:CBMi7wFBVV95cUxQbU1kSzJUSVpQZEFLdTk0RmFFUDFQMXJUWDcxSWdjWDgwSUlpekdqMnNnRHNyQjdzMHVibEg1WXhqRjd1a1BFNi1oT2NjSjB4QXpaYlNpN0Vud0dYcXFYbDFzcDNXY2tZWm42V0NoN3pxVHl0Rm9CcWVtV1JyYXJEVDEzV2JISEtSX2tnVHF6QURqMjRmeDI1dmRNLTZURm9KR1RXcHJ6MWdXYkE3d1ZXZ09Oankxb0poeUhXMmRBT21ZMWlmZDdmYWI5UFZoU0t3cXlaWUpOM2ZpZ2tJdWR5aTl6dDZkMjQ1TGV4MVZibw",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "thenationalnews.com",
-      "tier": 2,
-      "title": "Leny Yoro on the mood at Man United, his injury problems and chances of winning Premier League title",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbU1kSzJUSVpQZEFLdTk0RmFFUDFQMXJUWDcxSWdjWDgwSUlpekdqMnNnRHNyQjdzMHVibEg1WXhqRjd1a1BFNi1oT2NjSjB4QXpaYlNpN0Vud0dYcXFYbDFzcDNXY2tZWm42V0NoN3pxVHl0Rm9CcWVtV1JyYXJEVDEzV2JISEtSX2tnVHF6QURqMjRmeDI1dmRNLTZURm9KR1RXcHJ6MWdXYkE3d1ZXZ09Oankxb0poeUhXMmRBT21ZMWlmZDdmYWI5UFZoU0t3cXlaWUpOM2ZpZ2tJdWR5aTl6dDZkMjQ1TGV4MVZibw?oc=5",
-      "published": "2026-08-02T11:03:02.000Z",
-      "titleZh": "Leny Yoro谈论曼联的情绪、伤病问题和赢得英超联赛冠军的机会"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-06T13:28:34.345Z",
+  "journalistsUpdatedAt": "2026-08-07T00:35:07.894Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

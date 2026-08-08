@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:56:31.237Z",
+  "updatedAt": "2026-08-08T18:57:34.392Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -8426,7 +8426,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-08T16:56:31.236Z"
+        "generatedAt": "2026-08-08T18:57:34.390Z"
       }
     },
     {
@@ -9592,6 +9592,23 @@
       "nationality": "Northern Ireland",
       "nationalityZh": "北爱尔兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+      "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "410992",
+      "name": "Fred Heath",
+      "nameZh": "Fred Heath",
+      "shortName": "F. Heath",
+      "shortNameZh": "Heath",
+      "jersey": "",
+      "position": "Goalkeeper",
+      "age": 18,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
       "headshot": "",
       "statusType": "available",
       "statusLabel": "可用",
@@ -10975,7 +10992,7 @@
     },
     "preseason": {
       "formation": "4-2-3-1",
-      "title": "季前赛预测首发 · 对巴黎圣日耳曼",
+      "title": "季前赛预测首发 · 对利兹联",
       "summary": "以考察新援和年轻球员为主，同时保留部分一线队骨干维持阵型结构与比赛节奏。",
       "players": [
         {

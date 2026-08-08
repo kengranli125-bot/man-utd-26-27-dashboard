@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:42:55.500Z",
+  "updatedAt": "2026-08-08T16:13:38.305Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -6574,8 +6574,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "274745",
@@ -6755,9 +6755,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             }
           ]
         },
@@ -6777,8 +6777,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "49'"
             },
             {
               "id": "356044",
@@ -6789,8 +6789,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "157073",
@@ -6825,8 +6825,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "358180",
@@ -6910,9 +6910,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "49'"
             },
             {
               "id": "276327",
@@ -6982,9 +6982,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "340206",
@@ -6994,9 +6994,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "410992",

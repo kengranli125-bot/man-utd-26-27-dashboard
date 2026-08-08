@@ -10244,7 +10244,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "soccer.realgm.com",
+      "source": "RealGM",
       "tier": 1,
       "title": "Marcus Rashford To Return To United For First Time In 18 Months",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn?oc=5",
@@ -10304,7 +10304,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd player ratings: Bryan Mbeumo stakes claim to starting spot up front",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVQ1bXYxbk5iWlRMM1hTUG9zb3BnZWlKZmp1RFJDcGVQZnREWjVIT1c5LU9SQUZUdXh2c2x2bFpqZ2xic2xpVU9VTHI0bUVRX1ZfM0R6VFpEM3NBTVNCLS05c0gxa3g4S2huMTA0NGdfeDZKMjhULUdtTDk2cjFwNTdWMHZyeEE1SkxN?oc=5",
@@ -10360,18 +10360,6 @@
       "titleZh": "哥德堡发生了什么？"
     },
     {
-      "id": "Fabrizio Romano:CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals Man Utd's 'only' way to sign Lewis Hall as INEOS 'green light' loan deal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn?oc=5",
-      "published": "2026-08-07T07:22:28.000Z",
-      "titleZh": "Romano透露曼联签署Lewis Hall作为INEOS “绿灯”贷款协议的“唯一”方式"
-    },
-    {
       "id": "Rob Dawson:CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -10400,7 +10388,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
+      "source": "readmanutd.com",
       "tier": 1,
       "title": "Romano issues Man Utd striker transfer reality check",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3?oc=5",
@@ -10504,11 +10492,23 @@
       "titleZh": "“曼联显然处于一个棘手的位置”"
     },
     {
+      "id": "Fabrizio Romano:CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Fabrizio Romano confirms ‘here we go’ for Man Utd double transfer with ‘medical authorised’",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw?oc=5",
+      "published": "2026-08-05T09:53:04.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
+    },
+    {
       "id": "David Ornstein:CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "Pain in the Arsenal",
+      "source": "paininthearsenal.com",
       "tier": 1,
       "title": "David Ornstein: Arsenal agree fee with Newcastle over Bruno Guimarães signing",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE?oc=5",
@@ -10528,7 +10528,7 @@
       "titleZh": "马库斯·拉什福德：他会回到曼联吗？他会产生什么影响？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-08T23:16:10.534Z",
+  "journalistsUpdatedAt": "2026-08-08T23:50:06.578Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -10239,7 +10239,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Middlesbrough confirm permanent deal for Manchester United’s Radek Vitek",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg?oc=5",
@@ -10251,7 +10251,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Shopping for Carrick: Who are Man Utd’s best left-back options if Hall is unattainable?",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
@@ -10263,24 +10263,12 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "Manchester United Website",
+      "source": "manutd.com",
       "tier": 2,
       "title": "What's happening in Gothenburg?",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn?oc=5",
       "published": "2026-08-07T14:05:08.000Z",
       "titleZh": "哥德堡发生了什么？"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMifEFVX3lxTFBZOHRXYnNKd2xEdHpRQ01FS2NleV9pbGpUSHZ2a2xXbDFSaEc1ekVrQXZ4SF96elF2dkdCRTY2bktIYUpTS19pbEdtbDhNNFJLcEFHZEMxVEFPamdpc09yMmFUNnliYXJDTjFyZExqa1NWeDFhZ1Q5X0cySlY",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Marcus Rashford set for Man Utd reunion for the first time in 18 months as transfer options run out",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZOHRXYnNKd2xEdHpRQ01FS2NleV9pbGpUSHZ2a2xXbDFSaEc1ekVrQXZ4SF96elF2dkdCRTY2bktIYUpTS19pbEdtbDhNNFJLcEFHZEMxVEFPamdpc09yMmFUNnliYXJDTjFyZExqa1NWeDFhZ1Q5X0cySlY?oc=5",
-      "published": "2026-08-07T08:57:25.000Z",
-      "titleZh": "马库斯·拉什福德（ Marcus Rashford ） 18个月来首次参加曼联重聚，因为转会选项已经用完"
     },
     {
       "id": "Rob Dawson:CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE",
@@ -10299,7 +10287,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Manchester United’s greatest players: No 6, Denis Law",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUdOY1VycnVsRWI5Z2NaYkxlZm1yQldvbVV3Ykw3ZlBZYmxDSXB3a3dxa2dWVVVmQUU3N2N0c0ZPQ3JvMWFWYkxoM1FFWVhCTXBqeHhtWDF5N1pYbGd4UWVwUHd1TUg1VE1DSkxtdy1jZkpJcDRwX0I0VWtlcHRPUW4yWnc2dXpKSWJIeFAzTHVRZFRRV1dQS1JPSTlEdw?oc=5",
@@ -10371,7 +10359,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "readnewcastle.com",
+      "source": "Read Newcastle",
       "tier": 1,
       "title": "David Ornstein drops major Lewis Hall to Manchester United transfer news",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUt5NkgzQ2o4dlg4Tk1weTNubGxzR0M5b3dLU0hpVjE0cVZDUW9DVnowbjVfUmpVOWxpQlJoUFQzVF9qYnFaRVBVMkliWE5DdjkwQWF3cXBKc1NhOVBnTEs1U0RDaG1nVFZuaXdrZGtsSVByMXBRV2daSFY4NUJ0dUNzNXN0eGFjOTlib21aS0h1dHZyWGNvalFURnJTUEpTMDFZ?oc=5",
@@ -10499,6 +10487,18 @@
       "titleZh": "曼联球星“已经在西班牙”进行“医疗” ，因为有9名球员可以离开"
     },
     {
+      "id": "Samuel Luckhurst:CBMihgFBVV95cUxNRlhsQ3JqbTFQb0VRMGVqdDVXaWRTRlgwQnZDQXVucHhvaHZxem1fS0hUQUg0YlRFem1BeEdkUlBUQkNZV1FmYnVOek5ENm1mMDZncTBrU3FQSjMzQnY5enh3WFFNTF9jR0lQTGl1RWV2TUt0c25CS3BpbEJTY2l2VjVfR1EzQQ",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Man Utd can have league's best transfer window if they sign midfielder and sell Rashford and forgotten 'cheerleader'",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRlhsQ3JqbTFQb0VRMGVqdDVXaWRTRlgwQnZDQXVucHhvaHZxem1fS0hUQUg0YlRFem1BeEdkUlBUQkNZV1FmYnVOek5ENm1mMDZncTBrU3FQSjMzQnY5enh3WFFNTF9jR0lQTGl1RWV2TUt0c25CS3BpbEJTY2l2VjVfR1EzQQ?oc=5",
+      "published": "2026-08-04T11:54:58.000Z",
+      "titleZh": "曼联可以拥有联盟最好的转会窗口，如果他们签下中场球员，卖掉拉什福德，忘记了“啦啦队长”"
+    },
+    {
       "id": "Chris Wheeler:CBMiygFBVV95cUxOMUU3djdoczFzUHhPcWNUVG1hcVlDbFU5N1dKd3ktYklBcnJjQ1RpMGVnQlpQSjJ3N0M0NENhTjZobHoxUTVRTUh5OEtrcGtpa1BDN2FyWmJHSEExY0xGMXY1ak11TEFrdDJIYmIyb3JVdWNaeGdDbGZ3ZjFpQmxGaTRuT0xQZVRPQTdxb0lsUC1fanM2Wkl3LWxvUGl3TWxuZ3dKaXFoMXN0M0xrVjVteGJnaUxPNmhvbzNINmQtaXBDbUo5dWtnVGhR",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -10511,7 +10511,7 @@
       "titleZh": "曼联宣布世界领先的2000万英镑交易，证明Ineos仍在90项目的轨道上"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-08T15:52:27.450Z",
+  "journalistsUpdatedAt": "2026-08-08T16:58:37.467Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

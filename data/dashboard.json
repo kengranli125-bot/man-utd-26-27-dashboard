@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T15:02:15.067Z",
+  "updatedAt": "2026-08-08T15:42:55.500Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -6861,8 +6861,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "20'"
             },
             {
               "id": "271170",
@@ -7018,9 +7018,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "20'"
             },
             {
               "id": "205081",

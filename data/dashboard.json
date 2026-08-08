@@ -10240,6 +10240,30 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "soccer.realgm.com",
+      "tier": 1,
+      "title": "Marcus Rashford To Return To United For First Time In 18 Months",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn?oc=5",
+      "published": "2026-08-08T23:03:36.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）将在18个月内首次重返曼联"
+    },
+    {
+      "id": "Rob Dawson:CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Marcus Rashford to rejoin Manchester United for preseason camp - sources",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ?oc=5",
+      "published": "2026-08-08T19:36:00.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）将重新加入曼联参加季前训练营-消息来源"
+    },
+    {
       "id": "Rob Dawson:CBMitgFBVV95cUxQbk44T2MzUDhfRkhkSi1BMC0zcXBoZ09kN2wtakI1d0xzVTc4SHRlMWxxNW5HMV9wbVpzd29aSGI0R1dHVU1sd0hJaGYxLWdtM0VBMW5sS3dyU0hTMTdqbmxodk9pUk15Q0lwNWMxSHdsWmpueGR1RHlWVHhHaDRWOWZFOVpSaXJvQzVKb3k4OTA1LTJKaVJqNEE1Z2VYQS1YRFZHeE52aDhkU3YzbFp0VTlKUmE5dw",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -10280,7 +10304,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd player ratings: Bryan Mbeumo stakes claim to starting spot up front",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVQ1bXYxbk5iWlRMM1hTUG9zb3BnZWlKZmp1RFJDcGVQZnREWjVIT1c5LU9SQUZUdXh2c2x2bFpqZ2xic2xpVU9VTHI0bUVRX1ZfM0R6VFpEM3NBTVNCLS05c0gxa3g4S2huMTA0NGdfeDZKMjhULUdtTDk2cjFwNTdWMHZyeEE1SkxN?oc=5",
@@ -10332,7 +10356,7 @@
       "tier": 2,
       "title": "What's happening in Gothenburg?",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn?oc=5",
-      "published": "2026-08-07T14:05:08.000Z",
+      "published": "2026-08-08T01:07:59.000Z",
       "titleZh": "哥德堡发生了什么？"
     },
     {
@@ -10502,33 +10526,9 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bE5PeU1zVjJwdnBndkU1SDBmRWo0dDdoNmF1RmNkdk1fZ1hKcEVnbUltRFl4UURuUEZmSlZ1NkRqc2lkc0xvcjRzUkVMZXhqRHphR0tsd01OUUl5LTZSdnR0OW9QSEE?oc=5",
       "published": "2026-08-05T05:42:36.000Z",
       "titleZh": "马库斯·拉什福德：他会回到曼联吗？他会产生什么影响？"
-    },
-    {
-      "id": "Chris Wheeler:CBMiuwFBVV95cUxNWnhuQ0dHemgwbm51eVlRZVdYZXhaOFBtWElZbW9tMHFXX3pjVnR3UzR6VjZaRkJnUENWVVNzWDRsQ3hKWW0td0ZfM3U0U2Itb2JFOEMyZURyTnVMU2ZmTWZsMFVoUnd2M0V1b0tNVHBIXzlJUkxBTlVvUld3TU1LZkZXZDcwUk42dEJaOHhyLUZQNW9WVFFNMWhJcWJabFZISWlnZnotcjVXc3RkcjdUNXB0OG94ZWJGcS1R",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Dailysports",
-      "tier": 2,
-      "title": "The battle for Rashford heats up! Five top leagues want to snatch the star from Man United",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnhuQ0dHemgwbm51eVlRZVdYZXhaOFBtWElZbW9tMHFXX3pjVnR3UzR6VjZaRkJnUENWVVNzWDRsQ3hKWW0td0ZfM3U0U2Itb2JFOEMyZURyTnVMU2ZmTWZsMFVoUnd2M0V1b0tNVHBIXzlJUkxBTlVvUld3TU1LZkZXZDcwUk42dEJaOHhyLUZQNW9WVFFNMWhJcWJabFZISWlnZnotcjVXc3RkcjdUNXB0OG94ZWJGcS1R?oc=5",
-      "published": "2026-08-04T19:31:48.000Z",
-      "titleZh": "拉什福德之战升温了！五个顶级联赛想要从曼联手中夺取明星"
-    },
-    {
-      "id": "James Ducker:CBMiqwFBVV95cUxPRjlvaHYtdXdUckdxamFTWUxfNTlCQWZrZWlPSGhzaExKUTVpUkV1QU9ERDE4YXd1Y0VxZTBoSnF0Wmp5SnFMaEo1YUJ5ajB0Zk56THhleU9JYWxmaTl5elBDZVB0LWtHSk0wbFZzZVNXaG5DTnNrRWdJX2g0VWdtWkJjUVVoSzlYWUxLc1VtMWk4WFdPclFibU80NHFGNVZwWWdxTzVRWnRycUU",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Key questions around Manchester United’s transfer business",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjlvaHYtdXdUckdxamFTWUxfNTlCQWZrZWlPSGhzaExKUTVpUkV1QU9ERDE4YXd1Y0VxZTBoSnF0Wmp5SnFMaEo1YUJ5ajB0Zk56THhleU9JYWxmaTl5elBDZVB0LWtHSk0wbFZzZVNXaG5DTnNrRWdJX2g0VWdtWkJjUVVoSzlYWUxLc1VtMWk4WFdPclFibU80NHFGNVZwWWdxTzVRWnRycUU?oc=5",
-      "published": "2026-08-04T16:12:00.000Z",
-      "titleZh": "有关曼联转会业务的关键问题得到了解答"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-08T22:47:13.524Z",
+  "journalistsUpdatedAt": "2026-08-08T23:16:10.534Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

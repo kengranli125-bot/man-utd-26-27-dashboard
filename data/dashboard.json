@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:34:09.278Z",
+  "updatedAt": "2026-08-08T15:02:15.067Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -6477,8 +6477,8 @@
               "position": "G",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6489,8 +6489,8 @@
               "position": "CD-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6501,8 +6501,8 @@
               "position": "CD-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6513,8 +6513,8 @@
               "position": "LB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6525,8 +6525,8 @@
               "position": "RB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6537,8 +6537,8 @@
               "position": "CM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6549,8 +6549,8 @@
               "position": "LM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6561,8 +6561,8 @@
               "position": "RM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6573,8 +6573,8 @@
               "position": "F",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6585,8 +6585,8 @@
               "position": "LF",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6597,8 +6597,8 @@
               "position": "RF",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ],
@@ -6611,8 +6611,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6623,8 +6623,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6635,8 +6635,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6647,8 +6647,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6659,8 +6659,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6671,8 +6671,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6683,8 +6683,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6695,8 +6695,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6707,8 +6707,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6719,8 +6719,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6731,8 +6731,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6743,8 +6743,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6755,8 +6755,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ]
@@ -6776,8 +6776,8 @@
               "position": "G",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6788,8 +6788,8 @@
               "position": "CD-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6800,8 +6800,8 @@
               "position": "CD-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6812,8 +6812,8 @@
               "position": "LB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6824,8 +6824,8 @@
               "position": "RB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6836,20 +6836,8 @@
               "position": "AM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "231167",
-              "name": "Mason Mount",
-              "nameZh": "梅森·芒特",
-              "jersey": "7",
-              "position": "LM",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6857,11 +6845,23 @@
               "name": "Andrey Santos",
               "nameZh": "安德烈·桑托斯",
               "jersey": "17",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "231167",
+              "name": "Mason Mount",
+              "nameZh": "梅森·芒特",
+              "jersey": "7",
               "position": "RM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6872,8 +6872,8 @@
               "position": "F",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6884,8 +6884,8 @@
               "position": "AM-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6896,8 +6896,8 @@
               "position": "AM-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ],
@@ -6910,8 +6910,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6922,8 +6922,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6934,8 +6934,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6946,8 +6946,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6958,8 +6958,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6970,8 +6970,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6982,8 +6982,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -6994,8 +6994,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -7006,8 +7006,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -7018,8 +7018,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -7030,8 +7030,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ]

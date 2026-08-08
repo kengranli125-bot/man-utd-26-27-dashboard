@@ -8257,6 +8257,18 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Marcus Rashford heads for reunion with manager who froze him out",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
+      "published": "2026-08-08T08:00:00.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
+    },
+    {
       "id": "Carl Anka:CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -8267,6 +8279,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
       "published": "2026-08-08T04:10:03.000Z",
       "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
+    },
+    {
+      "id": "Andy Mitten:CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Manchester United Website",
+      "tier": 2,
+      "title": "What's happening in Gothenburg?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn?oc=5",
+      "published": "2026-08-07T22:08:04.000Z",
+      "titleZh": "哥德堡发生了什么？"
     },
     {
       "id": "David Ornstein:CBMikwFBVV95cUxOcE81ckdaaUR3S0xKM3k3VEFpYkpkZV9hSnh0eG8wU2s2cHdEZU5zVWwyakFvUWlvSmY1dUJGVFB5azk2S2IyQy1OZkg5ZW0zekJvWF9ETEZmVnNLRFk2dFRDT09scmQyd0VEUTlMRWIyRFVxc0otNjdBS2IzeVJjaFVCb2pWZFd2dGx4Mi03UmMxQ1U",
@@ -8281,16 +8305,28 @@
       "titleZh": "巴塞罗那向曼城- The Athletic提出4500万欧元的罗德里报价"
     },
     {
-      "id": "Andy Mitten:CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "Manchester United Website",
+      "id": "Samuel Luckhurst:CBMifEFVX3lxTFBZOHRXYnNKd2xEdHpRQ01FS2NleV9pbGpUSHZ2a2xXbDFSaEc1ekVrQXZ4SF96elF2dkdCRTY2bktIYUpTS19pbEdtbDhNNFJLcEFHZEMxVEFPamdpc09yMmFUNnliYXJDTjFyZExqa1NWeDFhZ1Q5X0cySlY",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
       "tier": 2,
-      "title": "What's happening in Gothenburg?",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn?oc=5",
-      "published": "2026-08-07T13:02:43.000Z",
-      "titleZh": "哥德堡发生了什么？"
+      "title": "Marcus Rashford set for Man Utd reunion for the first time in 18 months as transfer options run out",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZOHRXYnNKd2xEdHpRQ01FS2NleV9pbGpUSHZ2a2xXbDFSaEc1ekVrQXZ4SF96elF2dkdCRTY2bktIYUpTS19pbEdtbDhNNFJLcEFHZEMxVEFPamdpc09yMmFUNnliYXJDTjFyZExqa1NWeDFhZ1Q5X0cySlY?oc=5",
+      "published": "2026-08-07T08:57:25.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ） 18个月来首次参加曼联重聚，因为转会选项已经用完"
+    },
+    {
+      "id": "Fabrizio Romano:CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals Man Utd's 'only' way to sign Lewis Hall as INEOS 'green light' loan deal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn?oc=5",
+      "published": "2026-08-07T07:22:28.000Z",
+      "titleZh": "Romano透露曼联签署Lewis Hall作为INEOS “绿灯”贷款协议的“唯一”方式"
     },
     {
       "id": "Rob Dawson:CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE",
@@ -8377,18 +8413,6 @@
       "titleZh": "“私下坚持” ：体育杂志分享了他现在听到的关于曼联对国际英格兰21年的追求"
     },
     {
-      "id": "James Ducker:CBMiqAFBVV95cUxPTHRsaEtmUWlhZGV3eVJZVmlzNmc1TE5Dd0xiNEctSGtseDdqM09rVTZKdFVGQkhfRHlFOEEtd3hYXzhERW5jVGNvZ1BFWGJod3NYb29udmpSc0U1OWF3QWZNalFneWFBM0drOUZEOTE1U0tZMDRXRDlub3dqVUQ5X2lYbmNvcWJHb3ZIWVRUTjJqZE1GaFJIX0hOUFdYRGw4QUFLR21OS0o",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Manchester United’s legacy contracts slowing them down in transfer market",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHRsaEtmUWlhZGV3eVJZVmlzNmc1TE5Dd0xiNEctSGtseDdqM09rVTZKdFVGQkhfRHlFOEEtd3hYXzhERW5jVGNvZ1BFWGJod3NYb29udmpSc0U1OWF3QWZNalFneWFBM0drOUZEOTE1U0tZMDRXRDlub3dqVUQ5X2lYbmNvcWJHb3ZIWVRUTjJqZE1GaFJIX0hOUFdYRGw4QUFLR21OS0o?oc=5",
-      "published": "2026-08-06T08:00:00.000Z",
-      "titleZh": "曼联的遗留合同正在减缓他们在转会市场的速度"
-    },
-    {
       "id": "David Ornstein:CBMiowFBVV95cUxQeUt5NkgzQ2o4dlg4Tk1weTNubGxzR0M5b3dLU0hpVjE0cVZDUW9DVnowbjVfUmpVOWxpQlJoUFQzVF9qYnFaRVBVMkliWE5DdjkwQWF3cXBKc1NhOVBnTEs1U0RDaG1nVFZuaXdrZGtsSVByMXBRV2daSFY4NUJ0dUNzNXN0eGFjOTlib21aS0h1dHZyWGNvalFURnJTUEpTMDFZ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -8435,18 +8459,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2pvRTNFa1pDSVl2VFBJQ2JlSmktMkw4Z2N2YnJGdWtoN2tKN2FRd1pEal95c044eVMtSms0Qms0NHAwNnFNRDdibGlBZXNURTJuSzNrQngwWmZVNzV5V1Z3eHFxVjE1RGV3S2hkY3N6TURKUXRaWDVTZldnbkZDNHFzdlFDMWNiN1Rtdg?oc=5",
       "published": "2026-08-05T14:15:41.000Z",
       "titleZh": "“曼联显然处于一个棘手的位置”"
-    },
-    {
-      "id": "Fabrizio Romano:CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms ‘here we go’ for Man Utd double transfer with ‘medical authorised’",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw?oc=5",
-      "published": "2026-08-05T09:53:04.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
     },
     {
       "id": "Simon Stone:CBMiZ0FVX3lxTE80bE5PeU1zVjJwdnBndkU1SDBmRWo0dDdoNmF1RmNkdk1fZ1hKcEVnbUltRFl4UURuUEZmSlZ1NkRqc2lkc0xvcjRzUkVMZXhqRHphR0tsd01OUUl5LTZSdnR0OW9QSEE",
@@ -8509,18 +8521,6 @@
       "titleZh": "曼联球星“已经在西班牙”进行“医疗” ，因为有9名球员可以离开"
     },
     {
-      "id": "Samuel Luckhurst:CBMihgFBVV95cUxNRlhsQ3JqbTFQb0VRMGVqdDVXaWRTRlgwQnZDQXVucHhvaHZxem1fS0hUQUg0YlRFem1BeEdkUlBUQkNZV1FmYnVOek5ENm1mMDZncTBrU3FQSjMzQnY5enh3WFFNTF9jR0lQTGl1RWV2TUt0c25CS3BpbEJTY2l2VjVfR1EzQQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Man Utd can have league's best transfer window if they sign midfielder and sell Rashford and forgotten 'cheerleader'",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRlhsQ3JqbTFQb0VRMGVqdDVXaWRTRlgwQnZDQXVucHhvaHZxem1fS0hUQUg0YlRFem1BeEdkUlBUQkNZV1FmYnVOek5ENm1mMDZncTBrU3FQSjMzQnY5enh3WFFNTF9jR0lQTGl1RWV2TUt0c25CS3BpbEJTY2l2VjVfR1EzQQ?oc=5",
-      "published": "2026-08-04T11:54:58.000Z",
-      "titleZh": "曼联可以拥有联盟最好的转会窗口，如果他们签下中场球员，卖掉拉什福德，忘记了“啦啦队长”"
-    },
-    {
       "id": "Chris Wheeler:CBMiygFBVV95cUxOMUU3djdoczFzUHhPcWNUVG1hcVlDbFU5N1dKd3ktYklBcnJjQ1RpMGVnQlpQSjJ3N0M0NENhTjZobHoxUTVRTUh5OEtrcGtpa1BDN2FyWmJHSEExY0xGMXY1ak11TEFrdDJIYmIyb3JVdWNaeGdDbGZ3ZjFpQmxGaTRuT0xQZVRPQTdxb0lsUC1fanM2Wkl3LWxvUGl3TWxuZ3dKaXFoMXN0M0xrVjVteGJnaUxPNmhvbzNINmQtaXBDbUo5dWtnVGhR",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -8545,7 +8545,7 @@
       "titleZh": "在没有赞助商的情况下，曼联在一年后签署了世界上最大的培训工具包协议"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-08T10:48:10.998Z",
+  "journalistsUpdatedAt": "2026-08-08T11:17:43.730Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

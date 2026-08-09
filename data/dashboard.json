@@ -10223,18 +10223,6 @@
   ],
   "journalists": [
     {
-      "id": "Fabrizio Romano:CBMixwFBVV95cUxOV1gwYXYzQW12MDRZbEpKcjBGWTNOUVZLaGxqMmtyd0Y0SnJnYWhhd183dS0wRWVMRTE1R2RvUEx3WE1RTEVablpWb2wtZjRYRFNSUlc4dG1iUkFCUm4xMnVvNlBEWUVaWkNOS3NnWGhQYzQ5SzZjamtjUkFlcDVmeXByNHFRMHoweUpLNjJnX0VBUk9jNmxtVHh2OW93SXVSbVhfRE1uVDdxLUZaX1JJZ2ZHclo5TnU3WUtFZEphSWpjZXlPV0dF",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano confirms Man Utd U-turn on transfer – ‘concrete, strong, likely chances’",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1gwYXYzQW12MDRZbEpKcjBGWTNOUVZLaGxqMmtyd0Y0SnJnYWhhd183dS0wRWVMRTE1R2RvUEx3WE1RTEVablpWb2wtZjRYRFNSUlc4dG1iUkFCUm4xMnVvNlBEWUVaWkNOS3NnWGhQYzQ5SzZjamtjUkFlcDVmeXByNHFRMHoweUpLNjJnX0VBUk9jNmxtVHh2OW93SXVSbVhfRE1uVDdxLUZaX1JJZ2ZHclo5TnU3WUtFZEphSWpjZXlPV0dF?oc=5",
-      "published": "2026-08-09T07:20:55.000Z",
-      "titleZh": "罗马诺确认曼联在转会时转会– “混凝土，强大，可能的机会”"
-    },
-    {
       "id": "Rob Dawson:CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -10335,7 +10323,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Marcus Rashford heads for reunion with manager who froze him out",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
@@ -10431,7 +10419,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Manchester United’s legacy contracts slowing them down in transfer market",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHRsaEtmUWlhZGV3eVJZVmlzNmc1TE5Dd0xiNEctSGtseDdqM09rVTZKdFVGQkhfRHlFOEEtd3hYXzhERW5jVGNvZ1BFWGJod3NYb29udmpSc0U1OWF3QWZNalFneWFBM0drOUZEOTE1U0tZMDRXRDlub3dqVUQ5X2lYbmNvcWJHb3ZIWVRUTjJqZE1GaFJIX0hOUFdYRGw4QUFLR21OS0o?oc=5",
@@ -10479,12 +10467,24 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "malaysia.news.yahoo.com",
+      "source": "Yahoo",
       "tier": 1,
       "title": "'Manchester United are clearly in a tricky spot'",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2pvRTNFa1pDSVl2VFBJQ2JlSmktMkw4Z2N2YnJGdWtoN2tKN2FRd1pEal95c044eVMtSms0Qms0NHAwNnFNRDdibGlBZXNURTJuSzNrQngwWmZVNzV5V1Z3eHFxVjE1RGV3S2hkY3N6TURKUXRaWDVTZldnbkZDNHFzdlFDMWNiN1Rtdg?oc=5",
       "published": "2026-08-05T14:15:41.000Z",
       "titleZh": "“曼联显然处于一个棘手的位置”"
+    },
+    {
+      "id": "Fabrizio Romano:CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Fabrizio Romano confirms ‘here we go’ for Man Utd double transfer with ‘medical authorised’",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDhZVjU0NWFsWVdaUU9BS1MzYUl5QlluQk5idExpd0xMQU1PbzlBaU1xRGU1WW9GQzBza3d6UUhDcmVoaWloRVZtZjk0RFpfSGpzb1luZFQwNmJMZG5XTEtIblRObk8wR2dadmZnWklBcTQ5UmpNSm40RDJQLUJjV1VKbUNRWDZGWTZXVW5Hdw?oc=5",
+      "published": "2026-08-05T09:53:04.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
     },
     {
       "id": "David Ornstein:CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE",
@@ -10511,7 +10511,7 @@
       "titleZh": "马库斯·拉什福德：他会回到曼联吗？他会产生什么影响？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-09T08:42:43.927Z",
+  "journalistsUpdatedAt": "2026-08-09T09:22:17.576Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

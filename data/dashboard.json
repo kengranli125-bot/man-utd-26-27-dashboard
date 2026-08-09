@@ -10247,23 +10247,11 @@
       "titleZh": "曼联对新赛季的高期望"
     },
     {
-      "id": "Rob Dawson:CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "RealGM",
-      "tier": 1,
-      "title": "Marcus Rashford To Return To United For First Time In 18 Months",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn?oc=5",
-      "published": "2026-08-08T23:03:36.000Z",
-      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）将在18个月内首次重返曼联"
-    },
-    {
       "id": "Rob Dawson:CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Marcus Rashford to rejoin Manchester United for preseason camp",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ?oc=5",
@@ -10359,7 +10347,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "readnewcastle.com",
+      "source": "Read Newcastle",
       "tier": 1,
       "title": "Fabrizio Romano confirms Manchester United can sign Lewis Hall only on one condition",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUlFNZ2d2LVR3Qkxpam0zMU1Ja0RHQjdhRTk1eFV6ZkdyOGRzUFNCUkozeXhSam5GR0syNWhoN0RlLW5TTzhZRkh4b2FSSGpucGxrOWJXazdPMU1WVURNRmNtd29wdXZPZlFpTVlXelAxOEdJLUZiTF9ycTlicjlOT2tTYWktMktEa1l2WnlWaDVrNjdMWU1JVWdJR0FxS1I5QWJDMnQ1NkU?oc=5",
@@ -10383,7 +10371,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Rashford's return to Man United brings a lot of questions",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE?oc=5",
@@ -10509,9 +10497,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2pvRTNFa1pDSVl2VFBJQ2JlSmktMkw4Z2N2YnJGdWtoN2tKN2FRd1pEal95c044eVMtSms0Qms0NHAwNnFNRDdibGlBZXNURTJuSzNrQngwWmZVNzV5V1Z3eHFxVjE1RGV3S2hkY3N6TURKUXRaWDVTZldnbkZDNHFzdlFDMWNiN1Rtdg?oc=5",
       "published": "2026-08-05T14:15:41.000Z",
       "titleZh": "“曼联显然处于一个棘手的位置”"
+    },
+    {
+      "id": "David Ornstein:CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Pain in the Arsenal",
+      "tier": 1,
+      "title": "David Ornstein: Arsenal agree fee with Newcastle over Bruno Guimarães signing",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3FWTkNRemt0RWxxMVBwMmVSaEh0S0x4amMwUWo2cUo4Tm5FOGd5cjlxZzg4dnc3SEthejV2MURTTXNJRXZTVEtZM0dhRVRvRjRFa3ZRcDBsRERZSkYwTmREMFAwZmNRRUhPTHBFMXU0S25IMHAwc3dTZWc3NDFwclZ2UjJBZWpQQm85M3phdExycGlacWtqdHZoVEI5NE9kYUk0UWNNMGVhcXNsVno3MDljYUtRMmp0NEE?oc=5",
+      "published": "2026-08-05T08:01:42.000Z",
+      "titleZh": "大卫·奥恩斯坦（ David Ornstein ） ：阿森纳与纽卡斯尔就布鲁诺·吉马良斯（ Bruno Guimarães"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-09T19:28:18.711Z",
+  "journalistsUpdatedAt": "2026-08-09T20:19:14.843Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

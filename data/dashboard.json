@@ -10223,6 +10223,18 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMixwFBVV95cUxONGRLNWF6TEFGclZsa25aaWVMWlY4Ui1VV1prRkxETUx6Q0hkWnRhU3FfSnhWMnBBNG5JVWNnOVRfWnhmSFlTMnl3OWRmN0RwWDUwVlplVjc1b29OcU5PXzhSbFllYU5UWjlld0dQMFZQYnZId1FsWUpnX01Wd3lKbVppSDlZc180UzBQdU5KWWFLUElaWkxEY0NBRFN5Mm5vSm1Sc3ZES3pNUzE1R0JncS1EWHVYRnpIbmhjaDhJcFFnYkkxLVZr",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "Irish Independent",
+      "tier": 1,
+      "title": "Marcus Rashford joins Manchester United squad in Ireland",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGRLNWF6TEFGclZsa25aaWVMWlY4Ui1VV1prRkxETUx6Q0hkWnRhU3FfSnhWMnBBNG5JVWNnOVRfWnhmSFlTMnl3OWRmN0RwWDUwVlplVjc1b29OcU5PXzhSbFllYU5UWjlld0dQMFZQYnZId1FsWUpnX01Wd3lKbVppSDlZc180UzBQdU5KWWFLUElaWkxEY0NBRFN5Mm5vSm1Sc3ZES3pNUzE1R0JncS1EWHVYRnpIbmhjaDhJcFFnYkkxLVZr?oc=5",
+      "published": "2026-08-09T17:57:00.000Z",
+      "titleZh": "马库斯·拉什福德加入爱尔兰曼联队"
+    },
+    {
       "id": "Andy Mitten:CBMipwFBVV95cUxPV3U3cm10d3h6ZjNza3RsU0F0LXQ4SUdYdTNQbC1qYmp1VzZmT3ptTURqTm1PLVhYek5uZG5DZzZwemVYNFFsUk9ILUJyNzIxZGlhdjBsc1dCU3FWeTUwbjJ4VmtYV2FIVDQxYmdCSVRZbDB0Z0dkZ1NxM1dNME42MzBwcE1Tem9lTXQyTzJacmNjMHQzM2ZwTlUwOG5Kai1RU0xkdGJXMA",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -10251,7 +10263,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Marcus Rashford to rejoin Manchester United for preseason camp",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ?oc=5",
@@ -10323,7 +10335,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 1,
       "title": "Middlesbrough confirm permanent deal for Manchester United’s Radek Vitek",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg?oc=5",
@@ -10331,27 +10343,15 @@
       "titleZh": "米德尔斯堡接近与曼联的Radek Vitek达成永久协议"
     },
     {
-      "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Marcus Rashford heads for reunion with manager who froze him out",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
-      "published": "2026-08-08T08:00:00.000Z",
-      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
-    },
-    {
       "id": "Carl Anka:CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "Shopping for Carrick: Who are Man Utd’s best left-back options if Hall is unattainable?",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
-      "published": "2026-08-08T04:12:23.000Z",
+      "published": "2026-08-08T09:10:00.000Z",
       "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
     },
     {
@@ -10371,7 +10371,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Rashford's return to Man United brings a lot of questions",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE?oc=5",
@@ -10395,7 +10395,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "Manchester United’s greatest players: No 6, Denis Law",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUdOY1VycnVsRWI5Z2NaYkxlZm1yQldvbVV3Ykw3ZlBZYmxDSXB3a3dxa2dWVVVmQUU3N2N0c0ZPQ3JvMWFWYkxoM1FFWVhCTXBqeHhtWDF5N1pYbGd4UWVwUHd1TUg1VE1DSkxtdy1jZkpJcDRwX0I0VWtlcHRPUW4yWnc2dXpKSWJIeFAzTHVRZFRRV1dQS1JPSTlEdw?oc=5",
@@ -10511,7 +10511,7 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-09T18:04:56.469Z",
+  "journalistsUpdatedAt": "2026-08-09T18:57:46.838Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

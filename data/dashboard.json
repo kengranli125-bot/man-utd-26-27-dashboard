@@ -10213,18 +10213,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE0yRkgxeFpMSS1HUUNpa0tmMkFKT2FhZWgzaW5tZlh5eEF0Q0NNcXoweDBjTTQ3ZThuT2hmcWFkdDdlLVBXX1VBeXpHbWh2emdQVUFnb1I3dVVMUnFuS3pXY0lGMEVESDg",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Jose Mourinho: How Manchester United missed out on first choice to replace Sir Alex Ferguson",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yRkgxeFpMSS1HUUNpa0tmMkFKT2FhZWgzaW5tZlh5eEF0Q0NNcXoweDBjTTQ3ZThuT2hmcWFkdDdlLVBXX1VBeXpHbWh2emdQVUFnb1I3dVVMUnFuS3pXY0lGMEVESDg?oc=5",
-      "published": "2026-08-10T12:59:39.000Z",
-      "titleZh": "何塞·穆里尼奥：曼联如何错过取代亚历克斯·弗格森爵士的首选"
-    },
-    {
       "id": "Fabrizio Romano:CBMiywFBVV95cUxQZVlXS2t6VVBSem4yN0pJdUNKVmk5aUI4bFo5MllFR3F0Y2VlNGFIdXpHeFFYZ2V0LXdnbC1JWENLaVZyNmtZN2oyM2lScEJRUm1CdlF4VTJsTnBIcnBYelo4RDlZeFFMbjZ6c0RhdFo3WkE2bmdJaldEb1pwTkpENnBpY0QxWGNyQ2hRaG41aFQ3UW5CbU5CVlRZd0JZaTh2WGtoZ0EwMnZ5dE5Bc1V4elk4N09KZ3FSb19PSmNieHJGQVhfN1pLLThuMA",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -10235,6 +10223,18 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVlXS2t6VVBSem4yN0pJdUNKVmk5aUI4bFo5MllFR3F0Y2VlNGFIdXpHeFFYZ2V0LXdnbC1JWENLaVZyNmtZN2oyM2lScEJRUm1CdlF4VTJsTnBIcnBYelo4RDlZeFFMbjZ6c0RhdFo3WkE2bmdJaldEb1pwTkpENnBpY0QxWGNyQ2hRaG41aFQ3UW5CbU5CVlRZd0JZaTh2WGtoZ0EwMnZ5dE5Bc1V4elk4N09KZ3FSb19PSmNieHJGQVhfN1pLLThuMA?oc=5",
       "published": "2026-08-10T11:20:00.000Z",
       "titleZh": "转移谣言，新闻：曼联转向青年追逐莱斯特，布鲁日俱乐部明星"
+    },
+    {
+      "id": "Andy Mitten:CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 5, Roy Keane",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw?oc=5",
+      "published": "2026-08-10T08:46:30.000Z",
+      "titleZh": "曼联最伟大的球员：第5名，罗伊·基恩"
     },
     {
       "id": "Fabrizio Romano:CBMisgFBVV95cUxQUmozSkx6cjVzLWtMZWlMMG5LUUNNSGZDNTZoT1F0TzJUY0NjbnZaeHdrQ2lIaUZXeUlqWGc2RHctRlhOT1lsVUJ2em9yTkFUZ0s0SkgwUV8xZ3otSnF3dGEya2VJemZrTWJjSFRQa3lrb2ZvTFpYS3k4RlNWZWFxQ0VyV2FoeUFmVEhGelhRTTA0OUstVUp3VXdIcnBqYlRUWVFzaE9GT3Q5UDhlbDAyMU5B",
@@ -10283,18 +10283,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wc25WS29BdExiZVRVNGpka2VaSDZKY1RFRjMtdmQtQ3hYcm54TVROWTgwYk4wbU1sNk5HX19ZbVZ3Smd3enZEOTRzWnFFN3JjN09kMVdvRlNLTjMwbDA0LTl4QmZldkU?oc=5",
       "published": "2026-08-08T19:15:24.000Z",
       "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ） ：曼联中场在对阵巴黎圣日耳曼队的比赛中首次亮相，"
-    },
-    {
-      "id": "Laurie Whitwell:CBMimgFBVV95cUxOY2UyN1VWNG9Fb1dlb0RtcWV2dXQzTm5uSWowS3dLcjVYbWZfbkNnVHNIUkNYUjNGbkplWW82QTZWMmlfNXZSWW1sS0pFdHZ3RGdpeHBPaWFhd3BiNWJaVENpS0hxNk0yOFVDdTBvY3Z2dVNyemFLMzhVMWRBNFEwVDlfMERndXpXb2psZ01WbUVYbS0zSU1acXd3",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd plan for third midfield signing now surely clear after Mason Mount injury vs PSG",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2UyN1VWNG9Fb1dlb0RtcWV2dXQzTm5uSWowS3dLcjVYbWZfbkNnVHNIUkNYUjNGbkplWW82QTZWMmlfNXZSWW1sS0pFdHZ3RGdpeHBPaWFhd3BiNWJaVENpS0hxNk0yOFVDdTBvY3Z2dVNyemFLMzhVMWRBNFEwVDlfMERndXpXb2psZ01WbUVYbS0zSU1acXd3?oc=5",
-      "published": "2026-08-08T17:23:59.000Z",
-      "titleZh": "在梅森山对巴黎圣日耳曼联受伤后，曼联第三次中场签约的计划现在肯定已经明确"
     },
     {
       "id": "Samuel Luckhurst:CBMihwFBVV95cUxNVnpVaGpqMk1IMW9MVUJFRXhVTEYwMW92eDdRUkRXSnhVbmpiaHhDTUtTdk5lYXdqd0ttTDNxb0p3TDRiVWMyeEtVSDN1bWV0Qm0xYnFhZElQdWZXa3E2WFFSY3hZYWpSd0poWHB0bHZ3aWZ4WjNXalBrM21zN09SamZPVnltc2s",
@@ -10397,7 +10385,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
+      "source": "readmanutd.com",
       "tier": 1,
       "title": "Romano issues Man Utd striker transfer reality check",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3?oc=5",
@@ -10415,6 +10403,18 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcHFZaXRSQ3hodl96YXhyQXdHRER1YWdGbTF4Y1kzdXVOa1ZHR2Vmc05UM3BELTlCOVIweVRRZDZPWWQxbjVGZWdYbGlJbGdYbERpWkliQkhKRHI4MXphS0tTOUJKbGZ5UW03bDd3cndVYzhTRWllS0IwajJsQ1hJUjdtR0VYOGtLRnJpQmZtWjQtTWhpNG8zd2dGODFXQmF1UmQtX0h3aExibDMzck8zQVVFcFI5RklWX2ZmV0phZDJPVng5QUtIaTJKSmlmcVhMNko3WGgxX3R6N0E2a1h5UXpKYVRQOVdfNVE?oc=5",
       "published": "2026-08-06T13:30:00.000Z",
       "titleZh": "詹姆斯·达克：曼联的遗留合同如何减缓他们在转会市场的步伐"
+    },
+    {
+      "id": "Simon Stone:CBMikAFBVV95cUxPNkdkTmFhSlRlTFpCNlVfSFQ1QkZqbEpvRmtHOENpXzIxdENvQlBQaklvclY2Rnk1OGlzaTlWOU50NU1XYU1fa3NYSG1WNHBsUTY0OUxpbmd2R2tHeklSUEhjZWoxWlNLMmstb0RMYmtTYzFLY2RnM2Qxakw0SUg1VWlIYlVPOEY5SDFyWmJzYUI",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "A midfield conundrum and left-back shortfall",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkdkTmFhSlRlTFpCNlVfSFQ1QkZqbEpvRmtHOENpXzIxdENvQlBQaklvclY2Rnk1OGlzaTlWOU50NU1XYU1fa3NYSG1WNHBsUTY0OUxpbmd2R2tHeklSUEhjZWoxWlNLMmstb0RMYmtTYzFLY2RnM2Qxakw0SUg1VWlIYlVPOEY5SDFyWmJzYUI?oc=5",
+      "published": "2026-08-06T12:16:16.000Z",
+      "titleZh": "中场难题和左后卫缺口"
     },
     {
       "id": "David Ornstein:CBMihgFBVV95cUxQZXY3SDlId25leS1lbWhOUGhqa2JtWWt2eWY4dFZuY3pLTmFFa2ZKdUZuLXdLRzhMc1lhVnh1d0s0OG5sLXpwUkVYY0dzSVR0aC1CcS1YUVV2RS1jeUpTeHdYVXpMc2FzZjlMOGVzR05UVzdtVHc3aEtMUUVyVHBqM1JlLVN1Zw",
@@ -10501,7 +10501,7 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-10T15:46:21.037Z",
+  "journalistsUpdatedAt": "2026-08-10T16:40:08.201Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

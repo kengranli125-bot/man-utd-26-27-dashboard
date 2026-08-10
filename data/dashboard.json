@@ -10217,7 +10217,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVlXS2t6VVBSem4yN0pJdUNKVmk5aUI4bFo5MllFR3F0Y2VlNGFIdXpHeFFYZ2V0LXdnbC1JWENLaVZyNmtZN2oyM2lScEJRUm1CdlF4VTJsTnBIcnBYelo4RDlZeFFMbjZ6c0RhdFo3WkE2bmdJaldEb1pwTkpENnBpY0QxWGNyQ2hRaG41aFQ3UW5CbU5CVlRZd0JZaTh2WGtoZ0EwMnZ5dE5Bc1V4elk4N09KZ3FSb19PSmNieHJGQVhfN1pLLThuMA?oc=5",
@@ -10253,7 +10253,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Marcus Rashford to rejoin Manchester United for preseason camp",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ?oc=5",
@@ -10309,18 +10309,6 @@
       "titleZh": "曼联8月8日实时转会Radek Vitek确认退出， Lewis Hall最新消息"
     },
     {
-      "id": "Carl Anka:CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Shopping for Carrick: Who are Man Utd’s best left-back options if Hall is unattainable? - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
-      "published": "2026-08-08T09:10:34.000Z",
-      "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
-    },
-    {
       "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -10345,6 +10333,18 @@
       "titleZh": "米德尔斯堡接近与曼联的Radek Vitek达成永久协议"
     },
     {
+      "id": "Carl Anka:CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Shopping for Carrick: Who are Man Utd’s best left-back options if Hall is unattainable? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
+      "published": "2026-08-08T04:12:23.000Z",
+      "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
+    },
+    {
       "id": "Andy Mitten:CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -10361,7 +10361,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Rashford's return to Man United brings a lot of questions",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE?oc=5",
@@ -10409,7 +10409,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "tier": 1,
       "title": "A midfield conundrum and left-back shortfall",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkdkTmFhSlRlTFpCNlVfSFQ1QkZqbEpvRmtHOENpXzIxdENvQlBQaklvclY2Rnk1OGlzaTlWOU50NU1XYU1fa3NYSG1WNHBsUTY0OUxpbmd2R2tHeklSUEhjZWoxWlNLMmstb0RMYmtTYzFLY2RnM2Qxakw0SUg1VWlIYlVPOEY5SDFyWmJzYUI?oc=5",
@@ -10421,7 +10421,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "tier": 1,
       "title": "Just in: Ornstein drops huge update on Lewis Hall to Man Utd",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXY3SDlId25leS1lbWhOUGhqa2JtWWt2eWY4dFZuY3pLTmFFa2ZKdUZuLXdLRzhMc1lhVnh1d0s0OG5sLXpwUkVYY0dzSVR0aC1CcS1YUVV2RS1jeUpTeHdYVXpMc2FzZjlMOGVzR05UVzdtVHc3aEtMUUVyVHBqM1JlLVN1Zw?oc=5",
@@ -10433,7 +10433,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "tier": 2,
       "title": "£40m Man Utd man now attracting confirmed Premier League interest just weeks before season-opener",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54bzRVUHY2eGNrUjFYZDZNNHRMV0txRmdpWm9vMVl6aUlPZFZmOVVWejU2SmRVRUNkNFRqTHU1VVV6ZDdYNkRjOXVfdWh5ODBKS05vZWNoLXhySGtjTkViVnVHTXZvNFBVcGx5eDk5c2I4cGxjcUxJ?oc=5",
@@ -10481,7 +10481,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "tier": 1,
       "title": "'Manchester United are clearly in a tricky spot'",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHE5UWtseDloMFowZElrMHpsLVlLZE9iemQ2ZUNTMDRsSFE1dEVjTzdXU1hUMlVNQXVmSUkxMHZpbWtjNHc2U1RHakpBY2hobUdoX1lnQm5yTzJ1djlUTlhyUmdNOWdPTGtvYzdyc3U0ajUtZGhyTkNvYnVXeVJxTU1sR0JwalI5TGNUcU5lcw?oc=5",
@@ -10501,7 +10501,7 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-10T13:54:56.139Z",
+  "journalistsUpdatedAt": "2026-08-10T14:48:24.236Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

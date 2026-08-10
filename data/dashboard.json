@@ -10223,28 +10223,16 @@
   ],
   "journalists": [
     {
-      "id": "Fabrizio Romano:CBMixwFBVV95cUxOV1gwYXYzQW12MDRZbEpKcjBGWTNOUVZLaGxqMmtyd0Y0SnJnYWhhd183dS0wRWVMRTE1R2RvUEx3WE1RTEVablpWb2wtZjRYRFNSUlc4dG1iUkFCUm4xMnVvNlBEWUVaWkNOS3NnWGhQYzQ5SzZjamtjUkFlcDVmeXByNHFRMHoweUpLNjJnX0VBUk9jNmxtVHh2OW93SXVSbVhfRE1uVDdxLUZaX1JJZ2ZHclo5TnU3WUtFZEphSWpjZXlPV0dF",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano confirms Man Utd U-turn on transfer – ‘concrete, strong, likely chances’",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1gwYXYzQW12MDRZbEpKcjBGWTNOUVZLaGxqMmtyd0Y0SnJnYWhhd183dS0wRWVMRTE1R2RvUEx3WE1RTEVablpWb2wtZjRYRFNSUlc4dG1iUkFCUm4xMnVvNlBEWUVaWkNOS3NnWGhQYzQ5SzZjamtjUkFlcDVmeXByNHFRMHoweUpLNjJnX0VBUk9jNmxtVHh2OW93SXVSbVhfRE1uVDdxLUZaX1JJZ2ZHclo5TnU3WUtFZEphSWpjZXlPV0dF?oc=5",
-      "published": "2026-08-09T07:20:55.000Z",
-      "titleZh": "罗马诺确认曼联在转会时转会– “混凝土，强大，可能的机会”"
-    },
-    {
-      "id": "Rob Dawson:CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "RealGM",
-      "tier": 1,
-      "title": "Marcus Rashford To Return To United For First Time In 18 Months",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn?oc=5",
-      "published": "2026-08-08T23:03:36.000Z",
-      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）将在18个月内首次重返曼联"
+      "id": "Samuel Luckhurst:CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Sun",
+      "tier": 2,
+      "title": "Rashford out to rescue Man Utd career as he lands in Dublin with 'new number'",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
+      "published": "2026-08-09T13:15:00.000Z",
+      "titleZh": "拉什福德带着“新号码”登陆都柏林，拯救曼联的职业生涯"
     },
     {
       "id": "Rob Dawson:CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ",
@@ -10307,12 +10295,12 @@
       "titleZh": "曼联球员评级：布莱恩·姆贝乌莫（ Bryan Mbeumo ）的赌注声称是首发位置"
     },
     {
-      "id": "Laurie Whitwell:CBMiakFVX3lxTE9id1l4bHM0bzhWMEJZM0xHR0pHWGk0dWJkT0JBVXNkUTZpUDZNRWNvTDA2RkxsS3BZZmhfQWRRLVBJT1A0eVVHTGhDWmYteC1UMGNub2s2RHBZNksyelEteTlsVzRHSTl1M3c",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
+      "id": "Chris Wheeler:CBMiakFVX3lxTE9id1l4bHM0bzhWMEJZM0xHR0pHWGk0dWJkT0JBVXNkUTZpUDZNRWNvTDA2RkxsS3BZZmhfQWRRLVBJT1A0eVVHTGhDWmYteC1UMGNub2s2RHBZNksyelEteTlsVzRHSTl1M3c",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
       "source": "hitc.com",
-      "tier": 1,
+      "tier": 2,
       "title": "Man Utd transfers LIVE August 8 Radek Vitek exit confirmed and latest on Lewis Hall",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id1l4bHM0bzhWMEJZM0xHR0pHWGk0dWJkT0JBVXNkUTZpUDZNRWNvTDA2RkxsS3BZZmhfQWRRLVBJT1A0eVVHTGhDWmYteC1UMGNub2s2RHBZNksyelEteTlsVzRHSTl1M3c?oc=5",
       "published": "2026-08-08T12:45:00.000Z",
@@ -10367,6 +10355,18 @@
       "titleZh": "法布里奇奥·罗马诺确认曼联只能在一个条件下签下刘易斯·霍尔"
     },
     {
+      "id": "Fabrizio Romano:CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals Man Utd's 'only' way to sign Lewis Hall as INEOS 'green light' loan deal",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn?oc=5",
+      "published": "2026-08-07T07:22:28.000Z",
+      "titleZh": "Romano透露曼联签署Lewis Hall作为INEOS “绿灯”贷款协议的“唯一”方式"
+    },
+    {
       "id": "Rob Dawson:CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -10407,7 +10407,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "readmanutd.com",
+      "source": "Read Man Utd",
       "tier": 1,
       "title": "Romano issues Man Utd striker transfer reality check",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3?oc=5",
@@ -10511,7 +10511,7 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认“医疗授权”的曼联双重转会“我们来了”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-10T09:44:46.182Z",
+  "journalistsUpdatedAt": "2026-08-10T10:47:13.368Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

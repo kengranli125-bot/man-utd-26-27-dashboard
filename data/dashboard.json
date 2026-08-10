@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T08:03:22.375Z",
+  "updatedAt": "2026-08-10T13:42:55.527Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -8426,7 +8426,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-10T08:03:22.373Z"
+        "generatedAt": "2026-08-10T13:42:54.562Z"
       }
     },
     {
@@ -8438,17 +8438,17 @@
       "competitionKey": "club.friendly",
       "competitionGroup": "friendly",
       "home": {
-        "id": "357",
-        "name": "Leeds United",
-        "nameZh": "利兹联",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-        "score": null
-      },
-      "away": {
         "id": "360",
         "name": "Manchester United",
         "nameZh": "曼联",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "357",
+        "name": "Leeds United",
+        "nameZh": "利兹联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
         "score": null
       },
       "lineups": []
@@ -9395,39 +9395,60 @@
   "scorers": [],
   "news": [
     {
-      "title": "Mourinho had deal to succeed Sir Alex at Manchester United",
-      "published": "2026-08-10T01:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49571327/mourinho-had-deal-succeed-sir-alex-manchester-united",
-      "image": "https://a.espncdn.com/photo/2016/0704/r99585_1296x729_16-9.jpg",
-      "titleZh": "穆里尼奥在曼联接替亚历克斯爵士"
+      "title": "Ruben Amorim faces Man United reunion amid rocky AC Milan start",
+      "published": "2026-08-10T12:50:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49574250/ruben-amorim-faces-man-united-reunion-amid-rocky-ac-milan-start",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699881_1296x729_16-9.jpg",
+      "titleZh": "鲁本·阿莫林（ Ruben Amorim ）在摇滚的AC米兰开局中面对曼联重聚"
     },
     {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-09T18:36:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+      "title": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
+      "published": "2026-08-10T11:46:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联转向青年追逐莱斯特，布鲁日俱乐部明星"
+    },
+    {
+      "title": "Premier League 2026-27 kits: Ranking every jersey released",
+      "published": "2026-08-10T11:17:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
+    },
+    {
+      "title": "José Mourinho, as told by his Netflix documentary makers: 'We were being manipulated'",
+      "published": "2026-08-10T08:46:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49567436/jose-mourinho-told-netlfix-documentary-makers-were-being-manipulated",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699497_1296x729_16-9.jpg",
+      "titleZh": "何塞·穆里尼奥（ José Mourinho ） ，正如他的Netflix纪录片制作人所说： “我们被操纵了”"
     },
     {
       "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-08-09T11:23:47Z",
+      "published": "2026-08-10T07:54:23Z",
       "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
     },
     {
       "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-08-09T11:22:53Z",
+      "published": "2026-08-10T07:08:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
     },
     {
-      "title": "Premier League 2026-27 kits: Ranking every jersey released",
-      "published": "2026-08-09T09:12:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-10T07:05:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699062_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "José Mourinho turned down chance to succeed Sir Alex Ferguson",
+      "published": "2026-08-10T07:42:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49571327/jose-mourinho-turned-chance-replace-sir-alex-ferguson-man-united-netflix-documentary-reveals",
+      "image": "https://a.espncdn.com/photo/2026/0809/r1699532_1296x729_16-9.jpg",
+      "titleZh": "何塞·穆里尼奥拒绝了接替亚历克斯·弗格森爵士的机会"
     },
     {
       "title": "How will Man United fans react to Rashford's return?",
@@ -9456,36 +9477,15 @@
       "url": "https://www.espn.com/video/clip/_/id/49562276/new-man-united-transfers-win-premier-league",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Nicol3A_New_Man_United_transfers_wonE28099t_win_them_the_Premier_League__GLOBAL_2026-08/dm_260808_COM_SOC_Analysis_Nicol3A_New_Man_United_transfers_wonE28099t_win_them_the_Premier_League__GLOBAL_2026-08.jpg",
       "titleZh": "尼科尔：新曼联的转会不会让他们赢得英超联赛"
-    },
-    {
-      "title": "Manchester United hold PSG to draw as Bryan Mbeumo shines again",
-      "published": "2026-08-08T20:38:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49561712/manchester-united-hold-psg-draw-bryan-mbeumo-shines-again",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699153_1296x729_16-9.jpg",
-      "titleZh": "随着布莱恩·姆贝乌莫（ Bryan Mbeumo ）再次闪耀，曼联控股巴黎圣日耳曼（ PS"
-    },
-    {
-      "title": "Transfer rumors, news: Arsenal, Man Utd eye Inter's Esposito",
-      "published": "2026-08-08T16:05:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49559004/transfer-rumors-news-arsenal-manchester-united-inter-milan-pio-esposito",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699047_1296x729_16-9.jpg",
-      "titleZh": "转会谣言，新闻：阿森纳，曼联EYE国际米兰的埃斯波西托"
-    },
-    {
-      "title": "Transfer rumors, news: Arsenal, Man United eye Shakhtar's Elias",
-      "published": "2026-08-07T18:55:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551148/transfer-rumors-news-man-city-eye-enzo-fernandez-rodri-replacement",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698871_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：阿森纳，曼联眼Shakhtar的Elias"
     }
   ],
   "transfers": [
     {
-      "title": "Mourinho had deal to succeed Sir Alex at Manchester United",
-      "published": "2026-08-10T01:03:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49571327/mourinho-had-deal-succeed-sir-alex-manchester-united",
-      "image": "https://a.espncdn.com/photo/2016/0704/r99585_1296x729_16-9.jpg",
-      "titleZh": "穆里尼奥在曼联接替亚历克斯爵士",
+      "title": "Transfer rumors, news: Manchester United turn to youth in chase for Leicester, Club Brugge stars",
+      "published": "2026-08-10T11:46:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49572938/transfer-rumors-news-manchester-united-turn-youth-chase-club-brugge-leicester-stars",
+      "image": "https://a.espncdn.com/photo/2026/0810/r1699834_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联转向青年追逐莱斯特，布鲁日俱乐部明星",
       "player": "",
       "status": "推进中",
       "statusType": "progress"
@@ -9496,16 +9496,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49562276/new-man-united-transfers-win-premier-league",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/dm_260808_COM_SOC_Analysis_Nicol3A_New_Man_United_transfers_wonE28099t_win_them_the_Premier_League__GLOBAL_2026-08/dm_260808_COM_SOC_Analysis_Nicol3A_New_Man_United_transfers_wonE28099t_win_them_the_Premier_League__GLOBAL_2026-08.jpg",
       "titleZh": "尼科尔：新曼联的转会不会让他们赢得英超联赛",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Arsenal, Man United eye Shakhtar's Elias",
-      "published": "2026-08-07T18:55:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551148/transfer-rumors-news-man-city-eye-enzo-fernandez-rodri-replacement",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698871_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：阿森纳，曼联眼Shakhtar的Elias",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

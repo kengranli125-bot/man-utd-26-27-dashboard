@@ -10337,7 +10337,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Marcus Rashford heads for reunion with manager who froze him out",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
@@ -10367,18 +10367,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn?oc=5",
       "published": "2026-08-07T14:05:08.000Z",
       "titleZh": "哥德堡发生了什么？"
-    },
-    {
-      "id": "Fabrizio Romano:CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals Man Utd's 'only' way to sign Lewis Hall as INEOS 'green light' loan deal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXhEYTZhUU1mZVM2NTQ1UjJua0JPbExYOWZJMjVtcmg2RDh2UFJKR0pCb1dPc0NUaFU5Q0oyeHlXY0g2ci1henRZNlVZZHNBQzllXzgxLUs4U25SQVVlaWI2NmdndDIzYXI2MTdXRXVoU3BXbzFQQ0JXaGU3cTgzQ3Utd2c1Z2ltSmxoczc0VjdON1FIeloySXQyd0JxRVZXQ0QwNks3aHAzUnljMjhBVGJn?oc=5",
-      "published": "2026-08-07T07:22:28.000Z",
-      "titleZh": "Romano透露曼联签署Lewis Hall作为INEOS “绿灯”贷款协议的“唯一”方式"
     },
     {
       "id": "Rob Dawson:CBMirgFBVV95cUxPc3NreGNNeTkxU2VEdjRyaG9ycVUyVVg2alk1cUNYcmJJaktka3NVeVFzaUJJVG1RclRIeFJXZUlJQTZuT2VxY2ZjQUZjbC1GQzRrTkZqQmFfczhoNDF0N0NNaC1tNHFTbFRIMTBLY3BudEFkRnpsU3FvRDJsanFnZ1g4R3VBbUVIdTV3UGstUURSemo1cGI4bUVRM016MzR1LW8yQXhjZ0RIS3NUcEE",
@@ -10469,7 +10457,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Manchester United’s legacy contracts slowing them down in transfer market",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHRsaEtmUWlhZGV3eVJZVmlzNmc1TE5Dd0xiNEctSGtseDdqM09rVTZKdFVGQkhfRHlFOEEtd3hYXzhERW5jVGNvZ1BFWGJod3NYb29udmpSc0U1OWF3QWZNalFneWFBM0drOUZEOTE1U0tZMDRXRDlub3dqVUQ5X2lYbmNvcWJHb3ZIWVRUTjJqZE1GaFJIX0hOUFdYRGw4QUFLR21OS0o?oc=5",
@@ -10499,9 +10487,21 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbG5qV1ZEYi1wNEhReEJPdmdfZ1B1QW1UdHhIOVpCdzBXUll0NFZORmdzMDJZZUI2d3pWenlqN3oyYlVXUVpHaVFZWVZpNnZNdE4yN2xwSFU2dnBsZ0s1MmlLcklhT3JVdzBuQndLZkNxSkk3amJSUXBQVTJUNXY1V215UjlnMHZJQVNoNVNpOTBkc3VobnVpQjlqM2tGdEctY0FEc1lHYlY4R1E1bGhVVDFPM0s4Qzh5amNNZXd3?oc=5",
       "published": "2026-08-05T18:28:13.000Z",
       "titleZh": "曼联被告知提供6000万英镑签约尤文图斯球星；奥恩斯坦确认“两次”优先签约"
+    },
+    {
+      "id": "Simon Stone:CBMijwFBVV95cUxQeHE5UWtseDloMFowZElrMHpsLVlLZE9iemQ2ZUNTMDRsSFE1dEVjTzdXU1hUMlVNQXVmSUkxMHZpbWtjNHc2U1RHakpBY2hobUdoX1lnQm5yTzJ1djlUTlhyUmdNOWdPTGtvYzdyc3U0ajUtZGhyTkNvYnVXeVJxTU1sR0JwalI5TGNUcU5lcw",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "'Manchester United are clearly in a tricky spot'",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHE5UWtseDloMFowZElrMHpsLVlLZE9iemQ2ZUNTMDRsSFE1dEVjTzdXU1hUMlVNQXVmSUkxMHZpbWtjNHc2U1RHakpBY2hobUdoX1lnQm5yTzJ1djlUTlhyUmdNOWdPTGtvYzdyc3U0ajUtZGhyTkNvYnVXeVJxTU1sR0JwalI5TGNUcU5lcw?oc=5",
+      "published": "2026-08-05T14:15:41.000Z",
+      "titleZh": "“曼联显然处于一个棘手的位置”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-10T20:20:06.743Z",
+  "journalistsUpdatedAt": "2026-08-10T21:07:42.976Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

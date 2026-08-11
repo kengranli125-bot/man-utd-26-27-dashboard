@@ -10203,6 +10203,18 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMiqgFBVV95cUxNQjlHdnR1MXlYVmU0ZmMwTldSU0dkdTVNMHBGMHRrUFcxbXcydGFJSkxjQlFmMXZFZmp3X2xIWlpmeGhCc0NRTjRyTVBzcTlfMVU4bFB5RkNRM1hEaFQ5OXJOb3ozMWlJLUR2ZEx1UGx0WUpucWt4Q1U0MXhHeFU0TnkxMUtFQkhVVXluNVFfNnhodE0zbkZfUEhEMUlEM0lPUDZfaXYxcEpzUQ",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Man Utd want Lewis Hall despite being offered Lewis-Skelly with defender keen",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjlHdnR1MXlYVmU0ZmMwTldSU0dkdTVNMHBGMHRrUFcxbXcydGFJSkxjQlFmMXZFZmp3X2xIWlpmeGhCc0NRTjRyTVBzcTlfMVU4bFB5RkNRM1hEaFQ5OXJOb3ozMWlJLUR2ZEx1UGx0WUpucWt4Q1U0MXhHeFU0TnkxMUtFQkhVVXluNVFfNnhodE0zbkZfUEhEMUlEM0lPUDZfaXYxcEpzUQ?oc=5",
+      "published": "2026-08-11T14:08:54.000Z",
+      "titleZh": "曼联想要刘易斯·霍尔，尽管刘易斯-斯凯利得到了后卫的热情"
+    },
+    {
       "id": "Andy Mitten:CBMiygJBVV95cUxONEk3NjRTWkxZLWxaTFVMNWplS3NxVVVuOVlhN05nOXEtSFdXYlo3c21ic3V2TUhZWU5xd1lIeWZ6dVhtaEh5aVI2eXRSM0xxNkpyb2JnUWJfMXdDaWVMcVlKYXRscjE5V0hKM1NQQ1U3NnFwM3dPUXFEeVE2TlpydndqT1M1Y01LWG0zWm5NazdhZWJ3U09sNmRfLUhHeENPVWo3NHpLc2lJaG93RmtFc3V0cWtibjFqLUlMYS1OTUkwaDRiRzF3WG15aFptTXhldmpBZkRyVE1xUjQxVmlQVHYyMWRGWFF4OXdWV2N4RkpMZWh6bUVvX2JtUmdFN0l4TTQ3SmpvalFvVTlPbkZwV2c4SGNWSTBsUWcxQ1I1eWl2b3lSUk8wV0dBNWhwYVVlWUY1UGozWmtmRzRPTlNtR2tjcGhlWnJ2TGc",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -10227,23 +10239,35 @@
       "titleZh": "Romano透露潜在的下一个签约“提供”给曼联;加入霍尔的新判决"
     },
     {
-      "id": "James Ducker:CBMiW0FVX3lxTE1ObGVlOUpIUGFTa1E2VHV2dFpzQUJhSXBmdFN5RXZULUF3dVNVOHRyR3d6T21sZExDOFNoOWtsNEFTUGhkcVI2M1VQNU0xcmlUcXM5Z2NrQ1BzNWM",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Mshale",
+      "id": "Laurie Whitwell:CBMisgFBVV95cUxQVWNTT2pPY2R0ZTZUQXd0WTVXbXpXOXI0QzVIRTdTaWZTbmlfeXNGeDFBbkFqZVlxVHZpY3A1TC01LVRBbjFKODd4Z0RjUlhNRXE4S1YxZXdyX0FaUDMxWmVPY3hLN3U1d3ZqVHl6c0xWM2RPbDZXSVQ3dXUwV2J5Nkh1WXZOZ3RJZHlIWjNSRjQ2QmxhN3JDeHhqWmI4bmxrOHQzckJ1ZGoxM0l5V29Vdm5R0gG3AUFVX3lxTFA5X3NiSXRNV0VHNi1xak0wSnVKVXhPYTZDRWV1dnFoeDJqN1FJWXp1cWxvWGpBMjdlVzYtOHRPNm9URzdmZTJHZDBaWGNUVWZNQ2tlZm1lNkFYc3ZqWkRBd0RpOGhlYjlKMWo2TDN3SHhSOC01NlpGSW9wUzdmVnF5eU5LVTk1T1cwZWM0MHA3Z18xMTB5QTZIRjFFQWpYY0JMOThmVnY4MGZDUW9VWUk0TlFNNzhncw",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Tribuna.com",
       "tier": 1,
-      "title": "TRANSFER NEWS: Trafford — Manchester City To Leeds United, Medical Completed 15 Maggio (41bTKM48QB)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ObGVlOUpIUGFTa1E2VHV2dFpzQUJhSXBmdFN5RXZULUF3dVNVOHRyR3d6T21sZExDOFNoOWtsNEFTUGhkcVI2M1VQNU0xcmlUcXM5Z2NrQ1BzNWM?oc=5",
-      "published": "2026-08-10T23:08:27.000Z",
-      "titleZh": "转会新闻：特拉福德—曼城至利兹联，医疗完成15 Maggio (41bTKM48QB)"
+      "title": "Manchester United identify Jorge Salinas as left-back option - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWNTT2pPY2R0ZTZUQXd0WTVXbXpXOXI0QzVIRTdTaWZTbmlfeXNGeDFBbkFqZVlxVHZpY3A1TC01LVRBbjFKODd4Z0RjUlhNRXE4S1YxZXdyX0FaUDMxWmVPY3hLN3U1d3ZqVHl6c0xWM2RPbDZXSVQ3dXUwV2J5Nkh1WXZOZ3RJZHlIWjNSRjQ2QmxhN3JDeHhqWmI4bmxrOHQzckJ1ZGoxM0l5V29Vdm5R0gG3AUFVX3lxTFA5X3NiSXRNV0VHNi1xak0wSnVKVXhPYTZDRWV1dnFoeDJqN1FJWXp1cWxvWGpBMjdlVzYtOHRPNm9URzdmZTJHZDBaWGNUVWZNQ2tlZm1lNkFYc3ZqWkRBd0RpOGhlYjlKMWo2TDN3SHhSOC01NlpGSW9wUzdmVnF5eU5LVTk1T1cwZWM0MHA3Z18xMTB5QTZIRjFFQWpYY0JMOThmVnY4MGZDUW9VWUk0TlFNNzhncw?oc=5",
+      "published": "2026-08-10T21:00:54.000Z",
+      "titleZh": "曼联将豪尔赫·萨利纳斯确定为左后卫-体育"
+    },
+    {
+      "id": "Laurie Whitwell:CBMioAFBVV95cUxNTW5QTkFGUzhDNDRrSk9VNmtZUUQyTzdaOFhlNGNrUk94R2Rwb2NqbGFKSkxUVi1ENkhiVFQxSWtUdnI2cnE4NW5EOVEyUmxoZHN4MWVkdW8tWVpWbEVqcmw4aHNBRWE5V3VXR05xZGtaQjZZVGFGR280YTAySnFaQnZHNXNILXhZMnc1dmpjcXdsYmVEemtnUUtBV2FreVpt",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Dailysports",
+      "tier": 1,
+      "title": "Only 16 million! Manchester United finds a bargain alternative to Hall",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTW5QTkFGUzhDNDRrSk9VNmtZUUQyTzdaOFhlNGNrUk94R2Rwb2NqbGFKSkxUVi1ENkhiVFQxSWtUdnI2cnE4NW5EOVEyUmxoZHN4MWVkdW8tWVpWbEVqcmw4aHNBRWE5V3VXR05xZGtaQjZZVGFGR280YTAySnFaQnZHNXNILXhZMnc1dmpjcXdsYmVEemtnUUtBV2FreVpt?oc=5",
+      "published": "2026-08-10T12:56:06.000Z",
+      "titleZh": "只有1600万！曼联找到了Hall的替代品"
     },
     {
       "id": "Andy Mitten:CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Manchester United’s greatest players: No 5, Roy Keane",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw?oc=5",
@@ -10303,7 +10327,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Youri Tielemans: Man Utd midfielder impresses on debut against PSG",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wc25WS29BdExiZVRVNGpka2VaSDZKY1RFRjMtdmQtQ3hYcm54TVROWTgwYk4wbU1sNk5HX19ZbVZ3Smd3enZEOTRzWnFFN3JjN09kMVdvRlNLTjMwbDA0LTl4QmZldkU?oc=5",
@@ -10323,18 +10347,6 @@
       "titleZh": "曼联老板迈克尔·卡里克（ Michael Carrick ）向梅森山（ Mason Mount ）提供最新消息，并在马库斯·拉什福德（ Mar"
     },
     {
-      "id": "Laurie Whitwell:CBMimgFBVV95cUxOY2UyN1VWNG9Fb1dlb0RtcWV2dXQzTm5uSWowS3dLcjVYbWZfbkNnVHNIUkNYUjNGbkplWW82QTZWMmlfNXZSWW1sS0pFdHZ3RGdpeHBPaWFhd3BiNWJaVENpS0hxNk0yOFVDdTBvY3Z2dVNyemFLMzhVMWRBNFEwVDlfMERndXpXb2psZ01WbUVYbS0zSU1acXd3",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd plan for third midfield signing now surely clear after Mason Mount injury vs PSG",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2UyN1VWNG9Fb1dlb0RtcWV2dXQzTm5uSWowS3dLcjVYbWZfbkNnVHNIUkNYUjNGbkplWW82QTZWMmlfNXZSWW1sS0pFdHZ3RGdpeHBPaWFhd3BiNWJaVENpS0hxNk0yOFVDdTBvY3Z2dVNyemFLMzhVMWRBNFEwVDlfMERndXpXb2psZ01WbUVYbS0zSU1acXd3?oc=5",
-      "published": "2026-08-08T17:23:59.000Z",
-      "titleZh": "在梅森山对巴黎圣日耳曼联受伤后，曼联第三次中场签约的计划现在肯定已经明确"
-    },
-    {
       "id": "Samuel Luckhurst:CBMiiwFBVV95cUxQNVQ1bXYxbk5iWlRMM1hTUG9zb3BnZWlKZmp1RFJDcGVQZnREWjVIT1c5LU9SQUZUdXh2c2x2bFpqZ2xic2xpVU9VTHI0bUVRX1ZfM0R6VFpEM3NBTVNCLS05c0gxa3g4S2huMTA0NGdfeDZKMjhULUdtTDk2cjFwNTdWMHZyeEE1SkxN",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -10347,11 +10359,23 @@
       "titleZh": "曼联球员评级：布莱恩·姆贝乌莫（ Bryan Mbeumo ）的赌注声称是首发位置"
     },
     {
+      "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "telegraph.co.uk",
+      "tier": 1,
+      "title": "Marcus Rashford heads for reunion with manager who froze him out",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
+      "published": "2026-08-08T08:00:00.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
+    },
+    {
       "id": "Laurie Whitwell:CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Middlesbrough confirm permanent deal for Manchester United’s Radek Vitek",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg?oc=5",
@@ -10363,24 +10387,12 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Shopping for Carrick: Who are Man Utd’s best left-back options if Hall is unattainable? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
       "published": "2026-08-08T04:12:23.000Z",
       "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMifEFVX3lxTFBZOHRXYnNKd2xEdHpRQ01FS2NleV9pbGpUSHZ2a2xXbDFSaEc1ekVrQXZ4SF96elF2dkdCRTY2bktIYUpTS19pbEdtbDhNNFJLcEFHZEMxVEFPamdpc09yMmFUNnliYXJDTjFyZExqa1NWeDFhZ1Q5X0cySlY",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Marcus Rashford set for Man Utd reunion for the first time in 18 months as transfer options run out",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZOHRXYnNKd2xEdHpRQ01FS2NleV9pbGpUSHZ2a2xXbDFSaEc1ekVrQXZ4SF96elF2dkdCRTY2bktIYUpTS19pbEdtbDhNNFJLcEFHZEMxVEFPamdpc09yMmFUNnliYXJDTjFyZExqa1NWeDFhZ1Q5X0cySlY?oc=5",
-      "published": "2026-08-07T08:57:25.000Z",
-      "titleZh": "马库斯·拉什福德（ Marcus Rashford ） 18个月来首次参加曼联重聚，因为转会选项已经用完"
     },
     {
       "id": "Fabrizio Romano:CBMiqAFBVV95cUxOUlFNZ2d2LVR3Qkxpam0zMU1Ja0RHQjdhRTk1eFV6ZkdyOGRzUFNCUkozeXhSam5GR0syNWhoN0RlLW5TTzhZRkh4b2FSSGpucGxrOWJXazdPMU1WVURNRmNtd29wdXZPZlFpTVlXelAxOEdJLUZiTF9ycTlicjlOT2tTYWktMktEa1l2WnlWaDVrNjdMWU1JVWdJR0FxS1I5QWJDMnQ1NkU",
@@ -10407,18 +10419,6 @@
       "titleZh": "拉什福德重返曼联带来了很多问题"
     },
     {
-      "id": "Laurie Whitwell:CBMikAFBVV95cUxNVGc4ZXNva2RZME9FSGV4Vl9GRzhaUDZuS0I5Y2Q0VllyXzBkNW9xM1Zpek9zdWR5elhwTUQyeHJTVXRTNENKdmtNNlpZcHhnSVhWQ0JHOTFnYTVJaHpTbHRSdUhqTUc5cmJkREJKNExMOEZ1OUpTeEk4cTlRTFJLR0p5OVZVdUNadDIxMEo1X2w",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
-      "tier": 1,
-      "title": "Paul Scholes, David Beckham and a Salford reset: New manager, new crest and new orange kit - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGc4ZXNva2RZME9FSGV4Vl9GRzhaUDZuS0I5Y2Q0VllyXzBkNW9xM1Zpek9zdWR5elhwTUQyeHJTVXRTNENKdmtNNlpZcHhnSVhWQ0JHOTFnYTVJaHpTbHRSdUhqTUc5cmJkREJKNExMOEZ1OUpTeEk4cTlRTFJLR0p5OVZVdUNadDIxMEo1X2w?oc=5",
-      "published": "2026-08-07T07:00:00.000Z",
-      "titleZh": "保罗·斯科尔斯（ Paul Scholes ）、大卫·贝克汉姆（ David Beckham ）和索尔福德（ Salford ）重置：新经理、新徽章和新橙色套"
-    },
-    {
       "id": "Andy Mitten:CBMiggFBVV95cUxOSmZvakMyWlV5eER2RDB6ay1ybVd5WkttNXNieUN5Yl9wM2RCdUhqZXNxZ0JBdldSYjVMOTYyMHBKT2xvYS05UkdFRWw3TlM3SHlSSXVLdXFqS3JuNzgxcGVILXJWUmhzTEpieVd2cHdlS3Yyb0NCb1Zmb0NOLVA2NnNn",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -10435,7 +10435,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
+      "source": "readmanutd.com",
       "tier": 1,
       "title": "Romano issues Man Utd striker transfer reality check",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1NRR0Z0OUhfdk41NFVZc1Q5cjBEQ0xkM3g0ZUtFLVJjekl2RHJGejEtYlMwOHNrWG9NLTZrVDFVbnZLWXpJdVR1ZDhGMTFmTkEwUjQ0eWR3YWlKbW9PaDVJR3ZRMzNId1NBVU9kUVlUVW5yVDJYaXNXZUZjREhyNGVuNER6b1NRVGNpNUdNdlNLejFMYVh3?oc=5",
@@ -10491,7 +10491,7 @@
       "titleZh": "在Ornstein确认“明确”利益后，曼联为英超球星预留了6000万美元£"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-11T13:37:36.391Z",
+  "journalistsUpdatedAt": "2026-08-11T14:40:59.910Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

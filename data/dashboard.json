@@ -10203,6 +10203,18 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "London Evening Standard",
+      "tier": 1,
+      "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
+      "published": "2026-08-12T16:26:17.000Z",
+      "titleZh": "曼联转会决定后，皇家马德里确认Tchouameni医疗"
+    },
+    {
       "id": "Simon Stone:CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -10213,18 +10225,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc?oc=5",
       "published": "2026-08-12T14:07:22.000Z",
       "titleZh": "“Carrick的结构与我习惯的结构不同” - Tielemans"
-    },
-    {
-      "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "London Evening Standard",
-      "tier": 1,
-      "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
-      "published": "2026-08-12T13:25:23.000Z",
-      "titleZh": "曼联转会决定后，皇家马德里确认Tchouameni医疗"
     },
     {
       "id": "Carl Anka:CBMilAFBVV95cUxQdzl5cnJXdnZERXdqWEZjZUQ0N2ZsaTU3REJGWVRHUDEzanlKeU1vRjg1d01pQnVhdDRDS0NXR3NJSUViSWVpQWxwMHVFYVlZMVN5RzhpczRpS1VmNTFkWFNYblNQVzNoQzBReWpCN3F2cWFBcDV2NnNTT3gxT1VlOFpZQ3lQNFY0UmJ0NEprQWM5TVNY",
@@ -10243,7 +10243,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Manchester United: Youri Tielemans on his dream move, injuries and playing with Marcus Rashford",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU?oc=5",
@@ -10303,7 +10303,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Are Red Devils done in the transfer window?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qNkwzVktEckJRb2Fqc2kwVHcwME9QT2ZUcjdvNm5CRHBBRWg2RlFGVDg3ZzNXZkRJc3BZcXB2RU5uc0prZE9veUhjdGg4VWlNYnlIZlFpaWQxQy1MUllwZExTSFRVcjQ?oc=5",
@@ -10379,7 +10379,7 @@
       "tier": 2,
       "title": "Manchester United’s greatest players: No 5, Roy Keane",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw?oc=5",
-      "published": "2026-08-10T11:53:50.000Z",
+      "published": "2026-08-10T08:46:30.000Z",
       "titleZh": "曼联最伟大的球员：第5名，罗伊·基恩"
     },
     {
@@ -10405,18 +10405,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
       "published": "2026-08-09T13:15:00.000Z",
       "titleZh": "拉什福德带着“新号码”登陆都柏林，拯救曼联的职业生涯"
-    },
-    {
-      "id": "James Ducker:CBMiyAFBVV95cUxPMWlrN1ZIaWNpUEpDMmdiWkt6a1I1VE5EMTFZaEltMFh3NEZESXM2a1I4Xy1iOFJTQ3JDM1c1MlpEYmdWa2ZwVTNvRFB1ZEZ3UW8tc2ZIZVFtSjZMQUhFRXM0MUZwLUEtWWFReVFCdjhPLTRTWVd1NjNNMzNTYW82RDFJUE1IRERMendXLUdKU1F0ajdwd0ZJQlllaktSNEZyRC1pWVJ5Skg5SGlRRTc1b1JnQ2xYN04zVW1XRnJqVWNmRG4xdGVqLQ",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "Michael Carrick’s shock post-match declaration hours ago changes everything for Marcus Rashford",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWlrN1ZIaWNpUEpDMmdiWkt6a1I1VE5EMTFZaEltMFh3NEZESXM2a1I4Xy1iOFJTQ3JDM1c1MlpEYmdWa2ZwVTNvRFB1ZEZ3UW8tc2ZIZVFtSjZMQUhFRXM0MUZwLUEtWWFReVFCdjhPLTRTWVd1NjNNMzNTYW82RDFJUE1IRERMendXLUdKU1F0ajdwd0ZJQlllaktSNEZyRC1pWVJ5Skg5SGlRRTc1b1JnQ2xYN04zVW1XRnJqVWNmRG4xdGVqLQ?oc=5",
-      "published": "2026-08-08T22:04:27.000Z",
-      "titleZh": "几小时前迈克尔·卡里克在赛后发表的震惊声明改变了马库斯·拉什福德的一切"
     },
     {
       "id": "Rob Dawson:CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ",
@@ -10489,9 +10477,21 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
       "published": "2026-08-08T08:00:00.000Z",
       "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
+    },
+    {
+      "id": "Laurie Whitwell:CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Middlesbrough confirm permanent deal for Manchester United’s Radek Vitek",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg?oc=5",
+      "published": "2026-08-08T07:00:00.000Z",
+      "titleZh": "Middlesbrough确认与曼联的Radek Vitek达成永久协议"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-12T15:46:51.246Z",
+  "journalistsUpdatedAt": "2026-08-12T16:43:28.001Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

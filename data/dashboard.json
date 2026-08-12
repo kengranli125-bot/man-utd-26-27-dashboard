@@ -10192,6 +10192,18 @@
   ],
   "journalists": [
     {
+      "id": "Carl Anka:CBMilAFBVV95cUxQdzl5cnJXdnZERXdqWEZjZUQ0N2ZsaTU3REJGWVRHUDEzanlKeU1vRjg1d01pQnVhdDRDS0NXR3NJSUViSWVpQWxwMHVFYVlZMVN5RzhpczRpS1VmNTFkWFNYblNQVzNoQzBReWpCN3F2cWFBcDV2NnNTT3gxT1VlOFpZQ3lQNFY0UmJ0NEprQWM5TVNY",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Youri Tielemans on helping Man United back to the ‘top’, ‘amazing’ Rashford and ‘smelling football’",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzl5cnJXdnZERXdqWEZjZUQ0N2ZsaTU3REJGWVRHUDEzanlKeU1vRjg1d01pQnVhdDRDS0NXR3NJSUViSWVpQWxwMHVFYVlZMVN5RzhpczRpS1VmNTFkWFNYblNQVzNoQzBReWpCN3F2cWFBcDV2NnNTT3gxT1VlOFpZQ3lQNFY0UmJ0NEprQWM5TVNY?oc=5",
+      "published": "2026-08-12T11:01:39.000Z",
+      "titleZh": "Youri Tielemans帮助曼联重回“巅峰”、“令人惊叹”的拉什福德和“嗅觉足球”"
+    },
+    {
       "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -10240,11 +10252,23 @@
       "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
     },
     {
+      "id": "Carl Anka:CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Why Man UTD REJECTED Baleba For Mateus Fernandes Sheridan Gorman (f2Lccar0n3)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc?oc=5",
+      "published": "2026-08-11T16:23:34.000Z",
+      "titleZh": "为什么曼联拒绝Baleba For Mateus Fernandes Sheridan Gorman （ f2Lccar0n3 ）"
+    },
+    {
       "id": "Samuel Luckhurst:CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd want Lewis Hall despite being offered Lewis-Skelly with defender keen",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c?oc=5",
@@ -10364,7 +10388,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Rashford out to rescue Man Utd career as he lands in Dublin with 'new number'",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
@@ -10408,6 +10432,18 @@
       "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ） ：曼联中场在对阵巴黎圣日耳曼队的比赛中首次亮相，"
     },
     {
+      "id": "Samuel Luckhurst:CBMimgFBVV95cUxQMUhGelBPR1N5WF9hQlpVXzdueDdYSnZJNXNVbzVwZENTN1AwcVlfSGt5LUtVMWdKQnBkcHpWaFZDelB3d2l6UjQtdm1TOUUxUWE2ajlFazIzMmNGQTBkZGlNekhtQWt4NU53SzZiX1JVZlB5Z1dJMjhvUjZUUXBXTkxNNGtDdHNZeVRyZi1hVDRabnlMMm5yeGVR",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Manchester United boss Michael Carrick gives Mason Mount update and breaks silence on Marcus Rashford return",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUhGelBPR1N5WF9hQlpVXzdueDdYSnZJNXNVbzVwZENTN1AwcVlfSGt5LUtVMWdKQnBkcHpWaFZDelB3d2l6UjQtdm1TOUUxUWE2ajlFazIzMmNGQTBkZGlNekhtQWt4NU53SzZiX1JVZlB5Z1dJMjhvUjZUUXBXTkxNNGtDdHNZeVRyZi1hVDRabnlMMm5yeGVR?oc=5",
+      "published": "2026-08-08T18:37:16.000Z",
+      "titleZh": "曼联老板迈克尔·卡里克（ Michael Carrick ）向梅森山（ Mason Mount ）提供最新消息，并在马库斯·拉什福德（ Mar"
+    },
+    {
       "id": "Laurie Whitwell:CBMimgFBVV95cUxOY2UyN1VWNG9Fb1dlb0RtcWV2dXQzTm5uSWowS3dLcjVYbWZfbkNnVHNIUkNYUjNGbkplWW82QTZWMmlfNXZSWW1sS0pFdHZ3RGdpeHBPaWFhd3BiNWJaVENpS0hxNk0yOFVDdTBvY3Z2dVNyemFLMzhVMWRBNFEwVDlfMERndXpXb2psZ01WbUVYbS0zSU1acXd3",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -10424,7 +10460,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd player ratings: Bryan Mbeumo stakes claim to starting spot up front",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVQ1bXYxbk5iWlRMM1hTUG9zb3BnZWlKZmp1RFJDcGVQZnREWjVIT1c5LU9SQUZUdXh2c2x2bFpqZ2xic2xpVU9VTHI0bUVRX1ZfM0R6VFpEM3NBTVNCLS05c0gxa3g4S2huMTA0NGdfeDZKMjhULUdtTDk2cjFwNTdWMHZyeEE1SkxN?oc=5",
@@ -10442,45 +10478,9 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
       "published": "2026-08-08T09:10:34.000Z",
       "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
-    },
-    {
-      "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Marcus Rashford heads for reunion with manager who froze him out",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
-      "published": "2026-08-08T08:00:00.000Z",
-      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
-    },
-    {
-      "id": "Laurie Whitwell:CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Middlesbrough confirm permanent deal for Manchester United’s Radek Vitek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjVybzJnT1lnWmFnaWxwUTN5WUQtTHBwZURrU0hTOUJlLXB4OWxqOFUzSjhxR0F6V3JnTFRjTGpwdW5sUld4UmNEVVc1a05rMlR0cHhtUzYtTjdxWVJXSUJLcmkwbm9xZWZKNFBjVkZEeUZpbmNUSGNhNHJQV0tqRFppNUhkY3V3SWwzRVdMWjRKRUs3RjdJY05fazJzSXlaM0dKY3V6Zzg?oc=5",
-      "published": "2026-08-08T07:00:00.000Z",
-      "titleZh": "米德尔斯堡接近与曼联的Radek Vitek达成永久协议"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMikAFBVV95cUxOTTVoVGdnclZRSUxKTWdMOUxDUDNmNjRGdHFHVFJqSnNkMjg5Ylh5VzdTT2JCWnJGYkREcGJTMWpoQkFyYWtxb0QyLUxXYWUxcDc0WFRxQkY2aTA4bndZTWdTN2Y5MlFyQjVVZW44OTk0VGgzME51d0FWbXZiX0R0NTlfLXViVUV2WUstUlF4Y1E",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "centredevils.co.uk",
-      "tier": 2,
-      "title": "Manchester United make decision on Jim Thwaites future",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTVoVGdnclZRSUxKTWdMOUxDUDNmNjRGdHFHVFJqSnNkMjg5Ylh5VzdTT2JCWnJGYkREcGJTMWpoQkFyYWtxb0QyLUxXYWUxcDc0WFRxQkY2aTA4bndZTWdTN2Y5MlFyQjVVZW44OTk0VGgzME51d0FWbXZiX0R0NTlfLXViVUV2WUstUlF4Y1E?oc=5",
-      "published": "2026-08-07T13:56:05.000Z",
-      "titleZh": "曼联决定Jim Thwaites的未来"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-12T10:49:38.643Z",
+  "journalistsUpdatedAt": "2026-08-12T11:36:49.333Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

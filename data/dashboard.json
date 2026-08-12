@@ -10203,18 +10203,6 @@
   ],
   "journalists": [
     {
-      "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "London Evening Standard",
-      "tier": 1,
-      "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
-      "published": "2026-08-12T16:26:17.000Z",
-      "titleZh": "曼联转会决定后，皇家马德里确认Tchouameni医疗"
-    },
-    {
       "id": "Simon Stone:CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -10225,6 +10213,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc?oc=5",
       "published": "2026-08-12T14:07:22.000Z",
       "titleZh": "“Carrick的结构与我习惯的结构不同” - Tielemans"
+    },
+    {
+      "id": "Carl Anka:CBMinwFBVV95cUxPOWlhdGpxQnIzc3phUllIR0FRVUprbWhncl9VTlFNSzdYYmVYTHlPTnZsSF9VSGhrTkJTdVpGandUbjBaazJhbWlmWXBTWG1BNWtWTk0wZkIzZjdTcFZ6elZ5OFowQjl4cUtEY202QjdUSjVpdzlDZEZ3VjBReW9uYVh2dEEycTU2TlFxRGdad2U3V0dmVzRmdTB1VEVwOGc",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Belgium players ‘surprised’ by Folarin Balogun World Cup ban decision – Youri Tielemans - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWlhdGpxQnIzc3phUllIR0FRVUprbWhncl9VTlFNSzdYYmVYTHlPTnZsSF9VSGhrTkJTdVpGandUbjBaazJhbWlmWXBTWG1BNWtWTk0wZkIzZjdTcFZ6elZ5OFowQjl4cUtEY202QjdUSjVpdzlDZEZ3VjBReW9uYVh2dEEycTU2TlFxRGdad2U3V0dmVzRmdTB1VEVwOGc?oc=5",
+      "published": "2026-08-12T11:16:15.000Z",
+      "titleZh": "比利时球员对Folarin Balogun世界杯禁赛决定感到“惊讶” – Youri Tielemans - The Athletic"
     },
     {
       "id": "Carl Anka:CBMilAFBVV95cUxQdzl5cnJXdnZERXdqWEZjZUQ0N2ZsaTU3REJGWVRHUDEzanlKeU1vRjg1d01pQnVhdDRDS0NXR3NJSUViSWVpQWxwMHVFYVlZMVN5RzhpczRpS1VmNTFkWFNYblNQVzNoQzBReWpCN3F2cWFBcDV2NnNTT3gxT1VlOFpZQ3lQNFY0UmJ0NEprQWM5TVNY",
@@ -10257,34 +10257,10 @@
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
-      "title": "Youri Tielemans reveals previous Man. United attempts to sign him before Old Trafford move",
+      "title": "Youri Tielemans reveals previous Man United attempts to sign him before Old Trafford move",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI?oc=5",
       "published": "2026-08-12T11:00:00.000Z",
       "titleZh": "Youri Tielemans揭示了以前的男人。曼联试图在老特拉福德搬家之前签下他"
-    },
-    {
-      "id": "Rob Dawson:CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM?oc=5",
-      "published": "2026-08-11T19:45:00.000Z",
-      "titleZh": "梅森山（英尺）对曼联友谊赛对阵利兹的怀疑"
-    },
-    {
-      "id": "Carl Anka:CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 2,
-      "title": "Why Man UTD REJECTED Baleba For Mateus Fernandes Sheridan Gorman (f2Lccar0n3)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc?oc=5",
-      "published": "2026-08-11T16:23:34.000Z",
-      "titleZh": "为什么曼联拒绝Baleba For Mateus Fernandes Sheridan Gorman （ f2Lccar0n3 ）"
     },
     {
       "id": "Samuel Luckhurst:CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c",
@@ -10371,6 +10347,18 @@
       "titleZh": "惠特韦尔透露曼联计划签下拥有1600万欧元释放条款的“优秀”西甲球星"
     },
     {
+      "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "standard.co.uk",
+      "tier": 1,
+      "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
+      "published": "2026-08-10T12:57:47.000Z",
+      "titleZh": "曼联转会决定后，皇家马德里确认Tchouameni医疗"
+    },
+    {
       "id": "Andy Mitten:CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -10405,6 +10393,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
       "published": "2026-08-09T13:15:00.000Z",
       "titleZh": "拉什福德带着“新号码”登陆都柏林，拯救曼联的职业生涯"
+    },
+    {
+      "id": "Rob Dawson:CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "RealGM",
+      "tier": 1,
+      "title": "Marcus Rashford To Return To United For First Time In 18 Months",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFpGX09Rc1dBaF9IYzhzZFhsY2hTRGF5Qi1jVU1McDk1QXFEaEx1ZS1XQkUzS3ZORFd0dkpuNThUUGlVYnhMR1lWSVJvdVRvLTdwbmgtRUY4WjhuRHRRbmU4ckhVYlZIY0ROTnV6Sm9mTnB5bmIxVHh4WU9rSDAzdWgzT3lSdG1nMWtSMWZSSzFRN0NUUGFRbDVPOHY3SVVRZklYUkRn?oc=5",
+      "published": "2026-08-08T23:03:36.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）将在18个月内首次重返曼联"
     },
     {
       "id": "Rob Dawson:CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ",
@@ -10491,7 +10491,7 @@
       "titleZh": "Middlesbrough确认与曼联的Radek Vitek达成永久协议"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-12T16:43:28.001Z",
+  "journalistsUpdatedAt": "2026-08-12T17:41:27.528Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

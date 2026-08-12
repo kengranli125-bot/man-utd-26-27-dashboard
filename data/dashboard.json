@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:40:37.010Z",
+  "updatedAt": "2026-08-12T19:19:08.410Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -8433,7 +8433,7 @@
       "id": "401867394",
       "date": "2026-08-12T18:30Z",
       "status": "upcoming",
-      "venue": "",
+      "venue": "Croke Park",
       "competition": "季前赛",
       "competitionKey": "club.friendly",
       "competitionGroup": "friendly",
@@ -10006,6 +10006,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Man United vs. Leeds LIVE: Latest updates from preseason friendly at Croke Park",
+      "published": "2026-08-12T18:28:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49590999/man-united-leeds-live-friendly-score-commentary-result",
+      "image": "https://a.espncdn.com/photo/2026/0812/r1700795_594x334_16-9.jpg",
+      "titleZh": "曼联vs利兹现场直播：克罗克公园季前友谊赛的最新更新"
+    },
+    {
       "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "published": "2026-08-12T12:16:48Z",
       "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
@@ -10035,7 +10042,7 @@
     },
     {
       "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
-      "published": "2026-08-12T07:09:09Z",
+      "published": "2026-08-12T13:49:37Z",
       "url": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
       "image": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
       "titleZh": "2026-27赛季英超联赛季前友谊赛：赛程、英国开球时间和夏季巡回赛时间表"
@@ -10081,13 +10088,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49567436/jose-mourinho-told-netlfix-documentary-makers-were-being-manipulated",
       "image": "https://a.espncdn.com/photo/2026/0809/r1699497_1296x729_16-9.jpg",
       "titleZh": "何塞·穆里尼奥（ José Mourinho ） ，正如他的Netflix纪录片制作人所说： “我们被操纵了”"
-    },
-    {
-      "title": "José Mourinho turned down chance to succeed Sir Alex Ferguson",
-      "published": "2026-08-10T07:42:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49571327/jose-mourinho-turned-chance-replace-sir-alex-ferguson-man-united-netflix-documentary-reveals",
-      "image": "https://a.espncdn.com/photo/2026/0809/r1699532_1296x729_16-9.jpg",
-      "titleZh": "何塞·穆里尼奥拒绝了接替亚历克斯·弗格森爵士的机会"
     }
   ],
   "transfers": [
@@ -10180,6 +10180,23 @@
       "jersey": "",
       "position": "Goalkeeper",
       "age": 18,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "419387",
+      "name": "Solomon Honor",
+      "nameZh": "Solomon Honor",
+      "shortName": "S. Honor",
+      "shortNameZh": "Honor",
+      "jersey": "",
+      "position": "Goalkeeper",
+      "age": 20,
       "nationality": "England",
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
@@ -10779,6 +10796,23 @@
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/696365.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "397881",
+      "name": "Tynan Thompson",
+      "nameZh": "Tynan Thompson",
+      "shortName": "T. Thompson",
+      "shortNameZh": "Thompson",
+      "jersey": "",
+      "position": "Forward",
+      "age": 18,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "",
       "statusType": "available",
       "statusLabel": "可用",
       "availabilityScore": 90

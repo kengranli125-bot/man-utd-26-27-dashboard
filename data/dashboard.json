@@ -10203,6 +10203,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "'Carrick's structure is different to what I'm used to' - Tielemans",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc?oc=5",
+      "published": "2026-08-12T14:07:22.000Z",
+      "titleZh": "“Carrick的结构与我习惯的结构不同” - Tielemans"
+    },
+    {
       "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -10231,7 +10243,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "source": "bbc.com",
       "tier": 1,
       "title": "Manchester United: Youri Tielemans on his dream move, injuries and playing with Marcus Rashford",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU?oc=5",
@@ -10249,18 +10261,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI?oc=5",
       "published": "2026-08-12T11:00:00.000Z",
       "titleZh": "Youri Tielemans揭示了以前的男人。曼联试图在老特拉福德搬家之前签下他"
-    },
-    {
-      "id": "James Ducker:CBMiYEFVX3lxTE1fUGZPbGVnNzg2eE9tQWh5aFBRN1d1Zm8xa3RaZzc0bDFMQU5CX3N4dmJINFQ4a2VVUDl4aUZ0RDNrcExUVnBkOHdSRjV0SGpIaXFRM0JqYTlKWjVqSFo1UA",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Mshale",
-      "tier": 1,
-      "title": "Aurélien Tchouaméni To Manchester United? My Reaction Ufo Files (2CpQTtFFeg)",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fUGZPbGVnNzg2eE9tQWh5aFBRN1d1Zm8xa3RaZzc0bDFMQU5CX3N4dmJINFQ4a2VVUDl4aUZ0RDNrcExUVnBkOHdSRjV0SGpIaXFRM0JqYTlKWjVqSFo1UA?oc=5",
-      "published": "2026-08-11T21:33:23.000Z",
-      "titleZh": "Aurélien Tchouaméni到曼联？我的反应UFO文件（ 2CpQTtFFeg ）"
     },
     {
       "id": "Rob Dawson:CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM",
@@ -10291,7 +10291,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd want Lewis Hall despite being offered Lewis-Skelly with defender keen",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c?oc=5",
@@ -10303,24 +10303,12 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "source": "bbc.com",
       "tier": 1,
       "title": "Man Utd news: Are Red Devils done in the transfer window?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qNkwzVktEckJRb2Fqc2kwVHcwME9QT2ZUcjdvNm5CRHBBRWg2RlFGVDg3ZzNXZkRJc3BZcXB2RU5uc0prZE9veUhjdGg4VWlNYnlIZlFpaWQxQy1MUllwZExTSFRVcjQ?oc=5",
       "published": "2026-08-11T13:59:07.000Z",
       "titleZh": "曼联新闻：红魔在转会窗口完成了吗？"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiswFBVV95cUxQdTgwZy1iUkpDQlVuTkJVVVhjRDIzY2h1RWNVQnRDOGZkOGl4dzBkLWlnX0xCMWFId3o3U0RLaDhLSkEwcHNkc2IwSHlmYS13aEtwcE5TQjFSeXRXZl84cWhPZDFQQk9hcFZWR3ZOV2otbTRnekd6SnRPU3hmdnZtUjRvalZ1cTVERG1vcURSV2tPVkVlUGszU1J5Z05fUzc4Q0FTVGR5U1UwZm5pRFl1MGFuNNIBuAFBVV95cUxQRFRpNWdkdHNxS0kxZzNnNUwzX3EyV1N1NE9BeHU3c3BBNFlMTmJwcUlXa0tYN09IcklHM2lISFlQMUlLSU1JX2xJbDlJRTVETVJTZVBwMWNGTzhhbW9HMG1JdzJmQ1hxaVVHNEJycGpLVlMzTDh2aDMteVJ6MHVEUjdFQTFyczg2NGV1Um5RNnJ5QXNQcjRkSS1ibUlqQ1NWbjI5SzNTaE9FSGZqUWNUOEo0UDdpMjFl",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Manchester Evening News",
-      "tier": 1,
-      "title": "Man United backed to hijack Cristian Romero transfer after defender's green light",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTgwZy1iUkpDQlVuTkJVVVhjRDIzY2h1RWNVQnRDOGZkOGl4dzBkLWlnX0xCMWFId3o3U0RLaDhLSkEwcHNkc2IwSHlmYS13aEtwcE5TQjFSeXRXZl84cWhPZDFQQk9hcFZWR3ZOV2otbTRnekd6SnRPU3hmdnZtUjRvalZ1cTVERG1vcURSV2tPVkVlUGszU1J5Z05fUzc4Q0FTVGR5U1UwZm5pRFl1MGFuNNIBuAFBVV95cUxQRFRpNWdkdHNxS0kxZzNnNUwzX3EyV1N1NE9BeHU3c3BBNFlMTmJwcUlXa0tYN09IcklHM2lISFlQMUlLSU1JX2xJbDlJRTVETVJTZVBwMWNGTzhhbW9HMG1JdzJmQ1hxaVVHNEJycGpLVlMzTDh2aDMteVJ6MHVEUjdFQTFyczg2NGV1Um5RNnJ5QXNQcjRkSS1ibUlqQ1NWbjI5SzNTaE9FSGZqUWNUOEo0UDdpMjFl?oc=5",
-      "published": "2026-08-11T13:45:00.000Z",
-      "titleZh": "曼联在后卫开绿灯后支持劫持克里斯蒂安·罗梅罗转会"
     },
     {
       "id": "Andy Mitten:CBMiygJBVV95cUxONEk3NjRTWkxZLWxaTFVMNWplS3NxVVVuOVlhN05nOXEtSFdXYlo3c21ic3V2TUhZWU5xd1lIeWZ6dVhtaEh5aVI2eXRSM0xxNkpyb2JnUWJfMXdDaWVMcVlKYXRscjE5V0hKM1NQQ1U3NnFwM3dPUXFEeVE2TlpydndqT1M1Y01LWG0zWm5NazdhZWJ3U09sNmRfLUhHeENPVWo3NHpLc2lJaG93RmtFc3V0cWtibjFqLUlMYS1OTUkwaDRiRzF3WG15aFptTXhldmpBZkRyVE1xUjQxVmlQVHYyMWRGWFF4OXdWV2N4RkpMZWh6bUVvX2JtUmdFN0l4TTQ3SmpvalFvVTlPbkZwV2c4SGNWSTBsUWcxQ1I1eWl2b3lSUk8wV0dBNWhwYVVlWUY1UGozWmtmRzRPTlNtR2tjcGhlWnJ2TGc",
@@ -10411,12 +10399,24 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Rashford out to rescue Man Utd career as he lands in Dublin with 'new number'",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
       "published": "2026-08-09T13:15:00.000Z",
       "titleZh": "拉什福德带着“新号码”登陆都柏林，拯救曼联的职业生涯"
+    },
+    {
+      "id": "James Ducker:CBMiyAFBVV95cUxPMWlrN1ZIaWNpUEpDMmdiWkt6a1I1VE5EMTFZaEltMFh3NEZESXM2a1I4Xy1iOFJTQ3JDM1c1MlpEYmdWa2ZwVTNvRFB1ZEZ3UW8tc2ZIZVFtSjZMQUhFRXM0MUZwLUEtWWFReVFCdjhPLTRTWVd1NjNNMzNTYW82RDFJUE1IRERMendXLUdKU1F0ajdwd0ZJQlllaktSNEZyRC1pWVJ5Skg5SGlRRTc1b1JnQ2xYN04zVW1XRnJqVWNmRG4xdGVqLQ",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "Read Man Utd",
+      "tier": 1,
+      "title": "Michael Carrick’s shock post-match declaration hours ago changes everything for Marcus Rashford",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWlrN1ZIaWNpUEpDMmdiWkt6a1I1VE5EMTFZaEltMFh3NEZESXM2a1I4Xy1iOFJTQ3JDM1c1MlpEYmdWa2ZwVTNvRFB1ZEZ3UW8tc2ZIZVFtSjZMQUhFRXM0MUZwLUEtWWFReVFCdjhPLTRTWVd1NjNNMzNTYW82RDFJUE1IRERMendXLUdKU1F0ajdwd0ZJQlllaktSNEZyRC1pWVJ5Skg5SGlRRTc1b1JnQ2xYN04zVW1XRnJqVWNmRG4xdGVqLQ?oc=5",
+      "published": "2026-08-08T22:04:27.000Z",
+      "titleZh": "几小时前迈克尔·卡里克在赛后发表的震惊声明改变了马库斯·拉什福德的一切"
     },
     {
       "id": "Rob Dawson:CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ",
@@ -10429,18 +10429,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVQwb3F6YkphcE0wTHpuM0xKa2NQOXZIM21BWThLaHdnOUlBT3FUakFOWGlld1UtdU1KOC11WUVMZVlRSVB4aTZoRzJUR1VUeS1TSXE0dnA1WHczTHhXM3hzZFpSODBpME04YVVIU0NtclRUdVgzcHozS2c3RmxvQTBiYktxMlJhRk9TaktYZGU2SmwxUldHQTMyeHVqZlBqQmY0azAzVFhuYndnRWR4NQ?oc=5",
       "published": "2026-08-08T19:36:00.000Z",
       "titleZh": "马库斯·拉什福德（ Marcus Rashford ）将重新加入曼联参加季前训练营-消息来源"
-    },
-    {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE9Wc25WS29BdExiZVRVNGpka2VaSDZKY1RFRjMtdmQtQ3hYcm54TVROWTgwYk4wbU1sNk5HX19ZbVZ3Smd3enZEOTRzWnFFN3JjN09kMVdvRlNLTjMwbDA0LTl4QmZldkU",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Youri Tielemans: Man Utd midfielder impresses on debut against PSG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wc25WS29BdExiZVRVNGpka2VaSDZKY1RFRjMtdmQtQ3hYcm54TVROWTgwYk4wbU1sNk5HX19ZbVZ3Smd3enZEOTRzWnFFN3JjN09kMVdvRlNLTjMwbDA0LTl4QmZldkU?oc=5",
-      "published": "2026-08-08T19:15:24.000Z",
-      "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ） ：曼联中场在对阵巴黎圣日耳曼队的比赛中首次亮相，"
     },
     {
       "id": "Samuel Luckhurst:CBMimgFBVV95cUxQMUhGelBPR1N5WF9hQlpVXzdueDdYSnZJNXNVbzVwZENTN1AwcVlfSGt5LUtVMWdKQnBkcHpWaFZDelB3d2l6UjQtdm1TOUUxUWE2ajlFazIzMmNGQTBkZGlNekhtQWt4NU53SzZiX1JVZlB5Z1dJMjhvUjZUUXBXTkxNNGtDdHNZeVRyZi1hVDRabnlMMm5yeGVR",
@@ -10471,7 +10459,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
+      "source": "thesun.co.uk",
       "tier": 2,
       "title": "Man Utd player ratings: Bryan Mbeumo stakes claim to starting spot up front",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVQ1bXYxbk5iWlRMM1hTUG9zb3BnZWlKZmp1RFJDcGVQZnREWjVIT1c5LU9SQUZUdXh2c2x2bFpqZ2xic2xpVU9VTHI0bUVRX1ZfM0R6VFpEM3NBTVNCLS05c0gxa3g4S2huMTA0NGdfeDZKMjhULUdtTDk2cjFwNTdWMHZyeEE1SkxN?oc=5",
@@ -10489,9 +10477,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
       "published": "2026-08-08T09:10:34.000Z",
       "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
+    },
+    {
+      "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Marcus Rashford heads for reunion with manager who froze him out",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
+      "published": "2026-08-08T08:00:00.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-12T13:56:21.636Z",
+  "journalistsUpdatedAt": "2026-08-12T15:46:51.246Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

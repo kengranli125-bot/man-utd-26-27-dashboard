@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T19:19:08.410Z",
+  "updatedAt": "2026-08-12T19:51:58.605Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -8480,8 +8480,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "340206",
@@ -8516,8 +8516,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "60'"
             },
             {
               "id": "276327",
@@ -8528,8 +8528,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "61'"
             },
             {
               "id": "314858",
@@ -8540,8 +8540,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "393138",
@@ -8564,8 +8564,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "60'"
             },
             {
               "id": "366781",
@@ -8576,8 +8576,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "291630",
@@ -8588,8 +8588,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "61'"
             }
           ],
           "substitutes": [
@@ -8601,9 +8601,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "61'"
             },
             {
               "id": "3108507",
@@ -8625,9 +8625,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "419387",
@@ -8661,9 +8661,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "167127",
@@ -8697,9 +8697,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "61'"
             },
             {
               "id": "124091",
@@ -8709,9 +8709,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "60'"
             },
             {
               "id": "325550",
@@ -8745,9 +8745,21 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "239350",
+              "name": "Noussair Mazraoui",
+              "nameZh": "努赛尔·马兹拉维",
+              "jersey": "3",
+              "position": "SUB",
+              "starter": false,
+              "active": true,
+              "subbedIn": true,
+              "subbedOut": false,
+              "substitutionTime": "60'"
             }
           ]
         },
@@ -8767,8 +8779,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "274649",
@@ -8779,8 +8791,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "318390",
@@ -8791,8 +8803,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "271130",
@@ -8815,8 +8827,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "253173",
@@ -8827,8 +8839,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "407584",
@@ -8839,8 +8851,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "243408",
@@ -8851,8 +8863,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "258956",
@@ -8863,8 +8875,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "203072",
@@ -8875,8 +8887,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "259653",
@@ -8887,8 +8899,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             }
           ],
           "substitutes": [
@@ -8900,21 +8912,21 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "408489",
               "name": "Alfie Cresswell",
               "nameZh": "Alfie Cresswell",
-              "jersey": "51",
+              "jersey": "50",
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "297784",
@@ -8924,9 +8936,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "164148",
@@ -8936,9 +8948,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "241317",
@@ -8948,9 +8960,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "304802",
@@ -8960,9 +8972,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "409924",
@@ -8996,9 +9008,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "245562",
@@ -9020,9 +9032,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "197717",
@@ -9032,9 +9044,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "231863",
@@ -9044,9 +9056,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "407583",

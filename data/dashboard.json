@@ -12439,7 +12439,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Manchester United: Youri Tielemans on his dream move, injuries and playing with Marcus Rashford",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU?oc=5",
@@ -12499,7 +12499,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Are Red Devils done in the transfer window?",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qNkwzVktEckJRb2Fqc2kwVHcwME9QT2ZUcjdvNm5CRHBBRWg2RlFGVDg3ZzNXZkRJc3BZcXB2RU5uc0prZE9veUhjdGg4VWlNYnlIZlFpaWQxQy1MUllwZExTSFRVcjQ?oc=5",
@@ -12565,18 +12565,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0hmRFRPWWQxdjRDeHhBYUExUXg0enBnam5tUW1ESlVyVFZJWmRnWGFFT2hXeUVhTGRmb2hLaE9OS0VYR3psNHdKYXhtcS00R2FRMFQ2Yk9kaDFqR1JraXZWLVJnS0xvN3JCUmR6MlB5S2o1NGlmVFo3UWR4SWY4NUxTV3g?oc=5",
       "published": "2026-08-10T15:10:00.000Z",
       "titleZh": "惠特韦尔透露曼联计划签下拥有1600万欧元释放条款的“优秀”西甲球星"
-    },
-    {
-      "id": "Laurie Whitwell:CBMioAFBVV95cUxNTW5QTkFGUzhDNDRrSk9VNmtZUUQyTzdaOFhlNGNrUk94R2Rwb2NqbGFKSkxUVi1ENkhiVFQxSWtUdnI2cnE4NW5EOVEyUmxoZHN4MWVkdW8tWVpWbEVqcmw4aHNBRWE5V3VXR05xZGtaQjZZVGFGR280YTAySnFaQnZHNXNILXhZMnc1dmpjcXdsYmVEemtnUUtBV2FreVpt",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "dailysports.net",
-      "tier": 1,
-      "title": "Only 16 million! Manchester United finds a bargain alternative to Hall",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTW5QTkFGUzhDNDRrSk9VNmtZUUQyTzdaOFhlNGNrUk94R2Rwb2NqbGFKSkxUVi1ENkhiVFQxSWtUdnI2cnE4NW5EOVEyUmxoZHN4MWVkdW8tWVpWbEVqcmw4aHNBRWE5V3VXR05xZGtaQjZZVGFGR280YTAySnFaQnZHNXNILXhZMnc1dmpjcXdsYmVEemtnUUtBV2FreVpt?oc=5",
-      "published": "2026-08-10T12:56:06.000Z",
-      "titleZh": "只有1600万！曼联找到了Hall的替代品"
     },
     {
       "id": "Andy Mitten:CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw",
@@ -12649,9 +12637,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0RucXdXeGpxUXF2Y3VMWGt0RUlmRmpwdVJoVUZDazdIZmdXRmhkMGNZRkd2NmxFb2RQYkhjRFkwSnNqVDNLcWxDRFVHZ2Fod1FxbHZtWHdLTEJ0M093UVBKX0JTRDhsajZGMkd0SnJHMzVINzI0UDVqeUo5TFRVQWRHckNSLUZ4cEE4WA?oc=5",
       "published": "2026-08-08T09:10:34.000Z",
       "titleZh": "购买卡里克：如果霍尔无法达到，曼联最好的左后卫选择是谁？"
+    },
+    {
+      "id": "James Ducker:CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Marcus Rashford heads for reunion with manager who froze him out",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTQ0ZFR4VkUydEpUeEdtZVJsMmZMSXVIUUpBaV9Fd2ZlWjBNMFUwSm9leU9TeENDdUc5aGZUUVRncXRMeC1ad3p0bFBNRHFXWDFKT1NRQ0JqZlpFMmVMNnRxc0pyUjJ5THJab21USVVyZk02SnZMUU1sR3lOakFoZVFQLW9CWVFXU2FPX0dfWmZDOWFldEQwMnlNMkpGUFN1OGNxb0hKZFZwd0Z6?oc=5",
+      "published": "2026-08-08T08:00:00.000Z",
+      "titleZh": "马库斯·拉什福德（ Marcus Rashford ）前往与经理团聚，经理将他冻结"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-13T08:03:31.810Z",
+  "journalistsUpdatedAt": "2026-08-13T09:22:10.523Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

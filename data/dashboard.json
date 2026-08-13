@@ -12363,11 +12363,23 @@
   ],
   "journalists": [
     {
+      "id": "Laurie Whitwell:CBMi4gFBVV95cUxPcWE4aFk0VTB2cjdmNnlUQWlqNE9PYjNNdEk4dUltMkJQMnkyWWVTOF9HX0lhVG9uaGdPTzdTLVdDRlhZTU9IeTRBSG0xU2ktOXpSQjk2VGlBNGZpYVFFSWNsb3B5OUZObHNHX0NNMUlGQ041X3RNUUMtNnZmNUF1MWZjYUpxTldCanJCWDVOTXNPOHhncGtpSVhpWDZOeDhMTzRONS14X21EeVRRWEpnRkxOT0lqV0NtN2dVb3VVVUJCeFJsVVM3YzFpUXhleGxqVVVXWmpLSTJ0c05ZZFF6MldB",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "nytimes.com",
+      "tier": 1,
+      "title": "Michael Carrick on Man United transfers, Marcus Rashford and his squad’s ‘really special’ potential",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcWE4aFk0VTB2cjdmNnlUQWlqNE9PYjNNdEk4dUltMkJQMnkyWWVTOF9HX0lhVG9uaGdPTzdTLVdDRlhZTU9IeTRBSG0xU2ktOXpSQjk2VGlBNGZpYVFFSWNsb3B5OUZObHNHX0NNMUlGQ041X3RNUUMtNnZmNUF1MWZjYUpxTldCanJCWDVOTXNPOHhncGtpSVhpWDZOeDhMTzRONS14X21EeVRRWEpnRkxOT0lqV0NtN2dVb3VVVUJCeFJsVVM3YzFpUXhleGxqVVVXWmpLSTJ0c05ZZFF6MldB?oc=5",
+      "published": "2026-08-13T16:00:09.000Z",
+      "titleZh": "迈克尔·卡里克谈论曼联转会，马库斯·拉什福德和他的球队“非常特别”的潜力"
+    },
+    {
       "id": "Laurie Whitwell:CBMikAFBVV95cUxQTFBPVkh5OFctQnprV2ZqaWU5TUt5YU5TM3dNTXdYUGEwcHhaOC1PR05Ya1JqM2J3VjkxbC1hV2JSX05GNE5yOVd4OWk4ZnhicktoZ09fLVhuanBzajVGZUpaVEMwMng3dU5BSWJvVERyVVdWckp0Smk5R3pXNlZBTXpZVHFXWUx2elAxajlsQ04",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 1,
       "title": "Man United beat Leeds on penalties: What next for Zirkzee? How did Trafford do? Where was Rashford? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFBPVkh5OFctQnprV2ZqaWU5TUt5YU5TM3dNTXdYUGEwcHhaOC1PR05Ya1JqM2J3VjkxbC1hV2JSX05GNE5yOVd4OWk4ZnhicktoZ09fLVhuanBzajVGZUpaVEMwMng3dU5BSWJvVERyVVdWckp0Smk5R3pXNlZBTXpZVHFXWUx2elAxajlsQ04?oc=5",
@@ -12415,7 +12427,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "Youri Tielemans on helping Man United back to the ‘top’, ‘amazing’ Rashford and ‘smelling football’ - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzl5cnJXdnZERXdqWEZjZUQ0N2ZsaTU3REJGWVRHUDEzanlKeU1vRjg1d01pQnVhdDRDS0NXR3NJSUViSWVpQWxwMHVFYVlZMVN5RzhpczRpS1VmNTFkWFNYblNQVzNoQzBReWpCN3F2cWFBcDV2NnNTT3gxT1VlOFpZQ3lQNFY0UmJ0NEprQWM5TVNY?oc=5",
@@ -12433,18 +12445,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU?oc=5",
       "published": "2026-08-12T11:00:23.000Z",
       "titleZh": "曼联：尤里·蒂勒曼斯（ Youri Tielemans ）梦寐以求的举动，受伤并与马库斯·拉什福德（ Marcus R"
-    },
-    {
-      "id": "Rob Dawson:CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Youri Tielemans reveals previous Man United attempts to sign him before Old Trafford move",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI?oc=5",
-      "published": "2026-08-12T11:00:00.000Z",
-      "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ）透露，在老特拉福德（ Old Trafford ）搬家之前，"
     },
     {
       "id": "James Ducker:CBMiYEFVX3lxTE1fUGZPbGVnNzg2eE9tQWh5aFBRN1d1Zm8xa3RaZzc0bDFMQU5CX3N4dmJINFQ4a2VVUDl4aUZ0RDNrcExUVnBkOHdSRjV0SGpIaXFRM0JqYTlKWjVqSFo1UA",
@@ -12471,6 +12471,18 @@
       "titleZh": "坐骑与利兹队一起错过曼联的都柏林比赛"
     },
     {
+      "id": "Rob Dawson:CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM?oc=5",
+      "published": "2026-08-11T19:45:00.000Z",
+      "titleZh": "梅森山（英尺）对曼联友谊赛对阵利兹的怀疑"
+    },
+    {
       "id": "Carl Anka:CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -12481,18 +12493,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc?oc=5",
       "published": "2026-08-11T16:23:34.000Z",
       "titleZh": "为什么曼联拒绝Baleba For Mateus Fernandes Sheridan Gorman （ f2Lccar0n3 ）"
-    },
-    {
-      "id": "David Ornstein:CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
-      "published": "2026-08-11T15:16:47.000Z",
-      "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
     },
     {
       "id": "Samuel Luckhurst:CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c",
@@ -12603,27 +12603,15 @@
       "titleZh": "曼联转会决定后，皇家马德里确认Tchouameni医疗"
     },
     {
-      "id": "Laurie Whitwell:CBMioAFBVV95cUxNTW5QTkFGUzhDNDRrSk9VNmtZUUQyTzdaOFhlNGNrUk94R2Rwb2NqbGFKSkxUVi1ENkhiVFQxSWtUdnI2cnE4NW5EOVEyUmxoZHN4MWVkdW8tWVpWbEVqcmw4aHNBRWE5V3VXR05xZGtaQjZZVGFGR280YTAySnFaQnZHNXNILXhZMnc1dmpjcXdsYmVEemtnUUtBV2FreVpt",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Dailysports",
-      "tier": 1,
-      "title": "Only 16 million! Manchester United finds a bargain alternative to Hall",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTW5QTkFGUzhDNDRrSk9VNmtZUUQyTzdaOFhlNGNrUk94R2Rwb2NqbGFKSkxUVi1ENkhiVFQxSWtUdnI2cnE4NW5EOVEyUmxoZHN4MWVkdW8tWVpWbEVqcmw4aHNBRWE5V3VXR05xZGtaQjZZVGFGR280YTAySnFaQnZHNXNILXhZMnc1dmpjcXdsYmVEemtnUUtBV2FreVpt?oc=5",
-      "published": "2026-08-10T12:56:06.000Z",
-      "titleZh": "只有1600万！曼联找到了Hall的替代品"
-    },
-    {
       "id": "Andy Mitten:CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "Manchester United’s greatest players: No 5, Roy Keane",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkZDWV9kRlhaYl9yUk9PeTRaek9PeUtKclZuNjBaeWlvRE5qM1hKNGVXcExzTnU4OGIwdnRRYVpGN1JJdEdpeXo5QlNHX0h5V04zanZlelVBOG5SVWFXRlVsMml2MVVvX3hJTzBfWWE3NXEzdTNqaDVnaTRHS3Vjc0hUVVQ2c3VLYm9TQ2E5Vk5kUnFjMVZoUmx2QWZqZw?oc=5",
-      "published": "2026-08-10T08:46:30.000Z",
+      "published": "2026-08-10T11:53:50.000Z",
       "titleZh": "曼联最伟大的球员：第5名，罗伊·基恩"
     },
     {
@@ -12649,9 +12637,21 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
       "published": "2026-08-09T13:15:00.000Z",
       "titleZh": "拉什福德带着“新号码”登陆都柏林，拯救曼联的职业生涯"
+    },
+    {
+      "id": "James Ducker:CBMiyAFBVV95cUxPMWlrN1ZIaWNpUEpDMmdiWkt6a1I1VE5EMTFZaEltMFh3NEZESXM2a1I4Xy1iOFJTQ3JDM1c1MlpEYmdWa2ZwVTNvRFB1ZEZ3UW8tc2ZIZVFtSjZMQUhFRXM0MUZwLUEtWWFReVFCdjhPLTRTWVd1NjNNMzNTYW82RDFJUE1IRERMendXLUdKU1F0ajdwd0ZJQlllaktSNEZyRC1pWVJ5Skg5SGlRRTc1b1JnQ2xYN04zVW1XRnJqVWNmRG4xdGVqLQ",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "Read Man Utd",
+      "tier": 1,
+      "title": "Michael Carrick’s shock post-match declaration hours ago changes everything for Marcus Rashford",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWlrN1ZIaWNpUEpDMmdiWkt6a1I1VE5EMTFZaEltMFh3NEZESXM2a1I4Xy1iOFJTQ3JDM1c1MlpEYmdWa2ZwVTNvRFB1ZEZ3UW8tc2ZIZVFtSjZMQUhFRXM0MUZwLUEtWWFReVFCdjhPLTRTWVd1NjNNMzNTYW82RDFJUE1IRERMendXLUdKU1F0ajdwd0ZJQlllaktSNEZyRC1pWVJ5Skg5SGlRRTc1b1JnQ2xYN04zVW1XRnJqVWNmRG4xdGVqLQ?oc=5",
+      "published": "2026-08-08T22:04:27.000Z",
+      "titleZh": "几小时前迈克尔·卡里克在赛后发表的震惊声明改变了马库斯·拉什福德的一切"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-13T15:36:37.438Z",
+  "journalistsUpdatedAt": "2026-08-13T16:31:31.031Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

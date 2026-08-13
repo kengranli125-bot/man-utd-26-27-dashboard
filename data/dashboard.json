@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:46:16.675Z",
+  "updatedAt": "2026-08-13T19:19:10.244Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -10576,7 +10576,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-13T13:46:15.809Z"
+        "generatedAt": "2026-08-13T19:19:09.182Z"
       }
     },
     {
@@ -11521,6 +11521,34 @@
   "scorers": [],
   "news": [
     {
+      "title": "The 20 players and coaches who will define the 2026-27 Premier League",
+      "published": "2026-08-13T19:01:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49599591/premier-league-season-preview-arsenal-man-city-man-united-liverpool-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701316_1296x729_16-9.jpg",
+      "titleZh": "将定义2026-27赛季英超联赛的20名球员和教练"
+    },
+    {
+      "title": "Michael Carrick calls for more Man United signings: 'Need to keep pushing'",
+      "published": "2026-08-13T18:05:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600204/michael-carrick-calls-more-man-united-signings-need-keep-pushing",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695884_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克呼吁曼联签下更多球员： “需要继续推进”"
+    },
+    {
+      "title": "Man United boss Michael Carrick backs Kobbie Mainoo after 'challenging' World Cup",
+      "published": "2026-08-13T16:00:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600275/man-united-boss-michael-carrick-backs-kobbie-mainoo-challenging-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701257_1296x729_16-9.jpg",
+      "titleZh": "曼联老板迈克尔卡里克在“挑战”世界杯后支持Kobbie Mainoo"
+    },
+    {
+      "title": "Youri Tielemans apologises to Aston Villa fans following comments regarding Manchester United move",
+      "published": "2026-08-13T14:39:34Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600103/youri-tielemans-apologises-aston-villa-fans-following-comments-regarding-manchester-united-move",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699100_1296x729_16-9.jpg",
+      "titleZh": "Youri Tielemans在评论曼联转会后向阿斯顿维拉球迷道歉"
+    },
+    {
       "title": "Premier League 2026-27 kits: Ranking every jersey released",
       "published": "2026-08-13T11:53:39Z",
       "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
@@ -11575,44 +11603,16 @@
       "url": "https://www.espn.com/soccer/story/_/id/49593678/mazraoui-big-love-manchester-united",
       "image": "https://a.espncdn.com/photo/2026/0812/r1700975_1296x729_16-9.jpg",
       "titleZh": "Mazraoui ：球场入侵者对曼联表现出“大爱”"
-    },
-    {
-      "title": "Man United 1-1 Leeds: Michael Carrick's side win penalty shootout in Dublin - as it happened",
-      "published": "2026-08-12T22:26:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49590999/man-united-leeds-live-friendly-score-commentary-result",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700906_1296x729_16-9.jpg",
-      "titleZh": "曼联vs利兹现场直播：克罗克公园季前友谊赛的最新更新"
-    },
-    {
-      "title": "Manchester United win friendly over Leeds after shootout",
-      "published": "2026-08-12T20:52:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49592896/manchester-united-win-friendly-leeds-shootout",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700936_1296x729_16-9.jpg",
-      "titleZh": "曼联在枪战后以友谊战胜利兹"
-    },
-    {
-      "title": "Youri Tielemans: FIFA's Balogun red card U-turn inspired Belgium to beat U.S. at World Cup",
-      "published": "2026-08-12T11:08:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49588834/youri-tielemans-man-united-belgium-usmnt-usa-balogun-red-card-world-cup-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700664_1296x729_16-9.jpg",
-      "titleZh": "Youri Tielemans ：国际足联的Balogun红牌掉头激励比利时在世界杯上击败美国"
-    },
-    {
-      "title": "Youri Tielemans reveals previous Man United attempts to sign him before Old Trafford move",
-      "published": "2026-08-12T11:58:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49588815/tielemans-reveals-previous-man-united-attempts-sign-old-trafford-move",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700663_1296x729_16-9.jpg",
-      "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ）透露，在老特拉福德（ Old Trafford ）搬家之前，"
     }
   ],
   "transfers": [
     {
-      "title": "Youri Tielemans reveals previous Man United attempts to sign him before Old Trafford move",
-      "published": "2026-08-12T11:58:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49588815/tielemans-reveals-previous-man-united-attempts-sign-old-trafford-move",
-      "image": "https://a.espncdn.com/photo/2026/0812/r1700663_1296x729_16-9.jpg",
-      "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ）透露，在老特拉福德（ Old Trafford ）搬家之前，",
-      "player": "尤里·蒂勒曼斯",
+      "title": "Michael Carrick calls for more Man United signings: 'Need to keep pushing'",
+      "published": "2026-08-13T18:05:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49600204/michael-carrick-calls-more-man-united-signings-need-keep-pushing",
+      "image": "https://a.espncdn.com/photo/2026/0731/r1695884_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克呼吁曼联签下更多球员： “需要继续推进”",
+      "player": "",
       "status": "已完成",
       "statusType": "done"
     }

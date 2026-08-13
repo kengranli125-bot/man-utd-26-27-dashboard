@@ -12363,16 +12363,16 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
+      "id": "David Ornstein:CBMilgFBVV95cUxNTWJZQlV6ck9XM3RycHRKRUxIT0xyNk5uNXNJWGc1LXEzOW9xUXBDZmVGTFlNbmJPRkVkUkdlX2FXbUE4bHdYRTQyUVdyTENUbmppdEZhd0s4c2pqYXdfRS1PRTJacDNJaWhpaGxVekx2NTQwSHBheHo3ZWhRODZMUFJidjlDWXpvRk1KNU51QmZneTlESkE",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
       "tier": 1,
-      "title": "Carrick brings a sense of calm",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E?oc=5",
-      "published": "2026-08-13T16:02:54.000Z",
-      "titleZh": "卡里克带来了一种平静的感觉"
+      "title": "Xavier Parker agrees new long-term Manchester City contract",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWJZQlV6ck9XM3RycHRKRUxIT0xyNk5uNXNJWGc1LXEzOW9xUXBDZmVGTFlNbmJPRkVkUkdlX2FXbUE4bHdYRTQyUVdyTENUbmppdEZhd0s4c2pqYXdfRS1PRTJacDNJaWhpaGxVekx2NTQwSHBheHo3ZWhRODZMUFJidjlDWXpvRk1KNU51QmZneTlESkE?oc=5",
+      "published": "2026-08-13T16:56:19.000Z",
+      "titleZh": "泽维尔·帕克同意与曼城签订新的长期合同"
     },
     {
       "id": "Laurie Whitwell:CBMi4gFBVV95cUxPcWE4aFk0VTB2cjdmNnlUQWlqNE9PYjNNdEk4dUltMkJQMnkyWWVTOF9HX0lhVG9uaGdPTzdTLVdDRlhZTU9IeTRBSG0xU2ktOXpSQjk2VGlBNGZpYVFFSWNsb3B5OUZObHNHX0NNMUlGQ041X3RNUUMtNnZmNUF1MWZjYUpxTldCanJCWDVOTXNPOHhncGtpSVhpWDZOeDhMTzRONS14X21EeVRRWEpnRkxOT0lqV0NtN2dVb3VVVUJCeFJsVVM3YzFpUXhleGxqVVVXWmpLSTJ0c05ZZFF6MldB",
@@ -12385,6 +12385,18 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcWE4aFk0VTB2cjdmNnlUQWlqNE9PYjNNdEk4dUltMkJQMnkyWWVTOF9HX0lhVG9uaGdPTzdTLVdDRlhZTU9IeTRBSG0xU2ktOXpSQjk2VGlBNGZpYVFFSWNsb3B5OUZObHNHX0NNMUlGQ041X3RNUUMtNnZmNUF1MWZjYUpxTldCanJCWDVOTXNPOHhncGtpSVhpWDZOeDhMTzRONS14X21EeVRRWEpnRkxOT0lqV0NtN2dVb3VVVUJCeFJsVVM3YzFpUXhleGxqVVVXWmpLSTJ0c05ZZFF6MldB?oc=5",
       "published": "2026-08-13T16:00:09.000Z",
       "titleZh": "迈克尔·卡里克谈论曼联转会，马库斯·拉什福德和他的球队“非常特别”的潜力"
+    },
+    {
+      "id": "Rob Dawson:CBMisgFBVV95cUxPaGo0OVJaQk9PV3ZTTnVQaHBGVGsyM2RQeU1BTlh5YzJNT2l4VFNOQjFlc3pZZWxUMXVwOGMtXzdxY2M1M3hTZjU5ZHZCa1pEZlJPTWdYOTZhamNFbE81VVhCczNvbGg4Slc1NkFteDdFczNITEFGZXRLOEQ1NG1oeC1NOWdkOWdjTG01ZmxXb1F5YW9DSEF0SFp2ejFpMF9hUmMyYmVFNFhpaG1oMmtnNENR",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Michael Carrick calls for more Man United signings: 'Need to keep pushing'",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGo0OVJaQk9PV3ZTTnVQaHBGVGsyM2RQeU1BTlh5YzJNT2l4VFNOQjFlc3pZZWxUMXVwOGMtXzdxY2M1M3hTZjU5ZHZCa1pEZlJPTWdYOTZhamNFbE81VVhCczNvbGg4Slc1NkFteDdFczNITEFGZXRLOEQ1NG1oeC1NOWdkOWdjTG01ZmxXb1F5YW9DSEF0SFp2ejFpMF9hUmMyYmVFNFhpaG1oMmtnNENR?oc=5",
+      "published": "2026-08-13T16:00:00.000Z",
+      "titleZh": "迈克尔·卡里克呼吁曼联签下更多球员： “需要继续推进”"
     },
     {
       "id": "Laurie Whitwell:CBMikAFBVV95cUxQTFBPVkh5OFctQnprV2ZqaWU5TUt5YU5TM3dNTXdYUGEwcHhaOC1PR05Ya1JqM2J3VjkxbC1hV2JSX05GNE5yOVd4OWk4ZnhicktoZ09fLVhuanBzajVGZUpaVEMwMng3dU5BSWJvVERyVVdWckp0Smk5R3pXNlZBTXpZVHFXWUx2elAxajlsQ04",
@@ -12409,6 +12421,30 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmV4aTI1WnU3WHVQUWg1alltOFpOc0dDS2N3WU9oYTRBZnBJaXJsSnR2VnNPaWtjZHFLWUNydk1LYXY2UVdoX2pIc0t5Z0tfdXp5UFl1aTJ2b2FNY3JNUDRMUWJORHE3RmVzRm5WS3VYY2MyX1lhMG1TWHd2eTBTNTdVUkxkVDVfVXU1QVAteVJlVDRCMEw1Sw?oc=5",
       "published": "2026-08-12T20:42:00.000Z",
       "titleZh": "曼联在枪战后以友谊战胜利兹"
+    },
+    {
+      "id": "Simon Stone:CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "'Carrick's structure is different to what I'm used to' - Tielemans",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16eUxPZFJxdEJIaG1aTDZDbUFwVm9wektFSzlENHJjcWptaEg3V3FyaUliTHR1LWt3TDRxRVJlWVVFa2ppYkVZN0xFdFBSbnVDTHFTSF90Qy1vQWVBRld6MWR5ZVlQRDZ0Ymc?oc=5",
+      "published": "2026-08-12T14:07:22.000Z",
+      "titleZh": "“Carrick的结构与我习惯的结构不同” - Tielemans"
+    },
+    {
+      "id": "Fabrizio Romano:CBMitAFBVV95cUxPOEFnSGpidW1FNWo4SDJXc0RWM0VWblBTUnNCVVhtQWktZ3ltc0FzQWNWYVNHYnBCQ1Y1eldpeDRJUFA1c3JxaWJlZmdhVWNRaGlIVlRualdrME9MNkdhRkhkMXNBdEw4VzJkanlEem1fQWJMWFlCaXY3VXBLblQ4U1E1SVdCcmtWdzRIUE9JRnhoV2ZkZFdGZXdnSmNZVmZCZlBaWFdwWVI4amN0QXJQMTNiSVE",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "thescore.com",
+      "tier": 1,
+      "title": "Latest transfer news and rumors: Barcelona offer €60M for Rodri",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEFnSGpidW1FNWo4SDJXc0RWM0VWblBTUnNCVVhtQWktZ3ltc0FzQWNWYVNHYnBCQ1Y1eldpeDRJUFA1c3JxaWJlZmdhVWNRaGlIVlRualdrME9MNkdhRkhkMXNBdEw4VzJkanlEem1fQWJMWFlCaXY3VXBLblQ4U1E1SVdCcmtWdzRIUE9JRnhoV2ZkZFdGZXdnSmNZVmZCZlBaWFdwWVI4amN0QXJQMTNiSVE?oc=5",
+      "published": "2026-08-12T13:32:23.000Z",
+      "titleZh": "最新转会新闻和谣言：巴塞罗那为罗德里提供6000万欧元"
     },
     {
       "id": "Samuel Luckhurst:CBMijwFBVV95cUxOcl9yWHk4c1Fkc2d3UjN6NExndjVNMG15OTBqRUVKcVFET0lPeG5wa2I4SXYyRG82N2EzSWhGX0JJc2J6b0VVWUxiSlZFdUZMVk1HUjM0bEtrZDRtanA0UDV3X04yS1hQVl9jaDdmbTRkbFdkR0c0eTFXc0VvNmdiX2JFRlVIRWVqOTI1SnVGcw",
@@ -12469,18 +12505,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9INjAtOUdsRGFzeUtNWEs5TWswTUVqU2JPVTZSV1FBUHdLMDM4UGhlWTRwcDU2bjdod05Bcjl1czk0SU9WS0RnWVBDSmZsak1GbW9rSGdNTTliaEdtWVNzc0tyeVBQaDFZa0E?oc=5",
       "published": "2026-08-11T20:37:43.000Z",
       "titleZh": "坐骑与利兹队一起错过曼联的都柏林比赛"
-    },
-    {
-      "id": "Rob Dawson:CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Mason Mount (foot) a doubt for Man United friendly vs. Leeds",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0pzaHpLcVUyelhVV1VncHk5QUNnYlZlVnViZHJaRWlvZDNHUjBPNjA5X0NUS2ltaVdPZnNSLVdZYlRVVWNDRlVvdmhpS005QmYzcjkwNGZ2RXl3dWJVX2c2V0oxc1Y2SEdndjAtYWg4RXdmbGg2Q3JRQ0hidUNqUU5Kek9ERVFjR0ttSUVXdmVQejg4MzdtZGUtNUNxa1JROFRCQUQ5dkM?oc=5",
-      "published": "2026-08-11T19:45:00.000Z",
-      "titleZh": "梅森山（英尺）对曼联友谊赛对阵利兹的怀疑"
     },
     {
       "id": "Carl Anka:CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc",
@@ -12559,7 +12583,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "football365.com",
+      "source": "Football365",
       "tier": 1,
       "title": "Romano reveals potential next signing 'offered' to Man Utd; fresh verdict on Hall joining",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnMtNXFDRmlJY0JBUUdzcGZwUWFCZ3JFT0FrM1hLQzNaNkViU0pjRDRKOUlhTmJQYUF0WXMzLWlLN21BNmhqVE1LbHd6ZEVKQ0ZONncwdmpwY1ZLNHNmNG91dWdxRmNDRWR4SF9zNVBGRFZCczNoY0ZzY296ekI2VUdsSDJKUVJ2RU4zV0ItNHl0Mmlka3BNU2dqdjZOR3BzTzJFRA?oc=5",
@@ -12577,18 +12601,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0U21YX0ZZTzI5N3JYQ1RKU2NGeFdTU2JEZTJvRlA3ZnhLZFZlSGxjb3hnNjBJNGdZb1FILUlMRFNVTWJQU2p1QzFUUDhaOHlhOGM4dUFMVkxXZmNnb0R3emxhd3hMYmJEbG9SX2ZmWE05M3NCWXc?oc=5",
       "published": "2026-08-11T02:05:04.000Z",
       "titleZh": "曼联8月11日最新收入和支出实时转账| TalkingPoints"
-    },
-    {
-      "id": "David Ornstein:CBMiW0FVX3lxTE9MMHRaZlNHNXI1U09vdmdraEJaR3lmOVZ6azNHei1tUXdwVUlLa3ZUQjVrS2VrdU9CQkpxcFpJSS1oeTd6OHZyYURnajMwMGdac1c1Qml3V3RsQlk",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 1,
-      "title": "TRANSFER RUMOUR: Hall — Newcastle To Manchester United Bogue Chitto Ms (Zw11frw4fO)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MMHRaZlNHNXI1U09vdmdraEJaR3lmOVZ6azNHei1tUXdwVUlLa3ZUQjVrS2VrdU9CQkpxcFpJSS1oeTd6OHZyYURnajMwMGdac1c1Qml3V3RsQlk?oc=5",
-      "published": "2026-08-10T18:57:46.000Z",
-      "titleZh": "转会传闻： Hall —纽卡斯尔至曼联Bogue Chitto Ms (Zw11frw4fO)"
     },
     {
       "id": "Laurie Whitwell:CBMihAFBVV95cUxPT0hmRFRPWWQxdjRDeHhBYUExUXg0enBnam5tUW1ESlVyVFZJWmRnWGFFT2hXeUVhTGRmb2hLaE9OS0VYR3psNHdKYXhtcS00R2FRMFQ2Yk9kaDFqR1JraXZWLVJnS0xvN3JCUmR6MlB5S2o1NGlmVFo3UWR4SWY4NUxTV3g",
@@ -12631,27 +12643,15 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "football365.com",
+      "source": "Football365",
       "tier": 1,
       "title": "Fabrizio Romano says door ‘closed’ for Man Utd to sign midfielder after ‘agreement’",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmozSkx6cjVzLWtMZWlMMG5LUUNNSGZDNTZoT1F0TzJUY0NjbnZaeHdrQ2lIaUZXeUlqWGc2RHctRlhOT1lsVUJ2em9yTkFUZ0s0SkgwUV8xZ3otSnF3dGEya2VJemZrTWJjSFRQa3lrb2ZvTFpYS3k4RlNWZWFxQ0VyV2FoeUFmVEhGelhRTTA0OUstVUp3VXdIcnBqYlRUWVFzaE9GT3Q5UDhlbDAyMU5B?oc=5",
       "published": "2026-08-10T07:56:13.000Z",
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）表示，曼联在“协议”后签下中场球员的大门“关闭”"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
-      "tier": 2,
-      "title": "Rashford out to rescue Man Utd career as he lands in Dublin with 'new number'",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHkzam80ckt4aUdjX3JqcTNHenlpS2FXektlWkJrdlVyMFp3Q1BCbXlvamZTODY4cGxLRk1YQ3RnRmZGd1lCSDFnUmhONUc4ZHRiOENkRUprblBtZlRsMzlHaG0tOUdaSTE1ZzZPSG5wQnB2RGVKVi00VXZwY0hLbkY2b0pxRTF6Q3R2cElITGZxWHFmOHVvYw?oc=5",
-      "published": "2026-08-09T13:15:00.000Z",
-      "titleZh": "拉什福德带着“新号码”登陆都柏林，拯救曼联的职业生涯"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-13T17:37:48.118Z",
+  "journalistsUpdatedAt": "2026-08-13T18:33:50.190Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

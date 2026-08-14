@@ -12346,16 +12346,16 @@
   ],
   "journalists": [
     {
-      "id": "Andy Mitten:CBMioAFBVV95cUxPQUFwQ3huaFJXSUh4Ry1qNU92SjBaZGFPbFN3ajV2c0NqU1VyUHdFTW1QV25QTXJGS29SVEVlVFFiSUstS2VtcTMxRUNOaGpnV3RwVGJfNlNkaWFlVG93NlRxbmdESHMzeGkxM0hQMkNvdFpuRFB6U3RJdEFVY1lEdmJvRHV4a2hRekg1c0dCbkY1TXBXMHVKY0lGUG1fdFJr",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
+      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "Mshale",
       "tier": 2,
-      "title": "Manchester United’s greatest players: No 3, George Best",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUFwQ3huaFJXSUh4Ry1qNU92SjBaZGFPbFN3ajV2c0NqU1VyUHdFTW1QV25QTXJGS29SVEVlVFFiSUstS2VtcTMxRUNOaGpnV3RwVGJfNlNkaWFlVG93NlRxbmdESHMzeGkxM0hQMkNvdFpuRFB6U3RJdEFVY1lEdmJvRHV4a2hRekg1c0dCbkY1TXBXMHVKY0lGUG1fdFJr?oc=5",
-      "published": "2026-08-14T06:25:57.000Z",
-      "titleZh": "Manchester United’s greatest players: No 3, George Best"
+      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
+      "published": "2026-08-14T16:36:47.000Z",
+      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ vRyJBPzzEu ）"
     },
     {
       "id": "Chris Wheeler:CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c",
@@ -12368,6 +12368,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c?oc=5",
       "published": "2026-08-14T04:56:52.000Z",
       "titleZh": "利桑德罗·马丁内斯控制台Matheus Cunha抽签后看起来很生气VS利兹·鲍比·布朗（ 3aFuQz9YZA ）"
+    },
+    {
+      "id": "Andy Mitten:CBMioAFBVV95cUxPQUFwQ3huaFJXSUh4Ry1qNU92SjBaZGFPbFN3ajV2c0NqU1VyUHdFTW1QV25QTXJGS29SVEVlVFFiSUstS2VtcTMxRUNOaGpnV3RwVGJfNlNkaWFlVG93NlRxbmdESHMzeGkxM0hQMkNvdFpuRFB6U3RJdEFVY1lEdmJvRHV4a2hRekg1c0dCbkY1TXBXMHVKY0lGUG1fdFJr",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 3, George Best",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUFwQ3huaFJXSUh4Ry1qNU92SjBaZGFPbFN3ajV2c0NqU1VyUHdFTW1QV25QTXJGS29SVEVlVFFiSUstS2VtcTMxRUNOaGpnV3RwVGJfNlNkaWFlVG93NlRxbmdESHMzeGkxM0hQMkNvdFpuRFB6U3RJdEFVY1lEdmJvRHV4a2hRekg1c0dCbkY1TXBXMHVKY0lGUG1fdFJr?oc=5",
+      "published": "2026-08-14T04:20:49.000Z",
+      "titleZh": "Manchester United’s greatest players: No 3, George Best"
     },
     {
       "id": "David Ornstein:CBMipwFBVV95cUxNUHYtNHAwRFRmbnJ3dDhaNnBrdVFPWktBTlEzZWNCV1F5NEQwWk5ncWxTckZLTWU2Z2lZNDZmTF9RLWJYVmV6OE5tdV9qZmhDVEg4LVh6elJJSUYwVm9VRUhWZ3RUaHNJUFN1Q3daeDl3Y1ZnTUNNNEJCWWQ4VHA0TkFmSzduTnRfM04zS2VzZE1KYklxV0kzaUZ1cUU3eXJuNTE5UDVrSdIBrAFBVV95cUxNUkRIRDMxcjJPYXoxMHBmSUhQSExDNG9tVFhwN0xjbHk2bW1hTnRXSHVOdG1BcUdST1FNN0d5X3piY0JCS3o2MWljeFU4Y2VPNnNadW9XaXpxQlRZV0NXRV9aNnZ5Tzl2czlEX3ZlcFNTeFA4RFJZbkJxRWw0eWs2MWprbkNCZTA5QXh5MjNZeHhYeGY2NGc3NjlRRU5Yc0lkbUFFYmNHOTNfWEFx",
@@ -12410,7 +12422,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "malaysia.news.yahoo.com",
+      "source": "Yahoo",
       "tier": 1,
       "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjhiT3VyVTlPNGRub1JKTTN2WFVuck92R1hYZ05NTC1VelQ1VUxMdV81TXN5TFU2eXpVRTJqSkZLYUtNWVhtb2tSXzVXZ0FQMG96M3dJSHlXbW9wMzVQYkxoSm0xcFhJTWNBZDhKSUJWMXFpN2xqVnp6X2dBZnVNRW5wazhtOW5wU2hWRnJRaw?oc=5",
@@ -12458,7 +12470,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Manchester United win friendly over Leeds after shootout",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmV4aTI1WnU3WHVQUWg1alltOFpOc0dDS2N3WU9oYTRBZnBJaXJsSnR2VnNPaWtjZHFLWUNydk1LYXY2UVdoX2pIc0t5Z0tfdXp5UFl1aTJ2b2FNY3JNUDRMUWJORHE3RmVzRm5WS3VYY2MyX1lhMG1TWHd2eTBTNTdVUkxkVDVfVXU1QVAteVJlVDRCMEw1Sw?oc=5",
@@ -12550,18 +12562,6 @@
       "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
     },
     {
-      "id": "Carl Anka:CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 2,
-      "title": "Why Man UTD REJECTED Baleba For Mateus Fernandes Sheridan Gorman (f2Lccar0n3)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc?oc=5",
-      "published": "2026-08-11T16:23:34.000Z",
-      "titleZh": "为什么曼联拒绝Baleba For Mateus Fernandes Sheridan Gorman （ f2Lccar0n3 ）"
-    },
-    {
       "id": "Samuel Luckhurst:CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -12602,7 +12602,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "irishnews.com",
+      "source": "The Irish News",
       "tier": 2,
       "title": "The transfer that shocked football: Manchester United treble winner Andy Cole lifts the lid on his time at Old Trafford and the surprise move that got him there",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONEk3NjRTWkxZLWxaTFVMNWplS3NxVVVuOVlhN05nOXEtSFdXYlo3c21ic3V2TUhZWU5xd1lIeWZ6dVhtaEh5aVI2eXRSM0xxNkpyb2JnUWJfMXdDaWVMcVlKYXRscjE5V0hKM1NQQ1U3NnFwM3dPUXFEeVE2TlpydndqT1M1Y01LWG0zWm5NazdhZWJ3U09sNmRfLUhHeENPVWo3NHpLc2lJaG93RmtFc3V0cWtibjFqLUlMYS1OTUkwaDRiRzF3WG15aFptTXhldmpBZkRyVE1xUjQxVmlQVHYyMWRGWFF4OXdWV2N4RkpMZWh6bUVvX2JtUmdFN0l4TTQ3SmpvalFvVTlPbkZwV2c4SGNWSTBsUWcxQ1I1eWl2b3lSUk8wV0dBNWhwYVVlWUY1UGozWmtmRzRPTlNtR2tjcGhlWnJ2TGc?oc=5",
@@ -12634,7 +12634,7 @@
       "titleZh": "Romano透露潜在的下一个签约“提供”给曼联;加入霍尔的新判决"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-14T23:35:42.250Z",
+  "journalistsUpdatedAt": "2026-08-14T23:56:49.063Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

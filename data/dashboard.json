@@ -12346,16 +12346,28 @@
   ],
   "journalists": [
     {
-      "id": "Fabrizio Romano:CBMipwFBVV95cUxOcURWYmxLMUdubVBzVGhtUGszMF8yaEQxazZqaE5DY2xMcFBZMjhUR3ZQeHJmaE1EYTNldm1NdTdaVXFqXzEwOGdhZldKMndkYldDeHFQWmsyTmVnUXU5VDQ2RjkwT0ZKUGgwbE9lMW5iNV9HVDViRzg0OW5oekFGcUwyWHltMTZBTjlPMkZ3dFhMcHBhYWFLMVVXa2EtQlM0MFFOSHJPdw",
+      "id": "Simon Stone:CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "sports.yahoo.com",
+      "tier": 1,
+      "title": "Carrick brings a sense of calm",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E?oc=5",
+      "published": "2026-08-14T12:00:13.000Z",
+      "titleZh": "卡里克带来了一种平静的感觉"
+    },
+    {
+      "id": "Fabrizio Romano:CBMirAFBVV95cUxOaTRuMjh0SzNwVjZRZDcxTkoza1BlUUNmdEZMdm9Uc2VVbUdibDBvb0FrNElaclh2SC1TOFVBOXdfLUZpanJkY1puR2dLam9mOGwwQ3c4eXRHWGdxUWw3UlY5RVFhUl9VMm9vYWhIXzNJMnJfUUppUmJja3JINFFaa0pCRlp3MjFZSUxUYVEwbGkyOHh1Z2lYVW9iTWFaQ0J0b0JvTVg3TWxIY3Vo",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "source": "Read Man Utd",
       "tier": 1,
-      "title": "Man Utd: Romano reveals three more signings INEOS could make this summer – ‘I still expect’",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcURWYmxLMUdubVBzVGhtUGszMF8yaEQxazZqaE5DY2xMcFBZMjhUR3ZQeHJmaE1EYTNldm1NdTdaVXFqXzEwOGdhZldKMndkYldDeHFQWmsyTmVnUXU5VDQ2RjkwT0ZKUGgwbE9lMW5iNV9HVDViRzg0OW5oekFGcUwyWHltMTZBTjlPMkZ3dFhMcHBhYWFLMVVXa2EtQlM0MFFOSHJPdw?oc=5",
-      "published": "2026-08-14T08:37:18.000Z",
-      "titleZh": "曼联：罗马诺透露INEOS今年夏天还有三次签约– “我仍然期待”"
+      "title": "Fabrizio Romano reveals Man Utd stance on Joshua Zirkzee after Leeds goal",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTRuMjh0SzNwVjZRZDcxTkoza1BlUUNmdEZMdm9Uc2VVbUdibDBvb0FrNElaclh2SC1TOFVBOXdfLUZpanJkY1puR2dLam9mOGwwQ3c4eXRHWGdxUWw3UlY5RVFhUl9VMm9vYWhIXzNJMnJfUUppUmJja3JINFFaa0pCRlp3MjFZSUxUYVEwbGkyOHh1Z2lYVW9iTWFaQ0J0b0JvTVg3TWxIY3Vo?oc=5",
+      "published": "2026-08-14T08:00:00.000Z",
+      "titleZh": "Fabrizio Romano在利兹进球后透露曼联对Joshua Zirkzee的立场"
     },
     {
       "id": "Andy Mitten:CBMioAFBVV95cUxPQUFwQ3huaFJXSUh4Ry1qNU92SjBaZGFPbFN3ajV2c0NqU1VyUHdFTW1QV25QTXJGS29SVEVlVFFiSUstS2VtcTMxRUNOaGpnV3RwVGJfNlNkaWFlVG93NlRxbmdESHMzeGkxM0hQMkNvdFpuRFB6U3RJdEFVY1lEdmJvRHV4a2hRekg1c0dCbkY1TXBXMHVKY0lGUG1fdFJr",
@@ -12386,7 +12398,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Manchester Utd coach Carrick on 'dream' Andrey Santos and what he told Mainoo",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWtiWkIzVzlfM05Xb3Q1V25RZ3JuWU1ObW14Y0tKOUt6RDFOQ2hHaXBGc1BJdnVhTnc0OVltb0dnYnU0dXl1SXk0OS1hUkZmWWNtN0d6SEEtbXVjMWZwWTRUQ2hvcVF4SG14QUotUFMtVWxhbFBKSDdoU241VWpNa1FjTGhlUFVHWHJZ?oc=5",
@@ -12418,18 +12430,6 @@
       "titleZh": "迈克尔·卡里克谈论曼联转会，马库斯·拉什福德和他的球队“非常特别”的潜力"
     },
     {
-      "id": "Simon Stone:CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Carrick brings a sense of calm",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E?oc=5",
-      "published": "2026-08-13T16:02:54.000Z",
-      "titleZh": "卡里克带来了一种平静的感觉"
-    },
-    {
       "id": "Laurie Whitwell:CBMikAFBVV95cUxQTFBPVkh5OFctQnprV2ZqaWU5TUt5YU5TM3dNTXdYUGEwcHhaOC1PR05Ya1JqM2J3VjkxbC1hV2JSX05GNE5yOVd4OWk4ZnhicktoZ09fLVhuanBzajVGZUpaVEMwMng3dU5BSWJvVERyVVdWckp0Smk5R3pXNlZBTXpZVHFXWUx2elAxajlsQ04",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -12446,7 +12446,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Manchester United win friendly over Leeds after shootout",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmV4aTI1WnU3WHVQUWg1alltOFpOc0dDS2N3WU9oYTRBZnBJaXJsSnR2VnNPaWtjZHFLWUNydk1LYXY2UVdoX2pIc0t5Z0tfdXp5UFl1aTJ2b2FNY3JNUDRMUWJORHE3RmVzRm5WS3VYY2MyX1lhMG1TWHd2eTBTNTdVUkxkVDVfVXU1QVAteVJlVDRCMEw1Sw?oc=5",
@@ -12482,7 +12482,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd get major injury boost as Martinez returns but trio to miss Leeds game",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcl9yWHk4c1Fkc2d3UjN6NExndjVNMG15OTBqRUVKcVFET0lPeG5wa2I4SXYyRG82N2EzSWhGX0JJc2J6b0VVWUxiSlZFdUZMVk1HUjM0bEtrZDRtanA0UDV3X04yS1hQVl9jaDdmbTRkbFdkR0c0eTFXc0VvNmdiX2JFRlVIRWVqOTI1SnVGcw?oc=5",
@@ -12518,7 +12518,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Youri Tielemans reveals previous Man United attempts to sign him before Old Trafford move",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI?oc=5",
@@ -12538,6 +12538,18 @@
       "titleZh": "Aurélien Tchouaméni到曼联？我的反应UFO文件（ 2CpQTtFFeg ）"
     },
     {
+      "id": "David Ornstein:CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
+      "published": "2026-08-11T17:53:49.000Z",
+      "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
+    },
+    {
       "id": "Carl Anka:CBMiW0FVX3lxTFBPVWtKX1ZuUDVsdzhDRDdzVURyNFNjU2RRY1VmVXZuNXp4dlVMd3NTcnA3MG1hc1hvYjVOTkVBeUthN1dURzlURnpOWmxJRHhvOG1ON2Y1THB6Wnc",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -12554,7 +12566,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd want Lewis Hall despite being offered Lewis-Skelly with defender keen",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTRvYkFBYkFUaVBvcFlEOGFNYWszOWhsRmY4OUhxSUhsM3FhUzN5VTRnWnFXVnVPYWc4NHY3TFhMLS1mUGp3cnBnQkNjV0tIWHd2cFV1TWNJT0FjekxPRkhtRkt1YXE5SFBwckE1ZENjMENsTjRzWHk4T2xHZ0R4dkV5RTdIY3JCd01BOXNnWF9UXy0xaFhSSGlJaU5JUnFvaWdwcDdQSGFac3owY3c?oc=5",
@@ -12572,18 +12584,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qNkwzVktEckJRb2Fqc2kwVHcwME9QT2ZUcjdvNm5CRHBBRWg2RlFGVDg3ZzNXZkRJc3BZcXB2RU5uc0prZE9veUhjdGg4VWlNYnlIZlFpaWQxQy1MUllwZExTSFRVcjQ?oc=5",
       "published": "2026-08-11T13:59:07.000Z",
       "titleZh": "曼联新闻：红魔在转会窗口完成了吗？"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiswFBVV95cUxQdTgwZy1iUkpDQlVuTkJVVVhjRDIzY2h1RWNVQnRDOGZkOGl4dzBkLWlnX0xCMWFId3o3U0RLaDhLSkEwcHNkc2IwSHlmYS13aEtwcE5TQjFSeXRXZl84cWhPZDFQQk9hcFZWR3ZOV2otbTRnekd6SnRPU3hmdnZtUjRvalZ1cTVERG1vcURSV2tPVkVlUGszU1J5Z05fUzc4Q0FTVGR5U1UwZm5pRFl1MGFuNNIBuAFBVV95cUxQRFRpNWdkdHNxS0kxZzNnNUwzX3EyV1N1NE9BeHU3c3BBNFlMTmJwcUlXa0tYN09IcklHM2lISFlQMUlLSU1JX2xJbDlJRTVETVJTZVBwMWNGTzhhbW9HMG1JdzJmQ1hxaVVHNEJycGpLVlMzTDh2aDMteVJ6MHVEUjdFQTFyczg2NGV1Um5RNnJ5QXNQcjRkSS1ibUlqQ1NWbjI5SzNTaE9FSGZqUWNUOEo0UDdpMjFl",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Manchester Evening News",
-      "tier": 1,
-      "title": "Man United backed to hijack Cristian Romero transfer after defender's green light",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdTgwZy1iUkpDQlVuTkJVVVhjRDIzY2h1RWNVQnRDOGZkOGl4dzBkLWlnX0xCMWFId3o3U0RLaDhLSkEwcHNkc2IwSHlmYS13aEtwcE5TQjFSeXRXZl84cWhPZDFQQk9hcFZWR3ZOV2otbTRnekd6SnRPU3hmdnZtUjRvalZ1cTVERG1vcURSV2tPVkVlUGszU1J5Z05fUzc4Q0FTVGR5U1UwZm5pRFl1MGFuNNIBuAFBVV95cUxQRFRpNWdkdHNxS0kxZzNnNUwzX3EyV1N1NE9BeHU3c3BBNFlMTmJwcUlXa0tYN09IcklHM2lISFlQMUlLSU1JX2xJbDlJRTVETVJTZVBwMWNGTzhhbW9HMG1JdzJmQ1hxaVVHNEJycGpLVlMzTDh2aDMteVJ6MHVEUjdFQTFyczg2NGV1Um5RNnJ5QXNQcjRkSS1ibUlqQ1NWbjI5SzNTaE9FSGZqUWNUOEo0UDdpMjFl?oc=5",
-      "published": "2026-08-11T13:45:00.000Z",
-      "titleZh": "Man United backed to hijack Cristian Romero transfer after defender's green light"
     },
     {
       "id": "Andy Mitten:CBMiygJBVV95cUxONEk3NjRTWkxZLWxaTFVMNWplS3NxVVVuOVlhN05nOXEtSFdXYlo3c21ic3V2TUhZWU5xd1lIeWZ6dVhtaEh5aVI2eXRSM0xxNkpyb2JnUWJfMXdDaWVMcVlKYXRscjE5V0hKM1NQQ1U3NnFwM3dPUXFEeVE2TlpydndqT1M1Y01LWG0zWm5NazdhZWJ3U09sNmRfLUhHeENPVWo3NHpLc2lJaG93RmtFc3V0cWtibjFqLUlMYS1OTUkwaDRiRzF3WG15aFptTXhldmpBZkRyVE1xUjQxVmlQVHYyMWRGWFF4OXdWV2N4RkpMZWh6bUVvX2JtUmdFN0l4TTQ3SmpvalFvVTlPbkZwV2c4SGNWSTBsUWcxQ1I1eWl2b3lSUk8wV0dBNWhwYVVlWUY1UGozWmtmRzRPTlNtR2tjcGhlWnJ2TGc",
@@ -12634,7 +12634,7 @@
       "titleZh": "转会传闻： Hall —纽卡斯尔至曼联Bogue Chitto Ms (Zw11frw4fO)"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-14T12:03:26.606Z",
+  "journalistsUpdatedAt": "2026-08-14T13:36:31.333Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -12346,18 +12346,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Carrick brings a sense of calm",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRVFEeUlXV1VhbmJJNnVfcHdmMmhTUlJ5R085STV5aVdJei16eGpyV3NnR1Zwek03SDA2bERQV185ZHpvZl9sVFZNTU1MZmI1RFF5Q3NaMVF2TkJGb0hYSEhMcUh0WDczbXRqWExEc21CeU8waXlHNXJxVERmU0E?oc=5",
-      "published": "2026-08-14T12:00:13.000Z",
-      "titleZh": "卡里克带来了一种平静的感觉"
-    },
-    {
       "id": "Fabrizio Romano:CBMirAFBVV95cUxOaTRuMjh0SzNwVjZRZDcxTkoza1BlUUNmdEZMdm9Uc2VVbUdibDBvb0FrNElaclh2SC1TOFVBOXdfLUZpanJkY1puR2dLam9mOGwwQ3c4eXRHWGdxUWw3UlY5RVFhUl9VMm9vYWhIXzNJMnJfUUppUmJja3JINFFaa0pCRlp3MjFZSUxUYVEwbGkyOHh1Z2lYVW9iTWFaQ0J0b0JvTVg3TWxIY3Vo",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -12380,6 +12368,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUFwQ3huaFJXSUh4Ry1qNU92SjBaZGFPbFN3ajV2c0NqU1VyUHdFTW1QV25QTXJGS29SVEVlVFFiSUstS2VtcTMxRUNOaGpnV3RwVGJfNlNkaWFlVG93NlRxbmdESHMzeGkxM0hQMkNvdFpuRFB6U3RJdEFVY1lEdmJvRHV4a2hRekg1c0dCbkY1TXBXMHVKY0lGUG1fdFJr?oc=5",
       "published": "2026-08-14T06:25:57.000Z",
       "titleZh": "Manchester United’s greatest players: No 3, George Best"
+    },
+    {
+      "id": "Chris Wheeler:CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Lisandro Martínez Console Matheus Cunha Who Looks ANGRY After The Draw Vs Leeds Bobby Brown (3aFuQz9YZA)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c?oc=5",
+      "published": "2026-08-14T04:56:52.000Z",
+      "titleZh": "利桑德罗·马丁内斯控制台Matheus Cunha抽签后看起来很生气VS利兹·鲍比·布朗（ 3aFuQz9YZA ）"
     },
     {
       "id": "David Ornstein:CBMipwFBVV95cUxNUHYtNHAwRFRmbnJ3dDhaNnBrdVFPWktBTlEzZWNCV1F5NEQwWk5ncWxTckZLTWU2Z2lZNDZmTF9RLWJYVmV6OE5tdV9qZmhDVEg4LVh6elJJSUYwVm9VRUhWZ3RUaHNJUFN1Q3daeDl3Y1ZnTUNNNEJCWWQ4VHA0TkFmSzduTnRfM04zS2VzZE1KYklxV0kzaUZ1cUU3eXJuNTE5UDVrSdIBrAFBVV95cUxNUkRIRDMxcjJPYXoxMHBmSUhQSExDNG9tVFhwN0xjbHk2bW1hTnRXSHVOdG1BcUdST1FNN0d5X3piY0JCS3o2MWljeFU4Y2VPNnNadW9XaXpxQlRZV0NXRV9aNnZ5Tzl2czlEX3ZlcFNTeFA4RFJZbkJxRWw0eWs2MWprbkNCZTA5QXh5MjNZeHhYeGY2NGc3NjlRRU5Yc0lkbUFFYmNHOTNfWEFx",
@@ -12442,6 +12442,18 @@
       "titleZh": "曼联：迈克尔·卡里克今年夏天将继续推动新的转会签约"
     },
     {
+      "id": "Simon Stone:CBMiakFVX3lxTE9nNkJMTWdOcGY3dS14SEJSZEhWVkdQUVU2dVZKZ3pkQTU2UWJubVMyQUhOVjU5SkdLd2JZOU5tRFloVEJrUW8zV3JILU9zd1ZqSjQyRlA2WGJlbk9Pa05KeGUyRUxtUXJYOWc",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Is Harry Amass ready for left-back role?",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nNkJMTWdOcGY3dS14SEJSZEhWVkdQUVU2dVZKZ3pkQTU2UWJubVMyQUhOVjU5SkdLd2JZOU5tRFloVEJrUW8zV3JILU9zd1ZqSjQyRlA2WGJlbk9Pa05KeGUyRUxtUXJYOWc?oc=5",
+      "published": "2026-08-13T12:02:37.000Z",
+      "titleZh": "曼联新闻：哈里·阿马斯准备好担任左后卫了吗？"
+    },
+    {
       "id": "Laurie Whitwell:CBMikAFBVV95cUxQTFBPVkh5OFctQnprV2ZqaWU5TUt5YU5TM3dNTXdYUGEwcHhaOC1PR05Ya1JqM2J3VjkxbC1hV2JSX05GNE5yOVd4OWk4ZnhicktoZ09fLVhuanBzajVGZUpaVEMwMng3dU5BSWJvVERyVVdWckp0Smk5R3pXNlZBTXpZVHFXWUx2elAxajlsQ04",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -12458,7 +12470,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Manchester United win friendly over Leeds after shootout",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmV4aTI1WnU3WHVQUWg1alltOFpOc0dDS2N3WU9oYTRBZnBJaXJsSnR2VnNPaWtjZHFLWUNydk1LYXY2UVdoX2pIc0t5Z0tfdXp5UFl1aTJ2b2FNY3JNUDRMUWJORHE3RmVzRm5WS3VYY2MyX1lhMG1TWHd2eTBTNTdVUkxkVDVfVXU1QVAteVJlVDRCMEw1Sw?oc=5",
@@ -12518,7 +12530,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Youri Tielemans reveals previous Man United attempts to sign him before Old Trafford move",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI?oc=5",
@@ -12614,27 +12626,15 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 1,
       "title": "Romano reveals potential next signing 'offered' to Man Utd; fresh verdict on Hall joining",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnMtNXFDRmlJY0JBUUdzcGZwUWFCZ3JFT0FrM1hLQzNaNkViU0pjRDRKOUlhTmJQYUF0WXMzLWlLN21BNmhqVE1LbHd6ZEVKQ0ZONncwdmpwY1ZLNHNmNG91dWdxRmNDRWR4SF9zNVBGRFZCczNoY0ZzY296ekI2VUdsSDJKUVJ2RU4zV0ItNHl0Mmlka3BNU2dqdjZOR3BzTzJFRA?oc=5",
       "published": "2026-08-11T06:23:44.000Z",
       "titleZh": "Romano透露潜在的下一个签约“提供”给曼联;加入霍尔的新判决"
-    },
-    {
-      "id": "David Ornstein:CBMiW0FVX3lxTE9MMHRaZlNHNXI1U09vdmdraEJaR3lmOVZ6azNHei1tUXdwVUlLa3ZUQjVrS2VrdU9CQkpxcFpJSS1oeTd6OHZyYURnajMwMGdac1c1Qml3V3RsQlk",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 1,
-      "title": "TRANSFER RUMOUR: Hall — Newcastle To Manchester United Bogue Chitto Ms (Zw11frw4fO)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MMHRaZlNHNXI1U09vdmdraEJaR3lmOVZ6azNHei1tUXdwVUlLa3ZUQjVrS2VrdU9CQkpxcFpJSS1oeTd6OHZyYURnajMwMGdac1c1Qml3V3RsQlk?oc=5",
-      "published": "2026-08-10T18:57:46.000Z",
-      "titleZh": "转会传闻： Hall —纽卡斯尔至曼联Bogue Chitto Ms (Zw11frw4fO)"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-14T14:35:49.966Z",
+  "journalistsUpdatedAt": "2026-08-14T15:27:15.261Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

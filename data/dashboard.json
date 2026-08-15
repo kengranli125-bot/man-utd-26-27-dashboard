@@ -14409,18 +14409,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE5aMVVleGtSQkk0cXZqNUhxVWZoZVBoMWpBZFJUUlJqSEVnb2RKbW5pRjlsd2M0UFRBNVZUWExkWGtYQWlEenFHWm1DSjZ3dlRxM3VqaXk0Ql9qZ251Ymd2TkN6TDRnMWNQX1E",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd 2-4 AC Milan: Marcus Rashford returns as Ruben Amorim's Milan highlight issues for Michael Carrick",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMVVleGtSQkk0cXZqNUhxVWZoZVBoMWpBZFJUUlJqSEVnb2RKbW5pRjlsd2M0UFRBNVZUWExkWGtYQWlEenFHWm1DSjZ3dlRxM3VqaXk0Ql9qZ251Ymd2TkN6TDRnMWNQX1E?oc=5",
-      "published": "2026-08-15T19:25:09.000Z",
-      "titleZh": "曼联2-4 AC米兰：马库斯·拉什福德（ Marcus Rashford ）回归，鲁本·阿莫林（ Ruben Amorim ）为迈克尔·卡里克"
-    },
-    {
       "id": "Laurie Whitwell:CBMivwFBVV95cUxPT3R3cnViZ1Z2djRkdjNkeldGNl9YeDk4ZHR3cUJEWkhna1NSZDF3M2t4Z1gxYnFxaTBRc3QwaHVLNTdhb2tTTUFXbE9vdzNNZmtOYmhlNEhmS0NpSjhlazhWUTVHOUlCSmZ1TGtGWnU0ODkwcDlEdFg1Q3NBNXQwRXNQSGg0YUVyRVY1QWxXSFJReEduZVk5bFBtdlc3V3VBLU1EMFBtcDhsQ1ZzRjRXTE81Zk1BMVZ4MW5CTS1qRQ",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -14517,6 +14505,18 @@
       "titleZh": "利桑德罗·马丁内斯控制台Matheus Cunha抽签后看起来很生气VS利兹·鲍比·布朗（ 3aFuQz9YZA ）"
     },
     {
+      "id": "David Ornstein:CBMipwFBVV95cUxNUHYtNHAwRFRmbnJ3dDhaNnBrdVFPWktBTlEzZWNCV1F5NEQwWk5ncWxTckZLTWU2Z2lZNDZmTF9RLWJYVmV6OE5tdV9qZmhDVEg4LVh6elJJSUYwVm9VRUhWZ3RUaHNJUFN1Q3daeDl3Y1ZnTUNNNEJCWWQ4VHA0TkFmSzduTnRfM04zS2VzZE1KYklxV0kzaUZ1cUU3eXJuNTE5UDVrSdIBrAFBVV95cUxNUkRIRDMxcjJPYXoxMHBmSUhQSExDNG9tVFhwN0xjbHk2bW1hTnRXSHVOdG1BcUdST1FNN0d5X3piY0JCS3o2MWljeFU4Y2VPNnNadW9XaXpxQlRZV0NXRV9aNnZ5Tzl2czlEX3ZlcFNTeFA4RFJZbkJxRWw0eWs2MWprbkNCZTA5QXh5MjNZeHhYeGY2NGc3NjlRRU5Yc0lkbUFFYmNHOTNfWEFx",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "esteemedkompany.com",
+      "tier": 1,
+      "title": "A young midfield gem has committed his future to Manchester City",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHYtNHAwRFRmbnJ3dDhaNnBrdVFPWktBTlEzZWNCV1F5NEQwWk5ncWxTckZLTWU2Z2lZNDZmTF9RLWJYVmV6OE5tdV9qZmhDVEg4LVh6elJJSUYwVm9VRUhWZ3RUaHNJUFN1Q3daeDl3Y1ZnTUNNNEJCWWQ4VHA0TkFmSzduTnRfM04zS2VzZE1KYklxV0kzaUZ1cUU3eXJuNTE5UDVrSdIBrAFBVV95cUxNUkRIRDMxcjJPYXoxMHBmSUhQSExDNG9tVFhwN0xjbHk2bW1hTnRXSHVOdG1BcUdST1FNN0d5X3piY0JCS3o2MWljeFU4Y2VPNnNadW9XaXpxQlRZV0NXRV9aNnZ5Tzl2czlEX3ZlcFNTeFA4RFJZbkJxRWw0eWs2MWprbkNCZTA5QXh5MjNZeHhYeGY2NGc3NjlRRU5Yc0lkbUFFYmNHOTNfWEFx?oc=5",
+      "published": "2026-08-13T22:55:26.000Z",
+      "titleZh": "一位年轻的中场球员将自己的未来奉献给了曼城"
+    },
+    {
       "id": "Samuel Luckhurst:CBMiiwFBVV95cUxPNWtiWkIzVzlfM05Xb3Q1V25RZ3JuWU1ObW14Y0tKOUt6RDFOQ2hHaXBGc1BJdnVhTnc0OVltb0dnYnU0dXl1SXk0OS1hUkZmWWNtN0d6SEEtbXVjMWZwWTRUQ2hvcVF4SG14QUotUFMtVWxhbFBKSDdoU241VWpNa1FjTGhlUFVHWHJZ",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -14575,6 +14575,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nNkJMTWdOcGY3dS14SEJSZEhWVkdQUVU2dVZKZ3pkQTU2UWJubVMyQUhOVjU5SkdLd2JZOU5tRFloVEJrUW8zV3JILU9zd1ZqSjQyRlA2WGJlbk9Pa05KeGUyRUxtUXJYOWc?oc=5",
       "published": "2026-08-13T12:02:37.000Z",
       "titleZh": "曼联新闻：哈里·阿马斯准备好担任左后卫了吗？"
+    },
+    {
+      "id": "Simon Stone:CBMiakFVX3lxTFBheHo5aFVuRTlsZllYQXgtVXVsWEpKQXJ6SkpfWmdkOGJyUTMtQ194S2tteVl6dDI5RkVvWFdNQVhob3dMeUFKYVphM1o5OFBmR3RFOUNueEljeWZ2R0p6dURlMUJDdDNiUlE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Family affair at Croke Park caps Mee's special night",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBheHo5aFVuRTlsZllYQXgtVXVsWEpKQXJ6SkpfWmdkOGJyUTMtQ194S2tteVl6dDI5RkVvWFdNQVhob3dMeUFKYVphM1o5OFBmR3RFOUNueEljeWZ2R0p6dURlMUJDdDNiUlE?oc=5",
+      "published": "2026-08-13T08:14:33.000Z",
+      "titleZh": "曼联新闻：克罗克公园的家庭关系限制了Mee的特别之夜"
     },
     {
       "id": "Laurie Whitwell:CBMikAFBVV95cUxQTFBPVkh5OFctQnprV2ZqaWU5TUt5YU5TM3dNTXdYUGEwcHhaOC1PR05Ya1JqM2J3VjkxbC1hV2JSX05GNE5yOVd4OWk4ZnhicktoZ09fLVhuanBzajVGZUpaVEMwMng3dU5BSWJvVERyVVdWckp0Smk5R3pXNlZBTXpZVHFXWUx2elAxajlsQ04",
@@ -14673,18 +14685,6 @@
       "titleZh": "为什么曼联拒绝Baleba For Mateus Fernandes Sheridan Gorman （ f2Lccar0n3 ）"
     },
     {
-      "id": "David Ornstein:CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
-      "published": "2026-08-11T15:16:47.000Z",
-      "titleZh": "The Transfer DealSheet ：曼联、阿森纳、利物浦、皇家马德里等地的最新消息- The Athletic"
-    },
-    {
       "id": "Simon Stone:CBMiZ0FVX3lxTE1qNkwzVktEckJRb2Fqc2kwVHcwME9QT2ZUcjdvNm5CRHBBRWg2RlFGVDg3ZzNXZkRJc3BZcXB2RU5uc0prZE9veUhjdGg4VWlNYnlIZlFpaWQxQy1MUllwZExTSFRVcjQ",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -14697,7 +14697,7 @@
       "titleZh": "曼联新闻：红魔在转会窗口完成了吗？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-15T22:34:50.885Z",
+  "journalistsUpdatedAt": "2026-08-15T22:55:18.718Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

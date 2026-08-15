@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:56:56.092Z",
+  "updatedAt": "2026-08-15T15:28:20.291Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -10981,10 +10981,10 @@
               "substitutionTime": ""
             },
             {
-              "id": "307527",
-              "name": "Yunus Musah",
-              "nameZh": "Yunus Musah",
-              "jersey": "80",
+              "id": "303973",
+              "name": "Ardon Jashari",
+              "nameZh": "Ardon Jashari",
+              "jersey": "30",
               "position": "CM-L",
               "starter": true,
               "active": true,
@@ -10993,23 +10993,11 @@
               "substitutionTime": ""
             },
             {
-              "id": "303973",
-              "name": "Ardon Jashari",
-              "nameZh": "Ardon Jashari",
-              "jersey": "30",
+              "id": "307527",
+              "name": "Yunus Musah",
+              "nameZh": "Yunus Musah",
+              "jersey": "80",
               "position": "CM-R",
-              "starter": true,
-              "active": true,
-              "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
-            },
-            {
-              "id": "228298",
-              "name": "Samuel Chukwueze",
-              "nameZh": "Samuel Chukwueze",
-              "jersey": "21",
-              "position": "LM",
               "starter": true,
               "active": true,
               "subbedIn": false,
@@ -11021,6 +11009,18 @@
               "name": "Pervis Estupiñán",
               "nameZh": "Pervis Estupiñán",
               "jersey": "2",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "228298",
+              "name": "Samuel Chukwueze",
+              "nameZh": "Samuel Chukwueze",
+              "jersey": "21",
               "position": "RM",
               "starter": true,
               "active": true,
@@ -11041,10 +11041,10 @@
               "substitutionTime": ""
             },
             {
-              "id": "186505",
-              "name": "Ruben Loftus-Cheek",
-              "nameZh": "Ruben Loftus-Cheek",
-              "jersey": "8",
+              "id": "359754",
+              "name": "Alphadjo Cissè",
+              "nameZh": "Alphadjo Cissè",
+              "jersey": "70",
               "position": "CF-L",
               "starter": true,
               "active": true,
@@ -11053,10 +11053,10 @@
               "substitutionTime": ""
             },
             {
-              "id": "359754",
-              "name": "Alphadjo Cissè",
-              "nameZh": "Alphadjo Cissè",
-              "jersey": "70",
+              "id": "186505",
+              "name": "Ruben Loftus-Cheek",
+              "nameZh": "Ruben Loftus-Cheek",
+              "jersey": "8",
               "position": "CF-R",
               "starter": true,
               "active": true,

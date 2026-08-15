@@ -12370,18 +12370,6 @@
       "titleZh": "奥恩斯坦透露加布里埃尔·马蒂内利决定离开阿森纳加拉塔萨雷"
     },
     {
-      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 2,
-      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
-      "published": "2026-08-14T16:36:47.000Z",
-      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ RyJBPzzEur ）"
-    },
-    {
       "id": "Samuel Luckhurst:CBMiiAFBVV95cUxQTG9PZDZhcGJLY1RSOVhiazFtRXJsaG1SenZvV05LOHR3ajlrWkJTVzdtY2FxdXhWczRuWkFYYlJrRlNjMDRZZ0JkX1lSSGdUd1E1T0d2RlN2Q0NSLXZZZndycXRqYXZjNFppR05Cd1ZYejZnQWVkTGhUem9kOUNmUmY0N1l3Q0RN",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -12398,12 +12386,24 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 1,
       "title": "Man Utd: Romano reveals three more signings INEOS could make this summer – ‘I still expect’",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcURWYmxLMUdubVBzVGhtUGszMF8yaEQxazZqaE5DY2xMcFBZMjhUR3ZQeHJmaE1EYTNldm1NdTdaVXFqXzEwOGdhZldKMndkYldDeHFQWmsyTmVnUXU5VDQ2RjkwT0ZKUGgwbE9lMW5iNV9HVDViRzg0OW5oekFGcUwyWHltMTZBTjlPMkZ3dFhMcHBhYWFLMVVXa2EtQlM0MFFOSHJPdw?oc=5",
       "published": "2026-08-14T08:37:18.000Z",
       "titleZh": "曼联：罗马诺透露INEOS今年夏天还有三次签约– “我仍然期待”"
+    },
+    {
+      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (RyJBPzzEur)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
+      "published": "2026-08-14T07:44:40.000Z",
+      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ RyJBPzzEur ）"
     },
     {
       "id": "Chris Wheeler:CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c",
@@ -12634,7 +12634,7 @@
       "titleZh": "震惊足球的转会：曼联三冠王安迪·科尔（ Andy Cole ）揭开了他在老特拉福德（ Old Trafford ）时代的门槛，以及让他在那里的意外举动"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-15T11:31:58.391Z",
+  "journalistsUpdatedAt": "2026-08-15T11:53:27.867Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

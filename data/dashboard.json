@@ -14457,6 +14457,18 @@
       "titleZh": "曼联输给阿莫林的米兰：哪里出错了？拉什福德穿9号衣服意味着他要留下来吗？"
     },
     {
+      "id": "Rob Dawson:CBMilAFBVV95cUxPdkZYWkEyVGxGeHNkMDVUeUNVZ1M1SjJxRnRUam1KVFRFMHRxWFhvUUJaUTF1MTVneEg5eU93a3BVd19YcVVRdVljNXVXM3JSS3hFcFpKTUtrRTJtdzBLWW0tRjBmUU1xbVVKWGxvSm5lU2hMWVhNUkVvLXVtMFpjQXpZNVU4bnZodGFWazBjLTVGeEQt",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "espn.com",
+      "tier": 1,
+      "title": "Carrick has steadied Man United, but can he take the next step?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkZYWkEyVGxGeHNkMDVUeUNVZ1M1SjJxRnRUam1KVFRFMHRxWFhvUUJaUTF1MTVneEg5eU93a3BVd19YcVVRdVljNXVXM3JSS3hFcFpKTUtrRTJtdzBLWW0tRjBmUU1xbVVKWGxvSm5lU2hMWVhNUkVvLXVtMFpjQXpZNVU4bnZodGFWazBjLTVGeEQt?oc=5",
+      "published": "2026-08-15T07:50:00.000Z",
+      "titleZh": "卡里克已经稳定了曼联，但他能迈出下一步吗？"
+    },
+    {
       "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -14557,12 +14569,24 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd: Michael Carrick will keep pushing new transfer signings this summer",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkR3ZPWlpzTlJDQ1JtUnRManh2UXZhbUlPang4NlVEX3ptRjBYNDhObDZsbXgtenFHTWxYLUdPWVRjRC1QeFBobGJZeWVBeW02cVdPR2tmOE84NTR1QW1ZYThLdTJkMkU?oc=5",
       "published": "2026-08-13T16:21:51.000Z",
       "titleZh": "曼联：迈克尔·卡里克今年夏天将继续推动新的转会签约"
+    },
+    {
+      "id": "Simon Stone:CBMiZ0FVX3lxTE81X04yU3haMmxmNnlXSWFWM1hFbGdCUVoySkZBVEJObTNMSzF1M1QzYUNmdHhZOFdNQXpxZWotMkhYVHp4bkU1dVZmeXFod1pBbk9pUVdqbHV1WTNEa25CbEpXRlZaeVk",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Michael Carrick brings a sense of calm to club",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81X04yU3haMmxmNnlXSWFWM1hFbGdCUVoySkZBVEJObTNMSzF1M1QzYUNmdHhZOFdNQXpxZWotMkhYVHp4bkU1dVZmeXFod1pBbk9pUVdqbHV1WTNEa25CbEpXRlZaeVk?oc=5",
+      "published": "2026-08-13T16:02:50.000Z",
+      "titleZh": "曼联新闻：迈克尔·卡里克为俱乐部带来平静感"
     },
     {
       "id": "Simon Stone:CBMiakFVX3lxTE9nNkJMTWdOcGY3dS14SEJSZEhWVkdQUVU2dVZKZ3pkQTU2UWJubVMyQUhOVjU5SkdLd2JZOU5tRFloVEJrUW8zV3JILU9zd1ZqSjQyRlA2WGJlbk9Pa05KeGUyRUxtUXJYOWc",
@@ -14605,24 +14629,12 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Manchester United win friendly over Leeds after shootout",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmV4aTI1WnU3WHVQUWg1alltOFpOc0dDS2N3WU9oYTRBZnBJaXJsSnR2VnNPaWtjZHFLWUNydk1LYXY2UVdoX2pIc0t5Z0tfdXp5UFl1aTJ2b2FNY3JNUDRMUWJORHE3RmVzRm5WS3VYY2MyX1lhMG1TWHd2eTBTNTdVUkxkVDVfVXU1QVAteVJlVDRCMEw1Sw?oc=5",
       "published": "2026-08-12T20:42:00.000Z",
       "titleZh": "曼联在枪战后以友谊战胜利兹"
-    },
-    {
-      "id": "Rob Dawson:CBMijAFBVV95cUxOSTN5eGpTOWF5NTA5ek1sdDh6X0FuanhLZG40b19qdmRwZTJwUTF0ak5ISWRWVjJUVzk2ZV9EeWl2OTUwUHVTMWREMGkwNDhvSDhucEVHX1lwSmdscjJRMUZpckZCaHktNlpzVklyOXpvMXR3eWo5cTdDZ0JaU2dybG43ZGlhZWNKUm9wWQ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "Manchester United keeping tabs on Real Madrid duo Camavinga and Tchouameni",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTN5eGpTOWF5NTA5ek1sdDh6X0FuanhLZG40b19qdmRwZTJwUTF0ak5ISWRWVjJUVzk2ZV9EeWl2OTUwUHVTMWREMGkwNDhvSDhucEVHX1lwSmdscjJRMUZpckZCaHktNlpzVklyOXpvMXR3eWo5cTdDZ0JaU2dybG43ZGlhZWNKUm9wWQ?oc=5",
-      "published": "2026-08-12T18:43:20.000Z",
-      "titleZh": "曼联密切关注皇家马德里二人组Camavinga和Tchouameni"
     },
     {
       "id": "Rob Dawson:CBMickFVX3lxTFB6WDU2RkhFRkVFUHFsX1dBazM0amJTOVNtTU9fUVdSc3dHX2JWMmxRRXJrdEVzcGhJaXd5cXlPa3l6Q01zbzlEVnlqU0I0dmhMdU0xTThqSTlJbGRCdm1BUDN6bk1YSHpaZjNGOXN4Ul83Zw",
@@ -14661,18 +14673,6 @@
       "titleZh": "Youri Tielemans帮助曼联重回“巅峰”、“令人惊叹”的拉什福德和“嗅觉足球”"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
-      "tier": 1,
-      "title": "Manchester United: Youri Tielemans on his dream move, injuries and playing with Marcus Rashford",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU?oc=5",
-      "published": "2026-08-12T11:00:23.000Z",
-      "titleZh": "曼联：尤里·蒂勒曼斯（ Youri Tielemans ）梦寐以求的举动，受伤并与马库斯·拉什福德（ Marcus R"
-    },
-    {
       "id": "Fabrizio Romano:CBMilgJBVV95cUxONDRJNjNmemw4S2VEN3Q4WElNRVZuWjVsQXV4Q2pKcEQxcUJoSGFINzJDMk5IS2pERlprc21sSkU2eS1qMlhEX2M5bzEyN01mNTJPcDlONHI3X3p4QndYQVhZODlNZEVJd0ZsNm51bkEzQ0x5WFFQREV0bkpvNEZfTDdYa19jamQ3anAyQXIycGhNTGRkNkpib2xvVHFnbFl5MTRSNnJJVW1TRkZTVXRObm05Vl9tbzhsTnplVTY5NTZLOTZPQ0huZ3lFUTZyb2dvdmI5UjhMUTVaSkNLVzZXa0YtTkYtdVN2U3paaTRHVjRNSUdhbFpGWWp2aUo4X3E0Zk43RnNGaWczYTNuZ3hpVDhTb0Z6dw",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -14697,7 +14697,7 @@
       "titleZh": "Aurélien Tchouaméni到曼联？我的反应UFO文件（ 2CpQTtFFeg ）"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-16T15:19:09.918Z",
+  "journalistsUpdatedAt": "2026-08-16T15:41:51.353Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

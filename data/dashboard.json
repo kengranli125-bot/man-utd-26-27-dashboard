@@ -14589,6 +14589,18 @@
       "titleZh": "曼联新闻：哈里·阿马斯准备好担任左后卫了吗？"
     },
     {
+      "id": "Simon Stone:CBMiakFVX3lxTFBheHo5aFVuRTlsZllYQXgtVXVsWEpKQXJ6SkpfWmdkOGJyUTMtQ194S2tteVl6dDI5RkVvWFdNQVhob3dMeUFKYVphM1o5OFBmR3RFOUNueEljeWZ2R0p6dURlMUJDdDNiUlE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Family affair at Croke Park caps Mee's special night",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBheHo5aFVuRTlsZllYQXgtVXVsWEpKQXJ6SkpfWmdkOGJyUTMtQ194S2tteVl6dDI5RkVvWFdNQVhob3dMeUFKYVphM1o5OFBmR3RFOUNueEljeWZ2R0p6dURlMUJDdDNiUlE?oc=5",
+      "published": "2026-08-13T08:14:33.000Z",
+      "titleZh": "曼联新闻：克罗克公园的家庭关系限制了Mee的特别之夜"
+    },
+    {
       "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -14661,18 +14673,6 @@
       "titleZh": "Youri Tielemans帮助曼联重回“巅峰”、“令人惊叹”的拉什福德和“嗅觉足球”"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United: Youri Tielemans on his dream move, injuries and playing with Marcus Rashford",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aRF82NGJySnA2alBtWUxVdWVsazVJQTMxRG9wSTlhay1rY2hoNDQ2aGRrOGI4S2tiSWdwOS1FV3ZqOV9fcFNZbXN5OEZRZExfNVlCUEVpYm1OWEhHd2lVb2NUS0RrZVU?oc=5",
-      "published": "2026-08-12T11:00:23.000Z",
-      "titleZh": "曼联：尤里·蒂勒曼斯（ Youri Tielemans ）梦寐以求的举动，受伤并与马库斯·拉什福德（ Marcus R"
-    },
-    {
       "id": "Rob Dawson:CBMiuAFBVV95cUxNNlQtUE9xdTZzRENhdHdYaGFTMHVuMWprS0UwYk5YOVhyUDJlLVQwVW5LVFhUcFZQbXBRRzJPN2pNRThRT2djZ2pFSlBoY1RBelliaFBfVmRxdVF5NG1VaGR5UUw0Y0xTYUwwalloU1FGYXRqY0V2clR1T2VmN1ZXREI3Qm9XT2Z1bHA5N1FLSmFVSWZBRE5QSjI2dDdlV0NZQ3FYRkZfOTBQWFJZVHBnN093bDdQb0RI",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -14697,7 +14697,7 @@
       "titleZh": "Myles Lewis-Skelly转会新闻"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-16T11:11:27.673Z",
+  "journalistsUpdatedAt": "2026-08-16T11:32:06.059Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

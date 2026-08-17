@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:46:06.862Z",
+  "updatedAt": "2026-08-17T01:54:06.426Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -12674,7 +12674,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-16T18:46:06.856Z"
+        "generatedAt": "2026-08-17T01:54:05.423Z"
       }
     },
     {
@@ -13595,6 +13595,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Cristiano Ronaldo reveals retirement plans: 'Probably my last year'",
+      "published": "2026-08-16T18:05:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49629071/cristiano-ronaldo-retire-2027-portugal-man-united-real-madrid",
+      "image": "https://a.espncdn.com/photo/2026/0720/r1691807_1296x729_16-9.jpg",
+      "titleZh": "克里斯蒂亚诺·罗纳尔多透露退休计划： “可能是我的最后一年”"
+    },
+    {
       "title": "Harry Maguire hopes 'huge threat' Marcus Rashford stays at Man United",
       "published": "2026-08-16T11:45:46Z",
       "url": "https://www.espn.com/soccer/story/_/id/49627320/harry-maguire-hopes-huge-threat-marcus-rashford-stays-man-united",
@@ -13670,13 +13677,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49582486/premier-league-2026-27-preseason-winners-losers-arsenal-chelsea-man-city-man-united-liverpool",
       "image": "https://a.espncdn.com/photo/2026/0814/r1701635_1296x729_16-9.jpg",
       "titleZh": "2026-27赛季前超级联赛的赢家和输家"
-    },
-    {
-      "title": "Carrick has steadied Man United, but can he take the next step?",
-      "published": "2026-08-15T07:51:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49610623/carrick-steadied-man-united-take-next-step",
-      "image": "https://a.espncdn.com/photo/2026/0814/r1701741_1296x729_16-9.jpg",
-      "titleZh": "卡里克已经稳定了曼联，但他能迈出下一步吗？"
     }
   ],
   "transfers": [],

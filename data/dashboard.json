@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T13:04:41.392Z",
+  "updatedAt": "2026-08-17T18:56:52.741Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -12674,7 +12674,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-17T13:04:40.455Z"
+        "generatedAt": "2026-08-17T18:56:52.734Z"
       }
     },
     {
@@ -12799,7 +12799,7 @@
     },
     {
       "id": "401878773",
-      "date": "2026-10-10T14:00Z",
+      "date": "2026-10-10T16:30Z",
       "status": "upcoming",
       "venue": "Old Trafford",
       "competition": "英超",
@@ -12823,7 +12823,7 @@
     },
     {
       "id": "401879260",
-      "date": "2026-10-17T14:00Z",
+      "date": "2026-10-18T13:00Z",
       "status": "upcoming",
       "venue": "Elland Road",
       "competition": "英超",
@@ -12847,7 +12847,7 @@
     },
     {
       "id": "401879252",
-      "date": "2026-10-24T14:00Z",
+      "date": "2026-10-25T14:00Z",
       "status": "upcoming",
       "venue": "Old Trafford",
       "competition": "英超",
@@ -12871,7 +12871,7 @@
     },
     {
       "id": "401879248",
-      "date": "2026-10-31T15:00Z",
+      "date": "2026-10-31T12:30Z",
       "status": "upcoming",
       "venue": "Stamford Bridge",
       "competition": "英超",

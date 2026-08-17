@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T07:15:10.459Z",
+  "updatedAt": "2026-08-17T13:04:41.392Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -12674,7 +12674,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-17T07:15:09.568Z"
+        "generatedAt": "2026-08-17T13:04:40.455Z"
       }
     },
     {
@@ -13595,8 +13595,15 @@
   "scorers": [],
   "news": [
     {
+      "title": "Premier League Top 50: Ranking best players before 2026-27 season",
+      "published": "2026-08-17T07:53:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49610912/premier-league-top-50-ranking-best-players-2026-27-season-liverpool-arsenal-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0815/r1701942_1296x729_16-9.jpg",
+      "titleZh": "英超50强：在2026-27赛季之前排名最佳球员"
+    },
+    {
       "title": "Predicting the 2026-27 Premier League table: From Arsenal to Hull, where all 20 teams will finish",
-      "published": "2026-08-17T07:13:19Z",
+      "published": "2026-08-17T07:44:49Z",
       "url": "https://www.espn.com/soccer/story/_/id/49551952/predicting-2026-27-premier-league-table-arsenal-man-united-liverpool-hull",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698781_1296x729_16-9.jpg",
       "titleZh": "预测2026-27赛季英超积分榜：从阿森纳到赫尔，所有20支球队都将完成"
@@ -13670,13 +13677,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49619687/man-united-2-4-ac-milan-marcus-rashford-makes-first-appearance-red-devils-december-2024",
       "image": "https://a.espncdn.com/photo/2026/0815/r1702115_1296x729_16-9.jpg",
       "titleZh": "曼联2-4 AC米兰：马库斯·拉什福德饰演鲁本·阿莫林，红魔出没"
-    },
-    {
-      "title": "Ruben Amorim faces Man United reunion amid rocky AC Milan start",
-      "published": "2026-08-15T08:08:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49574250/ruben-amorim-faces-man-united-reunion-amid-rocky-ac-milan-start",
-      "image": "https://a.espncdn.com/photo/2026/0810/r1699881_1296x729_16-9.jpg",
-      "titleZh": "鲁本·阿莫林（ Ruben Amorim ）在摇滚的AC米兰开局中面对曼联重聚"
     }
   ],
   "transfers": [],

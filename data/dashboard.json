@@ -14409,11 +14409,23 @@
   ],
   "journalists": [
     {
+      "id": "Andy Mitten:CBMinwFBVV95cUxPTEpFLVI1ZFo0WTY0cFZFMUVfcFgzcFpreVdkOFlEZDJMUnV2UU5hdEhjdlY3Q3JwMzJNaFFuWDh5VjZVbTc5aVBfNUZvcVRLR3JmSkRybjlTV3ZMOWRTd2tBV3B2cl9rSGdDRFdSLXY3R2p1ZE02ZHVVd0E2bG8tLWptazRfb3ZrdDZvOER6LXdoX3Z3NnJESlhtUWxRMTQ",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United’s greatest players: No 2, Ryan Giggs",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEpFLVI1ZFo0WTY0cFZFMUVfcFgzcFpreVdkOFlEZDJMUnV2UU5hdEhjdlY3Q3JwMzJNaFFuWDh5VjZVbTc5aVBfNUZvcVRLR3JmSkRybjlTV3ZMOWRTd2tBV3B2cl9rSGdDRFdSLXY3R2p1ZE02ZHVVd0E2bG8tLWptazRfb3ZrdDZvOER6LXdoX3Z3NnJESlhtUWxRMTQ?oc=5",
+      "published": "2026-08-18T04:25:31.000Z",
+      "titleZh": "曼联最伟大的球员：排名第二， Ryan Giggs"
+    },
+    {
       "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "Mshale",
+      "source": "mshale.com",
       "tier": 2,
       "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
@@ -14473,7 +14485,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "derryjournal.com",
+      "source": "Derry Journal",
       "tier": 2,
       "title": "Manchester United legend Andy Cole recounts stories from glittering career at Derry's Nerve Centre",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXQwdkFzRkk1TzJqTURTbXdMNmFjN3UwaklQb2tLQ0tDdTUzZEJQZWxzN09NTU9mMUk3TlNaWmExNGRIMGxHM0pMbUJxQUZVdTVBN0lBNVF1X0R2OGN2RVNRc3BIbHFib3JzV0dHWmdWOXlFbmNadkJoNlVXQnNUQ3c2YThEY3NQcHF3emtBU2pxVUZ5aE9MaEw1bW5XRm1IR2hsXzVFTkNXR0NsbGNVYmYwV21vRHRUWW9nVnFJcjVTMFlhQ2NLWQ?oc=5",
@@ -14577,18 +14589,6 @@
       "titleZh": "曼联输给阿莫林的米兰：哪里出错了？拉什福德穿9号衣服意味着他要留下来吗？"
     },
     {
-      "id": "Andy Mitten:CBMi_wFBVV95cUxQdWdqcHZLdy1MaVpVazljVlhSVkx4THF1OXk1cW9zN0tNVnd3TXlOd1J2RkpVc24zQkF1U2R3X1Ztb3RENDZEcGVFb1lPZ2VwWHZqNHpCY3pNbzF0YmJBX2dMVy1sVDIzYTdDTXRlZnNRcjdxRGhCVTJ1ak9PMWYxWGh5TVVSdnRlQjJqMTdISjFrSkxhNk84TU90V3NrMDZScjRWOU9xUGRJR1FjSWJyQUl0aXpuOTFDN2haNGxzQ3E3RThLclpOMmFvSWhNQjNMdk5jaXBZZHExeVpRaTh2M3JWRUxjN0NBcTdqMVREckJ0OE94NnNwdWEwV2NYTjg",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The Irish News",
-      "tier": 2,
-      "title": "‘I’m one of his biggest fans’: Andy Cole believes Marcus Rashford still has a future with Manchester United",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdWdqcHZLdy1MaVpVazljVlhSVkx4THF1OXk1cW9zN0tNVnd3TXlOd1J2RkpVc24zQkF1U2R3X1Ztb3RENDZEcGVFb1lPZ2VwWHZqNHpCY3pNbzF0YmJBX2dMVy1sVDIzYTdDTXRlZnNRcjdxRGhCVTJ1ak9PMWYxWGh5TVVSdnRlQjJqMTdISjFrSkxhNk84TU90V3NrMDZScjRWOU9xUGRJR1FjSWJyQUl0aXpuOTFDN2haNGxzQ3E3RThLclpOMmFvSWhNQjNMdk5jaXBZZHExeVpRaTh2M3JWRUxjN0NBcTdqMVREckJ0OE94NnNwdWEwV2NYTjg?oc=5",
-      "published": "2026-08-14T19:00:00.000Z",
-      "titleZh": "“我是他最大的粉丝之一” ：安迪·科尔相信马库斯·拉什福德在曼联仍有前途"
-    },
-    {
       "id": "David Ornstein:CBMi0wFBVV95cUxOWEU1MWNzbnlJVGtTRnNUUXBUMy1KeEpKdDNNMFUxX0FGRmwzaW1tS0tLSDJmOHhTbDBGbzZOYjNjelBieXVHeElNcGhvdHpmUUJCcVpab2U4UnRKNzNLdlJYZHM2TGR3TXhfQkJrcHM1SEZDbWhWSWFuYUlwZkFXNFI1WURvSzJBcHhqX216NjZPcld6Um1WcjJKdDVsN1l4MnJORTdHcmRuSjRZVWg5SV8wZkI4aVZScG5OWFNFQ0VVMkRNd3U4VVM4QThuaXpqaF9r",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -14605,7 +14605,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd files: Five stars set for exits in frantic end to transfer window and how JJ Gabriel initiation video came out",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTG9PZDZhcGJLY1RSOVhiazFtRXJsaG1SenZvV05LOHR3ajlrWkJTVzdtY2FxdXhWczRuWkFYYlJrRlNjMDRZZ0JkX1lSSGdUd1E1T0d2RlN2Q0NSLXZZZndycXRqYXZjNFppR05Cd1ZYejZnQWVkTGhUem9kOUNmUmY0N1l3Q0RN?oc=5",
@@ -14641,7 +14641,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "London Evening Standard",
+      "source": "standard.co.uk",
       "tier": 1,
       "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
@@ -14689,7 +14689,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Manchester Utd coach Carrick on 'dream' Andrey Santos and what he told Mainoo",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWtiWkIzVzlfM05Xb3Q1V25RZ3JuWU1ObW14Y0tKOUt6RDFOQ2hHaXBGc1BJdnVhTnc0OVltb0dnYnU0dXl1SXk0OS1hUkZmWWNtN0d6SEEtbXVjMWZwWTRUQ2hvcVF4SG14QUotUFMtVWxhbFBKSDdoU241VWpNa1FjTGhlUFVHWHJZ?oc=5",
@@ -14697,7 +14697,7 @@
       "titleZh": "曼联教练卡里克谈论“梦想”安德烈·桑托斯以及他告诉Mainoo的事情"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-18T13:27:12.258Z",
+  "journalistsUpdatedAt": "2026-08-18T14:04:22.698Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

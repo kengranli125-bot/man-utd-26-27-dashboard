@@ -14409,6 +14409,18 @@
   ],
   "journalists": [
     {
+      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
+      "published": "2026-08-18T01:25:04.000Z",
+      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ vRyJBPzzEu ）"
+    },
+    {
       "id": "Laurie Whitwell:CBMingFBVV95cUxNeXk3SXJNSDF6VndTOW9XUU5IV0JyUW56STIwSkhSSElTakE5M2dTQ3RHNmJ2MExzNW5PWVg3SFlzV2ZtbnVrZFJpaTZYS09LSXowUWREUkRMVWU1ZUJKd0h2YmlpWm85clp5cWRVblpmaTBFMmxIWWxsVzYzWTROeVpYcVRXdmpqT21pTHREQUZWbE15RFVtNVBKcVVtdw",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -14431,6 +14443,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2JLZS1vUUk1Wi1VTXpfY3NHaGdPdDR2RUN4MEJwTFZsWEFlcmM1YmFERW9CM29EblZ2aEd1ZjBuaS1TdDRWV09yMkJKeFRlSHUyZTV3SHFqWVQ0cjBzT1dRYWlBMVhrSDNTV0M1US04ZG9lX1FMZmM2dUJUbFplMGRsZmZ6V0ItX1I2d2ZCRm1saE0?oc=5",
       "published": "2026-08-17T18:41:30.000Z",
       "titleZh": "曼联与布鲁诺·费尔南德斯（ Bruno Fernandes ）进行合同谈判，加拉塔萨雷（ Galatasaray ）提出利润丰厚"
+    },
+    {
+      "id": "James Ducker:CBMisgFBVV95cUxQSmdGdUstZ0tZa0lycURmdDY2OWszY1FlMjhRcW4ycVZpeU9wZ0xRaVpYTVlqY09QVXpYVkhHZHZmcVZ5MUs2VzZTZi1oNXVOUlNnN0VZQjNYSlVsUDB5eWRBb2Jfdng5N0UtcEhjMUJyTjNLNTJBRVJpak9rYlJIMjQtSDVNQ0hwbnpPTk1nM25jZDI1YlhNcnRPWm11Ykh5VVMwbEFRdGM1RjBTbktHWU5B",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "Dailysports",
+      "tier": 1,
+      "title": "Generous €50 million offer! Turkish giants attempt to lure Manchester United's leader",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSmdGdUstZ0tZa0lycURmdDY2OWszY1FlMjhRcW4ycVZpeU9wZ0xRaVpYTVlqY09QVXpYVkhHZHZmcVZ5MUs2VzZTZi1oNXVOUlNnN0VZQjNYSlVsUDB5eWRBb2Jfdng5N0UtcEhjMUJyTjNLNTJBRVJpak9rYlJIMjQtSDVNQ0hwbnpPTk1nM25jZDI1YlhNcnRPWm11Ykh5VVMwbEFRdGM1RjBTbktHWU5B?oc=5",
+      "published": "2026-08-17T18:07:26.000Z",
+      "titleZh": "慷慨的5000万€优惠！土耳其巨人试图引诱曼联领袖"
     },
     {
       "id": "James Ducker:CBMiW0FVX3lxTFA0cmRFNmh3QlQwSmhqbDlZYm9qSGNXZ1lJc0VBc0FqRnNUMm9LSTBaTG1FMlFQT0l2dFVqcGRtb1pBMWRrMDJUSUpmRWZoOTAwRW1DSmVTSVBqLVk",
@@ -14469,23 +14493,11 @@
       "titleZh": "Galatasaray将推出4300万英镑的Bruno Fernandes竞标并提供大幅加薪"
     },
     {
-      "id": "James Ducker:CBMiakFVX3lxTE1yTTJaeVBLLUdiZ2E4a1p1YWJoVHJhX0hyXzlKM1BNMTJlRUpSNEI4MmVCZ0dwUmozdGtpNklwYmdvZVZycGlWcDgtb1lmUjBWRlBTYWUxU0lmaElxSWRRSGw2OFNKb2NJSXc",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "hitc.com",
-      "tier": 1,
-      "title": "Man Utd transfers LIVE August 18 latest on incoming and outgoing deals",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yTTJaeVBLLUdiZ2E4a1p1YWJoVHJhX0hyXzlKM1BNMTJlRUpSNEI4MmVCZ0dwUmozdGtpNklwYmdvZVZycGlWcDgtb1lmUjBWRlBTYWUxU0lmaElxSWRRSGw2OFNKb2NJSXc?oc=5",
-      "published": "2026-08-17T09:57:49.000Z",
-      "titleZh": "曼联最新传入和传出交易于8月18日实时转账"
-    },
-    {
       "id": "Andy Mitten:CBMizAFBVV95cUxQU3A1VzRGT0lOZGNYUVFhbWMyd2NfdW03Q01XOFVTai16WlJXTzF0YU95QkVoWE1FMHlnRHVjd1k3RWptWHJLYjJ3dUxRaXVzQlpiNFN1Tm1SVWFkLXBtRTRDUEdiODNWRTJpaEg4cU1rb21tZmpXX3BDSDRxQUwyTmdvbThrVzh6OHZvSkJWQ2VFdm5HQ1Z0NjE1aTdPOHhuc1FRaHJWa0F0VGU3Zmh5R01tcGJ5X25qNzNHaUpQdWhheE9mNVRWSzlEUWM",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "derrynow.com",
+      "source": "Derry Now",
       "tier": 2,
       "title": "IN PICTURES:: Man Utd's Andy Cole and Andy Mitten bring live tour to Derry",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU3A1VzRGT0lOZGNYUVFhbWMyd2NfdW03Q01XOFVTai16WlJXTzF0YU95QkVoWE1FMHlnRHVjd1k3RWptWHJLYjJ3dUxRaXVzQlpiNFN1Tm1SVWFkLXBtRTRDUEdiODNWRTJpaEg4cU1rb21tZmpXX3BDSDRxQUwyTmdvbThrVzh6OHZvSkJWQ2VFdm5HQ1Z0NjE1aTdPOHhuc1FRaHJWa0F0VGU3Zmh5R01tcGJ5X25qNzNHaUpQdWhheE9mNVRWSzlEUWM?oc=5",
@@ -14497,7 +14509,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "Manchester United: What shape are club in ahead of Michael Carrick's first full season in charge?",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PTXBEZXFtNDRSczdKTE0ySzIySy1TSVc5YXJhNnZpYk5URkkyWFo5ZmgxaHJWcXZGblZwT3dPNHdCYmdVdUdkRk1aa3EzOU9SR1drX09ZSG8wSERlVkRKUTJkc3ZhVTNtUHc?oc=5",
@@ -14587,18 +14599,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWEU1MWNzbnlJVGtTRnNUUXBUMy1KeEpKdDNNMFUxX0FGRmwzaW1tS0tLSDJmOHhTbDBGbzZOYjNjelBieXVHeElNcGhvdHpmUUJCcVpab2U4UnRKNzNLdlJYZHM2TGR3TXhfQkJrcHM1SEZDbWhWSWFuYUlwZkFXNFI1WURvSzJBcHhqX216NjZPcld6Um1WcjJKdDVsN1l4MnJORTdHcmRuSjRZVWg5SV8wZkI4aVZScG5OWFNFQ0VVMkRNd3U4VVM4QThuaXpqaF9r?oc=5",
       "published": "2026-08-14T17:26:58.000Z",
       "titleZh": "奥恩斯坦透露加布里埃尔·马蒂内利决定离开阿森纳加拉塔萨雷"
-    },
-    {
-      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 2,
-      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
-      "published": "2026-08-14T16:36:47.000Z",
-      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ vRyJBPzzEu ）"
     },
     {
       "id": "Samuel Luckhurst:CBMiiAFBVV95cUxQTG9PZDZhcGJLY1RSOVhiazFtRXJsaG1SenZvV05LOHR3ajlrWkJTVzdtY2FxdXhWczRuWkFYYlJrRlNjMDRZZ0JkX1lSSGdUd1E1T0d2RlN2Q0NSLXZZZndycXRqYXZjNFppR05Cd1ZYejZnQWVkTGhUem9kOUNmUmY0N1l3Q0RN",
@@ -14697,7 +14697,7 @@
       "titleZh": "曼联教练卡里克谈论“梦想”安德烈·桑托斯以及他告诉Mainoo的事情"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-18T11:57:59.289Z",
+  "journalistsUpdatedAt": "2026-08-18T12:35:33.318Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

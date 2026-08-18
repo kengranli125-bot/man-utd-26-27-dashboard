@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:56:52.741Z",
+  "updatedAt": "2026-08-18T01:49:56.562Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -12674,7 +12674,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-17T18:56:52.734Z"
+        "generatedAt": "2026-08-18T01:49:55.624Z"
       }
     },
     {
@@ -13595,6 +13595,13 @@
   "scorers": [],
   "news": [
     {
+      "title": "Premier League fixtures ranked: Who has the easiest and hardest start to the 2026-27 season?",
+      "published": "2026-08-17T14:19:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49553696/premier-league-fixtures-ranked-easiest-hardest-start-2026-27-season",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702926_1296x729_16-9.jpg",
+      "titleZh": "英超赛事排名：谁在2026-27赛季的开局最轻松、最艰难？"
+    },
+    {
       "title": "Premier League Top 50: Ranking best players before 2026-27 season",
       "published": "2026-08-17T07:53:44Z",
       "url": "https://www.espn.com/soccer/story/_/id/49610912/premier-league-top-50-ranking-best-players-2026-27-season-liverpool-arsenal-man-united",
@@ -13670,13 +13677,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49618161/manchester-united-ac-milan-live-blog-updates-commentary-score-result",
       "image": "https://a.espncdn.com/photo/2026/0815/r1702131_1296x729_16-9.jpg",
       "titleZh": "曼联2-4 AC米兰：鲁本·阿莫林（ Ruben Amorim ）在马库斯·拉什福德（ Marcus Rashford ）回归时取得季前赛胜利"
-    },
-    {
-      "title": "Man United 2-4 AC Milan: Marcus Rashford plays as Ruben Amorim haunts Red Devils",
-      "published": "2026-08-15T17:06:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49619687/man-united-2-4-ac-milan-marcus-rashford-makes-first-appearance-red-devils-december-2024",
-      "image": "https://a.espncdn.com/photo/2026/0815/r1702115_1296x729_16-9.jpg",
-      "titleZh": "曼联2-4 AC米兰：马库斯·拉什福德饰演鲁本·阿莫林，红魔出没"
     }
   ],
   "transfers": [],

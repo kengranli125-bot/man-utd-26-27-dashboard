@@ -14409,6 +14409,18 @@
   ],
   "journalists": [
     {
+      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
+      "published": "2026-08-18T01:25:04.000Z",
+      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ vRyJBPzzEu ）"
+    },
+    {
       "id": "Laurie Whitwell:CBMingFBVV95cUxNeXk3SXJNSDF6VndTOW9XUU5IV0JyUW56STIwSkhSSElTakE5M2dTQ3RHNmJ2MExzNW5PWVg3SFlzV2ZtbnVrZFJpaTZYS09LSXowUWREUkRMVWU1ZUJKd0h2YmlpWm85clp5cWRVblpmaTBFMmxIWWxsVzYzWTROeVpYcVRXdmpqT21pTHREQUZWbE15RFVtNVBKcVVtdw",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -14589,18 +14601,6 @@
       "titleZh": "奥恩斯坦透露加布里埃尔·马蒂内利决定离开阿森纳加拉塔萨雷"
     },
     {
-      "id": "Carl Anka:CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "Mshale",
-      "tier": 2,
-      "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
-      "published": "2026-08-14T16:36:47.000Z",
-      "titleZh": "曼联面对利兹与冠军联赛贾斯汀·托马斯（ vRyJBPzzEu ）"
-    },
-    {
       "id": "Samuel Luckhurst:CBMiiAFBVV95cUxQTG9PZDZhcGJLY1RSOVhiazFtRXJsaG1SenZvV05LOHR3ajlrWkJTVzdtY2FxdXhWczRuWkFYYlJrRlNjMDRZZ0JkX1lSSGdUd1E1T0d2RlN2Q0NSLXZZZndycXRqYXZjNFppR05Cd1ZYejZnQWVkTGhUem9kOUNmUmY0N1l3Q0RN",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -14697,7 +14697,7 @@
       "titleZh": "曼联教练卡里克谈论“梦想”安德烈·桑托斯以及他告诉Mainoo的事情"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-18T11:01:29.745Z",
+  "journalistsUpdatedAt": "2026-08-18T11:36:24.765Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

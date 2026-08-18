@@ -14409,6 +14409,18 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMiswFBVV95cUxQMkMtazNoZEstZHdVY2FUWWlRRnN0NlQ2cHVHRlZaRVdLeURzYTY3dGswTVVYa1RBUlNnbXNORjJ0YXZoNkFZenJyM0hCSHU0ZXFRa0dfeGt2b19QQ19DVDlnLWN5Mmc0cEdhMG9wNHYtcnlheUJ0Rm9obHl3c1pZMURqUGU5Vmx1dTdhOEZoeG1rNUdrcmlHcFNwSEdZT2NyMkVhRFRQUTZRTmNKVV9aNGNLUQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Read Man Utd",
+      "tier": 1,
+      "title": "Fabrizio Romano says rumours of Barcelona star to Man Utd are \"completely false\"",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkMtazNoZEstZHdVY2FUWWlRRnN0NlQ2cHVHRlZaRVdLeURzYTY3dGswTVVYa1RBUlNnbXNORjJ0YXZoNkFZenJyM0hCSHU0ZXFRa0dfeGt2b19QQ19DVDlnLWN5Mmc0cEdhMG9wNHYtcnlheUJ0Rm9obHl3c1pZMURqUGU5Vmx1dTdhOEZoeG1rNUdrcmlHcFNwSEdZT2NyMkVhRFRQUTZRTmNKVV9aNGNLUQ?oc=5",
+      "published": "2026-08-18T08:41:45.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）表示，巴塞罗那球星对曼联的谣言“完全是假的”"
+    },
+    {
       "id": "Andy Mitten:CBMinwFBVV95cUxPTEpFLVI1ZFo0WTY0cFZFMUVfcFgzcFpreVdkOFlEZDJMUnV2UU5hdEhjdlY3Q3JwMzJNaFFuWDh5VjZVbTc5aVBfNUZvcVRLR3JmSkRybjlTV3ZMOWRTd2tBV3B2cl9rSGdDRFdSLXY3R2p1ZE02ZHVVd0E2bG8tLWptazRfb3ZrdDZvOER6LXdoX3Z3NnJESlhtUWxRMTQ",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -14417,7 +14429,7 @@
       "tier": 2,
       "title": "Manchester United’s greatest players: No 2, Ryan Giggs",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEpFLVI1ZFo0WTY0cFZFMUVfcFgzcFpreVdkOFlEZDJMUnV2UU5hdEhjdlY3Q3JwMzJNaFFuWDh5VjZVbTc5aVBfNUZvcVRLR3JmSkRybjlTV3ZMOWRTd2tBV3B2cl9rSGdDRFdSLXY3R2p1ZE02ZHVVd0E2bG8tLWptazRfb3ZrdDZvOER6LXdoX3Z3NnJESlhtUWxRMTQ?oc=5",
-      "published": "2026-08-18T04:25:31.000Z",
+      "published": "2026-08-18T04:25:00.000Z",
       "titleZh": "曼联最伟大的球员：排名第二， Ryan Giggs"
     },
     {
@@ -14461,7 +14473,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "Dailysports",
+      "source": "dailysports.net",
       "tier": 1,
       "title": "Generous €50 million offer! Turkish giants attempt to lure Manchester United's leader",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSmdGdUstZ0tZa0lycURmdDY2OWszY1FlMjhRcW4ycVZpeU9wZ0xRaVpYTVlqY09QVXpYVkhHZHZmcVZ5MUs2VzZTZi1oNXVOUlNnN0VZQjNYSlVsUDB5eWRBb2Jfdng5N0UtcEhjMUJyTjNLNTJBRVJpak9rYlJIMjQtSDVNQ0hwbnpPTk1nM25jZDI1YlhNcnRPWm11Ykh5VVMwbEFRdGM1RjBTbktHWU5B?oc=5",
@@ -14473,7 +14485,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "Mshale",
+      "source": "mshale.com",
       "tier": 1,
       "title": "Fernandes, Scott, Hall Links & Onana To Return? Potenza Campobasso (RnEfeXcTw5)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0cmRFNmh3QlQwSmhqbDlZYm9qSGNXZ1lJc0VBc0FqRnNUMm9LSTBaTG1FMlFQT0l2dFVqcGRtb1pBMWRrMDJUSUpmRWZoOTAwRW1DSmVTSVBqLVk?oc=5",
@@ -14557,7 +14569,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "Mshale",
+      "source": "mshale.com",
       "tier": 1,
       "title": "Michael Carrick Addresses Marcus Rashford’s Manchester United Return | ESPN FC Henry Winkler (d2CfrzHkIj)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13NldOU0tYWFRxRXEzMUxkWVdKOXAzSjBTNGJsb043Znk0TnZoZ1lRQ3BFMmpLTjdRa0I5bE1KMF9BYmM3ejBiN1N4VnN6ODA4WFdTdnBwanJZV3M?oc=5",
@@ -14573,7 +14585,7 @@
       "tier": 1,
       "title": "Losing to old boss Ruben Amorim was a timely warning. Manchester United need reinforcements",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOE5lRktxSl8xT3lidURQVUx2cXF5czc1em12aldHUzlMQUltQ19jb0pxc0NZWWxOYjdTdUFNLVdWQzhtS25XNTRVa25UZmRsQ1Fzd0VzcldRWTVvLVc1Q0djdFphM0xCUE9uWlBpNUhGaVVHWGJBM1dBOXhTTURVbkxqTldNWE5sM0hSUzdLNHR3SnJld3dsMzNXMnVyY1FtMUVj?oc=5",
-      "published": "2026-08-16T06:30:43.000Z",
+      "published": "2026-08-16T04:18:13.000Z",
       "titleZh": "输给老板鲁本·阿莫林是一个及时的警告。曼联需要增援"
     },
     {
@@ -14637,23 +14649,11 @@
       "titleZh": "曼联：罗马诺透露INEOS今年夏天还有三次签约– “我仍然期待”"
     },
     {
-      "id": "Fabrizio Romano:CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "standard.co.uk",
-      "tier": 1,
-      "title": "Real Madrid confirm Tchouameni medical after Man Utd transfer decision",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUFKLVdWTXZZdnB0ZndDOGFidk5mZlJWXzItQVlJdmRqRURRbE5jSEtVYk84b0ozM3dwNjVqZkNZdVo1Ml9tOG5MZDZwaVJjdXlHaHVsbHBOZnM1VEVrNjRpTmJjb3hnWHhhTVMxY2tfRHFlQmc5dWZONjZlQnNKYTdRNGFyMzVybHc2dnlwQUVVUWM5R21wLVFGT2E?oc=5",
-      "published": "2026-08-14T05:00:17.000Z",
-      "titleZh": "曼联转会决定后，皇家马德里确认Tchouameni医疗"
-    },
-    {
       "id": "Chris Wheeler:CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Mshale",
+      "source": "mshale.com",
       "tier": 2,
       "title": "Lisandro Martínez Console Matheus Cunha Who Looks ANGRY After The Draw Vs Leeds Bobby Brown (3aFuQz9YZA)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvN3ZkUEp3c0RJbXhBR3NGenFjdXl2NlYxLWZJb2hib2ZBSEw2dUw5WG9YZkQtWWxaTHZ1RGs2WVlIS3V4LVY5dVQtTE1VOUZ3alhMUzE0Q1JXd3c?oc=5",
@@ -14697,7 +14697,7 @@
       "titleZh": "曼联教练卡里克谈论“梦想”安德烈·桑托斯以及他告诉Mainoo的事情"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-18T14:04:22.698Z",
+  "journalistsUpdatedAt": "2026-08-18T14:49:08.954Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

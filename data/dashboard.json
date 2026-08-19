@@ -14420,6 +14420,18 @@
   ],
   "journalists": [
     {
+      "id": "Carl Anka:CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "How Carlos Baleba would fit at Manchester United and what else to know",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093?oc=5",
+      "published": "2026-08-19T14:16:06.000Z",
+      "titleZh": "卡洛斯·巴莱巴（ Carlos Baleba ）如何适应曼联，以及还有什么需要了解的"
+    },
+    {
       "id": "David Ornstein:CBMikgFBVV95cUxOTHBTd0doSTNHLWhHa1RtWl93dFRnZmh3Y2ZmZjZVRUYzNU5ROGxISDBXRmRkUFNBOWtWRVNkT19tSFJDRm85a2dla1NJYTJXaWdXamJfOVBXNnVuNU02YXJYYWhxc1ZrUk5KQ2ZJcnppMlVXd2plY2NMNEZjdXZyVks1T3NHcGV6cUhHN01DWHRhZw",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -14432,14 +14444,14 @@
       "titleZh": "奥恩斯坦透露，曼联正在“接近”第三名中场球员的冲击交易，并提供“报价”"
     },
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE85SEI5eEFpWkJmX2l5ejhkckhXR08wd3Vwd0sxWGhkYXQ4ZjItMGV4RUI1a0tZMzFudUt3V0hNQkxFdElzZUZTR09mVHBSOThrcUo1aE9LMk5ya2UyeU9kUmxxbjFYdFEzdlE",
+      "id": "Simon Stone:CBMiZ0FVX3lxTE84aFhhUVhSY3pzS2hydFhNRXlsMzZvQVl0NlRfWl9RckhSOW5ZYllYdklaSFU5dzgxU2Z2VWhFM2trSjJoQXhtY28xNjhsZWc1cndvdmd5LXpZRlJHYWpkN3dZbkY3QkU",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Carlos Baleba transfer - Simon Stone analysis",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85SEI5eEFpWkJmX2l5ejhkckhXR08wd3Vwd0sxWGhkYXQ4ZjItMGV4RUI1a0tZMzFudUt3V0hNQkxFdElzZUZTR09mVHBSOThrcUo1aE9LMk5ya2UyeU9kUmxxbjFYdFEzdlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84aFhhUVhSY3pzS2hydFhNRXlsMzZvQVl0NlRfWl9RckhSOW5ZYllYdklaSFU5dzgxU2Z2VWhFM2trSjJoQXhtY28xNjhsZWc1cndvdmd5LXpZRlJHYWpkN3dZbkY3QkU?oc=5",
       "published": "2026-08-19T10:41:18.000Z",
       "titleZh": "曼联新闻： Carlos Baleba转会- Simon Stone分析"
     },
@@ -14524,7 +14536,7 @@
       "tier": 2,
       "title": "Manchester United’s greatest players: No 2, Ryan Giggs",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEpFLVI1ZFo0WTY0cFZFMUVfcFgzcFpreVdkOFlEZDJMUnV2UU5hdEhjdlY3Q3JwMzJNaFFuWDh5VjZVbTc5aVBfNUZvcVRLR3JmSkRybjlTV3ZMOWRTd2tBV3B2cl9rSGdDRFdSLXY3R2p1ZE02ZHVVd0E2bG8tLWptazRfb3ZrdDZvOER6LXdoX3Z3NnJESlhtUWxRMTQ?oc=5",
-      "published": "2026-08-18T23:51:00.000Z",
+      "published": "2026-08-18T23:51:06.000Z",
       "titleZh": "曼联最伟大的球员：排名第二， Ryan Giggs"
     },
     {
@@ -14532,7 +14544,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Read Man Utd",
+      "source": "readmanutd.com",
       "tier": 1,
       "title": "Fabrizio Romano says rumours of Barcelona star to Man Utd are \"completely false\"",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkMtazNoZEstZHdVY2FUWWlRRnN0NlQ2cHVHRlZaRVdLeURzYTY3dGswTVVYa1RBUlNnbXNORjJ0YXZoNkFZenJyM0hCSHU0ZXFRa0dfeGt2b19QQ19DVDlnLWN5Mmc0cEdhMG9wNHYtcnlheUJ0Rm9obHl3c1pZMURqUGU5Vmx1dTdhOEZoeG1rNUdrcmlHcFNwSEdZT2NyMkVhRFRQUTZRTmNKVV9aNGNLUQ?oc=5",
@@ -14544,7 +14556,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "Mshale",
+      "source": "mshale.com",
       "tier": 2,
       "title": "Man United Face Leeds With Champions League In Sights Justin Thomas (vRyJBPzzEu)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZ2pHZEVBV0Vma3pjV1I3RTRUQWVRTXVMVGxBcENaUFhXNUtyTEkyWkdXRXFyM1VhcF9ZU2J0TlkxUzRqN0hNYXNIWVN2eHNRdEk1UzltUHZKZmM?oc=5",
@@ -14648,18 +14660,6 @@
       "titleZh": "曼联：在迈克尔·卡里克（ Michael Carrick ）的第一个完整赛季之前，俱乐部处于什么状态？"
     },
     {
-      "id": "Carl Anka:CBMikwFBVV95cUxQMjBlZWlyTExwMmh5NEcxTFliMXBVV3hoYm9EN0tzZmdjMFNjWDZSd1RUaFpzeFVjaWItQ3JGbzVqTWo0SFdBVTlQTGEzM3l6M3o5SmFuQ0Nfa01FQi1nZ0lSZlB6RENOMzIxeTUwMXRlb2I4RnFVZmwwZE8tZ1oydHdpWDA0YUlJMUpwNGhWU19EbU0",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "The Athletic’s Premier League predictions for 2026-27: Final table, best signing and much more",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjBlZWlyTExwMmh5NEcxTFliMXBVV3hoYm9EN0tzZmdjMFNjWDZSd1RUaFpzeFVjaWItQ3JGbzVqTWo0SFdBVTlQTGEzM3l6M3o5SmFuQ0Nfa01FQi1nZ0lSZlB6RENOMzIxeTUwMXRlb2I4RnFVZmwwZE8tZ1oydHdpWDA0YUlJMUpwNGhWU19EbU0?oc=5",
-      "published": "2026-08-17T08:19:32.000Z",
-      "titleZh": "The Athletic对2026-27赛季英超联赛的预测：决赛桌、最佳签约等等"
-    },
-    {
       "id": "Fabrizio Romano:CBMihwJBVV95cUxQTC1yOGhaWmFUYkRIYml1Zml3MkozWnNCbTU5NGhtSlBrN2JmUDF4U2tUeGtkMHMtb2RlcmRKNHNVb3F3eFphenJOdUw4d2tMZU5kV0RWbVpIX3RCN2JJTlRGeGlaVmZOYXFQWC0xZTR0d1g1TVl5Vl8tNFowVFRwTEhFaWgzV3hLbTlIZzRNTlFqeGowcUtvZkNwY0x4NndhUUpobmk5QUItMjU1bnJId0tiM3dWZF9mYkcyRENuTzhWbmo5X1dhdHdrZi1Nc09HZUc2eWstUy1zSElkUl9sQmtodktSbHc3OG9mRmYtTHpiVEtKZHpvNjUzMkhYUlJFQnhwcVMzMA",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -14688,7 +14688,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "Mshale",
+      "source": "mshale.com",
       "tier": 1,
       "title": "Michael Carrick Addresses Marcus Rashford’s Manchester United Return | ESPN FC Henry Winkler (d2CfrzHkIj)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13NldOU0tYWFRxRXEzMUxkWVdKOXAzSjBTNGJsb043Znk0TnZoZ1lRQ3BFMmpLTjdRa0I5bE1KMF9BYmM3ejBiN1N4VnN6ODA4WFdTdnBwanJZV3M?oc=5",
@@ -14708,7 +14708,7 @@
       "titleZh": "曼联输给阿莫林的米兰：哪里出错了？拉什福德穿9号衣服意味着他要留下来吗？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-19T14:05:48.078Z",
+  "journalistsUpdatedAt": "2026-08-19T14:49:27.990Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

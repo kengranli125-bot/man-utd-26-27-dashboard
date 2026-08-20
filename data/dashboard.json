@@ -14430,6 +14430,18 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMirwFBVV95cUxOcGVkcWFUSjRkMTVoZXJUdzVIeU5KTGtCMDNXZkFIZ0VkX0x5TlNlRzRSeTVBeGREcE1WOWhUY1VtWFlOZU5rWFBMd2p3R3lxamVqTDZKQ2Fydk84UEJQN09HMi03T1dpY2ozNmhGRzI3d3l3d2ZqLWFOWW80WF96U3pnWFF5OW84MUNnYWc1dW9mTDRYVE1fZzIyOUhHcnpvT3RLbHVaSVBjay1HVFdN",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester City see enquiry to Crystal Palace over potential Adam Wharton deal rebuffed - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGVkcWFUSjRkMTVoZXJUdzVIeU5KTGtCMDNXZkFIZ0VkX0x5TlNlRzRSeTVBeGREcE1WOWhUY1VtWFlOZU5rWFBMd2p3R3lxamVqTDZKQ2Fydk84UEJQN09HMi03T1dpY2ozNmhGRzI3d3l3d2ZqLWFOWW80WF96U3pnWFF5OW84MUNnYWc1dW9mTDRYVE1fZzIyOUhHcnpvT3RLbHVaSVBjay1HVFdN?oc=5",
+      "published": "2026-08-20T10:34:00.000Z",
+      "titleZh": "曼城看到水晶宫对亚当沃顿潜在交易的询问被拒绝- The Athletic"
+    },
+    {
       "id": "Simon Stone:CBMiggFBVV95cUxORGdSTFVPYTNnb0k1b3BiejBJSjlVeU9ObENPYWxfVDliQ2YybjI0akRQWDJiY1lDMHptSTBOd29FWWdPb3ZSZEdLbDhjYkItNHZSRlhBMkQ0RmMweGphZTk4OWJUVjIzWDgyTmxqTWJOalBkWlhkS0JnRXNYRzlPanhn",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -14440,18 +14452,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGdSTFVPYTNnb0k1b3BiejBJSjlVeU9ObENPYWxfVDliQ2YybjI0akRQWDJiY1lDMHptSTBOd29FWWdPb3ZSZEdLbDhjYkItNHZSRlhBMkQ0RmMweGphZTk4OWJUVjIzWDgyTmxqTWJOalBkWlhkS0JnRXNYRzlPanhn?oc=5",
       "published": "2026-08-20T10:12:50.000Z",
       "titleZh": "曼联学院二人组在阿森纳会谈中"
-    },
-    {
-      "id": "Fabrizio Romano:CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms huge Man Utd transfer development happening 'today'",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA?oc=5",
-      "published": "2026-08-20T08:35:34.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认曼联“今天”正在进行巨大的转会开发"
     },
     {
       "id": "Fabrizio Romano:CBMihwJBVV95cUxNUWZ3QXJUb190ZnZQYm9KMGtkbXl0U1VNRll3ZVR2ZC04cWlaeDJ3TEd5MGJjalV4dWtaOGZkZHF4dDlobkEwVHFFVmFoUGp2WksxX2d5SGVaNGMySGc3WThmeW9mM0FEcjJkMmVMRjV3bjE4azJxVWZmMFh4QWN1YTMyUUZyM01BamZmUFJFeXcwZm51Y0ZJTVhHS0p2TjV4cE1Yc285dzJwc2FEMUljZVRHX2dvRFR4T0w4bTVOYXV0TkhQb21felNUNF90R3piU0NZWElKQnRhRmpYOUU5d09ON0c1S3Vud3FKdGRxeTFzRzBrUllUemZYNEFfUlpWNGFqMlB5QQ",
@@ -14478,16 +14478,16 @@
       "titleZh": "曼联新闻： Carlos Baleba - Simon Stone分析"
     },
     {
-      "id": "David Ornstein:CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "id": "Fabrizio Romano:CBMiuAFBVV95cUxOSE5qRVhNYm5zd3dVYmpkYWFMZXZ5dDdIcGFVNmxWdXRmemZVSF9STFBsTjVOZXhTdmdkazlTYTd2Snk0OUh6ZmU4d0pYVDFaUVBaODQtTXpIaG4tOG4zRG42b08xYzN3NHBlOGxqTHVwRkhuV25HM19XeEpSX2hWTFFsbmZqdnpfQTFad0hxdkZoREVGRkE3aEJpdEZmcS1BZDRKOVBiS256RnA5UWhCbG4xZlpTN1Rv",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
       "tier": 1,
-      "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5",
-      "published": "2026-08-19T14:49:22.000Z",
-      "titleZh": "在10月底之前，切尔西队将与阿斯顿别墅队、布伦特福德队、曼联队和布莱顿队进行联赛比赛。"
+      "title": "Romano drops dream Man Utd update with double signing expected after Baleba",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE5qRVhNYm5zd3dVYmpkYWFMZXZ5dDdIcGFVNmxWdXRmemZVSF9STFBsTjVOZXhTdmdkazlTYTd2Snk0OUh6ZmU4d0pYVDFaUVBaODQtTXpIaG4tOG4zRG42b08xYzN3NHBlOGxqTHVwRkhuV25HM19XeEpSX2hWTFFsbmZqdnpfQTFad0hxdkZoREVGRkE3aEJpdEZmcS1BZDRKOVBiS256RnA5UWhCbG4xZlpTN1Rv?oc=5",
+      "published": "2026-08-19T18:47:31.000Z",
+      "titleZh": "Romano在Baleba之后放弃了DREAM MAN UTD的更新，预计将进行双重签名"
     },
     {
       "id": "Carl Anka:CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093",
@@ -14718,7 +14718,7 @@
       "titleZh": "曼联：在迈克尔·卡里克（ Michael Carrick ）的第一个完整赛季之前，俱乐部处于什么状态？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-20T11:15:20.758Z",
+  "journalistsUpdatedAt": "2026-08-20T11:48:20.127Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -14216,30 +14216,6 @@
   ],
   "journalists": [
     {
-      "id": "David Ornstein:CBMirwFBVV95cUxOcGVkcWFUSjRkMTVoZXJUdzVIeU5KTGtCMDNXZkFIZ0VkX0x5TlNlRzRSeTVBeGREcE1WOWhUY1VtWFlOZU5rWFBMd2p3R3lxamVqTDZKQ2Fydk84UEJQN09HMi03T1dpY2ozNmhGRzI3d3l3d2ZqLWFOWW80WF96U3pnWFF5OW84MUNnYWc1dW9mTDRYVE1fZzIyOUhHcnpvT3RLbHVaSVBjay1HVFdN",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester City’s Adam Wharton enquiry rebuffed by Crystal Palace - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGVkcWFUSjRkMTVoZXJUdzVIeU5KTGtCMDNXZkFIZ0VkX0x5TlNlRzRSeTVBeGREcE1WOWhUY1VtWFlOZU5rWFBMd2p3R3lxamVqTDZKQ2Fydk84UEJQN09HMi03T1dpY2ozNmhGRzI3d3l3d2ZqLWFOWW80WF96U3pnWFF5OW84MUNnYWc1dW9mTDRYVE1fZzIyOUhHcnpvT3RLbHVaSVBjay1HVFdN?oc=5",
-      "published": "2026-08-20T11:30:18.000Z",
-      "titleZh": "曼城看到水晶宫对亚当沃顿潜在交易的询问被拒绝- The Athletic"
-    },
-    {
-      "id": "Simon Stone:CBMiggFBVV95cUxORGdSTFVPYTNnb0k1b3BiejBJSjlVeU9ObENPYWxfVDliQ2YybjI0akRQWDJiY1lDMHptSTBOd29FWWdPb3ZSZEdLbDhjYkItNHZSRlhBMkQ0RmMweGphZTk4OWJUVjIzWDgyTmxqTWJOalBkWlhkS0JnRXNYRzlPanhn",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Man Utd academy duo in Arsenal talks",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGdSTFVPYTNnb0k1b3BiejBJSjlVeU9ObENPYWxfVDliQ2YybjI0akRQWDJiY1lDMHptSTBOd29FWWdPb3ZSZEdLbDhjYkItNHZSRlhBMkQ0RmMweGphZTk4OWJUVjIzWDgyTmxqTWJOalBkWlhkS0JnRXNYRzlPanhn?oc=5",
-      "published": "2026-08-20T10:12:50.000Z",
-      "titleZh": "曼联学院二人组在阿森纳会谈中"
-    },
-    {
       "id": "Fabrizio Romano:CBMimgFBVV95cUxQOFJoNndKSVZCaUg0LUQtMDhyOHBuT0pLSkJaQm5RYUFkWWJwVWVtcFdFX1NTWXdabUsyRXQtcG15RUZ0OThPLU1NQXJia0dOc241LThxQXJ0aUVjUHRJaWpSbS03TnVCX2hEVzZvOVhqV1VuTW9Cd0Z0S1ZwM09CUnlXWDZPZWxBbWpvSVNLWm56aFlRdjlEbUl3",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -14288,6 +14264,18 @@
       "titleZh": "曼联新闻： Carlos Baleba - Simon Stone分析"
     },
     {
+      "id": "David Ornstein:CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United and Brighton closing in on deal for Carlos Baleba - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5",
+      "published": "2026-08-19T14:49:22.000Z",
+      "titleZh": "曼联和布莱顿接近Carlos Baleba - The Athletic的交易"
+    },
+    {
       "id": "Carl Anka:CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -14298,6 +14286,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093?oc=5",
       "published": "2026-08-19T14:16:06.000Z",
       "titleZh": "卡洛斯·巴莱巴（ Carlos Baleba ）如何适应曼联，以及还有什么需要了解的"
+    },
+    {
+      "id": "David Ornstein:CBMikgFBVV95cUxOTHBTd0doSTNHLWhHa1RtWl93dFRnZmh3Y2ZmZjZVRUYzNU5ROGxISDBXRmRkUFNBOWtWRVNkT19tSFJDRm85a2dla1NJYTJXaWdXamJfOVBXNnVuNU02YXJYYWhxc1ZrUk5KQ2ZJcnppMlVXd2plY2NMNEZjdXZyVks1T3NHcGV6cUhHN01DWHRhZw",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Ornstein reveals Man Utd are ‘closing in’ on shock deal for third midfielder with ‘offer’ made",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHBTd0doSTNHLWhHa1RtWl93dFRnZmh3Y2ZmZjZVRUYzNU5ROGxISDBXRmRkUFNBOWtWRVNkT19tSFJDRm85a2dla1NJYTJXaWdXamJfOVBXNnVuNU02YXJYYWhxc1ZrUk5KQ2ZJcnppMlVXd2plY2NMNEZjdXZyVks1T3NHcGV6cUhHN01DWHRhZw?oc=5",
+      "published": "2026-08-19T11:39:19.000Z",
+      "titleZh": "奥恩斯坦透露，曼联正在“接近”第三名中场球员的冲击交易，并提供“报价”"
     },
     {
       "id": "Rob Dawson:CBMirAFBVV95cUxQRDc3NE9Bc0JocU5pT08yeFZTLTNIZlBFbWJnd2JWTngyY1NLTzR4RmdJRE1mbklxcWtZSDhkUUQ4c3BsVHpwOTk0eWVDQnROVVRSek4xNjVUbEhORVRCbnhVdzVhdEtoTW1Da0FOVGdsWlRoNW1iUHcwTnJPdGVaWkV5SUkzVFVQWVhZNm92R3A1QnRkZDBLNnVscU5ZU3FnZWlIN0lNWGhkdHRm",
@@ -14344,18 +14344,6 @@
       "tier": 1,
       "title": "David Ornstein issues Carlos Baleba update after shock Man United and Brighton claim",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSnVUcWxsTExZRzliX2djbEM1T2RqTGZlNEtTS1hRUkxsOTZTVTNOUlNEU2NZb0Z5Z05VNldsalZwZ2dWNFl3U2J4YlRreUtSYUdjMTU4VEJYcDZhZG5FbUpuVnlBMzZfaXFPMjdCNERjWXFCb2V6UTFZMWtMQ0lhenA4WENNYTdTZUM4WTA5Ukhyb2RDdlFsbW1XSFVMLWhTUjhrb3dDNTFQZktYNlBzN3cwclpwWExpSlprdnA3dGZyXzlZWElrdkRNcnUwMnVtZE5YVU82T21nN0JLVFhQMUhFNHhkMTU4YW5pWTBNWjB4cHRJWjY2SVNDUEk?oc=5",
-      "published": "2026-08-19T09:06:00.000Z",
-      "titleZh": "大卫·奥恩斯坦（ David Ornstein ）发布卡洛斯·巴莱巴（ Carlos Baleba ）在震惊曼联"
-    },
-    {
-      "id": "David Ornstein:CBMigAJBVV95cUxORHI5aUF6ajh0YWNMczNEVHpfNXc0a2FhWEo1UldJdVI3UUp1WUNmR3VwZUtRWGpBSjBqTGN5aXJ1aktxakFGeDA4ZlFxdGxrY2YzZkMyLXJxWXFWSS0xektoREh2WTk2aWtrS0RvTWUxbVpIVEpPTkNYLVBjWjVlYUVfVHhrV2lnM3U0UWRLV05FNGM0SGZlTzhONHlvRnFxUVNCTmdXN216N1J3UmpzdHcyNFZkaHppZTVSdUozQjJJTm5uQ3dBNDRUckFwRlNrSnFhdkFiX25uQ1ZfWDdHbm5Jd2FYZnZlWnQzWTNCTk42U0tWYnQ1NFIwVm9FcWhQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "SussexWorld",
-      "tier": 1,
-      "title": "David Ornstein issues Carlos Baleba update after shock Man United and Brighton claim",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORHI5aUF6ajh0YWNMczNEVHpfNXc0a2FhWEo1UldJdVI3UUp1WUNmR3VwZUtRWGpBSjBqTGN5aXJ1aktxakFGeDA4ZlFxdGxrY2YzZkMyLXJxWXFWSS0xektoREh2WTk2aWtrS0RvTWUxbVpIVEpPTkNYLVBjWjVlYUVfVHhrV2lnM3U0UWRLV05FNGM0SGZlTzhONHlvRnFxUVNCTmdXN216N1J3UmpzdHcyNFZkaHppZTVSdUozQjJJTm5uQ3dBNDRUckFwRlNrSnFhdkFiX25uQ1ZfWDdHbm5Jd2FYZnZlWnQzWTNCTk42U0tWYnQ1NFIwVm9FcWhQ?oc=5",
       "published": "2026-08-19T09:06:00.000Z",
       "titleZh": "大卫·奥恩斯坦（ David Ornstein ）发布卡洛斯·巴莱巴（ Carlos Baleba ）在震惊曼联"
     },
@@ -14502,9 +14490,21 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yTTJaeVBLLUdiZ2E4a1p1YWJoVHJhX0hyXzlKM1BNMTJlRUpSNEI4MmVCZ0dwUmozdGtpNklwYmdvZVZycGlWcDgtb1lmUjBWRlBTYWUxU0lmaElxSWRRSGw2OFNKb2NJSXc?oc=5",
       "published": "2026-08-17T09:57:49.000Z",
       "titleZh": "曼联最新传入和传出交易于8月18日实时转账"
+    },
+    {
+      "id": "Andy Mitten:CBMizAFBVV95cUxQU3A1VzRGT0lOZGNYUVFhbWMyd2NfdW03Q01XOFVTai16WlJXTzF0YU95QkVoWE1FMHlnRHVjd1k3RWptWHJLYjJ3dUxRaXVzQlpiNFN1Tm1SVWFkLXBtRTRDUEdiODNWRTJpaEg4cU1rb21tZmpXX3BDSDRxQUwyTmdvbThrVzh6OHZvSkJWQ2VFdm5HQ1Z0NjE1aTdPOHhuc1FRaHJWa0F0VGU3Zmh5R01tcGJ5X25qNzNHaUpQdWhheE9mNVRWSzlEUWM",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Derry Now",
+      "tier": 2,
+      "title": "IN PICTURES:: Man Utd's Andy Cole and Andy Mitten bring live tour to Derry",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU3A1VzRGT0lOZGNYUVFhbWMyd2NfdW03Q01XOFVTai16WlJXTzF0YU95QkVoWE1FMHlnRHVjd1k3RWptWHJLYjJ3dUxRaXVzQlpiNFN1Tm1SVWFkLXBtRTRDUEdiODNWRTJpaEg4cU1rb21tZmpXX3BDSDRxQUwyTmdvbThrVzh6OHZvSkJWQ2VFdm5HQ1Z0NjE1aTdPOHhuc1FRaHJWa0F0VGU3Zmh5R01tcGJ5X25qNzNHaUpQdWhheE9mNVRWSzlEUWM?oc=5",
+      "published": "2026-08-17T09:00:00.000Z",
+      "titleZh": "IN PICTURES::曼联的Andy Cole和Andy Mitten为德里带来现场之旅"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-20T14:05:05.463Z",
+  "journalistsUpdatedAt": "2026-08-20T14:51:51.351Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

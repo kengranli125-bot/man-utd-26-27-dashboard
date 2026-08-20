@@ -14430,6 +14430,18 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMihwJBVV95cUxNUWZ3QXJUb190ZnZQYm9KMGtkbXl0U1VNRll3ZVR2ZC04cWlaeDJ3TEd5MGJjalV4dWtaOGZkZHF4dDlobkEwVHFFVmFoUGp2WksxX2d5SGVaNGMySGc3WThmeW9mM0FEcjJkMmVMRjV3bjE4azJxVWZmMFh4QWN1YTMyUUZyM01BamZmUFJFeXcwZm51Y0ZJTVhHS0p2TjV4cE1Yc285dzJwc2FEMUljZVRHX2dvRFR4T0w4bTVOYXV0TkhQb21felNUNF90R3piU0NZWElKQnRhRmpYOUU5d09ON0c1S3Vud3FKdGRxeTFzRzBrUllUemZYNEFfUlpWNGFqMlB5QQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "SussexWorld",
+      "tier": 1,
+      "title": "Fabrizio Romano delivers fresh Carlos Baleba update after shock Man United and Brighton claim",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUWZ3QXJUb190ZnZQYm9KMGtkbXl0U1VNRll3ZVR2ZC04cWlaeDJ3TEd5MGJjalV4dWtaOGZkZHF4dDlobkEwVHFFVmFoUGp2WksxX2d5SGVaNGMySGc3WThmeW9mM0FEcjJkMmVMRjV3bjE4azJxVWZmMFh4QWN1YTMyUUZyM01BamZmUFJFeXcwZm51Y0ZJTVhHS0p2TjV4cE1Yc285dzJwc2FEMUljZVRHX2dvRFR4T0w4bTVOYXV0TkhQb21felNUNF90R3piU0NZWElKQnRhRmpYOUU5d09ON0c1S3Vud3FKdGRxeTFzRzBrUllUemZYNEFfUlpWNGFqMlB5QQ?oc=5",
+      "published": "2026-08-20T08:34:00.000Z",
+      "titleZh": "Fabrizio Romano在Man United和Brighton声称震惊后提供新的Carlos Baleba更新"
+    },
+    {
       "id": "Simon Stone:CBMiakFVX3lxTE52dDhob2ZSRWN3VHNUMVF6QW9ZQVpuTEN6LXZ4Y0dkbDlGbkJ5RmRDNVMyZ08tQzBUMDBPbVUxazEwTVlPSmwtTk5zWVA2cURzaHhiVldKa2FPb1Y5Mk4zZEx3N29sM0tJQUE",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -14482,7 +14494,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Man United in talks with Brighton for Carlos Baleba - sources",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGZxR1lSSEVQaVpiRDhHWnJSb0JJeUcwcFIzbDRYYTFkYy01R0RkelJ2WUZFM29UN1pKaVBSMU5qeENQQTE0cDNXOEpqSkxZOFpfOEtQRHpnMlc0dDJxcFFkQk9mM0J0dmYxS0RDSjM5d1pRWEpPU2xubVlJelh2ZmFkMi1hTm5zTGI3THZ4MUlOMEhjd0drMWlTNA?oc=5",
@@ -14630,7 +14642,7 @@
       "tier": 1,
       "title": "Manchester United to stand firm on Bruno Fernandes despite ‘significant’ Galatasaray bid",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0RkNTlLVXVwR1hfVTZISldxMERsWUs0Vl9ENDM0ZnZSWTR3dmdpeEw1NEhmbHpYV1FPVVFzemJWaGVkOW1jaE9hb3dmLWJPeWx4ZW5uZkc3cFBlVHdpVGxfZDdIcUJZMkhPS1NJY3dHbDEwRjJaa2dBQ3VGUk1uRkpDUEJvX2c3S20zSDFmc0hrdkRja21UWjExSGRzRW5ubWNKeTNJNXlhYTFJZU11bTk2YWd5eEJ1c2hVS19QYnRxZ002S1pLcnh3MFJtTktILXVxbEc0UkQ4WUhW?oc=5",
-      "published": "2026-08-17T15:32:10.000Z",
+      "published": "2026-08-17T15:37:07.000Z",
       "titleZh": "尽管布鲁诺·费尔南德斯（ Bruno Fernandes ）提出了“重大”加拉塔萨雷（ Galatasaray ）出价，但曼联"
     },
     {
@@ -14682,18 +14694,6 @@
       "titleZh": "曼联：在迈克尔·卡里克（ Michael Carrick ）的第一个完整赛季之前，俱乐部处于什么状态？"
     },
     {
-      "id": "Fabrizio Romano:CBMihwJBVV95cUxQTC1yOGhaWmFUYkRIYml1Zml3MkozWnNCbTU5NGhtSlBrN2JmUDF4U2tUeGtkMHMtb2RlcmRKNHNVb3F3eFphenJOdUw4d2tMZU5kV0RWbVpIX3RCN2JJTlRGeGlaVmZOYXFQWC0xZTR0d1g1TVl5Vl8tNFowVFRwTEhFaWgzV3hLbTlIZzRNTlFqeGowcUtvZkNwY0x4NndhUUpobmk5QUItMjU1bnJId0tiM3dWZF9mYkcyRENuTzhWbmo5X1dhdHdrZi1Nc09HZUc2eWstUy1zSElkUl9sQmtodktSbHc3OG9mRmYtTHpiVEtKZHpvNjUzMkhYUlJFQnhwcVMzMA",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "LiveScore",
-      "tier": 1,
-      "title": "Man Utd fans think INEOS U-turn is imminent after Fabrizio Romano quietly deletes social media announcement",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTC1yOGhaWmFUYkRIYml1Zml3MkozWnNCbTU5NGhtSlBrN2JmUDF4U2tUeGtkMHMtb2RlcmRKNHNVb3F3eFphenJOdUw4d2tMZU5kV0RWbVpIX3RCN2JJTlRGeGlaVmZOYXFQWC0xZTR0d1g1TVl5Vl8tNFowVFRwTEhFaWgzV3hLbTlIZzRNTlFqeGowcUtvZkNwY0x4NndhUUpobmk5QUItMjU1bnJId0tiM3dWZF9mYkcyRENuTzhWbmo5X1dhdHdrZi1Nc09HZUc2eWstUy1zSElkUl9sQmtodktSbHc3OG9mRmYtTHpiVEtKZHpvNjUzMkhYUlJFQnhwcVMzMA?oc=5",
-      "published": "2026-08-17T07:24:14.000Z",
-      "titleZh": "曼联球迷认为，在Fabrizio Romano悄悄删除社交媒体公告后， INEOS即将掉头"
-    },
-    {
       "id": "Rob Dawson:CBMiW0FVX3lxTE13NldOU0tYWFRxRXEzMUxkWVdKOXAzSjBTNGJsb043Znk0TnZoZ1lRQ3BFMmpLTjdRa0I5bE1KMF9BYmM3ejBiN1N4VnN6ODA4WFdTdnBwanJZV3M",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -14718,7 +14718,7 @@
       "titleZh": "曼联输给阿莫林的米兰：哪里出错了？拉什福德穿9号衣服意味着他要留下来吗？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-20T08:21:59.073Z",
+  "journalistsUpdatedAt": "2026-08-20T09:01:52.622Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

@@ -14205,6 +14205,18 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMijwJBVV95cUxOY3loc1liSVdiYTR2Ni1YdmRjWW9mMmQ4NndhSElVMGFBcEJLX0NMSUJDUlN4M0dvbUZCRjVIM2FhU0pIb1VOXzFPSmJJdFFjdERHNUVHWUg1V1VwV214c1A3bVphaVJQMU9adlI3UEdyNm5HTGFuTFh5VWxORjhnZkRXbklzRnpjekZ2Y1Z5R09tNVU2a3VCZEdQdVZwNXFYWjVOTE9NcTJoRzhGLTZkMTY3TFdLNzFndDZHaWpoX3JtQVcwRDRrRllLZ3Nzd0xuRG40emRYODFmRU5xZUQzQVpsbS1xRDU4aW1zZ0k2WXZBVzlORm1uT21ORDBuWERacDZUT1BPM2txSUpaWE4w0gGUAkFVX3lxTE1rZXkzTHQ3Zm9CQnJCdV9GU0hYY0hNMFpLTTNOZWRHd0NSdmpnbkVkNDFIbWdBd1FHcjY4TTJLOW1RTkhCQlBkTlRxVDktS2pPWGJzYjZQRDU3Z2ZyOEstRzJnVVZlSkFpNTY4NHI4NHRYdGtibm9yLUpZZ1dCTjktem96VVVnMDdDVk81SU0xekhHa3pUTXo0c1YxUmlzbmxvWmFHdlVKQ2JUQUVvcWtoVmdPNHZSdGRaUFI3aU1aT0VvOGtFVHRtLUZ3Z09EWk5xcFV1N3ktdEtMT3BsQlhxRzlGUXVZdUF6VHphSnQ1ak53Y19Rai0zTGZ0WjMxVVZFTnZJblBHcWZKbHFlaUpOU2FHNQ",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Man United have got value for money this summer while rivals have splashed cash, insists Michael Carrick as they continue pursuit of Brighton's Carlos Baleba",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY3loc1liSVdiYTR2Ni1YdmRjWW9mMmQ4NndhSElVMGFBcEJLX0NMSUJDUlN4M0dvbUZCRjVIM2FhU0pIb1VOXzFPSmJJdFFjdERHNUVHWUg1V1VwV214c1A3bVphaVJQMU9adlI3UEdyNm5HTGFuTFh5VWxORjhnZkRXbklzRnpjekZ2Y1Z5R09tNVU2a3VCZEdQdVZwNXFYWjVOTE9NcTJoRzhGLTZkMTY3TFdLNzFndDZHaWpoX3JtQVcwRDRrRllLZ3Nzd0xuRG40emRYODFmRU5xZUQzQVpsbS1xRDU4aW1zZ0k2WXZBVzlORm1uT21ORDBuWERacDZUT1BPM2txSUpaWE4w0gGUAkFVX3lxTE1rZXkzTHQ3Zm9CQnJCdV9GU0hYY0hNMFpLTTNOZWRHd0NSdmpnbkVkNDFIbWdBd1FHcjY4TTJLOW1RTkhCQlBkTlRxVDktS2pPWGJzYjZQRDU3Z2ZyOEstRzJnVVZlSkFpNTY4NHI4NHRYdGtibm9yLUpZZ1dCTjktem96VVVnMDdDVk81SU0xekhHa3pUTXo0c1YxUmlzbmxvWmFHdlVKQ2JUQUVvcWtoVmdPNHZSdGRaUFI3aU1aT0VvOGtFVHRtLUZ3Z09EWk5xcFV1N3ktdEtMT3BsQlhxRzlGUXVZdUF6VHphSnQ1ak53Y19Rai0zTGZ0WjMxVVZFTnZJblBHcWZKbHFlaUpOU2FHNQ?oc=5",
+      "published": "2026-08-21T21:30:46.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）坚持认为，曼联今年夏天物有所值，而竞争对手则在继续追求布莱顿的卡洛斯·巴莱巴（ Carlos Baleba ）"
+    },
+    {
       "id": "Carl Anka:CBMirgFBVV95cUxQd2E4YmtRLWxKTFZBMjFsT1dzZElqeGljeG9oV3JEdFdLNDhsWFlaQThyZ2tDU0tVRm5FNTJQRFkwV0Z1cjlEYUVVUzNtWWkyTFE1SzBnVzhqb0wzS3l1ejZLUHQtVzl5R1lscWZvNHpWczd6ajFQRlFwbnhwRy1xZjNESmthVGhUb3E0VW9jQ1hjRllHLVlPcnZSZ3NTaUdLSnZlenhzdXhlbGR0Rmc",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -14265,18 +14277,6 @@
       "titleZh": "卡洛斯·巴莱巴（ Carlos Baleba ）对曼联（ Man Utd ）的所作所为本可以实现期待已久的转"
     },
     {
-      "id": "Fabrizio Romano:CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms huge Man Utd transfer development happening 'today'",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA?oc=5",
-      "published": "2026-08-20T08:35:34.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认曼联“今天”正在进行巨大的转会开发"
-    },
-    {
       "id": "Fabrizio Romano:CBMihwJBVV95cUxNUWZ3QXJUb190ZnZQYm9KMGtkbXl0U1VNRll3ZVR2ZC04cWlaeDJ3TEd5MGJjalV4dWtaOGZkZHF4dDlobkEwVHFFVmFoUGp2WksxX2d5SGVaNGMySGc3WThmeW9mM0FEcjJkMmVMRjV3bjE4azJxVWZmMFh4QWN1YTMyUUZyM01BamZmUFJFeXcwZm51Y0ZJTVhHS0p2TjV4cE1Yc285dzJwc2FEMUljZVRHX2dvRFR4T0w4bTVOYXV0TkhQb21felNUNF90R3piU0NZWElKQnRhRmpYOUU5d09ON0c1S3Vud3FKdGRxeTFzRzBrUllUemZYNEFfUlpWNGFqMlB5QQ",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -14313,16 +14313,28 @@
       "titleZh": "卡里克的新中场卡洛斯·巴莱巴（ Carlos Baleba ）和新的心态：为什么乐观情绪又回到了曼联"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE1zT1lYbFVNbzhEdU9FSXh1VE1IMVFhR2NXRHR5X2pmR0NoVnR5elZMZlRBd2QzbDBhRjk0NXV3RE91OGxzdXE5cEN0RDlqeXFpUlNkX0ZIZ1h1LVVLa19SLXdzSlhnQ1k",
+      "id": "Simon Stone:CBMiakFVX3lxTE52dDhob2ZSRWN3VHNUMVF6QW9ZQVpuTEN6LXZ4Y0dkbDlGbkJ5RmRDNVMyZ08tQzBUMDBPbVUxazEwTVlPSmwtTk5zWVA2cURzaHhiVldKa2FPb1Y5Mk4zZEx3N29sM0tJQUE",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Carlos Baleba - Simon Stone analysis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zT1lYbFVNbzhEdU9FSXh1VE1IMVFhR2NXRHR5X2pmR0NoVnR5elZMZlRBd2QzbDBhRjk0NXV3RE91OGxzdXE5cEN0RDlqeXFpUlNkX0ZIZ1h1LVVLa19SLXdzSlhnQ1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dDhob2ZSRWN3VHNUMVF6QW9ZQVpuTEN6LXZ4Y0dkbDlGbkJ5RmRDNVMyZ08tQzBUMDBPbVUxazEwTVlPSmwtTk5zWVA2cURzaHhiVldKa2FPb1Y5Mk4zZEx3N29sM0tJQUE?oc=5",
       "published": "2026-08-20T05:06:49.000Z",
       "titleZh": "曼联新闻： Carlos Baleba - Simon Stone分析"
+    },
+    {
+      "id": "Fabrizio Romano:CBMiuAFBVV95cUxOSE5qRVhNYm5zd3dVYmpkYWFMZXZ5dDdIcGFVNmxWdXRmemZVSF9STFBsTjVOZXhTdmdkazlTYTd2Snk0OUh6ZmU4d0pYVDFaUVBaODQtTXpIaG4tOG4zRG42b08xYzN3NHBlOGxqTHVwRkhuV25HM19XeEpSX2hWTFFsbmZqdnpfQTFad0hxdkZoREVGRkE3aEJpdEZmcS1BZDRKOVBiS256RnA5UWhCbG4xZlpTN1Rv",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano drops dream Man Utd update with double signing expected after Baleba",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE5qRVhNYm5zd3dVYmpkYWFMZXZ5dDdIcGFVNmxWdXRmemZVSF9STFBsTjVOZXhTdmdkazlTYTd2Snk0OUh6ZmU4d0pYVDFaUVBaODQtTXpIaG4tOG4zRG42b08xYzN3NHBlOGxqTHVwRkhuV25HM19XeEpSX2hWTFFsbmZqdnpfQTFad0hxdkZoREVGRkE3aEJpdEZmcS1BZDRKOVBiS256RnA5UWhCbG4xZlpTN1Rv?oc=5",
+      "published": "2026-08-19T18:47:31.000Z",
+      "titleZh": "Romano在Baleba之后放弃了DREAM MAN UTD的更新，预计将进行双重签名"
     },
     {
       "id": "David Ornstein:CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ",
@@ -14479,21 +14491,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEpFLVI1ZFo0WTY0cFZFMUVfcFgzcFpreVdkOFlEZDJMUnV2UU5hdEhjdlY3Q3JwMzJNaFFuWDh5VjZVbTc5aVBfNUZvcVRLR3JmSkRybjlTV3ZMOWRTd2tBV3B2cl9rSGdDRFdSLXY3R2p1ZE02ZHVVd0E2bG8tLWptazRfb3ZrdDZvOER6LXdoX3Z3NnJESlhtUWxRMTQ?oc=5",
       "published": "2026-08-18T04:28:53.000Z",
       "titleZh": "曼联最伟大的球员：排名第二， Ryan Giggs"
-    },
-    {
-      "id": "Laurie Whitwell:CBMingFBVV95cUxNeXk3SXJNSDF6VndTOW9XUU5IV0JyUW56STIwSkhSSElTakE5M2dTQ3RHNmJ2MExzNW5PWVg3SFlzV2ZtbnVrZFJpaTZYS09LSXowUWREUkRMVWU1ZUJKd0h2YmlpWm85clp5cWRVblpmaTBFMmxIWWxsVzYzWTROeVpYcVRXdmpqT21pTHREQUZWbE15RFVtNVBKcVVtdw",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms Bruno Fernandes ‘talks’ as Man Utd respond to Galatasaray bid",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXk3SXJNSDF6VndTOW9XUU5IV0JyUW56STIwSkhSSElTakE5M2dTQ3RHNmJ2MExzNW5PWVg3SFlzV2ZtbnVrZFJpaTZYS09LSXowUWREUkRMVWU1ZUJKd0h2YmlpWm85clp5cWRVblpmaTBFMmxIWWxsVzYzWTROeVpYcVRXdmpqT21pTHREQUZWbE15RFVtNVBKcVVtdw?oc=5",
-      "published": "2026-08-17T21:06:56.000Z",
-      "titleZh": "Fabrizio Romano确认布鲁诺·费尔南德斯（ Bruno Fernandes ） “会谈” ，曼联回应加拉塔萨雷（ Galatasaray ）的出价"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-21T20:57:30.682Z",
+  "journalistsUpdatedAt": "2026-08-21T21:44:21.487Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

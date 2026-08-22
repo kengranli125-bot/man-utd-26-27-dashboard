@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:47:09.409Z",
+  "updatedAt": "2026-08-22T12:58:04.776Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -12740,8 +12740,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "64'"
             },
             {
               "id": "178051",
@@ -12752,8 +12752,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "64'"
             },
             {
               "id": "243576",
@@ -12861,9 +12861,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "64'"
             },
             {
               "id": "354149",
@@ -12897,9 +12897,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "64'"
             },
             {
               "id": "303338",
@@ -13039,8 +13039,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "67'"
             },
             {
               "id": "193297",
@@ -13051,8 +13051,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "67'"
             },
             {
               "id": "259902",
@@ -13075,8 +13075,8 @@
               "starter": true,
               "active": true,
               "subbedIn": false,
-              "subbedOut": false,
-              "substitutionTime": ""
+              "subbedOut": true,
+              "substitutionTime": "45'"
             },
             {
               "id": "271170",
@@ -13112,9 +13112,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "67'"
             },
             {
               "id": "276327",
@@ -13160,9 +13160,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "45'"
             },
             {
               "id": "130877",
@@ -13184,9 +13184,9 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": false,
+              "subbedIn": true,
               "subbedOut": false,
-              "substitutionTime": ""
+              "substitutionTime": "67'"
             },
             {
               "id": "238902",

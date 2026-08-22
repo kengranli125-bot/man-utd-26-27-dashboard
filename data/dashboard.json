@@ -15952,18 +15952,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE1QaFZ6Wk9zYThiU0l3MWttUk9PLXg4eTdLQ0dGbDVTTlp0OEUxRHE0NW9EeEdtS3NtcGQyRXd1Y1hEZGRvaHp5cHBmbDVabDRRTXcwbjczSmdDV2xYZTdkVmxRYnV4SkNvcEE",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Hull City 2-0 Man Utd: Boss Michael Carrick says side won't change course despite shock defeat",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QaFZ6Wk9zYThiU0l3MWttUk9PLXg4eTdLQ0dGbDVTTlp0OEUxRHE0NW9EeEdtS3NtcGQyRXd1Y1hEZGRvaHp5cHBmbDVabDRRTXcwbjczSmdDV2xYZTdkVmxRYnV4SkNvcEE?oc=5",
-      "published": "2026-08-22T15:44:28.000Z",
-      "titleZh": "赫尔城2-0曼联：老板迈克尔·卡里克说，尽管受到冲击，球队不会改变路线"
-    },
-    {
       "id": "Samuel Luckhurst:CBMibEFVX3lxTFBZY25LTHozTkhDcjNfYS1vaEd5bk1VV3A0SW43SjJ1MHF0djREREcxR0k2T0pfZVlQTHBaQVRyRGpKMmJCQ0h2OGtMOXpJQlNKUnhyc2ZoanRraE9VSjg0M3dmNzZId1VvUm9JYw",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -15974,6 +15962,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZY25LTHozTkhDcjNfYS1vaEd5bk1VV3A0SW43SjJ1MHF0djREREcxR0k2T0pfZVlQTHBaQVRyRGpKMmJCQ0h2OGtMOXpJQlNKUnhyc2ZoanRraE9VSjg0M3dmNzZId1VvUm9JYw?oc=5",
       "published": "2026-08-22T15:42:51.000Z",
       "titleZh": "船体老板说，他在暴露“问题”之前发现了曼联的弱点"
+    },
+    {
+      "id": "Rob Dawson:CBMisAFBVV95cUxPaGZCWlVoWEQwcnA1YzZxZmpmaS1GOW9aYXliaTg4ZWtuRFhpbzNFalJ0QmlEdjBKM2pFTmp5V3dRQ1FlcWVjSnBkcGl2U2k5N3dZUUR6X1JmV0paQjRvUkEyd0FwNktsNlpZSE9ZYjBuRWJLQWVZeW94eVR3dFJoQTA2S1RkUDFITG50UkJBdDA4NW5TNGhPajdEZ3hmV1VMOXNNTWVMM0s4U3p6UDQtMQ",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Too soon to panic? Man United see problems exposed in Hull City defeat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGZCWlVoWEQwcnA1YzZxZmpmaS1GOW9aYXliaTg4ZWtuRFhpbzNFalJ0QmlEdjBKM2pFTmp5V3dRQ1FlcWVjSnBkcGl2U2k5N3dZUUR6X1JmV0paQjRvUkEyd0FwNktsNlpZSE9ZYjBuRWJLQWVZeW94eVR3dFJoQTA2S1RkUDFITG50UkJBdDA4NW5TNGhPajdEZ3hmV1VMOXNNTWVMM0s4U3p6UDQtMQ?oc=5",
+      "published": "2026-08-22T15:07:00.000Z",
+      "titleZh": "太快就要惊慌失措了？曼联看到赫尔城战败中暴露的问题"
     },
     {
       "id": "Chris Wheeler:CBMisAFBVV95cUxPb2tlai14cEhjc1c4aUwtMjFqWnVPeHlCdnZ4NTNhN056WlE1Q09EWDBzX3lYRzdRUUtZZ2trTFBmaE1pNV9YWm5rS1pja0t4b2xQX24yRjV5NG1tSXNvUm9TaXA2WFVxb2tVV1F1Yk1wUlR5OS1KczdMdno2d3E2SE9pYUZ5UXAxRm9sOXVhVk5Bek5CMG1FTHZJTXlTRUU2NnUzMERjMDFYSUpodzM2UA",
@@ -15988,6 +15988,18 @@
       "titleZh": "赫尔的曼联球迷在2-0失利后立即做了什么"
     },
     {
+      "id": "Fabrizio Romano:CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "London Evening Standard",
+      "tier": 1,
+      "title": "Man Utd book medical for latest summer signing after agreeing £70m transfer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw?oc=5",
+      "published": "2026-08-22T14:24:42.000Z",
+      "titleZh": "曼联在同意7000万英镑的转会后，为最新的夏季签约预订医疗服务"
+    },
+    {
       "id": "Chris Wheeler:CBMirgFBVV95cUxQNEVpbFVQZmoyWm5ybmdVWTFYYmlkWjV5MHBCMnJjd1RmTmswaWZ3bzgzT0Y3RFRtR3lIQ3Y4Nm9Rc0ozbUM1MURWbmRNX0k3cDRHTnZiaE5KQmRIVzA2eDRwSkFRclRLU3ZiZFF0UXBxUFVBRWxLM0lQN3k0VGRPZThTSG52MFhlRnp4d2JyazJZV3FDQUQ0RUNScl9rNFNVUVpiOTFGMzVIeElYOFHSAbMBQVVfeXFMTk1fMEZhTTR1ZHQ4TmxnSTkyUjBVaTBNd0NrcVEyT0RoZVBZQXpEQ2Q1WnM2bWFBSzVpNkFEMDRLc0RNLXBBRkhtOHVLSnJYQXh5T0lMbUFKeG9PaVdia2V0MWxXTW01NWZSZ1QzMUhsOWFLNWVkb2RzWHZFd0JidFlKYkZuQTZkS1hhcDd0MXFjcmVYWi13UU9UekxMaDdOM0czbVFnWGVlOEQ1NnVQQ0k0QTQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -16000,15 +16012,27 @@
       "titleZh": "赫尔2-0曼联：即使在他最糟糕的噩梦中，迈克尔·卡里克也不可能看到这个开幕日的羞辱-任何关于这个证据的标题讨论都是一个笑话，克里斯·惠勒写道"
     },
     {
-      "id": "David Ornstein:CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR",
+      "id": "Simon Stone:CBMiakFVX3lxTE96UTNkZWJmVGRSZ29fM1ZWTGo4M3lGcUhxTmFLbTRwTkxudC1wX1A3X2Rwb0ZIUE1lb1dNSTNheWIyS0ltM2tWRmhMU1Q2cEQxcExDWDlCZjVKUnJoOFBsd2lYdGFZdk1uN1E",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Ajayi is rock at the back as Hull stun Man Utd - player ratings",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96UTNkZWJmVGRSZ29fM1ZWTGo4M3lGcUhxTmFLbTRwTkxudC1wX1A3X2Rwb0ZIUE1lb1dNSTNheWIyS0ltM2tWRmhMU1Q2cEQxcExDWDlCZjVKUnJoOFBsd2lYdGFZdk1uN1E?oc=5",
+      "published": "2026-08-22T13:24:59.000Z",
+      "titleZh": "Ajayi在后面摇滚，因为船体击晕曼联-球员评级"
+    },
+    {
+      "id": "David Ornstein:CBMi8AFBVV95cUxONThDMEwtbTMtTFVDMFFOSjBPQVNSdldkOWZMUlUzdDNmUVdLQ0UwZ2lCekk2amFPMGZQcnYzcktHcko3RmQxSkFlS0tZWU5la05lOVlpeUJMcXhKUkRobXZLSkVlR3NTcTZLUWNKMFpGRU5KcVhNejB4TVp6VGlBZ0lKYXk5UUllQW54NGdaOE9nYzcyMFhRd3I0SjJFVTA4R3ZpdFNIbHVPYWFqdDFEZDJ1QXFrWktJSHlqMzRlSWljaFQwM25yNkdlVV9CN2gtVVZucldtX3pTQ2IwNEU0c0IzeGxZNURUM3gya1htZ0Y",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
       "source": "TNT Sports",
       "tier": 1,
       "title": "Man Utd deal for Baleba highlights new disciplined transfer approach, says Ornstein",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR?oc=5",
-      "published": "2026-08-22T11:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONThDMEwtbTMtTFVDMFFOSjBPQVNSdldkOWZMUlUzdDNmUVdLQ0UwZ2lCekk2amFPMGZQcnYzcktHcko3RmQxSkFlS0tZWU5la05lOVlpeUJMcXhKUkRobXZLSkVlR3NTcTZLUWNKMFpGRU5KcVhNejB4TVp6VGlBZ0lKYXk5UUllQW54NGdaOE9nYzcyMFhRd3I0SjJFVTA4R3ZpdFNIbHVPYWFqdDFEZDJ1QXFrWktJSHlqMzRlSWljaFQwM25yNkdlVV9CN2gtVVZucldtX3pTQ2IwNEU0c0IzeGxZNURUM3gya1htZ0Y?oc=5",
+      "published": "2026-08-22T11:21:00.000Z",
       "titleZh": "Ornstein表示，曼联与Baleba的交易强调了新的纪律转会方法"
     },
     {
@@ -16024,6 +16048,18 @@
       "titleZh": "在曼联宣布之前，拉什福德在节目上没有编号"
     },
     {
+      "id": "Simon Stone:CBMifkFVX3lxTE1sWDNCc1VvSkROUk13MGZxZmVuM3ZzNWpMXzVPTG9VeFd1Mmo5TzJ6clBsZGNfQW9JS1pENnlvUkl2Y0RlbmhEQ2VGRGlTd1l5SlkwXy03MXNuODBDZk5WUi1LbGRxTXdVNno5MHJJRmtZay1WSkpJUUo2QkJvZw",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports Canada",
+      "tier": 1,
+      "title": "Bruno still has big part to play - Carrick",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sWDNCc1VvSkROUk13MGZxZmVuM3ZzNWpMXzVPTG9VeFd1Mmo5TzJ6clBsZGNfQW9JS1pENnlvUkl2Y0RlbmhEQ2VGRGlTd1l5SlkwXy03MXNuODBDZk5WUi1LbGRxTXdVNno5MHJJRmtZay1WSkpJUUo2QkJvZw?oc=5",
+      "published": "2026-08-22T06:57:37.000Z",
+      "titleZh": "布鲁诺仍然可以扮演重要角色-卡里克"
+    },
+    {
       "id": "Chris Wheeler:CBMijwJBVV95cUxOY3loc1liSVdiYTR2Ni1YdmRjWW9mMmQ4NndhSElVMGFBcEJLX0NMSUJDUlN4M0dvbUZCRjVIM2FhU0pIb1VOXzFPSmJJdFFjdERHNUVHWUg1V1VwV214c1A3bVphaVJQMU9adlI3UEdyNm5HTGFuTFh5VWxORjhnZkRXbklzRnpjekZ2Y1Z5R09tNVU2a3VCZEdQdVZwNXFYWjVOTE9NcTJoRzhGLTZkMTY3TFdLNzFndDZHaWpoX3JtQVcwRDRrRllLZ3Nzd0xuRG40emRYODFmRU5xZUQzQVpsbS1xRDU4aW1zZ0k2WXZBVzlORm1uT21ORDBuWERacDZUT1BPM2txSUpaWE4w0gGUAkFVX3lxTE1rZXkzTHQ3Zm9CQnJCdV9GU0hYY0hNMFpLTTNOZWRHd0NSdmpnbkVkNDFIbWdBd1FHcjY4TTJLOW1RTkhCQlBkTlRxVDktS2pPWGJzYjZQRDU3Z2ZyOEstRzJnVVZlSkFpNTY4NHI4NHRYdGtibm9yLUpZZ1dCTjktem96VVVnMDdDVk81SU0xekhHa3pUTXo0c1YxUmlzbmxvWmFHdlVKQ2JUQUVvcWtoVmdPNHZSdGRaUFI3aU1aT0VvOGtFVHRtLUZ3Z09EWk5xcFV1N3ktdEtMT3BsQlhxRzlGUXVZdUF6VHphSnQ1ak53Y19Rai0zTGZ0WjMxVVZFTnZJblBHcWZKbHFlaUpOU2FHNQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -16034,30 +16070,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY3loc1liSVdiYTR2Ni1YdmRjWW9mMmQ4NndhSElVMGFBcEJLX0NMSUJDUlN4M0dvbUZCRjVIM2FhU0pIb1VOXzFPSmJJdFFjdERHNUVHWUg1V1VwV214c1A3bVphaVJQMU9adlI3UEdyNm5HTGFuTFh5VWxORjhnZkRXbklzRnpjekZ2Y1Z5R09tNVU2a3VCZEdQdVZwNXFYWjVOTE9NcTJoRzhGLTZkMTY3TFdLNzFndDZHaWpoX3JtQVcwRDRrRllLZ3Nzd0xuRG40emRYODFmRU5xZUQzQVpsbS1xRDU4aW1zZ0k2WXZBVzlORm1uT21ORDBuWERacDZUT1BPM2txSUpaWE4w0gGUAkFVX3lxTE1rZXkzTHQ3Zm9CQnJCdV9GU0hYY0hNMFpLTTNOZWRHd0NSdmpnbkVkNDFIbWdBd1FHcjY4TTJLOW1RTkhCQlBkTlRxVDktS2pPWGJzYjZQRDU3Z2ZyOEstRzJnVVZlSkFpNTY4NHI4NHRYdGtibm9yLUpZZ1dCTjktem96VVVnMDdDVk81SU0xekhHa3pUTXo0c1YxUmlzbmxvWmFHdlVKQ2JUQUVvcWtoVmdPNHZSdGRaUFI3aU1aT0VvOGtFVHRtLUZ3Z09EWk5xcFV1N3ktdEtMT3BsQlhxRzlGUXVZdUF6VHphSnQ1ak53Y19Rai0zTGZ0WjMxVVZFTnZJblBHcWZKbHFlaUpOU2FHNQ?oc=5",
       "published": "2026-08-21T21:30:46.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）坚持认为，曼联今年夏天物有所值，而竞争对手则在继续追求布莱顿的卡洛斯·巴莱巴（ Carlos Baleba ）"
-    },
-    {
-      "id": "Fabrizio Romano:CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "London Evening Standard",
-      "tier": 1,
-      "title": "Man Utd book medical for latest summer signing after agreeing £70m transfer",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw?oc=5",
-      "published": "2026-08-21T20:26:42.000Z",
-      "titleZh": "曼联在同意7000万英镑的转会后，为最新的夏季签约预订医疗服务"
-    },
-    {
-      "id": "Rob Dawson:CBMiogFBVV95cUxORkcxdGZxdXpQNHloQlhFT0pVQU5td3ZWdDBmVXcxOWVObjJfR3p5SW9FUmJaWUhCbEVxOE41QVpJUEJYZDhudjljV245QV9QaTNHZkh2Q2ZNYnJyOXMtaUxYeGVyVEgyTDljT0ZxcGt0TEhZR2FubnY4aVU0NXI5Z3Z2Y1V6c0RBTUdVcV9MOWJxbm1KQ1I2VjBrUkdxMGVWZWc",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkcxdGZxdXpQNHloQlhFT0pVQU5td3ZWdDBmVXcxOWVObjJfR3p5SW9FUmJaWUhCbEVxOE41QVpJUEJYZDhudjljV245QV9QaTNHZkh2Q2ZNYnJyOXMtaUxYeGVyVEgyTDljT0ZxcGt0TEhZR2FubnY4aVU0NXI5Z3Z2Y1V6c0RBTUdVcV9MOWJxbm1KQ1I2VjBrUkdxMGVWZWc?oc=5",
-      "published": "2026-08-21T19:58:00.000Z",
-      "titleZh": "曼联同意以7000万英镑收购布莱顿的卡洛斯·巴莱巴-消息来源"
     },
     {
       "id": "Carl Anka:CBMirgFBVV95cUxQd2E4YmtRLWxKTFZBMjFsT1dzZElqeGljeG9oV3JEdFdLNDhsWFlaQThyZ2tDU0tVRm5FNTJQRFkwV0Z1cjlEYUVVUzNtWWkyTFE1SzBnVzhqb0wzS3l1ejZLUHQtVzl5R1lscWZvNHpWczd6ajFQRlFwbnhwRy1xZjNESmthVGhUb3E0VW9jQ1hjRllHLVlPcnZSZ3NTaUdLSnZlenhzdXhlbGR0Rmc",
@@ -16106,6 +16118,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX3pPRDFwbjAtb09TbmgtX2h0ckhzbGhNa0J0NEZmbEV4YmtITUFnQ3haaUlWaXNYYVZCNklma2h0V2FLR0FXaWl5UmRONVpMWWVrS084RGFTMjNpdUpVbG9EYkJnVThkNFpwMmtEeVJnVFc2Z3Fqb2F5WGZXNWtoWks1NXVKMWRBS2RDUVkybEZrcHJaMjBvY245YWhIcHRzdjVXYzZqam1BQnhPZUNWeklxS3FlVnJfclNn0gHAAUFVX3lxTE5lNHFPb3VjSzk1NFktU19rcHVPRmY4d19KaVpHbVNFMm4wTTVzVWRMcEVLclBPVERTQ2RHdmtHMkpKUS1uNVhlVDBjYkI5MjZyR0xDRmRUTS03NTNrNjRDM21JYjN1WDV5NlhUTGxQaDZTb1paME5vYkNOUEFCSFRmbEFIZ3I1Z2owZ2xESXhQa2FhVVFINEZwRjJKeWllWHBsbmJQeWRYSlBZUExqdkNPSVFDV1pkdVQ4VDNqZUhHdw?oc=5",
       "published": "2026-08-20T16:30:13.000Z",
       "titleZh": "曼联老板迈克尔·卡里克（ Michael Carrick ）表示，暗示他们对赫尔和伊普斯维奇的轻松开局是“荒谬的” -并淡化了关于英超联赛冠军挑战的言论"
+    },
+    {
+      "id": "Carl Anka:CBMiO0FVX3lxTFAxcmNfWFdDV0gtUFdjRl90NGFodnd1NUxIcVF0ajE0dUFzT1lJMkhBcmhzU2dXVlM5QVk4",
+      "reporter": "Carl Anka",
+      "reporterZh": "卡尔·安卡",
+      "reporterOutlet": "The Athletic",
+      "source": "t.co",
+      "tier": 2,
+      "title": "Does Baleba complete Man United’s transfer business?",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAxcmNfWFdDV0gtUFdjRl90NGFodnd1NUxIcVF0ajE0dUFzT1lJMkhBcmhzU2dXVlM5QVk4?oc=5",
+      "published": "2026-08-20T12:25:25.000Z",
+      "titleZh": "Baleba是否完成了曼联的转会业务？"
     },
     {
       "id": "Fabrizio Romano:CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA",
@@ -16180,18 +16204,6 @@
       "titleZh": "曼联和布莱顿接近Carlos Baleba - The Athletic的交易"
     },
     {
-      "id": "Simon Stone:CBMihgFBVV95cUxPN1VIcUlUbjBVZkU2TjI4VWdRQUY3Z21DYjB2WXZvWmRqSlIyOUdkVVRBSWVCdGxfR2xKVF94SUVqbjg1YmRwSkpJY2tqY1RHM0VwWWVhQ0lZb0VFanF1VFFTeXE0YkstZ3pRRkZ0WHh0NHZQOE9XWEdmdWc3NFd3eUV0bDUxdw",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Will Manchester United move for Watkins?",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1VIcUlUbjBVZkU2TjI4VWdRQUY3Z21DYjB2WXZvWmRqSlIyOUdkVVRBSWVCdGxfR2xKVF94SUVqbjg1YmRwSkpJY2tqY1RHM0VwWWVhQ0lZb0VFanF1VFFTeXE0YkstZ3pRRkZ0WHh0NHZQOE9XWEdmdWc3NFd3eUV0bDUxdw?oc=5",
-      "published": "2026-08-19T14:46:49.000Z",
-      "titleZh": "曼联会加盟沃特金斯吗？"
-    },
-    {
       "id": "Carl Anka:CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -16226,21 +16238,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDc3NE9Bc0JocU5pT08yeFZTLTNIZlBFbWJnd2JWTngyY1NLTzR4RmdJRE1mbklxcWtZSDhkUUQ4c3BsVHpwOTk0eWVDQnROVVRSek4xNjVUbEhORVRCbnhVdzVhdEtoTW1Da0FOVGdsWlRoNW1iUHcwTnJPdGVaWkV5SUkzVFVQWVhZNm92R3A1QnRkZDBLNnVscU5ZU3FnZWlIN0lNWGhkdHRm?oc=5",
       "published": "2026-08-19T11:32:00.000Z",
       "titleZh": "Baleba是曼联Casemiro的最佳替代品吗？"
-    },
-    {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE84aFhhUVhSY3pzS2hydFhNRXlsMzZvQVl0NlRfWl9RckhSOW5ZYllYdklaSFU5dzgxU2Z2VWhFM2trSjJoQXhtY28xNjhsZWc1cndvdmd5LXpZRlJHYWpkN3dZbkY3QkU",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Carlos Baleba transfer - Simon Stone analysis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84aFhhUVhSY3pzS2hydFhNRXlsMzZvQVl0NlRfWl9RckhSOW5ZYllYdklaSFU5dzgxU2Z2VWhFM2trSjJoQXhtY28xNjhsZWc1cndvdmd5LXpZRlJHYWpkN3dZbkY3QkU?oc=5",
-      "published": "2026-08-19T10:41:18.000Z",
-      "titleZh": "曼联新闻： Carlos Baleba转会- Simon Stone分析"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-22T17:14:03.015Z",
+  "journalistsUpdatedAt": "2026-08-22T17:35:07.700Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

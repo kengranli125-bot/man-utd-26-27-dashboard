@@ -15952,16 +15952,28 @@
   ],
   "journalists": [
     {
-      "id": "Chris Wheeler:CBMixgFBVV95cUxQeFJqeS00RjlFVnFENllJV2lLMjFlVU1VVW1DTWpEQndLN1d5YnVQd081cVN5anhZV1RKTV8yV211ZzhPT2t5MHBIZWd2U2d2SFczVmVrdnd0TkVoRnpqNm5MNU1wczdycG44XzhZTmYyamVpTkp6ckx4OUFsWUt5NWVhUmZfZmdseVVmNW5EOXJVWG5WRmZ0MG5GTUZtNF9lYzBaR0VfQW1TVWpkUVBTR1ZkME9xc1ZzYTh2MHNEa1lqY2tOY2fSAcsBQVVfeXFMUFZRZzJlS2g3ZjBmdjhTQkxhaFdFczNSOEM0N2Z5ekw5bkxZOW83MHZlRGNaWUhLc3ZBaXhCeFNzN0xhTjRLT3dGamQzUUs1cFV0RkZRWXN5d3BzVmN4b2tmd2xCb0V3Vm1UU3otd1JLNXZBUlB5bmNLazBMdHhBbE1ubHVQSUxJbGdxcWZYZWZkZTZEMHhxbWljMFVfSWhHRl81YjBxNGVQTjVNVUJjX2ZKazlSUU1QUnVSUDIwOW50SW16Uk5PMHhzWmc",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
+      "id": "Simon Stone:CBMiakFVX3lxTE1QaFZ6Wk9zYThiU0l3MWttUk9PLXg4eTdLQ0dGbDVTTlp0OEUxRHE0NW9EeEdtS3NtcGQyRXd1Y1hEZGRvaHp5cHBmbDVabDRRTXcwbjczSmdDV2xYZTdkVmxRYnV4SkNvcEE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Hull City 2-0 Man Utd: Boss Michael Carrick says side won't change course despite shock defeat",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QaFZ6Wk9zYThiU0l3MWttUk9PLXg4eTdLQ0dGbDVTTlp0OEUxRHE0NW9EeEdtS3NtcGQyRXd1Y1hEZGRvaHp5cHBmbDVabDRRTXcwbjczSmdDV2xYZTdkVmxRYnV4SkNvcEE?oc=5",
+      "published": "2026-08-22T15:44:28.000Z",
+      "titleZh": "赫尔城2-0曼联：老板迈克尔·卡里克说，尽管受到冲击，球队不会改变路线"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMibEFVX3lxTFBZY25LTHozTkhDcjNfYS1vaEd5bk1VV3A0SW43SjJ1MHF0djREREcxR0k2T0pfZVlQTHBaQVRyRGpKMmJCQ0h2OGtMOXpJQlNKUnhyc2ZoanRraE9VSjg0M3dmNzZId1VvUm9JYw",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
       "tier": 2,
-      "title": "Alan Shearer insists Man United 'didn't look fit' in shock opening day defeat to Hull as Bruno Fernandes admits Red Devils made 'the same mistakes as last season'",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFJqeS00RjlFVnFENllJV2lLMjFlVU1VVW1DTWpEQndLN1d5YnVQd081cVN5anhZV1RKTV8yV211ZzhPT2t5MHBIZWd2U2d2SFczVmVrdnd0TkVoRnpqNm5MNU1wczdycG44XzhZTmYyamVpTkp6ckx4OUFsWUt5NWVhUmZfZmdseVVmNW5EOXJVWG5WRmZ0MG5GTUZtNF9lYzBaR0VfQW1TVWpkUVBTR1ZkME9xc1ZzYTh2MHNEa1lqY2tOY2fSAcsBQVVfeXFMUFZRZzJlS2g3ZjBmdjhTQkxhaFdFczNSOEM0N2Z5ekw5bkxZOW83MHZlRGNaWUhLc3ZBaXhCeFNzN0xhTjRLT3dGamQzUUs1cFV0RkZRWXN5d3BzVmN4b2tmd2xCb0V3Vm1UU3otd1JLNXZBUlB5bmNLazBMdHhBbE1ubHVQSUxJbGdxcWZYZWZkZTZEMHhxbWljMFVfSWhHRl81YjBxNGVQTjVNVUJjX2ZKazlSUU1QUnVSUDIwOW50SW16Uk5PMHhzWmc?oc=5",
-      "published": "2026-08-22T15:25:41.000Z",
-      "titleZh": "艾伦·希勒（ Alan Shearer ）坚称曼联在震惊的开幕日击败赫尔时“看起来不合适” ，因为布鲁诺·费尔南德斯（ Bruno Fernandes ）承认红魔队犯了“与上赛季相同的错误”"
+      "title": "Hull boss says he spotted Man Utd weakness before set-peice exposed 'problem'",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZY25LTHozTkhDcjNfYS1vaEd5bk1VV3A0SW43SjJ1MHF0djREREcxR0k2T0pfZVlQTHBaQVRyRGpKMmJCQ0h2OGtMOXpJQlNKUnhyc2ZoanRraE9VSjg0M3dmNzZId1VvUm9JYw?oc=5",
+      "published": "2026-08-22T15:42:51.000Z",
+      "titleZh": "船体老板说，他在暴露“问题”之前发现了曼联的弱点"
     },
     {
       "id": "Chris Wheeler:CBMisAFBVV95cUxPb2tlai14cEhjc1c4aUwtMjFqWnVPeHlCdnZ4NTNhN056WlE1Q09EWDBzX3lYRzdRUUtZZ2trTFBmaE1pNV9YWm5rS1pja0t4b2xQX24yRjV5NG1tSXNvUm9TaXA2WFVxb2tVV1F1Yk1wUlR5OS1KczdMdno2d3E2SE9pYUZ5UXAxRm9sOXVhVk5Bek5CMG1FTHZJTXlTRUU2NnUzMERjMDFYSUpodzM2UA",
@@ -15988,30 +16000,6 @@
       "titleZh": "赫尔2-0曼联：即使在他最糟糕的噩梦中，迈克尔·卡里克也不可能看到这个开幕日的羞辱-任何关于这个证据的标题讨论都是一个笑话，克里斯·惠勒写道"
     },
     {
-      "id": "Samuel Luckhurst:CBMiiwFBVV95cUxPNHo0V1M2YW8wQTV6UFFPemd2OXV3ay1kSmd2cTZ2VmxiYWVJc0lvQ2s3RUNPdERjX2NqZDJ0T0pvc3FnOF9nal93RkNLamU3NF9qZFJiZUszQVYwVm4zRUh3ZHJFckFVUnJRQ1dnVTN2dUM2SWxRSTF1WkpDT2V0dE1reE1GQmQwMU9j",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Hull 2 Man Utd 0: Carrick's new-look midfield abysmal as newly-promoted Tigers maul Red Devils in shock first-half blitz",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHo0V1M2YW8wQTV6UFFPemd2OXV3ay1kSmd2cTZ2VmxiYWVJc0lvQ2s3RUNPdERjX2NqZDJ0T0pvc3FnOF9nal93RkNLamU3NF9qZFJiZUszQVYwVm4zRUh3ZHJFckFVUnJRQ1dnVTN2dUM2SWxRSTF1WkpDT2V0dE1reE1GQmQwMU9j?oc=5",
-      "published": "2026-08-22T13:28:58.000Z",
-      "titleZh": "船体2曼联0 ：卡里克的新面貌中场糟透了，因为新晋升的老虎队在上半场闪电战中击败了红魔"
-    },
-    {
-      "id": "Simon Stone:CBMiakFVX3lxTE96UTNkZWJmVGRSZ29fM1ZWTGo4M3lGcUhxTmFLbTRwTkxudC1wX1A3X2Rwb0ZIUE1lb1dNSTNheWIyS0ltM2tWRmhMU1Q2cEQxcExDWDlCZjVKUnJoOFBsd2lYdGFZdk1uN1E",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Ajayi is rock at the back as Hull stun Man Utd - player ratings",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96UTNkZWJmVGRSZ29fM1ZWTGo4M3lGcUhxTmFLbTRwTkxudC1wX1A3X2Rwb0ZIUE1lb1dNSTNheWIyS0ltM2tWRmhMU1Q2cEQxcExDWDlCZjVKUnJoOFBsd2lYdGFZdk1uN1E?oc=5",
-      "published": "2026-08-22T13:24:59.000Z",
-      "titleZh": "Ajayi在后面摇滚，因为船体击晕曼联-球员评级"
-    },
-    {
       "id": "David Ornstein:CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -16036,16 +16024,16 @@
       "titleZh": "在曼联宣布之前，拉什福德在节目上没有编号"
     },
     {
-      "id": "Simon Stone:CBMifkFVX3lxTE1sWDNCc1VvSkROUk13MGZxZmVuM3ZzNWpMXzVPTG9VeFd1Mmo5TzJ6clBsZGNfQW9JS1pENnlvUkl2Y0RlbmhEQ2VGRGlTd1l5SlkwXy03MXNuODBDZk5WUi1LbGRxTXdVNno5MHJJRmtZay1WSkpJUUo2QkJvZw",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports Canada",
-      "tier": 1,
-      "title": "Bruno still has big part to play - Carrick",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sWDNCc1VvSkROUk13MGZxZmVuM3ZzNWpMXzVPTG9VeFd1Mmo5TzJ6clBsZGNfQW9JS1pENnlvUkl2Y0RlbmhEQ2VGRGlTd1l5SlkwXy03MXNuODBDZk5WUi1LbGRxTXdVNno5MHJJRmtZay1WSkpJUUo2QkJvZw?oc=5",
-      "published": "2026-08-22T06:57:37.000Z",
-      "titleZh": "布鲁诺仍然可以扮演重要角色-卡里克"
+      "id": "Chris Wheeler:CBMijwJBVV95cUxOY3loc1liSVdiYTR2Ni1YdmRjWW9mMmQ4NndhSElVMGFBcEJLX0NMSUJDUlN4M0dvbUZCRjVIM2FhU0pIb1VOXzFPSmJJdFFjdERHNUVHWUg1V1VwV214c1A3bVphaVJQMU9adlI3UEdyNm5HTGFuTFh5VWxORjhnZkRXbklzRnpjekZ2Y1Z5R09tNVU2a3VCZEdQdVZwNXFYWjVOTE9NcTJoRzhGLTZkMTY3TFdLNzFndDZHaWpoX3JtQVcwRDRrRllLZ3Nzd0xuRG40emRYODFmRU5xZUQzQVpsbS1xRDU4aW1zZ0k2WXZBVzlORm1uT21ORDBuWERacDZUT1BPM2txSUpaWE4w0gGUAkFVX3lxTE1rZXkzTHQ3Zm9CQnJCdV9GU0hYY0hNMFpLTTNOZWRHd0NSdmpnbkVkNDFIbWdBd1FHcjY4TTJLOW1RTkhCQlBkTlRxVDktS2pPWGJzYjZQRDU3Z2ZyOEstRzJnVVZlSkFpNTY4NHI4NHRYdGtibm9yLUpZZ1dCTjktem96VVVnMDdDVk81SU0xekhHa3pUTXo0c1YxUmlzbmxvWmFHdlVKQ2JUQUVvcWtoVmdPNHZSdGRaUFI3aU1aT0VvOGtFVHRtLUZ3Z09EWk5xcFV1N3ktdEtMT3BsQlhxRzlGUXVZdUF6VHphSnQ1ak53Y19Rai0zTGZ0WjMxVVZFTnZJblBHcWZKbHFlaUpOU2FHNQ",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Man United have got value for money this summer while rivals have splashed cash, insists Michael Carrick as they continue pursuit of Brighton's Carlos Baleba",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY3loc1liSVdiYTR2Ni1YdmRjWW9mMmQ4NndhSElVMGFBcEJLX0NMSUJDUlN4M0dvbUZCRjVIM2FhU0pIb1VOXzFPSmJJdFFjdERHNUVHWUg1V1VwV214c1A3bVphaVJQMU9adlI3UEdyNm5HTGFuTFh5VWxORjhnZkRXbklzRnpjekZ2Y1Z5R09tNVU2a3VCZEdQdVZwNXFYWjVOTE9NcTJoRzhGLTZkMTY3TFdLNzFndDZHaWpoX3JtQVcwRDRrRllLZ3Nzd0xuRG40emRYODFmRU5xZUQzQVpsbS1xRDU4aW1zZ0k2WXZBVzlORm1uT21ORDBuWERacDZUT1BPM2txSUpaWE4w0gGUAkFVX3lxTE1rZXkzTHQ3Zm9CQnJCdV9GU0hYY0hNMFpLTTNOZWRHd0NSdmpnbkVkNDFIbWdBd1FHcjY4TTJLOW1RTkhCQlBkTlRxVDktS2pPWGJzYjZQRDU3Z2ZyOEstRzJnVVZlSkFpNTY4NHI4NHRYdGtibm9yLUpZZ1dCTjktem96VVVnMDdDVk81SU0xekhHa3pUTXo0c1YxUmlzbmxvWmFHdlVKQ2JUQUVvcWtoVmdPNHZSdGRaUFI3aU1aT0VvOGtFVHRtLUZ3Z09EWk5xcFV1N3ktdEtMT3BsQlhxRzlGUXVZdUF6VHphSnQ1ak53Y19Rai0zTGZ0WjMxVVZFTnZJblBHcWZKbHFlaUpOU2FHNQ?oc=5",
+      "published": "2026-08-21T21:30:46.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）坚持认为，曼联今年夏天物有所值，而竞争对手则在继续追求布莱顿的卡洛斯·巴莱巴（ Carlos Baleba ）"
     },
     {
       "id": "Fabrizio Romano:CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw",
@@ -16168,14 +16156,14 @@
       "titleZh": "卡里克的新中场卡洛斯·巴莱巴（ Carlos Baleba ）和新的心态：为什么乐观情绪又回到了曼联"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE1zT1lYbFVNbzhEdU9FSXh1VE1IMVFhR2NXRHR5X2pmR0NoVnR5elZMZlRBd2QzbDBhRjk0NXV3RE91OGxzdXE5cEN0RDlqeXFpUlNkX0ZIZ1h1LVVLa19SLXdzSlhnQ1k",
+      "id": "Simon Stone:CBMiakFVX3lxTE52dDhob2ZSRWN3VHNUMVF6QW9ZQVpuTEN6LXZ4Y0dkbDlGbkJ5RmRDNVMyZ08tQzBUMDBPbVUxazEwTVlPSmwtTk5zWVA2cURzaHhiVldKa2FPb1Y5Mk4zZEx3N29sM0tJQUE",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Carlos Baleba - Simon Stone analysis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zT1lYbFVNbzhEdU9FSXh1VE1IMVFhR2NXRHR5X2pmR0NoVnR5elZMZlRBd2QzbDBhRjk0NXV3RE91OGxzdXE5cEN0RDlqeXFpUlNkX0ZIZ1h1LVVLa19SLXdzSlhnQ1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dDhob2ZSRWN3VHNUMVF6QW9ZQVpuTEN6LXZ4Y0dkbDlGbkJ5RmRDNVMyZ08tQzBUMDBPbVUxazEwTVlPSmwtTk5zWVA2cURzaHhiVldKa2FPb1Y5Mk4zZEx3N29sM0tJQUE?oc=5",
       "published": "2026-08-20T05:06:49.000Z",
       "titleZh": "曼联新闻： Carlos Baleba - Simon Stone分析"
     },
@@ -16190,6 +16178,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5",
       "published": "2026-08-19T14:49:22.000Z",
       "titleZh": "曼联和布莱顿接近Carlos Baleba - The Athletic的交易"
+    },
+    {
+      "id": "Simon Stone:CBMihgFBVV95cUxPN1VIcUlUbjBVZkU2TjI4VWdRQUY3Z21DYjB2WXZvWmRqSlIyOUdkVVRBSWVCdGxfR2xKVF94SUVqbjg1YmRwSkpJY2tqY1RHM0VwWWVhQ0lZb0VFanF1VFFTeXE0YkstZ3pRRkZ0WHh0NHZQOE9XWEdmdWc3NFd3eUV0bDUxdw",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "Will Manchester United move for Watkins?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1VIcUlUbjBVZkU2TjI4VWdRQUY3Z21DYjB2WXZvWmRqSlIyOUdkVVRBSWVCdGxfR2xKVF94SUVqbjg1YmRwSkpJY2tqY1RHM0VwWWVhQ0lZb0VFanF1VFFTeXE0YkstZ3pRRkZ0WHh0NHZQOE9XWEdmdWc3NFd3eUV0bDUxdw?oc=5",
+      "published": "2026-08-19T14:46:49.000Z",
+      "titleZh": "曼联会加盟沃特金斯吗？"
     },
     {
       "id": "Carl Anka:CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093",
@@ -16240,7 +16240,7 @@
       "titleZh": "曼联新闻： Carlos Baleba转会- Simon Stone分析"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-22T15:54:26.747Z",
+  "journalistsUpdatedAt": "2026-08-22T16:37:45.718Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

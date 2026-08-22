@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:51:16.623Z",
+  "updatedAt": "2026-08-22T11:47:09.409Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -12704,7 +12704,7 @@
           "teamId": "306",
           "teamName": "Hull City",
           "logo": "",
-          "formation": "3-4-2-1",
+          "formation": "5-4-1",
           "confirmed": true,
           "starters": [
             {
@@ -12715,8 +12715,8 @@
               "position": "G",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12724,23 +12724,11 @@
               "name": "John Egan",
               "nameZh": "John Egan",
               "jersey": "15",
-              "position": "D",
+              "position": "CD",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "178051",
-              "name": "Semi Ajayi",
-              "nameZh": "Semi Ajayi",
-              "jersey": "6",
-              "position": "D",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12748,47 +12736,23 @@
               "name": "Nobel Mendy",
               "nameZh": "Nobel Mendy",
               "jersey": "32",
-              "position": "D",
+              "position": "CD-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
-              "id": "320417",
-              "name": "Mohamed Belloumi",
-              "nameZh": "Mohamed Belloumi",
-              "jersey": "10",
-              "position": "M",
+              "id": "178051",
+              "name": "Semi Ajayi",
+              "nameZh": "Semi Ajayi",
+              "jersey": "6",
+              "position": "CD-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "153613",
-              "name": "Matt Crooks",
-              "nameZh": "Matt Crooks",
-              "jersey": "25",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "357145",
-              "name": "Elliot Stroud",
-              "nameZh": "Elliot Stroud",
-              "jersey": "21",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12796,23 +12760,11 @@
               "name": "Ryan Giles",
               "nameZh": "Ryan Giles",
               "jersey": "3",
-              "position": "M",
+              "position": "LB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "249851",
-              "name": "Regan Slater",
-              "nameZh": "Regan Slater",
-              "jersey": "27",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12820,11 +12772,59 @@
               "name": "Lewie Coyle",
               "nameZh": "Lewie Coyle",
               "jersey": "2",
-              "position": "M",
+              "position": "RB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "249851",
+              "name": "Regan Slater",
+              "nameZh": "Regan Slater",
+              "jersey": "27",
+              "position": "CM-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "153613",
+              "name": "Matt Crooks",
+              "nameZh": "Matt Crooks",
+              "jersey": "25",
+              "position": "CM-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "357145",
+              "name": "Elliot Stroud",
+              "nameZh": "Elliot Stroud",
+              "jersey": "21",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "320417",
+              "name": "Mohamed Belloumi",
+              "nameZh": "Mohamed Belloumi",
+              "jersey": "10",
+              "position": "RM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12835,8 +12835,8 @@
               "position": "F",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ],
@@ -12849,8 +12849,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12861,8 +12861,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12873,8 +12873,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12885,8 +12885,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12897,8 +12897,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12909,8 +12909,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12921,8 +12921,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12933,8 +12933,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12945,8 +12945,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ]
@@ -12966,20 +12966,8 @@
               "position": "G",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "167127",
-              "name": "Luke Shaw",
-              "nameZh": "卢克·肖",
-              "jersey": "23",
-              "position": "D",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12987,11 +12975,11 @@
               "name": "Ayden Heaven",
               "nameZh": "艾登·赫文",
               "jersey": "26",
-              "position": "D",
+              "position": "CD-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -12999,11 +12987,23 @@
               "name": "Harry Maguire",
               "nameZh": "哈里·马奎尔",
               "jersey": "5",
-              "position": "D",
+              "position": "CD-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "167127",
+              "name": "Luke Shaw",
+              "nameZh": "卢克·肖",
+              "jersey": "23",
+              "position": "LB",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13011,59 +13011,11 @@
               "name": "Noussair Mazraoui",
               "nameZh": "努赛尔·马兹拉维",
               "jersey": "3",
-              "position": "D",
+              "position": "RB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "366781",
-              "name": "Patrick Dorgu",
-              "nameZh": "帕特里克·多尔古",
-              "jersey": "13",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "314858",
-              "name": "Andrey Santos",
-              "nameZh": "安德烈·桑托斯",
-              "jersey": "17",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "271170",
-              "name": "Bryan Mbeumo",
-              "nameZh": "布莱恩·姆伯莫",
-              "jersey": "19",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "193297",
-              "name": "Youri Tielemans",
-              "nameZh": "尤里·蒂勒曼斯",
-              "jersey": "18",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13071,11 +13023,35 @@
               "name": "Bruno Fernandes",
               "nameZh": "布鲁诺·费尔南德斯",
               "jersey": "8",
-              "position": "M",
+              "position": "AM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "314858",
+              "name": "Andrey Santos",
+              "nameZh": "安德烈·桑托斯",
+              "jersey": "17",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "193297",
+              "name": "Youri Tielemans",
+              "nameZh": "尤里·蒂勒曼斯",
+              "jersey": "18",
+              "position": "RM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13086,8 +13062,32 @@
               "position": "F",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "366781",
+              "name": "Patrick Dorgu",
+              "nameZh": "帕特里克·多尔古",
+              "jersey": "13",
+              "position": "AM-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "271170",
+              "name": "Bryan Mbeumo",
+              "nameZh": "布莱恩·姆伯莫",
+              "jersey": "19",
+              "position": "AM-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ],
@@ -13100,8 +13100,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13112,8 +13112,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13124,8 +13124,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13136,8 +13136,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13148,8 +13148,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13160,8 +13160,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13172,8 +13172,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13184,8 +13184,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -13196,8 +13196,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ]

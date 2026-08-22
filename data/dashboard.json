@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:55:22.987Z",
+  "updatedAt": "2026-08-22T01:49:16.013Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -13595,6 +13595,27 @@
   "scorers": [],
   "news": [
     {
+      "title": "Michael Carrick calls for Man United to 'evolve,' targets second year in Champions League places",
+      "published": "2026-08-21T22:57:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49685051/michael-carrick-manchester-united-evolve-champions-league-top-4",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1705057_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）呼吁曼联“进化” ，目标是进入欧洲冠军联赛的第二年"
+    },
+    {
+      "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
+      "published": "2026-08-21T20:37:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49678076/transfer-rumors-news-arsenal-want-yildiz-al-hilal-add-martinelli-shortlist",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1705008_2_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联正在考虑为巴萨的巴尔德转会"
+    },
+    {
+      "title": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources",
+      "published": "2026-08-21T20:28:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49683972/man-united-agree-transfer-fee-brighton-carlos-baleba",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1705000_1296x729_16-9.jpg",
+      "titleZh": "曼联同意以7000万英镑收购布莱顿的卡洛斯·巴莱巴-消息来源"
+    },
+    {
       "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "published": "2026-08-21T15:45:54Z",
       "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
@@ -13656,30 +13677,30 @@
       "url": "https://www.espn.com/soccer/story/_/id/49551952/predicting-2026-27-premier-league-table-arsenal-man-united-liverpool-hull",
       "image": "https://a.espncdn.com/photo/2026/0807/r1698781_1296x729_16-9.jpg",
       "titleZh": "预测2026-27赛季英超积分榜：从阿森纳到赫尔，所有20支球队都将完成"
-    },
-    {
-      "title": "Premier League fixtures ranked: Who has the easiest and hardest start to the 2026-27 season?",
-      "published": "2026-08-21T06:08:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49553696/premier-league-fixtures-ranked-easiest-hardest-start-2026-27-season",
-      "image": "https://a.espncdn.com/photo/2026/0817/r1702926_1296x729_16-9.jpg",
-      "titleZh": "英超赛事排名：谁在2026-27赛季的开局最轻松、最艰难？"
-    },
-    {
-      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-08-21T06:07:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
-      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Carrick: Rashford is enjoying his football at Man United",
-      "published": "2026-08-20T20:39:57Z",
-      "url": "https://www.espn.com/video/clip/_/id/49673805/rashford-enjoying-football-man-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0820/dm_260820_COM_SOC_Analysis_Carrick3A_Rashford_is_enjoying_his_football_at_Man_United_GLOBAL_2026-08-20/dm_260820_COM_SOC_Analysis_Carrick3A_Rashford_is_enjoying_his_football_at_Man_United_GLOBAL_2026-08-20.jpg",
-      "titleZh": "卡里克：拉什福德正在曼联享受他的足球"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United looking at move for Barça's Balde",
+      "published": "2026-08-21T20:37:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49678076/transfer-rumors-news-arsenal-want-yildiz-al-hilal-add-martinelli-shortlist",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1705008_2_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联正在考虑为巴萨的巴尔德转会",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
+    {
+      "title": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources",
+      "published": "2026-08-21T20:28:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49683972/man-united-agree-transfer-fee-brighton-carlos-baleba",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1705000_1296x729_16-9.jpg",
+      "titleZh": "曼联同意以7000万英镑收购布莱顿的卡洛斯·巴莱巴-消息来源",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "301425",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:00:28.234Z",
+  "updatedAt": "2026-08-23T13:01:03.673Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -14424,7 +14424,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-23T07:00:28.228Z"
+        "generatedAt": "2026-08-23T13:01:02.325Z"
       }
     },
     {
@@ -15321,6 +15321,69 @@
   "scorers": [],
   "news": [
     {
+      "title": "Michael Carrick: 'Ridiculous' to claim Man United lack passion",
+      "published": "2026-08-23T12:57:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49701043/michael-carrick-ridiculous-claim-man-united-lack-passion",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705687_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ） ：声称曼联缺乏激情是“荒谬的”"
+    },
+    {
+      "title": "Man United 'dreadful, offered nothing' up front - Alan Shearer",
+      "published": "2026-08-23T11:54:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49700554/man-united-dreadful-offered-front-alan-shearer",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1705670_1296x729_16-9.jpg",
+      "titleZh": "曼联“可怕，什么都不提供” --Alan Shearer"
+    },
+    {
+      "title": "Champions League 2026-27 draw: How to watch in UK, start time, how does it work, when are fixtures?",
+      "published": "2026-08-23T06:23:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49668967/champions-league-2026-27-draw-football-how-watch-uk-start-how-does-work-teams-in",
+      "image": "https://a.espncdn.com/photo/2025/1106/r1571752_1296x729_16-9.jpg",
+      "titleZh": "2026-27年欧洲冠军联赛抽签：如何在英国观看，开始时间，它是如何工作的，什么时候是赛程？"
+    },
+    {
+      "title": "Premier League 2026-27: Why every fan should be optimistic (and pessimistic) about their team's season",
+      "published": "2026-08-23T06:23:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49527903/premier-league-2026-27-why-every-fan-optimistic-pessimistic-their-team-season",
+      "image": "https://a.espncdn.com/photo/2026/0813/r1701210_2_1296x729_16-9.jpg",
+      "titleZh": "2026-27赛季英超联赛：为什么每个球迷都应该对球队的赛季持乐观（和悲观）态度"
+    },
+    {
+      "title": "Man United 2026-27 predictions: Top scorer, biggest concern, Premier League finish, more",
+      "published": "2026-08-23T06:22:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49646829/man-united-2026-27-predictions-premier-league-champions-league-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0818/r1703393_1296x729_16-9.jpg",
+      "titleZh": "曼联2026-27赛季预测：最佳射手，最大的担忧，英超联赛结束，更多"
+    },
+    {
+      "title": "Premier League fixtures ranked: Who has the easiest and hardest start to the 2026-27 season?",
+      "published": "2026-08-23T06:21:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49553696/premier-league-fixtures-ranked-easiest-hardest-start-2026-27-season",
+      "image": "https://a.espncdn.com/photo/2026/0817/r1702926_1296x729_16-9.jpg",
+      "titleZh": "英超赛事排名：谁在2026-27赛季的开局最轻松、最艰难？"
+    },
+    {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-08-23T06:20:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2024/0913/r1385766_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
+      "title": "Predicting the 2026-27 Premier League table: From Arsenal to Hull, where all 20 teams will finish",
+      "published": "2026-08-23T06:19:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49551952/predicting-2026-27-premier-league-table-arsenal-man-united-liverpool-hull",
+      "image": "https://a.espncdn.com/photo/2026/0807/r1698781_1296x729_16-9.jpg",
+      "titleZh": "预测2026-27赛季英超积分榜：从阿森纳到赫尔，所有20支球队都将完成"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-23T06:18:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0821/r1704875_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
       "title": "Hull City stun Manchester United in historic 2-0 upset",
       "published": "2026-08-22T23:55:05Z",
       "url": "https://www.espn.com/video/clip/_/id/49695870/hull-city-stun-manchester-united-historic-2-0-upset",
@@ -15340,69 +15403,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49661606/european-soccer-live-updates-manchester-united-real-madrid-tottenham",
       "image": "https://a.espncdn.com/photo/2026/0822/r1705482_1296x729_16-9.jpg",
       "titleZh": "欧洲足球回顾：马德里击败西班牙人队"
-    },
-    {
-      "title": "New season, same streak: Viral Man United fan's haircut challenge continues",
-      "published": "2026-08-22T17:50:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49692819/viral-man-united-fan-haircut-challenge-continues",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
-      "titleZh": "新赛季，同样的连胜：病毒人联队球迷的发型挑战仍在继续"
-    },
-    {
-      "title": "Carrick describes opening game defeat to Hull City as 'hugely disappointing'",
-      "published": "2026-08-22T16:17:28Z",
-      "url": "https://www.espn.com/video/clip/_/id/49692222/carrick-describes-opening-game-defeat-hull-city-hugely-disappointing",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Carrick_describes_opening_game_defeat_to_Hull_City_as_hugely_disappointing/dm_260822_Carrick_describes_opening_game_defeat_to_Hull_City_as_hugely_disappointing.jpg",
-      "titleZh": "卡里克将开场比赛输给赫尔城描述为“非常令人失望”"
-    },
-    {
-      "title": "Bruno Fernandes: 'Same mistakes, every away game' to blame for Man United loss to Hull",
-      "published": "2026-08-22T15:56:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49691944/bruno-fernandes-same-mistakes-man-united-loss-hull",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705300_1296x729_16-9.jpg",
-      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ） ： “同样的错误，每场客场比赛”都是曼联输给赫尔的罪魁祸"
-    },
-    {
-      "title": "Michael Carrick: Man United should not panic after humbling Hull defeat",
-      "published": "2026-08-22T19:46:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49691616/michael-carrick-man-united-panic-humbling-hull-defeat",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克：曼联在羞辱船体失败后不应该惊慌失措"
-    },
-    {
-      "title": "Too soon to panic? Man United see problems exposed in Hull City defeat",
-      "published": "2026-08-22T16:03:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49691465/too-soon-panic-man-united-see-problems-exposed-hull-city-defeat",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705243_1296x729_16-9.jpg",
-      "titleZh": "太快就要惊慌失措了？曼联看到赫尔城战败中暴露的问题"
-    },
-    {
-      "title": "Nicol: Carrick needs to improve Man United's defence",
-      "published": "2026-08-22T14:24:18Z",
-      "url": "https://www.espn.com/video/clip/_/id/49691025/carrick-needs-improve-man-united-defence",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_COM_SOC_Analysis_Nicol3A_Carrick_needs_to_improve_Man_UnitedE28099s_defence__GLOBAL_2026-08-22/dm_260822_COM_SOC_Analysis_Nicol3A_Carrick_needs_to_improve_Man_UnitedE28099s_defence__GLOBAL_2026-08-22.jpg",
-      "titleZh": "尼科尔：卡里克需要提高曼联的防守"
-    },
-    {
-      "title": "Nicol believes Hull City deserved all three points vs. Man United",
-      "published": "2026-08-22T14:23:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/49690984/nicol-believes-hull-city-deserved-all-three-points-vs-man-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_COM_SOC_Analysis_Nicol_believes_Hull_City_deserved_all_three_points_vs_Man_United_GLOBAL_2026-08-/dm_260822_COM_SOC_Analysis_Nicol_believes_Hull_City_deserved_all_three_points_vs_Man_United_GLOBAL_2026-08-.jpg",
-      "titleZh": "尼科尔认为赫尔城应该得到所有三分对曼联"
-    },
-    {
-      "title": "Hull City vs. Man United player ratings as Michael Carrick's side outplayed by newly-promoted Tigers",
-      "published": "2026-08-22T16:44:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689904/hull-city-manchester-united-player-ratings-bruno-fernandes-youri-tielemans-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705325_1296x729_16-9.jpg",
-      "titleZh": "赫尔城对曼联球员评分，迈克尔·卡里克的球队被新晋升的老虎队击败"
-    },
-    {
-      "title": "'Are you watching Joe Cole?' Hull fans mock prediction after Man United upset",
-      "published": "2026-08-22T14:29:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49690702/are-watching-joe-cole-hull-fans-mock-prediction-man-united-upset",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705233_1296x729_16-9.jpg",
-      "titleZh": "“你在看乔·科尔吗？“曼联沮丧后的船体球迷嘲笑预测"
     }
   ],
   "transfers": [],
@@ -15799,6 +15799,23 @@
       "availabilityScore": 90
     },
     {
+      "id": "230945",
+      "name": "Marcus Rashford",
+      "nameZh": "马库斯·拉什福德",
+      "shortName": "M. Rashford",
+      "shortNameZh": "拉什福德",
+      "jersey": "9",
+      "position": "Forward",
+      "age": 28,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/696365.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
       "id": "259902",
       "name": "Matheus Cunha",
       "nameZh": "马特乌斯·库尼亚",
@@ -15896,23 +15913,6 @@
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
       "headshot": "",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
-    },
-    {
-      "id": "230945",
-      "name": "Marcus Rashford",
-      "nameZh": "马库斯·拉什福德",
-      "shortName": "M. Rashford",
-      "shortNameZh": "拉什福德",
-      "jersey": "",
-      "position": "Forward",
-      "age": 28,
-      "nationality": "England",
-      "nationalityZh": "英格兰",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/696365.png",
       "statusType": "available",
       "statusLabel": "可用",
       "availabilityScore": 90

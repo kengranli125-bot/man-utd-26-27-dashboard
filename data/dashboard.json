@@ -15955,18 +15955,6 @@
       "titleZh": "迈克尔·卡里克（ Michael Carrick ） ：声称曼联缺乏激情是“荒谬的”"
     },
     {
-      "id": "Simon Stone:CBMiakFVX3lxTFB1VUdYNEs4Y1ROM3o0V1JDN3JwYnM0c1Nwc1hMYTBrNUZpcjhyZ2dWLUU4aDRzbG1UWW00YkwtY0FHZzExRGtXZ2ZCeVQxZmNuMzZzeFBoWS1odzU3VVBwaUFXbXhRbjVQakE",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Rooney says Man Utd must become feared - but what went wrong at Hull?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1VUdYNEs4Y1ROM3o0V1JDN3JwYnM0c1Nwc1hMYTBrNUZpcjhyZ2dWLUU4aDRzbG1UWW00YkwtY0FHZzExRGtXZ2ZCeVQxZmNuMzZzeFBoWS1odzU3VVBwaUFXbXhRbjVQakE?oc=5",
-      "published": "2026-08-23T11:43:19.000Z",
-      "titleZh": "鲁尼说曼联一定会害怕-但是赫尔出了什么问题？"
-    },
-    {
       "id": "Laurie Whitwell:CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -16099,6 +16087,18 @@
       "titleZh": "在曼联宣布之前，拉什福德在节目上没有编号"
     },
     {
+      "id": "Simon Stone:CBMifkFVX3lxTE1sWDNCc1VvSkROUk13MGZxZmVuM3ZzNWpMXzVPTG9VeFd1Mmo5TzJ6clBsZGNfQW9JS1pENnlvUkl2Y0RlbmhEQ2VGRGlTd1l5SlkwXy03MXNuODBDZk5WUi1LbGRxTXdVNno5MHJJRmtZay1WSkpJUUo2QkJvZw",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports Canada",
+      "tier": 1,
+      "title": "Bruno still has big part to play - Carrick",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sWDNCc1VvSkROUk13MGZxZmVuM3ZzNWpMXzVPTG9VeFd1Mmo5TzJ6clBsZGNfQW9JS1pENnlvUkl2Y0RlbmhEQ2VGRGlTd1l5SlkwXy03MXNuODBDZk5WUi1LbGRxTXdVNno5MHJJRmtZay1WSkpJUUo2QkJvZw?oc=5",
+      "published": "2026-08-22T06:57:37.000Z",
+      "titleZh": "布鲁诺仍然可以扮演重要角色-卡里克"
+    },
+    {
       "id": "Samuel Luckhurst:CBMif0FVX3lxTE8tNDFFQlR5eW0tcGhfc19fZWVhQ0hGUTIyNk1QUklRcE5hd3ZHa1Y5cUZMMS1CclRKNWhtajNaWVhPSVF0VDludEpmT2lfbWpQQjMxXy1LaGcxUHA4NXpUc2NPSWlTZXM1OW5pMEJubWpIX0xzb0dZRnRqTkR3S0E",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -16219,7 +16219,7 @@
       "titleZh": "奥恩斯坦透露，曼联正在“接近”第三名中场球员的冲击交易，并提供“报价”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-23T14:45:23.670Z",
+  "journalistsUpdatedAt": "2026-08-23T15:10:09.821Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

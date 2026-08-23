@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T18:48:08.482Z",
+  "updatedAt": "2026-08-23T01:58:39.846Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -14424,7 +14424,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-22T18:48:07.414Z"
+        "generatedAt": "2026-08-23T01:58:38.787Z"
       }
     },
     {
@@ -15321,6 +15321,27 @@
   "scorers": [],
   "news": [
     {
+      "title": "Hull City stun Manchester United in historic 2-0 upset",
+      "published": "2026-08-22T23:55:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49695870/hull-city-stun-manchester-united-historic-2-0-upset",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY.jpg",
+      "titleZh": "赫尔城以历史性的2-0击败曼联"
+    },
+    {
+      "title": "Dawson: Rashford will have to play key role for Man United this season",
+      "published": "2026-08-22T22:16:29Z",
+      "url": "https://www.espn.com/video/clip/_/id/49695282/rashford-play-key-role-man-united-season",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season.jpg",
+      "titleZh": "道森：拉什福德本赛季将不得不为曼联发挥关键作用"
+    },
+    {
+      "title": "European soccer recap: Madrid nab late winner over Espanyol",
+      "published": "2026-08-22T22:52:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49661606/european-soccer-live-updates-manchester-united-real-madrid-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0822/r1705482_1296x729_16-9.jpg",
+      "titleZh": "欧洲足球回顾：马德里击败西班牙人队"
+    },
+    {
       "title": "New season, same streak: Viral Man United fan's haircut challenge continues",
       "published": "2026-08-22T17:50:32Z",
       "url": "https://www.espn.com/soccer/story/_/id/49692819/viral-man-united-fan-haircut-challenge-continues",
@@ -15343,7 +15364,7 @@
     },
     {
       "title": "Michael Carrick: Man United should not panic after humbling Hull defeat",
-      "published": "2026-08-22T15:16:16Z",
+      "published": "2026-08-22T19:46:15Z",
       "url": "https://www.espn.com/soccer/story/_/id/49691616/michael-carrick-man-united-panic-humbling-hull-defeat",
       "image": "https://a.espncdn.com/photo/2026/0822/r1705282_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克：曼联在羞辱船体失败后不应该惊慌失措"
@@ -15382,27 +15403,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49690702/are-watching-joe-cole-hull-fans-mock-prediction-man-united-upset",
       "image": "https://a.espncdn.com/photo/2026/0822/r1705233_1296x729_16-9.jpg",
       "titleZh": "“你在看乔·科尔吗？“曼联沮丧后的船体球迷嘲笑预测"
-    },
-    {
-      "title": "Hull City 2-0 Man United: Newly-promoted side win in Premier League comeback as Carrick's men falter - as it happened",
-      "published": "2026-08-22T14:35:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49689179/hull-city-manchester-united-updates-commentary-score-goals-premier-league-result",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705223_1296x729_16-9.jpg",
-      "titleZh": "赫尔城2-0曼联：随着卡里克的球员步履蹒跚，英超联赛中新晋升的球队复出"
-    },
-    {
-      "title": "Man United slip to surprise Hull defeat as Premier League begins",
-      "published": "2026-08-22T14:00:27Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879322",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705228_1296x729_16-9.jpg",
-      "titleZh": "随着英超联赛的开始，曼联出人意料地击败了船体"
-    },
-    {
-      "title": "Man United fall in shocking Hull defeat in Premier League opener",
-      "published": "2026-08-22T16:18:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49690579/man-united-fall-shock-hull-defeat-premier-league-opener",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705227_1296x729_16-9.jpg",
-      "titleZh": "曼联在英超揭幕战中令人震惊的船体失利"
     }
   ],
   "transfers": [],

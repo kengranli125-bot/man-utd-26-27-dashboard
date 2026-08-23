@@ -15931,6 +15931,18 @@
   ],
   "journalists": [
     {
+      "id": "Laurie Whitwell:CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Hull ‘saw’ Manchester United’s problems. This is what ‘calm’ Carrick needs to fix",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU?oc=5",
+      "published": "2026-08-23T09:23:00.000Z",
+      "titleZh": "赫尔“看到”了曼联的问题。这就是“冷静”的卡里克需要解决的问题"
+    },
+    {
       "id": "Fabrizio Romano:CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -15941,18 +15953,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw?oc=5",
       "published": "2026-08-23T07:58:21.000Z",
       "titleZh": "曼联在同意7000万英镑的转会后，为最新的夏季签约预订医疗服务"
-    },
-    {
-      "id": "Laurie Whitwell:CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Hull ‘saw’ Manchester United’s problems. This is what ‘calm’ Carrick needs to fix",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU?oc=5",
-      "published": "2026-08-23T07:02:16.000Z",
-      "titleZh": "赫尔“看到”了曼联的问题。这就是“冷静”的卡里克需要解决的问题"
     },
     {
       "id": "Simon Stone:CBMiZ0FVX3lxTE1ELWx0SVZtZ0JQQWVCcnRFTzJyaUtGYjZhWHBiblloZ2tDUzczelY3eF9lTzJhNlMtLVBpb1ozYm5ZOVhXVmU1eVZmVTNWTExBUVdLcFc4TTBEeHB1OFItTXFpQVBfTFU",
@@ -16219,7 +16219,7 @@
       "titleZh": "卡洛斯·巴莱巴（ Carlos Baleba ）如何适应曼联，以及还有什么需要了解的"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-23T10:37:26.849Z",
+  "journalistsUpdatedAt": "2026-08-23T10:56:45.039Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

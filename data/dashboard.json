@@ -15931,6 +15931,18 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "London Evening Standard",
+      "tier": 1,
+      "title": "Man Utd book medical for latest summer signing after agreeing £70m transfer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwWmEzWlRycHFLS1dzeVNJZy01WFE0c3VyWjZoN0kwTHJtbUFuX0tUa3NyUDNvUjNZWmptb1hmNjFaalBpTG1LTlJQR1A2dU5SdHFZbmFFTUxDSWhUZmQ2YWZ2UEFCRGVSMFhxZGk0bzhqcXF4b1B3bGFfSUVMTG96TVN4cGJZVTItOTg2dlNNUkdVVXQw?oc=5",
+      "published": "2026-08-23T19:58:21.000Z",
+      "titleZh": "曼联在同意7000万英镑的转会后，为最新的夏季签约预订医疗服务"
+    },
+    {
       "id": "Rob Dawson:CBMipwFBVV95cUxOeFBDSTNDcUQ0bzlHZEQwenFwcHZYOG91dWJaaHcxemZHTDdja1VFaTJqLS05N2x1RU5oOGpGTlNTbVhTeW9yc0NqTUNQS3VlWW1iLUEteDlNLTh2VE9tLU1QRTRESktCTXFhVDBrQlNTcG5MYjNEckdKRWRoNWJWbERzQnZLNGpOZEViVXRKNEktMlZLMkJRSy1zVy0zNDVNdkRESHJhQQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -16135,18 +16147,6 @@
       "titleZh": "Fabrizio Romano在Man United和Brighton声称震惊后提供新的Carlos Baleba更新"
     },
     {
-      "id": "Fabrizio Romano:CBMiigFBVV95cUxPd1pSTTJCS2hGamVwYWRxaExEN2JMY3N1MTV4Y1VRODV2S2V6dnB2R25PdE1kQ1NPMU05WWswVEpMbGp6WHJVX2NKWWh3ZUpBdmZOenZXSzB6V0U5Z3ZvNnFka2tZWUlXd1c1MVV6a0ZiNy1xNnVDVldTakZkbFlLTUM3ZDlqU2tYcWc",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Fabrizio Romano Explains Man Utd's Next Two Signings After Carlos Baleba",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pSTTJCS2hGamVwYWRxaExEN2JMY3N1MTV4Y1VRODV2S2V6dnB2R25PdE1kQ1NPMU05WWswVEpMbGp6WHJVX2NKWWh3ZUpBdmZOenZXSzB6V0U5Z3ZvNnFka2tZWUlXd1c1MVV6a0ZiNy1xNnVDVldTakZkbFlLTUM3ZDlqU2tYcWc?oc=5",
-      "published": "2026-08-20T08:15:24.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）解释曼联在卡洛斯·巴莱巴（ Carlos Baleba ）之后"
-    },
-    {
       "id": "Andy Mitten:CBMi6AFBVV95cUxQY0FOT3d6bXg0c1V0eXJVRWdMbGI2UV92dkc0M012ckV5Z0RPLVM3b2FlTDRuc3lUd1p1SWhybms2TF9wX1BrX1h4WlRlb3Q5UERwX2VIY21LNlZ6Uy1ud0FVb0laY3Jja1cyQXhyVTEtV2Utc192Rm01YkJoWHQ2a2tXYUx2ZVpLU21VT0NDWXpRdmlyNnJpMllBdmtKWmNIbEZLd21FcmI0ZGpIcU5BV3JqQ0g0RXV0X28tMTB5U1hNRkY0VDJqREFmUEhjejlBVDByeUNqZFFZMTc2cHNkbEQzQ1otT0JD",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -16219,7 +16219,7 @@
       "titleZh": "Baleba是曼联Casemiro的最佳替代品吗？"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-23T21:33:49.665Z",
+  "journalistsUpdatedAt": "2026-08-23T21:54:37.618Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

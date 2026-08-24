@@ -15931,6 +15931,18 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMi7wFBVV95cUxPRkxBUmo2SW15SGV5d01XYnMyanhCdVZWT0hnS0xwb1R3Y3VGOWlyajVaVVRCcW8wWUVtV3ZMbFV2QnRacnZvWlBDcFVZZ0VrdTByMmVXa2YwMFctLXd1OGpyd1ljdVVqb2d6YU1EbjdORmRzTmZPS1QyT2YxUWNVai1pMy1pdUhpdFVRa2VPU1JKcWRzb3VQU29ta2pDZ2JneW15TERYaTNRcmJUZExvX3JHMWNSdC1GcklkQTkzRzRuZGFpdU10a1A0bmJseU5rNXdGMUFQaUE3UTFKZjJQYWZkdUhGWV81VzNtSFh6aw",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Premier League Stats: Man United's first in history, Haaland 200, Saka's 62 overtakes Fabregas",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRkxBUmo2SW15SGV5d01XYnMyanhCdVZWT0hnS0xwb1R3Y3VGOWlyajVaVVRCcW8wWUVtV3ZMbFV2QnRacnZvWlBDcFVZZ0VrdTByMmVXa2YwMFctLXd1OGpyd1ljdVVqb2d6YU1EbjdORmRzTmZPS1QyT2YxUWNVai1pMy1pdUhpdFVRa2VPU1JKcWRzb3VQU29ta2pDZ2JneW15TERYaTNRcmJUZExvX3JHMWNSdC1GcklkQTkzRzRuZGFpdU10a1A0bmJseU5rNXdGMUFQaUE3UTFKZjJQYWZkdUhGWV81VzNtSFh6aw?oc=5",
+      "published": "2026-08-24T07:30:00.000Z",
+      "titleZh": "英超联赛统计数据：曼联历史上第一个，哈兰200 ，萨卡62超越法布雷加斯"
+    },
+    {
       "id": "Chris Wheeler:CBMimAFBVV95cUxNXzRFNVk1RF9QZzB3S0l3R3NHTTctck5oeXNWZFVMdHJHU2VqazVxNGNBam42Z04xTnctTUlJWVNTVVZvOUN6c3FZcXRhaVhQS0lBc0Vvdk1lTW9iV1JWNzBjRkJHVFIyeG9lYW9WQlVQZXJYUjV6Rmh0Y2thSW1mNUZjQ0xFdmxDeEYxOXFqSTNVVFlxejVfVA",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -15955,18 +15967,6 @@
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，迈克尔·卡里克（ Michael Carrick ）必须在赫尔（ Hull ）的惨败中投降，这让人们对这支曼联球队在他的成就基础上再接再厉的能力产生了新的"
     },
     {
-      "id": "Rob Dawson:CBMipwFBVV95cUxOeFBDSTNDcUQ0bzlHZEQwenFwcHZYOG91dWJaaHcxemZHTDdja1VFaTJqLS05N2x1RU5oOGpGTlNTbVhTeW9yc0NqTUNQS3VlWW1iLUEteDlNLTh2VE9tLU1QRTRESktCTXFhVDBrQlNTcG5MYjNEckdKRWRoNWJWbERzQnZLNGpOZEViVXRKNEktMlZLMkJRSy1zVy0zNDVNdkRESHJhQQ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Michael Carrick: 'Ridiculous' to claim Man United lack passion",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFBDSTNDcUQ0bzlHZEQwenFwcHZYOG91dWJaaHcxemZHTDdja1VFaTJqLS05N2x1RU5oOGpGTlNTbVhTeW9yc0NqTUNQS3VlWW1iLUEteDlNLTh2VE9tLU1QRTRESktCTXFhVDBrQlNTcG5MYjNEckdKRWRoNWJWbERzQnZLNGpOZEViVXRKNEktMlZLMkJRSy1zVy0zNDVNdkRESHJhQQ?oc=5",
-      "published": "2026-08-23T12:56:00.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ） ：声称曼联缺乏激情是“荒谬的”"
-    },
-    {
       "id": "Laurie Whitwell:CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -15975,7 +15975,7 @@
       "tier": 1,
       "title": "Hull ‘saw’ Manchester United’s problems. This is what ‘calm’ Carrick needs to fix",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU?oc=5",
-      "published": "2026-08-23T09:23:00.000Z",
+      "published": "2026-08-23T09:23:05.000Z",
       "titleZh": "赫尔“看到”了曼联的问题。这就是“冷静”的卡里克需要解决的问题"
     },
     {
@@ -16051,15 +16051,15 @@
       "titleZh": "Ajayi在后面摇滚，因为船体击晕曼联-球员评级"
     },
     {
-      "id": "David Ornstein:CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR",
+      "id": "David Ornstein:CBMi8AFBVV95cUxONThDMEwtbTMtTFVDMFFOSjBPQVNSdldkOWZMUlUzdDNmUVdLQ0UwZ2lCekk2amFPMGZQcnYzcktHcko3RmQxSkFlS0tZWU5la05lOVlpeUJMcXhKUkRobXZLSkVlR3NTcTZLUWNKMFpGRU5KcVhNejB4TVp6VGlBZ0lKYXk5UUllQW54NGdaOE9nYzcyMFhRd3I0SjJFVTA4R3ZpdFNIbHVPYWFqdDFEZDJ1QXFrWktJSHlqMzRlSWljaFQwM25yNkdlVV9CN2gtVVZucldtX3pTQ2IwNEU0c0IzeGxZNURUM3gya1htZ0Y",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
       "source": "TNT Sports",
       "tier": 1,
       "title": "Man Utd deal for Baleba highlights new disciplined transfer approach, says Ornstein",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR?oc=5",
-      "published": "2026-08-22T11:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONThDMEwtbTMtTFVDMFFOSjBPQVNSdldkOWZMUlUzdDNmUVdLQ0UwZ2lCekk2amFPMGZQcnYzcktHcko3RmQxSkFlS0tZWU5la05lOVlpeUJMcXhKUkRobXZLSkVlR3NTcTZLUWNKMFpGRU5KcVhNejB4TVp6VGlBZ0lKYXk5UUllQW54NGdaOE9nYzcyMFhRd3I0SjJFVTA4R3ZpdFNIbHVPYWFqdDFEZDJ1QXFrWktJSHlqMzRlSWljaFQwM25yNkdlVV9CN2gtVVZucldtX3pTQ2IwNEU0c0IzeGxZNURUM3gya1htZ0Y?oc=5",
+      "published": "2026-08-22T11:21:00.000Z",
       "titleZh": "Ornstein表示，曼联与Baleba的交易强调了新的纪律转会方法"
     },
     {
@@ -16073,6 +16073,18 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekZ6YzdReUFwaC04VEcxaDdlWDg2a2tkcGFkcm8tUloyY3l4Q2U4UF9HMXVhMWNaUi02YzVBYk11cjFOeElwRVNzd3dMcjd5OVlBX1FfME5SYTBKLW9oQURwN21SaXRMUFdUWXltcnVWSEJUbW1mOFhzVG1kWkFRX09fb0Y1OHZOOXdxLXgyTFNaQ1RQaGhxR0tGdzU?oc=5",
       "published": "2026-08-22T09:52:19.000Z",
       "titleZh": "在曼联宣布之前，拉什福德在节目上没有编号"
+    },
+    {
+      "id": "Simon Stone:CBMiakFVX3lxTE9XVGFpcmZNZi1DaXBHY0NvWEVWaFE2WURlVWZNVEtpc3FKdG9qZWJMcm9Yd2lnWUdxdkI5dEpKTnV3NDFGTWVpRHlWUDZSZ0JRaE9aVkFhQjlOcDZlNHltZkNhZUZrOGNZOGc",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Bruno Fernandes has big part to play at Man Utd - Michael Carrick",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XVGFpcmZNZi1DaXBHY0NvWEVWaFE2WURlVWZNVEtpc3FKdG9qZWJMcm9Yd2lnWUdxdkI5dEpKTnV3NDFGTWVpRHlWUDZSZ0JRaE9aVkFhQjlOcDZlNHltZkNhZUZrOGNZOGc?oc=5",
+      "published": "2026-08-22T06:57:32.000Z",
+      "titleZh": "布鲁诺·费尔南德斯在曼联扮演着重要角色-迈克尔·卡里克"
     },
     {
       "id": "Andy Mitten:CBMipAFBVV95cUxOc3F2UG85bWlvTDNYNGMzVnhZeXVlYmlDZE5DVkdxY1lEOFNjYVhhWnRUWXU3R2VGUl84RGdmdXVSWlBLX29Ha013YktpTTVDVlZKb2VGM1laYzZRMnVSSmxxdmYtaUI4bVlWaS05SU1heGlJbWNWRXYtUEQ4UzZndmpyNmx5NkV3SlNORjdBN0tOZjluZnRfN05LMS01N1ZHRFJjUA",
@@ -16123,6 +16135,18 @@
       "titleZh": "Carrick回击了UTD的“轻松”启动声明，因为赫尔游戏的团队新闻透露"
     },
     {
+      "id": "Fabrizio Romano:CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Fabrizio Romano confirms huge Man Utd transfer development happening 'today'",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmVsU2dpMV9idGN6TS1ZYnVvZFJodGhmRDcxdUR3T0x4U3FnWmY4eTA3MFB5OFViU2FzdDNzYWNxUXZhMU1DZ002endsRHZxeF9wcUpiNzRWcWU1NmRhZjVnN3VHRWYxTkxFZjJkVmVjNXVhajYxaTBmYTRyUkE5NGJqMExQZnVDNklGOXBfS1Z5TWVoTTd3U3hCdlMybDZLakxDTHhBVmJJRTBISzRjQUVRSm14cmNDbUF2NA?oc=5",
+      "published": "2026-08-20T08:35:34.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）确认曼联“今天”正在进行巨大的转会开发"
+    },
+    {
       "id": "Fabrizio Romano:CBMigwJBVV95cUxPclkwSGk2RTNZVVdfUm5QQmNMdVFFSGl1dFVCQWpFY19VZl9GSTJEWEVjVHFFQXpmcC13MnNfVDVndkVQY2o0bjJiRDZaMWFUMGVHa01uTjlHYndnbXBYVmEydFFfQldBMEFDLWdLRVhzSy00ekJiUlo1TUVQejJVaTh2dkROcnI2UkdXX1BCa2JZQlFXT1BEN240ZW1YSExGbzhhYjM0OVNLWnYyTDZkWTRMcEpXQW9QczJMajBhQVJ0TGJRMF9XSHQ2ZnpDcWlkSTZJTms1dVpYOFVoY0ZTMG9RV3J3aURFN2tibUkzNG42cWdMMGJMWXFVNU1wWTl3ODhr",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -16171,18 +16195,6 @@
       "titleZh": "曼联新闻： Carlos Baleba - Simon Stone分析"
     },
     {
-      "id": "Fabrizio Romano:CBMiuAFBVV95cUxOSE5qRVhNYm5zd3dVYmpkYWFMZXZ5dDdIcGFVNmxWdXRmemZVSF9STFBsTjVOZXhTdmdkazlTYTd2Snk0OUh6ZmU4d0pYVDFaUVBaODQtTXpIaG4tOG4zRG42b08xYzN3NHBlOGxqTHVwRkhuV25HM19XeEpSX2hWTFFsbmZqdnpfQTFad0hxdkZoREVGRkE3aEJpdEZmcS1BZDRKOVBiS256RnA5UWhCbG4xZlpTN1Rv",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano drops dream Man Utd update with double signing expected after Baleba",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE5qRVhNYm5zd3dVYmpkYWFMZXZ5dDdIcGFVNmxWdXRmemZVSF9STFBsTjVOZXhTdmdkazlTYTd2Snk0OUh6ZmU4d0pYVDFaUVBaODQtTXpIaG4tOG4zRG42b08xYzN3NHBlOGxqTHVwRkhuV25HM19XeEpSX2hWTFFsbmZqdnpfQTFad0hxdkZoREVGRkE3aEJpdEZmcS1BZDRKOVBiS256RnA5UWhCbG4xZlpTN1Rv?oc=5",
-      "published": "2026-08-19T18:47:31.000Z",
-      "titleZh": "Romano在Baleba之后放弃了DREAM MAN UTD的更新，预计将进行双重签名"
-    },
-    {
       "id": "David Ornstein:CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -16205,21 +16217,9 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUpkc2NLVTZuY2VrWkYyVGo3UFI0OV9HS1ZIMm5NVDFHTk9vSUJnbERGLUhYRzdYWnZPNlY5NmdYdjM2NXdoZjNKZDFzRGk5MmsycThWemlvMDVJVmlrU2pQdlNnSEVaR1oxYnlCWnA1eUt4WTJ2czJZbFNaenl3cUl0cjVpLW5zem1vd3dLcklodmNORjQyN093?oc=5",
       "published": "2026-08-19T14:16:06.000Z",
       "titleZh": "卡洛斯·巴莱巴（ Carlos Baleba ）如何适应曼联，以及还有什么需要了解的"
-    },
-    {
-      "id": "David Ornstein:CBMikgFBVV95cUxOTHBTd0doSTNHLWhHa1RtWl93dFRnZmh3Y2ZmZjZVRUYzNU5ROGxISDBXRmRkUFNBOWtWRVNkT19tSFJDRm85a2dla1NJYTJXaWdXamJfOVBXNnVuNU02YXJYYWhxc1ZrUk5KQ2ZJcnppMlVXd2plY2NMNEZjdXZyVks1T3NHcGV6cUhHN01DWHRhZw",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Ornstein reveals Man Utd are ‘closing in’ on shock deal for third midfielder with ‘offer’ made",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHBTd0doSTNHLWhHa1RtWl93dFRnZmh3Y2ZmZjZVRUYzNU5ROGxISDBXRmRkUFNBOWtWRVNkT19tSFJDRm85a2dla1NJYTJXaWdXamJfOVBXNnVuNU02YXJYYWhxc1ZrUk5KQ2ZJcnppMlVXd2plY2NMNEZjdXZyVks1T3NHcGV6cUhHN01DWHRhZw?oc=5",
-      "published": "2026-08-19T11:39:19.000Z",
-      "titleZh": "奥恩斯坦透露，曼联正在“接近”第三名中场球员的冲击交易，并提供“报价”"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-24T07:17:15.511Z",
+  "journalistsUpdatedAt": "2026-08-24T08:09:03.943Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

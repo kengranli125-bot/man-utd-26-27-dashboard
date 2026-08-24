@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T13:11:49.266Z",
+  "updatedAt": "2026-08-24T18:57:57.839Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -14424,7 +14424,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-24T13:11:46.204Z"
+        "generatedAt": "2026-08-24T18:57:56.740Z"
       }
     },
     {
@@ -15321,11 +15321,32 @@
   "scorers": [],
   "news": [
     {
-      "title": "Transfer rumors, news: Barcelona's Balde open to Man United move",
-      "published": "2026-08-24T07:25:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-barcelona-alejandro-balde-open-manchester-united-move",
+      "title": "Éderson on failed Man United move: 'I honestly don't know what happened'",
+      "published": "2026-08-24T17:21:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49713105/ederson-failed-man-united-move-honestly-dont-know-happened",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706323_1296x729_16-9.jpg",
+      "titleZh": "埃德森谈到曼联失败的举动： “老实说，我不知道发生了什么”"
+    },
+    {
+      "title": "Marcotti: Carrick has work to do at Manchester United",
+      "published": "2026-08-24T15:02:05Z",
+      "url": "https://www.espn.com/video/clip/_/id/49712216/carrick-work-do-manchester-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0824/dm_260824_Marcotti_Carrick_has_work_to_do_at_Manchester_United/dm_260824_Marcotti_Carrick_has_work_to_do_at_Manchester_United.jpg",
+      "titleZh": "Marcotti ： Carrick在曼联还有工作要做"
+    },
+    {
+      "title": "Liverpool face long road back to top, Mourinho's Real Madrid win ugly",
+      "published": "2026-08-24T14:18:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49709885/liverpool-real-madrid-manchester-united-andoni-iraola-barcelona-gab-marcotti-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706152_1296x729_16-9.jpg",
+      "titleZh": "利物浦面临漫长的回归巅峰之路，穆里尼奥的皇家马德里赢得丑陋"
+    },
+    {
+      "title": "Man United monitor Alejandro Balde at Barcelona - sources",
+      "published": "2026-08-24T13:01:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49711180/man-united-monitor-alejandro-balde-barcelona-sources",
       "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：巴塞罗那的巴尔德向曼联开放"
+      "titleZh": "曼联在巴塞罗那监控亚历杭德罗·巴尔德（ Alejandro Balde"
     },
     {
       "title": "Champions League 2026-27 draw: How to watch in UK, start time, how does it work, when are fixtures?",
@@ -15382,41 +15403,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/49553696/premier-league-fixtures-ranked-easiest-hardest-start-2026-27-season",
       "image": "https://a.espncdn.com/photo/2026/0817/r1702926_1296x729_16-9.jpg",
       "titleZh": "英超赛事排名：谁在2026-27赛季的开局最轻松、最艰难？"
-    },
-    {
-      "title": "Predicting the 2026-27 Premier League table: From Arsenal to Hull, where all 20 teams will finish",
-      "published": "2026-08-23T06:19:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49551952/predicting-2026-27-premier-league-table-arsenal-man-united-liverpool-hull",
-      "image": "https://a.espncdn.com/photo/2026/0807/r1698781_1296x729_16-9.jpg",
-      "titleZh": "预测2026-27赛季英超积分榜：从阿森纳到赫尔，所有20支球队都将完成"
-    },
-    {
-      "title": "Hull City stun Manchester United in historic 2-0 upset",
-      "published": "2026-08-22T23:55:05Z",
-      "url": "https://www.espn.com/video/clip/_/id/49695870/hull-city-stun-manchester-united-historic-2-0-upset",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY/dm_260822_EPL_Highlight_Hull_City_stun_Manchester_United_in_historic_20_upset_20260823_AUS_ONLY.jpg",
-      "titleZh": "赫尔城以历史性的2-0击败曼联"
-    },
-    {
-      "title": "Dawson: Rashford will have to play key role for Man United this season",
-      "published": "2026-08-22T22:16:29Z",
-      "url": "https://www.espn.com/video/clip/_/id/49695282/rashford-play-key-role-man-united-season",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0822/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season/dm_260822_Dawson_Rashford_will_have_to_play_key_role_for_Man_United_this_season.jpg",
-      "titleZh": "道森：拉什福德本赛季将不得不为曼联发挥关键作用"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Barcelona's Balde open to Man United move",
-      "published": "2026-08-24T07:25:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-barcelona-alejandro-balde-open-manchester-united-move",
-      "image": "https://a.espncdn.com/photo/2026/0606/r1669122_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：巴塞罗那的巴尔德向曼联开放",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

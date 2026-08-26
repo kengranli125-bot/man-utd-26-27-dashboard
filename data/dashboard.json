@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T07:07:37.455Z",
+  "updatedAt": "2026-08-26T13:15:50.614Z",
   "season": "2026/27",
   "statusMessage": "已同步 44 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -15720,6 +15720,23 @@
       "nationalityZh": "比利时",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "338814",
+      "name": "Carlos Baleba",
+      "nameZh": "Carlos Baleba",
+      "shortName": "C. Baleba",
+      "shortNameZh": "Baleba",
+      "jersey": "20",
+      "position": "Midfielder",
+      "age": 22,
+      "nationality": "Cameroon",
+      "nationalityZh": "喀麦隆",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+      "headshot": "",
       "statusType": "available",
       "statusLabel": "可用",
       "availabilityScore": 90

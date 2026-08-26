@@ -15942,6 +15942,18 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "JJ Gabriel primed for potential Man United record-breaking debut",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ?oc=5",
+      "published": "2026-08-25T16:19:25.000Z",
+      "titleZh": "JJ加布里埃尔为潜在的曼联破纪录的首次亮相做好准备"
+    },
+    {
       "id": "Simon Stone:CBMiakFVX3lxTE5Ic1ozdXgtRkN3SHpZdjJzalVTVVVaTEZpMHVmcFF0UGM0NG04dGdrSEtqRVdROTRCMjJVSzdkajFEZW5WdWcxdkk5bXFudWtXQm5vMjhGbHA0aldLREU4aXV4Vm1PZjRGM0E",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -15964,18 +15976,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUwzcUlhVi1ROUxnNDJMa0ZsVHdmbWtTRXlhQ2FzVVcwZldfam9vOWhZa2ZGdVFHYW9sX3Y3U25uYm9JMzVDT1hCMHh2ZGV6X0Z2T25ZWEVIZDNFSmwtV0lfZHEzN3ZiX0VVWXZCbEdKZHMwY09ZNWNKQ0lnTmlRbE5WUjN1YnRoYzl3?oc=5",
       "published": "2026-08-25T15:52:46.000Z",
       "titleZh": "曼联宣布卡洛斯·巴莱巴从布莱顿签约"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "JJ Gabriel primed for potential Man United record-breaking debut",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ?oc=5",
-      "published": "2026-08-25T10:09:17.000Z",
-      "titleZh": "JJ加布里埃尔为潜在的曼联破纪录的首次亮相做好准备"
     },
     {
       "id": "Laurie Whitwell:CBMiakFVX3lxTFBqcHRwQUFWU2g5ZzBaNEt5SzF2Mi1lMHNnc2hySkFJaWZUSGdyRFJLRDVMM0cwazd6U2tRcWoza2JuN3pDb05GVklnMy1tOWdMYzNZcjREb1dETlFaTnlGdUh5aFBDaFN6REE",
@@ -16154,7 +16154,7 @@
       "tier": 2,
       "title": "Manchester United’s greatest players: No 1, Sir Bobby Charlton",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3F2UG85bWlvTDNYNGMzVnhZeXVlYmlDZE5DVkdxY1lEOFNjYVhhWnRUWXU3R2VGUl84RGdmdXVSWlBLX29Ha013YktpTTVDVlZKb2VGM1laYzZRMnVSSmxxdmYtaUI4bVlWaS05SU1heGlJbWNWRXYtUEQ4UzZndmpyNmx5NkV3SlNORjdBN0tOZjluZnRfN05LMS01N1ZHRFJjUA?oc=5",
-      "published": "2026-08-22T04:08:54.000Z",
+      "published": "2026-08-22T04:02:55.000Z",
       "titleZh": "曼联最伟大的球员：排名第一的鲍比·查尔顿爵士"
     },
     {
@@ -16230,7 +16230,7 @@
       "titleZh": "Fabrizio Romano在Man United和Brighton声称震惊后提供新的Carlos Baleba更新"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-26T03:29:30.122Z",
+  "journalistsUpdatedAt": "2026-08-26T04:09:51.533Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

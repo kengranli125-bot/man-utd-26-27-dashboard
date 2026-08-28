@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T11:21:58.336Z",
+  "updatedAt": "2026-08-28T22:18:33.180Z",
   "season": "2026/27",
   "statusMessage": "已同步 45 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -14476,30 +14476,6 @@
       "lineups": []
     },
     {
-      "id": "401914261",
-      "date": "2026-09-08T18:00Z",
-      "status": "upcoming",
-      "venue": "Old Trafford",
-      "competition": "联赛杯",
-      "competitionKey": "eng.league_cup",
-      "competitionGroup": "cup",
-      "home": {
-        "id": "360",
-        "name": "Manchester United",
-        "nameZh": "曼联",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-        "score": null
-      },
-      "away": {
-        "id": "331",
-        "name": "Brighton & Hove Albion",
-        "nameZh": "布莱顿",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-        "score": null
-      },
-      "lineups": []
-    },
-    {
       "id": "401879278",
       "date": "2026-09-13T15:30Z",
       "status": "upcoming",
@@ -14519,6 +14495,30 @@
         "name": "Manchester City",
         "nameZh": "曼城",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+        "score": null
+      },
+      "lineups": []
+    },
+    {
+      "id": "401914261",
+      "date": "2026-09-16T19:00Z",
+      "status": "upcoming",
+      "venue": "Old Trafford",
+      "competition": "联赛杯",
+      "competitionKey": "eng.league_cup",
+      "competitionGroup": "cup",
+      "home": {
+        "id": "360",
+        "name": "Manchester United",
+        "nameZh": "曼联",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+        "score": null
+      },
+      "away": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "nameZh": "布莱顿",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
         "score": null
       },
       "lineups": []
@@ -15345,11 +15345,32 @@
   "scorers": [],
   "news": [
     {
+      "title": "Carrick eyes first Man United win of season in front of Old Trafford crowd",
+      "published": "2026-08-28T18:18:53Z",
+      "url": "https://www.espn.com/video/clip/_/id/49754508/carrick-eyes-first-man-united-win-season-front-old-trafford-crowd",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Carrick_eyes_first_Man_United_win_of_season_in_front_of_Old_Trafford_crowd/dm_260828_Carrick_eyes_first_Man_United_win_of_season_in_front_of_Old_Trafford_crowd.jpg",
+      "titleZh": "卡里克在老特拉福德观众面前首次赢得曼联赛季冠军"
+    },
+    {
+      "title": "Michael Carrick: Man United signing Baleba unlikely to play for 'a couple of weeks'",
+      "published": "2026-08-28T13:19:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49752343/michael-carrick-carlos-baleba-unavailable-2-3-weeks-manchester-united-ipswich-town-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708064_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克：曼联签下巴莱巴不太可能打“几周”"
+    },
+    {
       "title": "Weekend predictions: Pressure on Man United, Carrick already? Wrexham to beat Birmingham?",
       "published": "2026-08-28T09:50:24Z",
       "url": "https://www.espn.com/soccer/story/_/id/49733346/weekend-predictions-preview-analysis-pressure-manchester-united-carrick-already-wrexham-vs-birmingham-city",
       "image": "https://a.espncdn.com/photo/2026/0827/r1707508_1296x729_16-9.jpg",
       "titleZh": "周末预测：对曼联的压力，卡里克已经？雷克瑟姆要打败伯明翰？"
+    },
+    {
+      "title": "Premier League 2026-27 kits: Ranking every jersey released",
+      "published": "2026-08-28T11:47:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
     },
     {
       "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -15394,13 +15415,6 @@
       "titleZh": "曼联冠军联赛平局：拜仁慕尼黑、马德里竞技、罗马"
     },
     {
-      "title": "Premier League 2026-27 kits: Ranking every jersey released",
-      "published": "2026-08-27T15:09:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
-    },
-    {
       "title": "Fiorentina in talks with Man United over Zirkzee - sources",
       "published": "2026-08-27T15:39:36Z",
       "url": "https://www.espn.com/soccer/story/_/id/49741898/fiorentina-talks-man-united-zirkzee-sources",
@@ -15413,23 +15427,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49722687/2026-27-champions-league-league-phase-draw-date-how-works-explainer",
       "image": "https://a.espncdn.com/photo/2026/0825/r1706844_1296x729_16-9.jpg",
       "titleZh": "冠军联赛的抽签阶段是什么时候？日期、运作方式等"
-    },
-    {
-      "title": "Champions League 2026-27 draw: How to watch in UK, start time, how does it work, when are fixtures?",
-      "published": "2026-08-27T06:22:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49668967/champions-league-2026-27-draw-football-how-watch-uk-start-how-does-work-teams-in",
-      "image": "https://a.espncdn.com/photo/2025/1106/r1571752_1296x729_16-9.jpg",
-      "titleZh": "2026-27年欧洲冠军联赛抽签：如何在英国观看，开始时间，它是如何工作的，什么时候是赛程？"
-    },
-    {
-      "title": "Champions League draw: Seeding pots confirmed for league phase",
-      "published": "2026-08-27T08:47:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027",
-      "image": "https://a.espncdn.com/photo/2025/0531/r1500836_1296x729_16-9.jpg",
-      "titleZh": "冠军联赛抽签：已确认联赛阶段的种子罐"
     }
   ],
   "transfers": [
+    {
+      "title": "Michael Carrick: Man United signing Baleba unlikely to play for 'a couple of weeks'",
+      "published": "2026-08-28T13:19:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49752343/michael-carrick-carlos-baleba-unavailable-2-3-weeks-manchester-united-ipswich-town-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0828/r1708064_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克：曼联签下巴莱巴不太可能打“几周”",
+      "player": "",
+      "status": "已完成",
+      "statusType": "done"
+    },
     {
       "title": "Fiorentina in talks with Man United over Zirkzee - sources",
       "published": "2026-08-27T15:39:36Z",

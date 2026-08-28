@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T22:15:02.604Z",
+  "updatedAt": "2026-08-28T11:21:58.336Z",
   "season": "2026/27",
   "statusMessage": "已同步 45 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -15345,6 +15345,20 @@
   "scorers": [],
   "news": [
     {
+      "title": "Weekend predictions: Pressure on Man United, Carrick already? Wrexham to beat Birmingham?",
+      "published": "2026-08-28T09:50:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49733346/weekend-predictions-preview-analysis-pressure-manchester-united-carrick-already-wrexham-vs-birmingham-city",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707508_1296x729_16-9.jpg",
+      "titleZh": "周末预测：对曼联的压力，卡里克已经？雷克瑟姆要打败伯明翰？"
+    },
+    {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-08-28T06:28:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2026/0819/r1703775_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
       "title": "Champions League draw: Good games for Liverpool, bad for Barcelona",
       "published": "2026-08-27T22:07:10Z",
       "url": "https://www.espn.com/soccer/story/_/id/49740823/uefa-champions-league-draw-reaction-analysis-liverpool-barcelona-psg-man-city-arsenal-real-madrid",
@@ -15413,20 +15427,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027",
       "image": "https://a.espncdn.com/photo/2025/0531/r1500836_1296x729_16-9.jpg",
       "titleZh": "冠军联赛抽签：已确认联赛阶段的种子罐"
-    },
-    {
-      "title": "Weekend predictions: Pressure on Man United, Carrick already? Wrexham to beat Birmingham?",
-      "published": "2026-08-27T08:31:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49733346/weekend-predictions-preview-analysis-pressure-manchester-united-carrick-already-wrexham-vs-birmingham-city",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707508_1296x729_16-9.jpg",
-      "titleZh": "周末预测：对曼联的压力，卡里克已经？雷克瑟姆要打败伯明翰？"
-    },
-    {
-      "title": "Man United's Bruno Fernandes eager to 'make it right' against Ipswich",
-      "published": "2026-08-26T14:37:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49732041/man-united-bruno-fernandes-eager-make-right-ipswich",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705300_1296x729_16-9.jpg",
-      "titleZh": "曼联的布鲁诺·费尔南德斯（ Bruno Fernandes ）渴望与伊普斯维奇（ Ipswich ） “"
     }
   ],
   "transfers": [

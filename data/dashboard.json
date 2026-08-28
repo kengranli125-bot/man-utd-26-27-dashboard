@@ -15993,52 +15993,112 @@
   ],
   "journalists": [
     {
-      "id": "Andy Mitten:CBMiywFBVV95cUxNc2FLdHlFTHo2bEtPQ1NYMUtseHhPMHVpOFFiNEJoQjlGd3I2QlA5TVNGOGxJRE52cDRQQmc0eXZFNG9HaF9vaGlFWGMxU2xWbWtYQm9QQll3UFlMZ1dOaF93S2xCOEh4ZXN6RjBadWE1VDJfc0FYOHYxWVhodDRlcmtTdUc3MG1HNUFJVm90ODNvc1ZYVV9TQXVXaGk0WUMtejdlc05FMGtuN2ZMaXlud1R0YjVYV2VwVkduY2VaLVNBWlRVYzluUnM2TQ",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "LiveScore",
-      "tier": 2,
-      "title": "Man Utd contacted over surprise Atletico Madrid striker deal",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc2FLdHlFTHo2bEtPQ1NYMUtseHhPMHVpOFFiNEJoQjlGd3I2QlA5TVNGOGxJRE52cDRQQmc0eXZFNG9HaF9vaGlFWGMxU2xWbWtYQm9QQll3UFlMZ1dOaF93S2xCOEh4ZXN6RjBadWE1VDJfc0FYOHYxWVhodDRlcmtTdUc3MG1HNUFJVm90ODNvc1ZYVV9TQXVXaGk0WUMtejdlc05FMGtuN2ZMaXlud1R0YjVYV2VwVkduY2VaLVNBWlRVYzluUnM2TQ?oc=5",
-      "published": "2026-08-28T12:28:27.000Z",
-      "titleZh": "曼联就令人惊讶的马德里竞技前锋合同进行了联系"
-    },
-    {
-      "id": "Simon Stone:CBMiakFVX3lxTE1BTUlZUlhxYm9VcHNYR3hQMWh6X2lMcUJ5ZWNya1RObFhJUWdJSUlSTTRXcmJuMU4tdTF6SjI2Rk5NSVV1LTZybFpSamNhT3ZMSVlzbHhra2FNelh1S2FibjBhUGZQNFRFMnc",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Sir Matt Busby's £750 Manchester United contract",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BTUlZUlhxYm9VcHNYR3hQMWh6X2lMcUJ5ZWNya1RObFhJUWdJSUlSTTRXcmJuMU4tdTF6SjI2Rk5NSVV1LTZybFpSamNhT3ZMSVlzbHhra2FNelh1S2FibjBhUGZQNFRFMnc?oc=5",
-      "published": "2026-08-28T10:55:37.000Z",
-      "titleZh": "曼联新闻：马特·巴斯比爵士的£ 750曼联合同"
-    },
-    {
-      "id": "David Ornstein:CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3",
+      "id": "David Ornstein:CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
       "source": "The New York Times",
       "tier": 1,
-      "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
-      "published": "2026-08-27T21:18:25.000Z",
-      "titleZh": "利物浦原则上与PSG达成1.2亿英镑的Bradley Barcola转会协议- The Athletic"
+      "title": "Aston Villa reach agreement in principle to sign Ibrahim Mbaye from PSG in €55m deal - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEpoa0xRcXJWNDJ2QU1vald1VjFXb0JnZ190SHgxLTBhS2ExeXh4V3JJQjRhRGhzMF9fMDJ6ck8ya1JBU3ZsSm5oWmNtcFZhQnFwUEJPSTBfMFZzM0lLRmsxQlVwY3YxYTh0RVJFaUZoVGc3bTVxSEFZVTYzU0I4dEVhNnlQTnc0UnhrNHVPckZsbUpVeFE?oc=5",
+      "published": "2026-08-28T17:06:45.000Z",
+      "titleZh": "阿斯顿维拉原则上达成协议，以€ 5500万的价格与巴黎圣日耳曼签下Ibrahim Mbaye - The Athletic"
     },
     {
-      "id": "Samuel Luckhurst:CBMihgFBVV95cUxNMjFRSXRFMTIyZFl1TWFabWRwaG9ScmNYU0JKMEdPaUNaM1l6eldEWk9tdjA4Snc5YXpIUTJJWFk3dDlfWW9CNmwxTTZ1aERDcXFNMFFKeGd6NjYydGg5V3dOM2tGQ1dzcU94MjFoZExLeTFqZTJuSFVaSW5uNUN5Y1h2TWJXdw",
+      "id": "Chris Wheeler:CBMiigFBVV95cUxPSlM0cHExaHdENlFLb1VsUEJ6ZFhaMGZRNDFqaDZxdWE3SlFaY0Z4M2loZzd2TDlvZTRPT2R0VE5TbENEUjdIVzhMZmdBYnhiS0RxTUdHWnI0MEFfZmRsdERiSXBKSkdEVlB4MnNrYmx4Qi1JNG90czhhQzQ5Vms3WUNma2hMNFdwR3c",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Yahoo Sports Canada",
+      "tier": 2,
+      "title": "Arsenal could make late loan move for Manchester United forward",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlM0cHExaHdENlFLb1VsUEJ6ZFhaMGZRNDFqaDZxdWE3SlFaY0Z4M2loZzd2TDlvZTRPT2R0VE5TbENEUjdIVzhMZmdBYnhiS0RxTUdHWnI0MEFfZmRsdERiSXBKSkdEVlB4MnNrYmx4Qi1JNG90czhhQzQ5Vms3WUNma2hMNFdwR3c?oc=5",
+      "published": "2026-08-28T15:05:00.000Z",
+      "titleZh": "阿森纳可能会为曼联前锋推迟租借"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMihgFBVV95cUxPXzhOVmlYX3RRNkc4Mkk2TEMxSzVuSFJWajBPVXN5bzdxa3ZiYnhWQTNRQlpCdFFuTWR2Z1ByZmJhZ0pfbURDRnN2MFRkX25hMTBTdzZXSW83NEt2dmNXQWN2SlIyWGliamlqZ3NWbGYzTFZ1Wl83ZFpJVHpycm5ObjFPYUpoZw",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
       "source": "The Irish Sun",
       "tier": 2,
-      "title": "Two Man Utd stars could still be sold with Collyer and Amass futures in doubt",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjFRSXRFMTIyZFl1TWFabWRwaG9ScmNYU0JKMEdPaUNaM1l6eldEWk9tdjA4Snc5YXpIUTJJWFk3dDlfWW9CNmwxTTZ1aERDcXFNMFFKeGd6NjYydGg5V3dOM2tGQ1dzcU94MjFoZExLeTFqZTJuSFVaSW5uNUN5Y1h2TWJXdw?oc=5",
-      "published": "2026-08-27T17:59:47.000Z",
-      "titleZh": "两名曼联球星仍然可以出售， Collyer和Amass期货有疑问"
+      "title": "Man Utd give fresh Carlos Baleba and Amad injury updates ahead of crunch clash at home to Ipswich",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPXzhOVmlYX3RRNkc4Mkk2TEMxSzVuSFJWajBPVXN5bzdxa3ZiYnhWQTNRQlpCdFFuTWR2Z1ByZmJhZ0pfbURDRnN2MFRkX25hMTBTdzZXSW83NEt2dmNXQWN2SlIyWGliamlqZ3NWbGYzTFZ1Wl83ZFpJVHpycm5ObjFPYUpoZw?oc=5",
+      "published": "2026-08-28T13:53:43.000Z",
+      "titleZh": "曼联在伊普斯维奇主场发生冲突之前向卡洛斯·巴莱巴（ Carlos Baleba ）和阿马德（ Amad ）提供新的伤病更新"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMifEFVX3lxTE84ajVKN2U3cGtmRVZyc3ExdTdoS3lEMHJycGFUSFAzTEJzOFhpUW1ud1VBRUNWNVdzS3dKckgwZG94aGRnazNKZWt0T3owaHQ1NG5pTl9XRGlSMHZTSC1aMy00MkZaelpGdzlpb3hnQVRPMXBuMWdQZUo3bXY",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Carrick says JJ Gabriel is 'adapting' at Man Utd ahead of potential debut",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84ajVKN2U3cGtmRVZyc3ExdTdoS3lEMHJycGFUSFAzTEJzOFhpUW1ud1VBRUNWNVdzS3dKckgwZG94aGRnazNKZWt0T3owaHQ1NG5pTl9XRGlSMHZTSC1aMy00MkZaelpGdzlpb3hnQVRPMXBuMWdQZUo3bXY?oc=5",
+      "published": "2026-08-28T13:20:50.000Z",
+      "titleZh": "卡里克表示， JJ加布里埃尔正在曼联“适应”潜在的首次亮相"
+    },
+    {
+      "id": "Andy Mitten:CBMie0FVX3lxTE1TQU1mcDJFdkVtTV9uU2RxdDhxOUFyWWxiN18wOU83RDlsNUoxQ0RibFhtSDRMSG5HMGdNR1VlRWR6TnJlMElnUEk2NHBVNkpsWmlCc0xlUlpvYURzUFVoSmxxLXMtREpZNHotQzVRQjROdGRocnpWYlhwZw",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Manchester United",
+      "tier": 2,
+      "title": "Manchester United goes to Mars",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TQU1mcDJFdkVtTV9uU2RxdDhxOUFyWWxiN18wOU83RDlsNUoxQ0RibFhtSDRMSG5HMGdNR1VlRWR6TnJlMElnUEk2NHBVNkpsWmlCc0xlUlpvYURzUFVoSmxxLXMtREpZNHotQzVRQjROdGRocnpWYlhwZw?oc=5",
+      "published": "2026-08-28T13:10:11.000Z",
+      "titleZh": "曼联前往火星"
+    },
+    {
+      "id": "Andy Mitten:CBMipAFBVV95cUxQYmRQZS1XWFpCdC1oOVRlbE14Skh2LWM1WnJyUGNNRUFpRTZCejJ2Y3A0Vkl2VmRSc1hSZGNsdEd0bXc1QlN2TFlvTnRfXzhkS3VrWHd0QXlFLWpCODdnTVlEWGw2dDRJMjY1MlF6QlU0ZlRBOUZKZ3U5Zzl3NlozVVJIS0RxbE5KRFY0WnNEWTloeGRmWDBVNDZWTjRPM3psbHVkUA",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "What to expect from Talk of the Devils in the 2026-27 season",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmRQZS1XWFpCdC1oOVRlbE14Skh2LWM1WnJyUGNNRUFpRTZCejJ2Y3A0Vkl2VmRSc1hSZGNsdEd0bXc1QlN2TFlvTnRfXzhkS3VrWHd0QXlFLWpCODdnTVlEWGw2dDRJMjY1MlF6QlU0ZlRBOUZKZ3U5Zzl3NlozVVJIS0RxbE5KRFY0WnNEWTloeGRmWDBVNDZWTjRPM3psbHVkUA?oc=5",
+      "published": "2026-08-28T12:00:11.000Z",
+      "titleZh": "2026-27赛季《Talk of the Devils》有什么值得期待的地方"
+    },
+    {
+      "id": "Simon Stone:CBMiZ0FVX3lxTFBRaFgtTGdBNHdZMEFDcXF6STNVM2NRV1dLM3RzSmNZTVdhMllHeF82ajhGTWVRdEdRYTF1MUlaY0h4RTR5QktaWFE0WHBvZmE1SEVPMmVhZnFnR05maVBNT1FDTmNIc00",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Marcus Rashford set to stay",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRaFgtTGdBNHdZMEFDcXF6STNVM2NRV1dLM3RzSmNZTVdhMllHeF82ajhGTWVRdEdRYTF1MUlaY0h4RTR5QktaWFE0WHBvZmE1SEVPMmVhZnFnR05maVBNT1FDTmNIc00?oc=5",
+      "published": "2026-08-28T11:10:10.000Z",
+      "titleZh": "曼联新闻：马库斯·拉什福德（ Marcus Rashford ）将入住"
+    },
+    {
+      "id": "Fabrizio Romano:CBMikAFBVV95cUxQWTlEakxuNW52QW5ZRHNjV2p4bjZFRFlPcldIMExuR3RfUk1sRTVibWxlUGdqYnVodE42SVZTRkpfS2RwamFDR0JxZjN4aWE5WUwwTXY5NGFnN3VNTXpZeXhHWW42S0otZ3ZRYThNVHM4RmRFMy0zZWxoeUpuRE56UjlRdTVzTGdXTGplcmlGWXY",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "Fabrizio Romano makes late-window ‘guarantee’ over Man Utd signing after call with Jorge Mendes",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTlEakxuNW52QW5ZRHNjV2p4bjZFRFlPcldIMExuR3RfUk1sRTVibWxlUGdqYnVodE42SVZTRkpfS2RwamFDR0JxZjN4aWE5WUwwTXY5NGFnN3VNTXpZeXhHWW42S0otZ3ZRYThNVHM4RmRFMy0zZWxoeUpuRE56UjlRdTVzTGdXTGplcmlGWXY?oc=5",
+      "published": "2026-08-28T10:15:00.000Z",
+      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）在与豪尔赫·门德斯（ Jorge Mendes ）通话后，为曼联签约提供晚间“"
+    },
+    {
+      "id": "Andy Mitten:CBMiWkFVX3lxTE91Z3Uxa2xkZ2g3MUE2M1JOSGlIQmlpTXJIWXZOb3JzSkVRbGpiT2tLTVpGZUJnMkFCdXBHcGxyNDA3RVBRYmUzbUdoZHg2MldrWTdxV0JaR090QQ",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Mshale",
+      "tier": 2,
+      "title": "Hull City 2-0 Man United Player Ratings Pierluigi Collina (ECe87lWQv7)",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Z3Uxa2xkZ2g3MUE2M1JOSGlIQmlpTXJIWXZOb3JzSkVRbGpiT2tLTVpGZUJnMkFCdXBHcGxyNDA3RVBRYmUzbUdoZHg2MldrWTdxV0JaR090QQ?oc=5",
+      "published": "2026-08-27T17:37:01.000Z",
+      "titleZh": "赫尔城2-0曼联球员评级Pierluigi Collina (ECe87lWQv7)"
     },
     {
       "id": "David Ornstein:CBMikgFBVV95cUxOUmU5aGxWWndJdGo0dTdVS3VlcHpuZWRPSFpMWk9OX1c3MW1KVnFZZko4TW9KLWk1ajk4SFJWdHdINmRYM0QwcXlwTnpnTVpnWmpmZlQyQnJaSVhaQ2VCNEJ2VVJPY3o0LWJFNlFDVUtqSDI3SzRWRzFLQzBoN2xRWHNGWFZxdV82MGFUSDlNSm4ydw",
@@ -16077,6 +16137,18 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）关于曼联潜在左后卫签约的独家更新"
     },
     {
+      "id": "Simon Stone:CBMiakFVX3lxTE1ib3luVElPWk9jSERSZ0p4Z3ZTZWdDbXRUZlpLaVVxM3BCU0g3NHhQTmpta1BzTUxrS041UHoyR2dWWTJVTWZOY0lmblRwRGJpX0xya091ejNybUVfZmlDZmdEX24wNkp3LVE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd transfer news: James Overy and Louis Jackson set to leave",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ib3luVElPWk9jSERSZ0p4Z3ZTZWdDbXRUZlpLaVVxM3BCU0g3NHhQTmpta1BzTUxrS041UHoyR2dWWTJVTWZOY0lmblRwRGJpX0xya091ejNybUVfZmlDZmdEX24wNkp3LVE?oc=5",
+      "published": "2026-08-26T13:06:15.000Z",
+      "titleZh": "曼联转会新闻：詹姆斯·奥弗里和路易斯·杰克逊即将离开"
+    },
+    {
       "id": "Laurie Whitwell:CBMinAFBVV95cUxNYUZiUFhiYTNueS1vOU8wWUhhaGZXRnkzUHBZaUFMS3kwbjBUMmVKWUdBTGZpdUh0ckVVcTBQLWd0cFExSEZkOEoyZlBoVU5SNjNUeE1Wb3VNQ29meGdFRXlKYTlZZ3BuQWNWVWtYcjRJV3c1TS15aDdRWHlFMzZfYjZ6Zjliek9velluMFRMSlhFdEJZWE5wTXlJU00",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -16099,30 +16171,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DRzFabElSQnBVbUNYM19aTGN0SFN2QVJtSHN3eko3bTd0NENZRmVLRlhfck4tMmxoNnF5ZDd4aEs0eV80NTAzb1RhUkxkU1ZNcGZRUnM3RFdKMTdHbWRZaWQxV1kwbEk?oc=5",
       "published": "2026-08-26T10:06:07.000Z",
       "titleZh": "曼联新闻：意见-不确定Red Devils是否会在转会截止日期前签下左后卫"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "JJ Gabriel primed for potential Man United record-breaking debut",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ?oc=5",
-      "published": "2026-08-25T20:35:52.000Z",
-      "titleZh": "JJ加布里埃尔为潜在的曼联破纪录的首次亮相做好准备"
-    },
-    {
-      "id": "Andy Mitten:CBMilgFBVV95cUxPdHM1X1hNQmNyTW1VQk1JS0Z0MVdDX1VqM29DNWZGd0p5UE03dU4zeE1rV1VPTkpMbTNrQVczRVFDaTRLQnVsN0h6SHBlY3YxamUwM21GRXlLbzlVRUotMHR2V3JLcnhjNEJjUHZMeEpxVWxKYXB6eVpDMzh2MV9sWHZSS0xQMzJaNGZoZmN1VDRYcHMzV2c",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "Manchester United",
-      "tier": 2,
-      "title": "United v Atleti: Watch our rooftop preview show!",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHM1X1hNQmNyTW1VQk1JS0Z0MVdDX1VqM29DNWZGd0p5UE03dU4zeE1rV1VPTkpMbTNrQVczRVFDaTRLQnVsN0h6SHBlY3YxamUwM21GRXlLbzlVRUotMHR2V3JLcnhjNEJjUHZMeEpxVWxKYXB6eVpDMzh2MV9sWHZSS0xQMzJaNGZoZmN1VDRYcHMzV2c?oc=5",
-      "published": "2026-08-25T19:37:23.000Z",
-      "titleZh": "United v Atleti ：观看我们的屋顶预览节目！"
     },
     {
       "id": "Rob Dawson:CBMirAFBVV95cUxQRDc3NE9Bc0JocU5pT08yeFZTLTNIZlBFbWJnd2JWTngyY1NLTzR4RmdJRE1mbklxcWtZSDhkUUQ4c3BsVHpwOTk0eWVDQnROVVRSek4xNjVUbEhORVRCbnhVdzVhdEtoTW1Da0FOVGdsWlRoNW1iUHcwTnJPdGVaWkV5SUkzVFVQWVhZNm92R3A1QnRkZDBLNnVscU5ZU3FnZWlIN0lNWGhkdHRm",
@@ -16231,57 +16279,9 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMDdJdXRmdGhRUmFwRDA2VFdaZWhSR0pnZEM5MWw2RFNqSjJORG1mVnBua3Nvb0Y1MlN1d29JLUFLQ0RpVk5wUElJMEQtMlRxbUJOdGVBX3BuYlZURXlkV1p2S3BOaEI4Wmg4U3RReHBXVnU5Q1NFOE9OMlJqeV9NVngzSWpUVHBFeHJqclFoeVlSb2t0LW13Rw?oc=5",
       "published": "2026-08-24T06:59:37.000Z",
       "titleZh": "Romano透露曼联转会加速，纽卡斯尔做出最终决定，将霍尔出售给红魔"
-    },
-    {
-      "id": "Rob Dawson:CBMiW0FVX3lxTE1qV2xNcTd4T0M5MEtOSVk3RXdCbVdJSFVnbGMtSENsZzVVQWFyZXBLVHRuamFQQWhhbG5FYWloOHlKVjB0cHlYS0QzM0s2dlc0dUxPeXhYYjVCVkk",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "Mshale",
-      "tier": 1,
-      "title": "Why Aren’t Manchester United Or England Playing Kobbie Mainoo? ⭐️ | ESPN FC Sean Connery (kzPcUlXSNg)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qV2xNcTd4T0M5MEtOSVk3RXdCbVdJSFVnbGMtSENsZzVVQWFyZXBLVHRuamFQQWhhbG5FYWloOHlKVjB0cHlYS0QzM0s2dlc0dUxPeXhYYjVCVkk?oc=5",
-      "published": "2026-08-24T06:57:33.000Z",
-      "titleZh": "为什么曼联或英格兰队不打Kobbie Mainoo ？ ⭐️ | ESPN FC Sean Connery (kzPcUlXSNg)"
-    },
-    {
-      "id": "Chris Wheeler:CBMisgJBVV95cUxNUDhEUXpnbzdXM0lnTDg5RllLQ0FiUzNuN2hVZlluLUhSRGlmUENQSXZPWXNIRkh4U3pqNjBuTUdkOTV2eFRjeDNPSVVsSjBzLXpEU2l2QjU1TzczbVRVRDBSS25fMGRuaEJqZVU0ZGkzRUg4czFWeXRHUXQxVkd0c0p1TGlZcHNLOUlObWc4b1pwenUtX3R4eWpWWGppaDhKV0V2Q0Z3TnNaRGVQYzFPNjBTX3lmTnZhTlUtb09FOFdxczZ0UWRfdGpRX3pQZWpzMUJkZ0YzeFhtWDg3Y2RnRWJsQVVkdXFCajhWNThTWmtydkdEck1sdEJmN2ZLdWl2RVlwWll6WUF6a3h3UGwzSkhQSHF2eThnM1ZieVVmc0VleFAwclM5ZDFpaU5JTEl2OEHSAbcCQVVfeXFMUDhRMEYtUHdHX1ptZzZscXVkRzZEejFtbVhSdjBQR1ZFV05jWGhOZm9tZ3JQMU1HVmR3NGxXbnFJNkVnU1dfeU9GaVBSNnl0RW5JSmZvU1N1NWFSU0c0SUJydUpBc0YteGdHcmJxNkY0UklLeFJrRkZIa1J2ZzdhMGxnUHE0UnlhOU9TdmdBNFRYaDhrbG1sODNkRVQtajI5WHYzZm9vYUJJUlZNVHZxZ1FtUldMZm4xeFhvOXN4X2U5R1o3aVV3clhzUWd6cmlubGVmcFZGSl9UX1VRSDA4RlA5Uy1wOVdYTndFeDJCUE5JMFhnYkVrVDNGbW9JSG5XcVppM0Q0UUgtb0lKMG9zZFVJZlNDR3JZdnFRUjg0cVN6NktOUXU1dk5vaGtqUVdzdXVsbks4c1E",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Michael Carrick must make his mark as capitulation in dismal defeat by Hull raises fresh concerns over this Man United squad's ability to build on his achievements, writes CHRIS WHEELER",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUDhEUXpnbzdXM0lnTDg5RllLQ0FiUzNuN2hVZlluLUhSRGlmUENQSXZPWXNIRkh4U3pqNjBuTUdkOTV2eFRjeDNPSVVsSjBzLXpEU2l2QjU1TzczbVRVRDBSS25fMGRuaEJqZVU0ZGkzRUg4czFWeXRHUXQxVkd0c0p1TGlZcHNLOUlObWc4b1pwenUtX3R4eWpWWGppaDhKV0V2Q0Z3TnNaRGVQYzFPNjBTX3lmTnZhTlUtb09FOFdxczZ0UWRfdGpRX3pQZWpzMUJkZ0YzeFhtWDg3Y2RnRWJsQVVkdXFCajhWNThTWmtydkdEck1sdEJmN2ZLdWl2RVlwWll6WUF6a3h3UGwzSkhQSHF2eThnM1ZieVVmc0VleFAwclM5ZDFpaU5JTEl2OEHSAbcCQVVfeXFMUDhRMEYtUHdHX1ptZzZscXVkRzZEejFtbVhSdjBQR1ZFV05jWGhOZm9tZ3JQMU1HVmR3NGxXbnFJNkVnU1dfeU9GaVBSNnl0RW5JSmZvU1N1NWFSU0c0SUJydUpBc0YteGdHcmJxNkY0UklLeFJrRkZIa1J2ZzdhMGxnUHE0UnlhOU9TdmdBNFRYaDhrbG1sODNkRVQtajI5WHYzZm9vYUJJUlZNVHZxZ1FtUldMZm4xeFhvOXN4X2U5R1o3aVV3clhzUWd6cmlubGVmcFZGSl9UX1VRSDA4RlA5Uy1wOVdYTndFeDJCUE5JMFhnYkVrVDNGbW9JSG5XcVppM0Q0UUgtb0lKMG9zZFVJZlNDR3JZdnFRUjg0cVN6NktOUXU1dk5vaGtqUVdzdXVsbks4c1E?oc=5",
-      "published": "2026-08-24T06:00:55.000Z",
-      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，迈克尔·卡里克（ Michael Carrick ）必须在赫尔（ Hull ）的惨败中投降，这让人们对这支曼联球队在他的成就基础上再接再厉的能力产生了新的"
-    },
-    {
-      "id": "Laurie Whitwell:CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Hull ‘saw’ Manchester United’s problems. This is what ‘calm’ Carrick needs to fix",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU?oc=5",
-      "published": "2026-08-23T09:23:05.000Z",
-      "titleZh": "赫尔“看到”了曼联的问题。这就是“冷静”的卡里克需要解决的问题"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiowFBVV95cUxNNXAybC1vQUdRaEVSd0VvTjBNX0VmaFVJbm91dFEwLWRfSkVRZkQxU1h1aUtBd3Aza2ZNTEpyVlpneVdNQm1oWkhMOU1vd2dtb2h6Rjk4cVVLdmdIUmcyTkZDTFV5NVA5bUROTk5yanc5cjlwckxCN0hjNGc1WngzUHUta1lvMXBRZXdZMGk5RkJlRGJIWUhTTUVuOGxJWVpvSkU4",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "theScore",
-      "tier": 1,
-      "title": "Latest transfer news and rumors: Liverpool ask about Endrick",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXAybC1vQUdRaEVSd0VvTjBNX0VmaFVJbm91dFEwLWRfSkVRZkQxU1h1aUtBd3Aza2ZNTEpyVlpneVdNQm1oWkhMOU1vd2dtb2h6Rjk4cVVLdmdIUmcyTkZDTFV5NVA5bUROTk5yanc5cjlwckxCN0hjNGc1WngzUHUta1lvMXBRZXdZMGk5RkJlRGJIWUhTTUVuOGxJWVpvSkU4?oc=5",
-      "published": "2026-08-22T20:41:28.000Z",
-      "titleZh": "最新转会新闻和谣言：利物浦询问恩德里克"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-28T12:43:31.842Z",
+  "journalistsUpdatedAt": "2026-08-28T22:39:41.677Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

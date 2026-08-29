@@ -16644,6 +16644,18 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMitgFBVV95cUxQVHk0XzhnSEZ4ck1pX09Va0hjemZlY1l3U3JkR2gxeE0tdHE1anZEVWpnbTNpMmhTTUtTZXQzUTgwVm5fa2JjRzBYQ1NXSTRaaVJUM2dKdHcyQWtyOUplUU9PTGVnT1c4dFQzVDhXNTJHZk5ZT1hxZWh6UnNDZWllTElqSkdzak5zclVGclpvWWxWemxaQWFyai1TWUdNTzhUVi1qb25UaGo2cWZVcjFtN3BwX0NwZw",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "FOX Sports",
+      "tier": 2,
+      "title": "Manchester United vs. Sabah Masazir - Live Score - September 10, 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHk0XzhnSEZ4ck1pX09Va0hjemZlY1l3U3JkR2gxeE0tdHE1anZEVWpnbTNpMmhTTUtTZXQzUTgwVm5fa2JjRzBYQ1NXSTRaaVJUM2dKdHcyQWtyOUplUU9PTGVnT1c4dFQzVDhXNTJHZk5ZT1hxZWh6UnNDZWllTElqSkdzak5zclVGclpvWWxWemxaQWFyai1TWUdNTzhUVi1qb25UaGo2cWZVcjFtN3BwX0NwZw?oc=5",
+      "published": "2026-08-29T15:03:51.000Z",
+      "titleZh": "曼联vs沙巴·马萨齐尔-现场比分- 2026年9月10日"
+    },
+    {
       "id": "David Ornstein:CBMi4wFBVV95cUxQTlpUSFdHbElGUElWcFp3RXZTczJZbThLSmVfOUJBc0dSRV80bTd1NUVyT19sS3BtbG9XTXRMUVg0a1dWbVowZEozeHNQY0lrSHlnbmdHSDlNRHdYUVp6aXR3ZUNpMi1KV2U5b25aeWM5TUhhYmdIMDh1OUZXbUlxMHdlVjk3WHdrYVJCOGp1Z2ZSM0M5NmUyRXNWVGZxMWpUMXI5YnFKOFdzU0xpdjZLQ2YxSktrRk55Nk56aGUyQTcwamlpYzVrYlQ3R2dTWGFsNzV3MDhKR1VnWUJnRURxUHZpcw",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -16768,7 +16780,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "Manchester United",
+      "source": "Official Manchester United Website",
       "tier": 2,
       "title": "Manchester United goes to Mars",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TQU1mcDJFdkVtTV9uU2RxdDhxOUFyWWxiN18wOU83RDlsNUoxQ0RibFhtSDRMSG5HMGdNR1VlRWR6TnJlMElnUEk2NHBVNkpsWmlCc0xlUlpvYURzUFVoSmxxLXMtREpZNHotQzVRQjROdGRocnpWYlhwZw?oc=5",
@@ -16822,6 +16834,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmU5aGxWWndJdGo0dTdVS3VlcHpuZWRPSFpMWk9OX1c3MW1KVnFZZko4TW9KLWk1ajk4SFJWdHdINmRYM0QwcXlwTnpnTVpnWmpmZlQyQnJaSVhaQ2VCNEJ2VVJPY3o0LWJFNlFDVUtqSDI3SzRWRzFLQzBoN2xRWHNGWFZxdV82MGFUSDlNSm4ydw?oc=5",
       "published": "2026-08-27T16:38:12.000Z",
       "titleZh": "奥恩斯坦透露，随着明星采取“下一步行动” ，阿森纳已就下一步退出达成“协议”"
+    },
+    {
+      "id": "Rob Dawson:CBMilgFBVV95cUxOdDVuc1pYNmVDSFRxSFpDX2wyb3dmb3RwNktmTGdwN2lKTVFZRV9QUVNsUVk5S0N5SDRNSmhkVFU3WWVnaV9xZTE4SXZ2WnU3Y1NwU3lsSEk4Vl8yS2NZcWdqUFdsSkQwZkt3eGRWdXg0WWk2UlB4dGU0aE5MQlVzRUFNUDNxcmxTc1h2UXZTeGxJcTJlY0E",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Fiorentina in talks with Man United over Zirkzee - sources",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDVuc1pYNmVDSFRxSFpDX2wyb3dmb3RwNktmTGdwN2lKTVFZRV9QUVNsUVk5S0N5SDRNSmhkVFU3WWVnaV9xZTE4SXZ2WnU3Y1NwU3lsSEk4Vl8yS2NZcWdqUFdsSkQwZkt3eGRWdXg0WWk2UlB4dGU0aE5MQlVzRUFNUDNxcmxTc1h2UXZTeGxJcTJlY0E?oc=5",
+      "published": "2026-08-27T13:51:00.000Z",
+      "titleZh": "佛罗伦萨与曼联就Zirkzee进行谈判-消息来源"
     },
     {
       "id": "Fabrizio Romano:CBMi6wFBVV95cUxQcUlZV1cyak1MT24xcXdPTXpHVnd2ZlFzTUhoY1N0TmtrQ2JzbjE1eVBHOFZBSDQ2SFBMWTRFM0sxd19NQVZTQ1RaUHhIWUJtV1VhVE1PeVZtQ2RpMEFsQ0ZJc051c2d6T1dzaHB6aGE2TFJUcFJBbnBDdHdicW9tdER3SzkyeDdCTWppc0pyQzg2TjdlNVc3MC14b1dJRFB0S2Zjb3RMSi1nb0tvNDRHT0IwbzRwWThxQ0M1bXJwNmtzZlFnMWV2YkxWVDR6bWNzYWwyVWljVGdSMnlCU2FkVzJyaFUycXpiWUVv",
@@ -16906,33 +16930,9 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUwzcUlhVi1ROUxnNDJMa0ZsVHdmbWtTRXlhQ2FzVVcwZldfam9vOWhZa2ZGdVFHYW9sX3Y3U25uYm9JMzVDT1hCMHh2ZGV6X0Z2T25ZWEVIZDNFSmwtV0lfZHEzN3ZiX0VVWXZCbEdKZHMwY09ZNWNKQ0lnTmlRbE5WUjN1YnRoYzl3?oc=5",
       "published": "2026-08-25T15:51:57.000Z",
       "titleZh": "曼联宣布卡洛斯·巴莱巴从布莱顿签约"
-    },
-    {
-      "id": "Carl Anka:CBMimgFBVV95cUxPcWFSSVZKSC1tRGh5d1JrVmhFWDRsVVVENkRNUG1ZRksyLWJaMDc5VGlYcW1tRGlneXpMSGlTUUFkM3RMZ3dsaEtNSmlfZnJhckc3MVltckc4SDZxUEZQWnpxQzNVUjM1V1VvcmNhazRqSzBVRlhCMXJXRFcyZ3BIOF9vUUtEMFpCZVdudFJXclhfYmE1STR4czln",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "How Manchester United’s new signing Carlos Baleba fits in and what else to know",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWFSSVZKSC1tRGh5d1JrVmhFWDRsVVVENkRNUG1ZRksyLWJaMDc5VGlYcW1tRGlneXpMSGlTUUFkM3RMZ3dsaEtNSmlfZnJhckc3MVltckc4SDZxUEZQWnpxQzNVUjM1V1VvcmNhazRqSzBVRlhCMXJXRFcyZ3BIOF9vUUtEMFpCZVdudFJXclhfYmE1STR4czln?oc=5",
-      "published": "2026-08-25T15:50:11.000Z",
-      "titleZh": "曼联新签约的卡洛斯·巴莱巴（ Carlos Baleba ）如何适应，还有什么需要了解的"
-    },
-    {
-      "id": "Simon Stone:CBMiakFVX3lxTE9yZDljNVFJTXJnVHhPajB1c2xpakxqYXZCV2xGZ0RWY2FUS0w0b1RpanBtSE5NckZob2RDWF84Zmd5dmZpUEJqU1VKLTZRYW45Z244UDZxbXhTd2VYRElOQy1RQUlsTlY4Qmc",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: JJ Gabriel scores against Ipswich on PL2 debut",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yZDljNVFJTXJnVHhPajB1c2xpakxqYXZCV2xGZ0RWY2FUS0w0b1RpanBtSE5NckZob2RDWF84Zmd5dmZpUEJqU1VKLTZRYW45Z244UDZxbXhTd2VYRElOQy1RQUlsTlY4Qmc?oc=5",
-      "published": "2026-08-25T07:01:27.000Z",
-      "titleZh": "曼联新闻： JJ加布里埃尔在PL2首次亮相时对阵伊普斯维奇"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-29T18:41:09.570Z",
+  "journalistsUpdatedAt": "2026-08-29T21:12:09.474Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

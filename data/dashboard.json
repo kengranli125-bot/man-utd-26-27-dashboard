@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:54:50.590Z",
+  "updatedAt": "2026-08-30T05:22:58.624Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16006,6 +16006,20 @@
   "scorers": [],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United offered Atétli striker Sørloth",
+      "published": "2026-08-29T19:27:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联提供Atétli前锋Sørloth"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-29T19:39:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
       "title": "Michael Carrick keen to entertain as Man United look to bounce back against Ipswich",
       "published": "2026-08-29T09:19:53Z",
       "url": "https://www.espn.com/soccer/story/_/id/49760222/michael-carrick-keen-entertain-man-united-look-bounce-back-ipswich",
@@ -16018,13 +16032,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "image": "https://a.espncdn.com/photo/2026/0819/r1703775_1296x729_16-9.jpg",
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-29T06:30:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Carrick eyes first Man United win of season in front of Old Trafford crowd",
@@ -16081,16 +16088,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49659296/bayern-munich-atletico-madrid-roma",
       "image": "https://a.espncdn.com/photo/2026/0117/r1601718_1296x729_16-9.jpg",
       "titleZh": "曼联冠军联赛平局：拜仁慕尼黑、马德里竞技、罗马"
-    },
-    {
-      "title": "Who are Sabah FK, Champions League debutants, Arsenal/Man United opponents?",
-      "published": "2026-08-29T09:17:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707627_1296x729_16-9.jpg",
-      "titleZh": "谁是沙巴FK、冠军联赛新秀、阿森纳/曼联对手？"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United offered Atétli striker Sørloth",
+      "published": "2026-08-29T19:27:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
+      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联提供Atétli前锋Sørloth",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Michael Carrick: Man United signing Baleba unlikely to play for 'a couple of weeks'",
       "published": "2026-08-28T13:19:17Z",

@@ -18398,6 +18398,18 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMikAFBVV95cUxPSnBBZGpoY3hSaUpEZjZldTRPWWtndGJqaVhibGtpY1ZKd3RudS1DQTNFbW9GZnU4WlNBcXNsVE5QRWVLQjFfbC16akoxRmJBYjdWWWVNbGxTa1lwTW5kU2ZabzZnYlUwRDJnS1Rib3pPMnd1MVZSZy1yRkxuODc3UjJCYl9BMWZtOXBUMjJTY0Y",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Man Utd spent £155m on midfield… but Mainoo's new contract club's biggest deal",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnBBZGpoY3hSaUpEZjZldTRPWWtndGJqaVhibGtpY1ZKd3RudS1DQTNFbW9GZnU4WlNBcXNsVE5QRWVLQjFfbC16akoxRmJBYjdWWWVNbGxTa1lwTW5kU2ZabzZnYlUwRDJnS1Rib3pPMnd1MVZSZy1yRkxuODc3UjJCYl9BMWZtOXBUMjJTY0Y?oc=5",
+      "published": "2026-08-30T18:44:21.000Z",
+      "titleZh": "曼联在中场花费了1.55亿英镑......但Mainoo的新合同俱乐部最大的交易"
+    },
+    {
       "id": "Samuel Luckhurst:CBMiqAFBVV95cUxQSkpRbnhEYk1QRUJsWGJQazdNZ1BEbXZmQ1plVkVhQnJ5NW04ZjBmSERkZHl6dzZEaTBxZTJsRk9rSHI1UXRiZjRQTlUzcE1FVlltNlB2OEJJNGhPOHp2c3BYVUJxUDM0VzV5TGFsYTdEVGVxVVk0TVM4SDNMdnY5WTUwVkRJZGZ2X3NnTWJLTklnczdDQzBZR1ItRWxWNmsyMjNySnFpM2g",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -18672,21 +18684,9 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUZiUFhiYTNueS1vOU8wWUhhaGZXRnkzUHBZaUFMS3kwbjBUMmVKWUdBTGZpdUh0ckVVcTBQLWd0cFExSEZkOEoyZlBoVU5SNjNUeE1Wb3VNQ29meGdFRXlKYTlZZ3BuQWNWVWtYcjRJV3c1TS15aDdRWHlFMzZfYjZ6Zjliek9velluMFRMSlhFdEJZWE5wTXlJU00?oc=5",
       "published": "2026-08-26T12:31:09.000Z",
       "titleZh": "惠特韦尔确认曼联在亚历杭德罗·巴尔德（ Alejandro Balde ）被拒绝的情况下为刘易斯·霍尔"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "JJ Gabriel primed for potential Man United record-breaking debut",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzRmtLRnRzN25lWEhYWWRuRnpJNEd0Qy1qc1JESWZGdjNEbDI5OUZ6MF9vMkYwTjFzOEJXaTlCMHRhQjlwSG9wNEU2LWNzTWVuMDRwVFUwUE1panI4OHJJdDV5UlRQX05OcmpHaE9fRQ?oc=5",
-      "published": "2026-08-25T20:35:52.000Z",
-      "titleZh": "JJ加布里埃尔为潜在的曼联破纪录的首次亮相做好准备"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-30T16:50:17.982Z",
+  "journalistsUpdatedAt": "2026-08-30T19:32:07.249Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

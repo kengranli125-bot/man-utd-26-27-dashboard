@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:37:13.536Z",
+  "updatedAt": "2026-08-30T21:04:21.064Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16209,7 +16209,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-30T18:37:13.536Z"
+        "generatedAt": "2026-08-30T21:04:19.950Z"
       }
     },
     {
@@ -17767,18 +17767,74 @@
   "scorers": [],
   "news": [
     {
-      "title": "Man United vs Ipswich Town LIVE: Latest updates as Fernandes brings hosts level after Davis opener",
-      "published": "2026-08-30T16:21:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49772198/man-united-vs-ipswich-town-live-latest-updates-old-trafford",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709025_1296x729_16-9.jpg",
-      "titleZh": "曼联vs伊普斯维奇镇现场直播：费尔南德斯在戴维斯揭幕战后为房东带来了最新动态"
+      "title": "Premier League VAR review: Man United handball didn't cancel goal for odd reason",
+      "published": "2026-08-30T20:14:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709133_1296x729_16-9.jpg",
+      "titleZh": "英超联赛VAR回顾：曼联手球没有因为奇怪的原因取消进球"
     },
     {
-      "title": "European soccer live updates: Man United look to bounce back vs. Ipswich",
-      "published": "2026-08-30T16:02:04Z",
+      "title": "European soccer recap: Man United cruise past Ipswich",
+      "published": "2026-08-30T19:44:53Z",
       "url": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709011_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709052_1296x729_16-9.jpg",
       "titleZh": "欧洲足球现场更新：曼联看起来要反弹对伊普斯维奇"
+    },
+    {
+      "title": "After Man United's rocky start, Carrick's calm vindicated in win over Ipswich",
+      "published": "2026-08-30T20:45:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49774532/after-man-united-rocky-start-carrick-calm-vindicated-win-ipswich",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709098_1296x729_16-9.jpg",
+      "titleZh": "在曼联艰难的开局之后，卡里克的平静在赢得伊普斯维奇的比赛中得到了证明"
+    },
+    {
+      "title": "Man United's Michael Carrick leaves door open for more transfers before deadline",
+      "published": "2026-08-30T19:03:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49774637/man-united-michael-carrick-leaves-door-open-more-transfers-deadline",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709094_1296x729_16-9.jpg",
+      "titleZh": "曼联的迈克尔·卡里克在截止日期前为更多转会敞开大门"
+    },
+    {
+      "title": "Hislop: VAR decision on Man United goal makes no sense",
+      "published": "2026-08-30T18:52:20Z",
+      "url": "https://www.espn.com/video/clip/_/id/49774606/var-decision-man-united-goal-makes-no-sense",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_ANALYSIS_Hislop_VAR_decision_on_Man_United_goal_makes_no_sense_2026_8_30/dm_260830_COM_SOC_ANALYSIS_Hislop_VAR_decision_on_Man_United_goal_makes_no_sense_2026_8_30.jpg",
+      "titleZh": "Hislop ： VAR对曼联进球的决定毫无意义"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-30T18:15:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Manchester United player ratings as Fernandes scores hat trick and Rashford returns in Ipswich rout",
+      "published": "2026-08-30T17:58:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49774215/manchester-united-ipswich-town-premier-league-bruno-fernandes-marcus-rashford",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709052_1296x729_16-9.jpg",
+      "titleZh": "曼联球员得分，费尔南德斯得分帽子戏法，拉什福德在伊普斯维奇溃败中回归"
+    },
+    {
+      "title": "Man United hit Ipswich Town for five, as Bruno Fernandes scores hat trick",
+      "published": "2026-08-30T18:40:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49774267/man-united-ipswich-town-bruno-fernandes-premier-league-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709065_1296x729_16-9.jpg",
+      "titleZh": "曼联以五分击中伊普斯威奇镇，布鲁诺·费尔南德斯（ Bruno Fernandes ）获得帽子戏法"
+    },
+    {
+      "title": "Man United vs Ipswich Town: Fernandes hat trick sees United to comfortable win - as it happened",
+      "published": "2026-08-30T17:59:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49772198/bruno-fernandes-hat-trick-sees-united-comfortable-win",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709025_1296x729_16-9.jpg",
+      "titleZh": "曼联vs伊普斯威奇镇：费尔南德斯的帽子戏法让曼联取得了轻松的胜利"
+    },
+    {
+      "title": "Bruno Fernandes nets hat trick as Man United run riot in comeback against Ipswich ",
+      "published": "2026-08-30T18:17:41Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879293",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709043_2_594x334_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）在对阵伊普斯维奇（ Ipswich ）的复出中，曼联（ Man United"
     },
     {
       "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
@@ -17788,89 +17844,23 @@
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
     },
     {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-30T06:51:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0710/r1687125_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
       "title": "Michael Carrick: 'Lazy' to claim Man United lack passion",
       "published": "2026-08-29T21:30:42Z",
       "url": "https://www.espn.com/soccer/story/_/id/49764906/michael-carrick-man-united-passion-lazy-hull-ipswich",
       "image": "https://a.espncdn.com/photo/2026/0829/r1708657_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克： “懒惰”声称曼联缺乏激情"
-    },
-    {
-      "title": "Man United's Champions League draw: Bayern Munich, Atlético Madrid, Roma",
-      "published": "2026-08-29T21:09:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49659296/bayern-munich-atletico-madrid-roma",
-      "image": "https://a.espncdn.com/photo/2026/0117/r1601718_1296x729_16-9.jpg",
-      "titleZh": "曼联冠军联赛平局：拜仁慕尼黑、马德里竞技、罗马"
-    },
-    {
-      "title": "Champions League schedule: Real Madrid open league phase vs. Inter Milan",
-      "published": "2026-08-29T21:27:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49765490/champions-league-schedule-real-madrid-inter-psg-arsenal-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708693_1296x729_16-9.jpg",
-      "titleZh": "冠军联赛时间表：皇家马德里公开赛阶段vs国际米兰"
-    },
-    {
-      "title": "Transfer rumors, news: Man United offered Atleti striker Sørloth",
-      "published": "2026-08-30T02:21:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
-      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联提供Atétli前锋Sørloth"
-    },
-    {
-      "title": "Michael Carrick keen to entertain as Man United look to bounce back against Ipswich",
-      "published": "2026-08-29T09:19:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49760222/michael-carrick-keen-entertain-man-united-look-bounce-back-ipswich",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708429_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）热衷于娱乐，因为曼联希望反弹到伊普斯维奇"
-    },
-    {
-      "title": "Carrick eyes first Man United win of season in front of Old Trafford crowd",
-      "published": "2026-08-28T18:18:53Z",
-      "url": "https://www.espn.com/video/clip/_/id/49754508/carrick-eyes-first-man-united-win-season-front-old-trafford-crowd",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0828/dm_260828_Carrick_eyes_first_Man_United_win_of_season_in_front_of_Old_Trafford_crowd/dm_260828_Carrick_eyes_first_Man_United_win_of_season_in_front_of_Old_Trafford_crowd.jpg",
-      "titleZh": "卡里克在老特拉福德观众面前首次赢得曼联赛季冠军"
-    },
-    {
-      "title": "Michael Carrick: Man United signing Baleba unlikely to play for 'a couple of weeks'",
-      "published": "2026-08-28T13:19:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49752343/michael-carrick-carlos-baleba-unavailable-2-3-weeks-manchester-united-ipswich-town-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708064_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克：曼联签下巴莱巴不太可能打“几周”"
-    },
-    {
-      "title": "Weekend predictions: Pressure on Man United, Carrick already? Wrexham to beat Birmingham?",
-      "published": "2026-08-28T09:50:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49733346/weekend-predictions-preview-analysis-pressure-manchester-united-carrick-already-wrexham-vs-birmingham-city",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707508_1296x729_16-9.jpg",
-      "titleZh": "周末预测：对曼联的压力，卡里克已经？雷克瑟姆要打败伯明翰？"
     }
   ],
   "transfers": [
     {
-      "title": "Transfer rumors, news: Man United offered Atleti striker Sørloth",
-      "published": "2026-08-30T02:21:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49759947/transfer-rumors-news-julian-alvarez-atletico-madrid-arsenal-barcelona-manchester-city",
-      "image": "https://a.espncdn.com/photo/2026/0221/r1618266_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联提供Atétli前锋Sørloth",
+      "title": "Man United's Michael Carrick leaves door open for more transfers before deadline",
+      "published": "2026-08-30T19:03:26Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49774637/man-united-michael-carrick-leaves-door-open-more-transfers-deadline",
+      "image": "https://a.espncdn.com/photo/2026/0830/r1709094_1296x729_16-9.jpg",
+      "titleZh": "曼联的迈克尔·卡里克在截止日期前为更多转会敞开大门",
       "player": "",
       "status": "推进中",
       "statusType": "progress"
-    },
-    {
-      "title": "Michael Carrick: Man United signing Baleba unlikely to play for 'a couple of weeks'",
-      "published": "2026-08-28T13:19:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49752343/michael-carrick-carlos-baleba-unavailable-2-3-weeks-manchester-united-ipswich-town-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708064_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克：曼联签下巴莱巴不太可能打“几周”",
-      "player": "",
-      "status": "已完成",
-      "statusType": "done"
     }
   ],
   "roster": [

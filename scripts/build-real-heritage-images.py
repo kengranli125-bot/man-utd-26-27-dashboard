@@ -6,11 +6,11 @@ SRC = ROOT / "assets" / "scroll-world" / "real"
 OUT = ROOT / "assets" / "scroll-world"
 
 
-def cover(image, size, focus_y=0.5):
+def cover(image, size, focus_y=0.5, focus_x=0.5):
     image = image.convert("RGB")
     scale = max(size[0] / image.width, size[1] / image.height)
     resized = image.resize((round(image.width * scale), round(image.height * scale)), Image.Resampling.LANCZOS)
-    left = max(0, (resized.width - size[0]) // 2)
+    left = max(0, min(resized.width - size[0], round((resized.width - size[0]) * focus_x)))
     top = max(0, min(resized.height - size[1], round((resized.height - size[1]) * focus_y)))
     return resized.crop((left, top, left + size[0], top + size[1]))
 
@@ -32,10 +32,10 @@ def finish(image, path, copy_side="left"):
     result.save(path, "WEBP", quality=88, method=6)
 
 
-def photo_pair(name, source, desktop_focus=0.5, mobile_focus=0.45):
+def photo_pair(name, source, desktop_focus=0.5, mobile_focus=0.45, desktop_focus_x=0.5, mobile_focus_x=0.5):
     image = Image.open(source)
-    finish(cover(image, (1920, 1080), desktop_focus), OUT / f"{name}.webp")
-    portrait = cover(image, (1080, 1920), mobile_focus)
+    finish(cover(image, (1920, 1080), desktop_focus, desktop_focus_x), OUT / f"{name}.webp")
+    portrait = cover(image, (1080, 1920), mobile_focus, mobile_focus_x)
     finish(portrait, OUT / f"{name}-mobile.webp")
 
 
@@ -93,6 +93,6 @@ def players_pair():
 
 photo_pair("stadium", SRC / "stadium.webp", 0.52, 0.5)
 photo_pair("trophies", SRC / "trophies.jpg", 0.45, 0.42)
-photo_pair("kits", SRC / "kits.jpg", 0.68, 0.88)
+photo_pair("kits", SRC / "kits-2026-27.jpg", 0.5, 0.5, 0.5, 0.74)
 crest_pair()
 players_pair()

@@ -1,4 +1,4 @@
-const sceneArt = (kind) => `./assets/scroll-world/${kind}.webp`;
+const sceneArt = (kind) => `./assets/scroll-world/${kind}.webp${kind.startsWith('kits') ? '?v=20260831-home-kit' : ''}`;
 
 mountScrollWorld(document.getElementById('heritageWorld'), {
   brand: { name: 'UNITED HERITAGE', href: '#top' },

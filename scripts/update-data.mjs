@@ -158,6 +158,37 @@ function parseScorers(payload) {
   return [...byId.values()].sort((a,b) => b.goals-a.goals || b.assists-a.assists || a.appearances-b.appearances).slice(0,10);
 }
 
+function aggregateScorersFromFixtures(fixtures) {
+  const table = new Map();
+  for (const fixture of fixtures || []) {
+    if (fixture.competitionGroup !== 'league' || fixture.status !== 'completed') continue;
+    const teams = fixture.recap?.playerStats || [];
+    const united = teams.find(team => String(team.teamId) === TEAM_ID || team.teamName === 'Manchester United');
+    for (const player of united?.players || []) {
+      const goals = Number(player.goals || 0);
+      const assists = Number(player.assists || 0);
+      const minutes = String(player.minutes || '').replace(/[^0-9]/g, '');
+      const appearances = player.minutes && player.minutes !== '—' ? 1 : 0;
+      if (!player.name || (!goals && !assists && !appearances)) continue;
+      const id = String(player.id || player.name);
+      const row = table.get(id) || {
+        id, name: player.name, nameZh: player.nameZh || PLAYER_NAMES_ZH[player.name]?.[0] || player.name,
+        headshot: FOTMOB_IDS[player.name] ? `https://images.fotmob.com/image_resources/playerimages/${FOTMOB_IDS[player.name]}.png` : '',
+        goals: 0, assists: 0, appearances: 0, minutes: 0
+      };
+      row.goals += goals;
+      row.assists += assists;
+      row.appearances += appearances;
+      row.minutes += Number(minutes || 0);
+      table.set(id, row);
+    }
+  }
+  return [...table.values()]
+    .filter(player => player.goals > 0 || player.assists > 0)
+    .sort((a, b) => b.goals - a.goals || b.assists - a.assists || b.appearances - a.appearances)
+    .slice(0, 10);
+}
+
 async function attachMatchDetails(fixtures, previousFixtures = []) {
   const previousById = new Map(previousFixtures.map(fixture => [fixture.id, fixture]));
   return Promise.all(fixtures.map(async fixture => {
@@ -321,7 +352,8 @@ const championsStandings = nextChampionsStandings.length ? nextChampionsStanding
 const news = nextNews.length ? nextNews : previous.news;
 const roster = nextRoster.length ? nextRoster : (previous.roster || []);
 const transfers = buildTransfers(news);
-const scorers = nextScorers.length ? nextScorers : (previous.scorers || []);
+const recapScorers = aggregateScorersFromFixtures(fixtures);
+const scorers = nextScorers.length ? nextScorers : (recapScorers.length ? recapScorers : (previous.scorers || []));
 const staff = [{
   id: '13044', name: 'Michael Carrick', nameZh: '迈克尔·卡里克', role: '主教练', status: '已确认',
   source: 'ESPN · 2026年6月', headshot: 'https://images.fotmob.com/image_resources/playerimages/34944.png'

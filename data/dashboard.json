@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:47:20.935Z",
+  "updatedAt": "2026-08-31T15:07:10.508Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16209,7 +16209,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-31T13:47:19.962Z"
+        "generatedAt": "2026-08-31T15:07:10.359Z"
       }
     },
     {
@@ -18065,8 +18065,46 @@
       "points": 0
     }
   ],
-  "scorers": [],
+  "scorers": [
+    {
+      "id": "124091",
+      "name": "Bruno Fernandes",
+      "nameZh": "布鲁诺·费尔南德斯",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
+      "goals": 3,
+      "assists": 1,
+      "appearances": 2,
+      "minutes": 180
+    },
+    {
+      "id": "271170",
+      "name": "Bryan Mbeumo",
+      "nameZh": "布莱恩·姆伯莫",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
+      "goals": 1,
+      "assists": 0,
+      "appearances": 2,
+      "minutes": 180
+    },
+    {
+      "id": "259902",
+      "name": "Matheus Cunha",
+      "nameZh": "马特乌斯·库尼亚",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+      "goals": 0,
+      "assists": 1,
+      "appearances": 2,
+      "minutes": 160
+    }
+  ],
   "news": [
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-08-31T13:19:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709442_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
     {
       "title": "Harry Maguire: Man United spotlight a 'shock' for new signings",
       "published": "2026-08-31T11:00:03Z",
@@ -18080,13 +18118,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-31T10:41:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1708935_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Fernandes claims hat trick in United's 5-2 win against Ipswich",

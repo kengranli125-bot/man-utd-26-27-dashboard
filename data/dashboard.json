@@ -18699,6 +18699,18 @@
   ],
   "journalists": [
     {
+      "id": "Andy Mitten:CBMijAFBVV95cUxPdk9CbHd6c3pkcXZEWHFMZmM5X3liSF9adzFiZDVMb3BuanFIeTVrYUhhZTQ2OGlZS3g1dWd1NDhrUUNfMjV5SHk4cHJSTFg0Vm1IcmR4QkZtQjhxc3FQNW5KTlo0Sjh1MlpIN3laUkNvMTBEUUFyeGlBOHBYTmRWS05CY0tCYURrUFNDbg",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Official Manchester United Website",
+      "tier": 2,
+      "title": "The story of our mascots on Sunday",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdk9CbHd6c3pkcXZEWHFMZmM5X3liSF9adzFiZDVMb3BuanFIeTVrYUhhZTQ2OGlZS3g1dWd1NDhrUUNfMjV5SHk4cHJSTFg0Vm1IcmR4QkZtQjhxc3FQNW5KTlo0Sjh1MlpIN3laUkNvMTBEUUFyeGlBOHBYTmRWS05CY0tCYURrUFNDbg?oc=5",
+      "published": "2026-08-30T19:49:41.000Z",
+      "titleZh": "周日吉祥物的故事"
+    },
+    {
       "id": "Laurie Whitwell:CBMiqAFBVV95cUxOM2VvSWp2bmxTcklDVE5ITjhhT2hXZjhaVk1LV3BaWEFFUWhBMURqajUwTUNzTE1ZUVZtM2NpVkp2YWlsNC1EeWVZYVdjN1c5c0F0UkhsS3B2cXZKMWNOdllweUpwd2tVbVhSdlVlbzJpR2U3c0FQRmZlU2ZxSk8zVXFETWs3V19yVHh0UHp5MlFoR3FMakk1c3dyOWJJMUF3bnM3WllVc0U",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -18757,18 +18769,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNazI5X3FsSDNjVHlKR1V2WmstVVZ2endnOXItS3pzVnBIaWxIVVg1RmVDSkxNcTRWaVhJWnp3WGNIbG5XQXRDT3dvVms1bjNPbHFWUTlwRWktejBkaGZPS0s0QnBSS3Q3dDlfOWwteXFHWEM3UXRYN0k5em9XUkFNYlJvTG5SbTNWTHU2MzdncWxaT0ZIRlBMdVBUVWNlNm1CUlVkUNIBqgFBVV95cUxNS2VoUW5WNzNRZlhwSzVlZWFPajBMSl9aSTZYLXJEaVV2bjNvZXc4M2FQNno0STVPa05TRGdKX2VhWndhaHNnWkk5ekJ1Ukx3NHNjdWY5dkJKRlFhallFWnVsbncwcDhzS3dUMnJHTzRrTldPMl9hbHU5T3FNU2dQX1BiLTJiRS1nOWFPYXMzanVINndYOV9XWm81aXFnOXl4RlZyYUQ2dEh1Zw?oc=5",
       "published": "2026-08-30T18:33:23.000Z",
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，尽管曼联在布鲁诺·费尔南德斯（ Bruno Fernandes ）再次获救时以惊心动魄的复出战胜了伊普斯维奇（ Ipswich ） ，"
-    },
-    {
-      "id": "Andy Mitten:CBMijAFBVV95cUxPdk9CbHd6c3pkcXZEWHFMZmM5X3liSF9adzFiZDVMb3BuanFIeTVrYUhhZTQ2OGlZS3g1dWd1NDhrUUNfMjV5SHk4cHJSTFg0Vm1IcmR4QkZtQjhxc3FQNW5KTlo0Sjh1MlpIN3laUkNvMTBEUUFyeGlBOHBYTmRWS05CY0tCYURrUFNDbg",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "Official Manchester United Website",
-      "tier": 2,
-      "title": "The story of our mascots on Sunday",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdk9CbHd6c3pkcXZEWHFMZmM5X3liSF9adzFiZDVMb3BuanFIeTVrYUhhZTQ2OGlZS3g1dWd1NDhrUUNfMjV5SHk4cHJSTFg0Vm1IcmR4QkZtQjhxc3FQNW5KTlo0Sjh1MlpIN3laUkNvMTBEUUFyeGlBOHBYTmRWS05CY0tCYURrUFNDbg?oc=5",
-      "published": "2026-08-30T16:01:37.000Z",
-      "titleZh": "周日吉祥物的故事"
     },
     {
       "id": "Samuel Luckhurst:CBMiqAFBVV95cUxQSkpRbnhEYk1QRUJsWGJQazdNZ1BEbXZmQ1plVkVhQnJ5NW04ZjBmSERkZHl6dzZEaTBxZTJsRk9rSHI1UXRiZjRQTlUzcE1FVlltNlB2OEJJNGhPOHp2c3BYVUJxUDM0VzV5TGFsYTdEVGVxVVk0TVM4SDNMdnY5WTUwVkRJZGZ2X3NnTWJLTklnczdDQzBZR1ItRWxWNmsyMjNySnFpM2g",
@@ -18855,6 +18855,30 @@
       "titleZh": "奥恩斯坦透露阿尔瓦雷斯在“与”阿尔特塔交谈后决定加盟阿森纳"
     },
     {
+      "id": "David Ornstein:CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
+      "published": "2026-08-29T07:00:00.000Z",
+      "titleZh": "利物浦原则上与PSG达成1.2亿英镑的Bradley Barcola转会协议- The Athletic"
+    },
+    {
+      "id": "David Ornstein:CBMiY0FVX3lxTE9jTy1RNHg5M3hFUm10MkxJX05lMkxBeUlyVnNYTE5yUGN5UDBzMUUzSHh2X2hVWWNRZE1hUWJ2YXVmNHJ6NVM4UG9SS2hoUzRackE5VlBYUVp5TzV4TmhOTl9LQQ",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The Empire of The Kop",
+      "tier": 1,
+      "title": "NN Liverpool FC - Page 6237 of 9977",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jTy1RNHg5M3hFUm10MkxJX05lMkxBeUlyVnNYTE5yUGN5UDBzMUUzSHh2X2hVWWNRZE1hUWJ2YXVmNHJ6NVM4UG9SS2hoUzRackE5VlBYUVp5TzV4TmhOTl9LQQ?oc=5",
+      "published": "2026-08-28T18:41:39.000Z",
+      "titleZh": "NN利物浦足球俱乐部-第6237页，共9977页"
+    },
+    {
       "id": "Chris Wheeler:CBMifEFVX3lxTE9zOTBFVkR6UkdJU3Q5cW5BS0JvVEZPT253MllJanF4Mm16aVcxbDNtSnIwU1V3aHFqUWsyMXpBdXJGZGRiSUkxcnlsamhCMUlqWktnLVREUWQyekpFY1hXbVZLSmZBZXI4QWQ1R21rTHFwNUN1LW5YVWk1R3Q",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -18927,18 +18951,6 @@
       "titleZh": "Zirkzee退出可能有助于左后卫的情况"
     },
     {
-      "id": "David Ornstein:CBMinwFBVV95cUxQVHZyWXhlQUpaQ3hRYWFWb056dW9iSTRKVkpENFZPanlDNktRemNjSzBXS3cydE5SUDVVNkdwR2E0aWgyN3Brekh6T29DeEFDYmJnRmlkSHNUTWhRLUpfV1hjenZzWU1QalVyR1JnOWpJUGJKRlNuQlE4b3phN3BfZnA1OThld2FIUVR0YWY2Mk4ta1JzTmdGTmhucmItNE0",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Read Tottenham",
-      "tier": 1,
-      "title": "David Ornstein confirms late £22m transfer blow for Tottenham",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHZyWXhlQUpaQ3hRYWFWb056dW9iSTRKVkpENFZPanlDNktRemNjSzBXS3cydE5SUDVVNkdwR2E0aWgyN3Brekh6T29DeEFDYmJnRmlkSHNUTWhRLUpfV1hjenZzWU1QalVyR1JnOWpJUGJKRlNuQlE4b3phN3BfZnA1OThld2FIUVR0YWY2Mk4ta1JzTmdGTmhucmItNE0?oc=5",
-      "published": "2026-08-28T08:37:21.000Z",
-      "titleZh": "大卫·奥恩斯坦（ David Ornstein ）确认托特纳姆热刺迟到£ 2200万转会费"
-    },
-    {
       "id": "Simon Stone:CBMiZ0FVX3lxTE9EbWV1cUNMS3JNNjVyLVFuUEhRM0VFY3JQTWNWU2RSUkNOekV5dGRkTkJWN3VFeng2M3N6YUhNLVNqcy1iODJfR3oxSFRTNDloRDBtOURrVUx4SUtYNXFmSjgtYllWWmM",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -18973,21 +18985,9 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Z3Uxa2xkZ2g3MUE2M1JOSGlIQmlpTXJIWXZOb3JzSkVRbGpiT2tLTVpGZUJnMkFCdXBHcGxyNDA3RVBRYmUzbUdoZHg2MldrWTdxV0JaR090QQ?oc=5",
       "published": "2026-08-27T17:37:01.000Z",
       "titleZh": "赫尔城2-0曼联球员评级Pierluigi Collina (ECe87lWQv7)"
-    },
-    {
-      "id": "Fabrizio Romano:CBMi6wFBVV95cUxQcUlZV1cyak1MT24xcXdPTXpHVnd2ZlFzTUhoY1N0TmtrQ2JzbjE1eVBHOFZBSDQ2SFBMWTRFM0sxd19NQVZTQ1RaUHhIWUJtV1VhVE1PeVZtQ2RpMEFsQ0ZJc051c2d6T1dzaHB6aGE2TFJUcFJBbnBDdHdicW9tdER3SzkyeDdCTWppc0pyQzg2TjdlNVc3MC14b1dJRFB0S2Zjb3RMSi1nb0tvNDRHT0IwbzRwWThxQ0M1bXJwNmtzZlFnMWV2YkxWVDR6bWNzYWwyVWljVGdSMnlCU2FkVzJyaFUycXpiWUVv",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "LiveScore",
-      "tier": 1,
-      "title": "Fabrizio Romano exclusive update on Manchester United’s potential left-back signing",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUlZV1cyak1MT24xcXdPTXpHVnd2ZlFzTUhoY1N0TmtrQ2JzbjE1eVBHOFZBSDQ2SFBMWTRFM0sxd19NQVZTQ1RaUHhIWUJtV1VhVE1PeVZtQ2RpMEFsQ0ZJc051c2d6T1dzaHB6aGE2TFJUcFJBbnBDdHdicW9tdER3SzkyeDdCTWppc0pyQzg2TjdlNVc3MC14b1dJRFB0S2Zjb3RMSi1nb0tvNDRHT0IwbzRwWThxQ0M1bXJwNmtzZlFnMWV2YkxWVDR6bWNzYWwyVWljVGdSMnlCU2FkVzJyaFUycXpiWUVv?oc=5",
-      "published": "2026-08-27T13:33:49.000Z",
-      "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）关于曼联潜在左后卫签约的独家更新"
     }
   ],
-  "journalistsUpdatedAt": "2026-08-31T03:41:48.836Z",
+  "journalistsUpdatedAt": "2026-08-31T04:02:05.463Z",
   "predictions": {
     "league": {
       "formation": "4-2-3-1",

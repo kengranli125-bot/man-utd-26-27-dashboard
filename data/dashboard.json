@@ -18191,8 +18191,8 @@
       "image": "https://a.espncdn.com/photo/2026/0831/r1709384_1296x729_16-9.jpg",
       "titleZh": "哈里·马奎尔：曼联聚焦新签约的“冲击”",
       "player": "",
-      "status": "已完成",
-      "statusType": "done"
+      "status": "媒体报道",
+      "statusType": "report"
     },
     {
       "title": "Carrick: Man United 'happy but always open' as transfer deadline approaches",
@@ -18201,8 +18201,8 @@
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260.jpg",
       "titleZh": "卡里克：随着转会截止日期的临近，曼联“快乐但始终开放”",
       "player": "",
-      "status": "推进中",
-      "statusType": "progress"
+      "status": "媒体报道",
+      "statusType": "report"
     },
     {
       "title": "Man United's Michael Carrick leaves door open for more transfers before deadline",
@@ -18211,8 +18211,8 @@
       "image": "https://a.espncdn.com/photo/2026/0830/r1709094_1296x729_16-9.jpg",
       "titleZh": "曼联的迈克尔·卡里克在截止日期前为更多转会敞开大门",
       "player": "",
-      "status": "推进中",
-      "statusType": "progress"
+      "status": "媒体报道",
+      "statusType": "report"
     }
   ],
   "roster": [

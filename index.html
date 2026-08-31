@@ -4,13 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0b0d0f" />
-    <meta name="description" content="曼联 2026/27 英超赛季赛程、积分与球队动态看板" />
-    <title>UNITED 26/27 | 曼联英超赛季看板</title>
-    <link rel="stylesheet" href="./styles.css?v=20260719-2" />
+    <meta name="description" content="曼联 2026/27 赛季赛程、积分、阵容与球队动态中心" />
+    <title>UNITED 26/27 | 曼联赛季中心</title>
+    <link rel="stylesheet" href="./styles.css?v=20260831-dashboard-first" />
   </head>
   <body>
     <div id="top"></div>
-    <section id="heritageWorld" aria-label="曼联传奇沉浸式旅程"></section>
     <div class="app-shell" id="dashboard">
       <aside class="sidebar" aria-label="主导航">
         <a class="brand" href="#overview" aria-label="United 26/27 首页">
@@ -26,12 +25,18 @@
         </nav>
         <div class="sidebar-foot"><span class="pulse-dot"></span><span>每日自动更新</span></div>
       </aside>
+      <nav class="mobile-nav" aria-label="移动端主导航">
+        <button class="mobile-nav-item active" data-view="overview" aria-label="概览"><span class="nav-icon">⌂</span><span>概览</span></button>
+        <button class="mobile-nav-item" data-view="fixtures" aria-label="赛程"><span class="nav-icon">▦</span><span>赛程</span></button>
+        <button class="mobile-nav-item" data-view="squad" aria-label="阵容"><span class="nav-icon">11</span><span>阵容</span></button>
+        <button class="mobile-nav-item" data-view="standings" aria-label="积分榜"><span class="nav-icon">≡</span><span>积分榜</span></button>
+        <button class="mobile-nav-item" data-view="news" aria-label="动态"><span class="nav-icon">◫</span><span>动态</span></button>
+      </nav>
 
       <main>
         <header class="topbar">
-          <button class="menu-button" id="menuButton" aria-label="打开导航">☰</button>
-          <div><p class="eyebrow">PREMIER LEAGUE</p><h1 id="pageTitle">赛季概览</h1></div>
-          <div class="update-badge"><span class="pulse-dot"></span><span>更新于 <time id="updatedAt">--</time></span></div>
+          <div class="topbar-heading"><p class="eyebrow">UNITED 26/27 · LIVE DASHBOARD</p><h1 id="pageTitle">赛季概览</h1></div>
+          <div class="topbar-actions"><a class="heritage-link" href="#heritageWorld">传奇旅程 <span aria-hidden="true">↗</span></a><div class="update-badge"><span class="pulse-dot"></span><span>更新于 <time id="updatedAt">--</time></span></div></div>
         </header>
 
         <section class="view active" id="overview-view">
@@ -39,7 +44,7 @@
             <div class="hero-copy">
               <p class="eyebrow">OLD TRAFFORD · THE THEATRE OF DREAMS</p>
               <h2>曼彻斯特联</h2>
-              <p class="hero-tagline">2026/27 赛季英超与欧冠征程</p>
+              <p class="hero-tagline">英超、欧冠与全赛事赛季中心</p>
               <div class="hero-actions"><button data-jump="fixtures">查看赛程 <span>→</span></button><button data-jump="squad">预测阵容 <span>→</span></button></div>
               <p class="hero-note" id="seasonStatus">正在读取最新赛季数据</p>
             </div>
@@ -59,14 +64,15 @@
           <div class="stat-grid" id="statGrid"></div>
 
           <section class="transfer-band">
-            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> TRANSFER WATCH</p><h3>最新转会</h3></div><button class="text-button" data-jump="news">全部动态 <span>→</span></button></div>
+            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> TRANSFER REPORTS</p><h3>转会相关报道</h3></div><button class="text-button" data-jump="news">全部动态 <span>→</span></button></div>
             <div class="transfer-feed" id="transferPreview"></div>
           </section>
 
           <section class="journalist-band">
-            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> TRUSTED REPORTERS</p><h3>权威记者动态</h3></div><span class="journalist-updated"><time id="journalistsUpdatedAt">等待首次同步</time></span></div>
+            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> REPORTS & SOURCES</p><h3>媒体与记者动态</h3></div><span class="journalist-updated"><time id="journalistsUpdatedAt">等待首次同步</time></span></div>
             <div class="journalist-feed" id="journalistFeed"></div>
-            <p class="source-disclaimer">计划每 15 分钟检查一次公开报道；GitHub 托管任务可能延迟。可靠性分级代表信源权威度，不等同于俱乐部官宣。</p>
+            <div class="source-legend" aria-label="消息来源说明"><span><i class="legend-chip tier-one"></i>T1：高可信媒体报道</span><span><i class="legend-chip tier-two"></i>T2：补充参考</span><span><i class="legend-chip source-note"></i>匹配记者名，不等同作者确认</span></div>
+            <p class="source-disclaimer">计划每 15 分钟检查一次公开报道；GitHub 托管任务可能延迟。T1/T2 是站内来源评级，不代表俱乐部官宣或事实确认。</p>
           </section>
 
           <div class="overview-grid">
@@ -75,7 +81,7 @@
               <div id="nextMatch" class="next-match"></div>
             </section>
             <section class="panel form-panel">
-              <div class="panel-head"><div><p class="eyebrow">RECENT FORM</p><h3>近期状态</h3></div></div>
+              <div class="panel-head"><div><p class="eyebrow">RECENT FORM</p><h3>近期状态</h3></div><span class="board-rule">全赛事 · 最近 5 场</span></div>
               <div id="recentForm" class="form-list"></div>
             </section>
           </div>
@@ -136,16 +142,16 @@
 
         <section class="view" id="news-view">
           <div class="section-intro"><div><p class="eyebrow">CLUB FEED</p><h2>球队动态</h2><p>围绕曼联的一线队最新消息</p></div></div>
-          <section class="news-transfer-section"><div class="panel-head"><div><p class="eyebrow">LIVE MARKET</p><h3>最新转会信息</h3></div><span class="source-label">每日自动同步</span></div><div class="transfer-feed expanded" id="allTransfers"></div></section>
+          <section class="news-transfer-section"><div class="panel-head"><div><p class="eyebrow">TRANSFER REPORTS</p><h3>转会相关报道</h3></div><span class="source-label">基于公开新闻 · 每日自动同步</span></div><div class="transfer-feed expanded" id="allTransfers"></div></section>
           <div class="all-news-grid" id="allNews"></div>
         </section>
 
         <footer><span>UNITED 26/27</span><span>球场与 2026/27 主场球衣图片来自 Manchester United 官网 · 奖杯柜来自 Wikimedia Commons · 队徽/数据来自 ESPN · 球员头像来自 FotMob · 非官方产品</span></footer>
       </main>
     </div>
-    <div class="scrim" id="scrim"></div>
-    <script src="./scripts/scroll-world.js?v=20260719-2"></script>
-    <script src="./scripts/heritage-world.js?v=20260831-home-kit"></script>
-    <script type="module" src="./app.js?v=20260719-2"></script>
+    <section id="heritageWorld" aria-label="曼联传奇沉浸式旅程"></section>
+    <script src="./scripts/scroll-world.js?v=20260831-dashboard-first"></script>
+    <script src="./scripts/heritage-world.js?v=20260831-dashboard-first"></script>
+    <script type="module" src="./app.js?v=20260831-dashboard-first"></script>
   </body>
 </html>

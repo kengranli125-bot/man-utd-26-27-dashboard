@@ -271,10 +271,10 @@ function buildTransfers(news) {
   const seen = new Set();
   return candidates.map(article => {
     const player = SUPPLEMENTAL_PLAYERS.find(item => normalize(article.title).includes(normalize(item.name.split(' ').at(-1))));
-    const completed = /(sign|announce|complete)/i.test(article.title) && !/(sources|talks)/i.test(article.title);
-    const loan = /loan/i.test(article.title);
-    return { ...article, player: player ? PLAYER_NAMES_ZH[player.name][0] : '', status: completed ? '已完成' : loan ? '租借' : '推进中', statusType: completed ? 'done' : loan ? 'loan' : 'progress', key: player?.name || article.url };
-  }).filter(item => !(item.statusType === 'progress' && completedNames.has(SUPPLEMENTAL_PLAYERS.find(player => player.nameZh === item.player)?.name)))
+    const completed = player && /(sign|announce|complete)/i.test(article.title) && !/(sources|talks)/i.test(article.title);
+    const loan = player && /loan/i.test(article.title);
+    return { ...article, player: player ? PLAYER_NAMES_ZH[player.name][0] : '', status: completed ? '媒体称已完成' : loan ? '租借相关报道' : '媒体报道', statusType: completed ? 'done' : loan ? 'loan' : 'report', key: player?.name || article.url };
+  }).filter(item => !(item.statusType === 'report' && completedNames.has(SUPPLEMENTAL_PLAYERS.find(player => player.nameZh === item.player)?.name)))
     .filter(item => !seen.has(item.key) && seen.add(item.key)).slice(0,6).map(({ key, ...item }) => item);
 }
 

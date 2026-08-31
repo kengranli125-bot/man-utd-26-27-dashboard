@@ -11,14 +11,37 @@ const fmtDate = (value, withTime = false) => {
 };
 const safe = (value = '') => String(value).replace(/[&<>'"]/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;' }[c]));
 const empty = (title, message) => `<div class="empty-state"><strong>${safe(title)}</strong><span>${safe(message)}</span></div>`;
+function sourceFromUrl(url) {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, '');
+    if (host === 'news.google.com') return 'Google News 聚合';
+    if (host.includes('espn.com')) return 'ESPN';
+    if (host.includes('bbc.')) return 'BBC';
+    if (host.includes('theathletic.com')) return 'The Athletic';
+    if (host.includes('manutd.com')) return '曼联官网';
+    return host;
+  } catch {
+    return '公开链接';
+  }
+}
+const itemSource = item => item.source || sourceFromUrl(item.url);
+
+function openDashboardRoute() {
+  if (window.location.hash !== '#dashboard') {
+    document.body.classList.remove('dashboard-reached');
+    return;
+  }
+  document.body.classList.add('dashboard-reached');
+  requestAnimationFrame(() => $('#dashboard')?.scrollIntoView({ block: 'start', behavior: 'auto' }));
+}
 
 function setView(view) {
   state.view = view;
   $$('.view').forEach(el => el.classList.toggle('active', el.id === `${view}-view`));
-  $$('.nav-item').forEach(el => el.classList.toggle('active', el.dataset.view === view));
+  $$('.nav-item, .mobile-nav-item').forEach(el => el.classList.toggle('active', el.dataset.view === view));
   const titles = { overview: '赛季概览', fixtures: '全赛事赛程', squad: '阵容实验室', standings: '积分榜', news: '球队动态' };
   $('#pageTitle').textContent = titles[view];
-  $('.sidebar').classList.remove('open'); $('#scrim').classList.remove('open');
+  $('.sidebar').classList.remove('open');
   const root = document.documentElement;
   const previousScrollBehavior = root.style.scrollBehavior;
   root.style.scrollBehavior = 'auto';
@@ -36,18 +59,18 @@ function teamBlock(team) { return `<div class="match-team"><img src="${safe(team
 function renderNextMatch() {
   const match = state.data.fixtures.find(f => f.status === 'upcoming');
   if (!match) { $('#nextMatch').innerHTML = empty('赛程尚未发布', '数据源发布新赛季赛程后将在这里自动显示。'); return; }
-  $('#nextMatch').innerHTML = `<div class="match-card">${teamBlock(match.home)}<div class="match-meta"><time>${fmtDate(match.date, true)}</time><div class="versus">VS</div><span>${safe(match.venue || '场地待定')}</span></div>${teamBlock(match.away)}</div>`;
+  $('#nextMatch').innerHTML = `<div class="match-card">${teamBlock(match.home)}<div class="match-meta"><span class="competition-badge ${safe(match.competitionGroup || '')}">${safe(match.competition || '全赛事')}</span><time>${fmtDate(match.date, true)}</time><div class="versus">VS</div><span>${safe(match.venue || '场地待定')}</span><small>赛程来源：ESPN</small></div>${teamBlock(match.away)}</div>`;
 }
 
 function renderForm() {
   const games = state.data.fixtures.filter(f => f.status === 'completed').slice(-5).reverse();
   if (!games.length) { $('#recentForm').innerHTML = empty('暂无赛季战绩', '首轮比赛结束后更新近期状态。'); return; }
-  $('#recentForm').innerHTML = games.map(g => { const unitedHome = g.home.id === '360'; const us = unitedHome ? g.home.score : g.away.score; const them = unitedHome ? g.away.score : g.home.score; const result = us > them ? ['W','win'] : us === them ? ['D','draw'] : ['L','loss']; const opponent = unitedHome ? g.away : g.home; return `<div class="form-row"><span class="result ${result[1]}">${result[0]}</span><span>${safe(opponent.nameZh || opponent.name)}</span><span class="form-score">${us}–${them}</span></div>`; }).join('');
+  $('#recentForm').innerHTML = games.map(g => { const unitedHome = g.home.id === '360'; const us = unitedHome ? g.home.score : g.away.score; const them = unitedHome ? g.away.score : g.home.score; const result = us > them ? ['W','win'] : us === them ? ['D','draw'] : ['L','loss']; const opponent = unitedHome ? g.away : g.home; return `<div class="form-row"><span class="result ${result[1]}">${result[0]}</span><span class="form-opponent"><strong>${safe(opponent.nameZh || opponent.name)}</strong><small>${safe(g.competition || '全赛事')}</small></span><span class="form-score">${us}–${them}</span></div>`; }).join('');
 }
 
 function newsCard(article) {
   const image = article.image ? `style="background-image:url('${safe(article.image)}')"` : '';
-  return `<a class="news-card" href="${safe(article.url || '#')}" target="_blank" rel="noreferrer"><div class="news-image ${article.image ? '' : 'no-image'}" ${image}></div><div class="news-body"><time>${fmtDate(article.published)}</time><h4>${safe(article.titleZh || article.title)}</h4></div></a>`;
+  return `<a class="news-card" href="${safe(article.url || '#')}" target="_blank" rel="noreferrer"><div class="news-image ${article.image ? '' : 'no-image'}" ${image}></div><div class="news-body"><div class="content-meta"><span class="content-tag">球队动态</span><span>来源：${safe(itemSource(article))}</span></div><time>${fmtDate(article.published)}</time><h4>${safe(article.titleZh || article.title)}</h4></div></a>`;
 }
 function renderNews() {
   const news = state.data.news || [];
@@ -125,11 +148,14 @@ function renderRoster() {
 }
 
 function transferCard(item) {
-  return `<a class="transfer-item" href="${safe(item.url || '#')}" target="_blank" rel="noreferrer"><span class="transfer-status ${safe(item.statusType)}">${safe(item.status)}</span><div><strong>${safe(item.player || '曼联转会动态')}</strong><p>${safe(item.titleZh || item.title)}</p></div><time>${fmtDate(item.published)}</time></a>`;
+  const status = item.player && item.status ? item.status : '转会相关报道';
+  const statusType = item.player && item.statusType ? item.statusType : 'report';
+  const title = item.player || '公开转会报道';
+  return `<a class="transfer-item" href="${safe(item.url || '#')}" target="_blank" rel="noreferrer"><span class="transfer-status ${safe(statusType)}">${safe(status)}</span><div><strong>${safe(title)}</strong><p>${safe(item.titleZh || item.title)}</p><small class="transfer-source">来源：${safe(itemSource(item))}</small></div><time>${fmtDate(item.published)}</time></a>`;
 }
 function renderTransfers() {
   const transfers = state.data.transfers || [];
-  const content = transfers.length ? transfers.map(transferCard).join('') : empty('暂无新转会动态', '发现新的可靠消息后将在这里自动显示。');
+  const content = transfers.length ? transfers.map(transferCard).join('') : empty('暂无转会相关报道', '发现新的可靠消息后将在这里自动显示。');
   $('#transferPreview').innerHTML = transfers.length ? transfers.slice(0,3).map(transferCard).join('') : content;
   $('#allTransfers').innerHTML = content;
 }
@@ -142,7 +168,7 @@ function renderJournalists() {
     $('#journalistFeed').innerHTML = empty('记者动态正在接入', '首次抓取完成后将展示罗马诺、奥恩斯坦及曼联权威跟队记者的公开报道。');
     return;
   }
-  $('#journalistFeed').innerHTML = items.slice(0, 8).map(item => `<a class="journalist-item" href="${safe(item.url)}" target="_blank" rel="noreferrer"><div class="reporter-mark">${safe((item.reporterZh || item.reporter).slice(0,1))}</div><div class="journalist-copy"><div><strong>${safe(item.reporterZh || item.reporter)}</strong><span>${safe(item.reporterOutlet || item.source)}</span><i class="tier tier-${safe(item.tier)}">T${safe(item.tier)} 信源</i></div><p>${safe(item.titleZh || item.title)}</p><small>${safe(item.source)} · ${fmtDate(item.published, true)}</small></div><b>→</b></a>`).join('');
+  $('#journalistFeed').innerHTML = items.slice(0, 8).map(item => `<a class="journalist-item" href="${safe(item.url)}" target="_blank" rel="noreferrer"><div class="reporter-mark">${safe((item.reporterZh || item.reporter).slice(0,1))}</div><div class="journalist-copy"><div><strong>${safe(item.reporterZh || item.reporter)}</strong><span>匹配：${safe(item.reporterOutlet || '公开记者')}</span><i class="tier tier-${safe(item.tier)}" title="站内来源评级，不代表官方确认">T${safe(item.tier)} 报道</i></div><p>${safe(item.titleZh || item.title)}</p><small>来源标注：${safe(item.source || '未标注')} · 入口：${safe(sourceFromUrl(item.url))} · ${fmtDate(item.published, true)}</small></div><b aria-hidden="true">→</b></a>`).join('');
 }
 
 function renderStaff() {
@@ -184,14 +210,14 @@ async function loadLatestData({ initial = false } = {}) {
 
 async function init() {
   await loadLatestData({ initial: true });
-  $$('.nav-item').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
+  openDashboardRoute();
+  $$('.nav-item, .mobile-nav-item').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
   $$('[data-jump]').forEach(button => button.addEventListener('click', () => setView(button.dataset.jump)));
   $$('[data-filter]').forEach(button => button.addEventListener('click', () => { state.filter = button.dataset.filter; $$('[data-filter]').forEach(b => b.classList.toggle('active', b === button)); renderFixtures(); }));
   $$('[data-competition]').forEach(button => button.addEventListener('click', () => { state.competition = button.dataset.competition; $$('[data-competition]').forEach(b => b.classList.toggle('active', b === button)); renderFixtures(); }));
   $$('.lineup-tabs button').forEach(button => button.addEventListener('click', () => { state.lineup = button.dataset.lineup; $$('.lineup-tabs button').forEach(b => b.classList.toggle('active', b === button)); renderLineup(); }));
   $$('.roster-filters button').forEach(button => button.addEventListener('click', () => { state.position = button.dataset.position; $$('.roster-filters button').forEach(b => b.classList.toggle('active', b === button)); renderRoster(); }));
-  $('#menuButton').addEventListener('click', () => { $('.sidebar').classList.add('open'); $('#scrim').classList.add('open'); });
-  $('#scrim').addEventListener('click', () => { $('.sidebar').classList.remove('open'); $('#scrim').classList.remove('open'); });
+  window.addEventListener('hashchange', openDashboardRoute);
   setInterval(loadLatestData, REFRESH_INTERVAL_MS);
   document.addEventListener('visibilitychange', () => { if (!document.hidden) loadLatestData(); });
 }

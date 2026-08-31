@@ -191,7 +191,8 @@ function mountScrollWorld(container, config) {
 
   function jumpTo(i) {
     const seg = SECTIONS[i]._seg;
-    window.scrollTo({ top: seg.start + (seg.end - seg.start) * 0.5, behavior: reduce ? 'auto' : 'smooth' });
+    const origin = container.getBoundingClientRect().top + (window.scrollY || window.pageYOffset || 0);
+    window.scrollTo({ top: origin + seg.start + (seg.end - seg.start) * 0.5, behavior: reduce ? 'auto' : 'smooth' });
   }
 
   function loadClip(s) {
@@ -219,8 +220,11 @@ function mountScrollWorld(container, config) {
   }
 
   function read() {
-    const y = window.scrollY || window.pageYOffset;
+    const origin = container.getBoundingClientRect().top + (window.scrollY || window.pageYOffset || 0);
+    const y = (window.scrollY || window.pageYOffset || 0) - origin;
+    const before = y < 0;
     const completed = y >= totalW * vh;
+    container.classList.toggle('sw-before', before);
     container.classList.toggle('sw-complete', completed);
     document.body.classList.toggle('dashboard-reached', completed);
     const fade = CROSSFADE * vh;
@@ -413,6 +417,9 @@ function injectCSS() {
   @keyframes sw-wheel{0%{opacity:0;top:6px}40%{opacity:1}100%{opacity:0;top:17px}}
   .sw-track{position:relative;z-index:1;width:100%;pointer-events:none;}
   .sw-sky,.sw-scrollbar,.sw-topbar,.sw-stage,.sw-copylayer,.sw-route,.sw-hint{transition:opacity .45s ease,visibility .45s ease;}
+  .sw-root.sw-before .sw-sky,.sw-root.sw-before .sw-scrollbar,.sw-root.sw-before .sw-topbar,
+  .sw-root.sw-before .sw-stage,.sw-root.sw-before .sw-copylayer,.sw-root.sw-before .sw-route,
+  .sw-root.sw-before .sw-hint,
   .sw-root.sw-complete .sw-sky,.sw-root.sw-complete .sw-scrollbar,.sw-root.sw-complete .sw-topbar,
   .sw-root.sw-complete .sw-stage,.sw-root.sw-complete .sw-copylayer,.sw-root.sw-complete .sw-route,
   .sw-root.sw-complete .sw-hint{opacity:0!important;visibility:hidden;pointer-events:none;}

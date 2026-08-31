@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T15:07:10.508Z",
+  "updatedAt": "2026-08-31T22:49:21.592Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16209,7 +16209,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-31T15:07:10.359Z"
+        "generatedAt": "2026-08-31T22:49:21.576Z"
       }
     },
     {
@@ -17310,6 +17310,21 @@
       "position": 1
     },
     {
+      "id": "359",
+      "name": "Arsenal",
+      "nameZh": "阿森纳",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "goalDifference": 4,
+      "points": 6,
+      "position": 2
+    },
+    {
       "id": "306",
       "name": "Hull City",
       "nameZh": "赫尔城",
@@ -17322,7 +17337,7 @@
       "goalsAgainst": 0,
       "goalDifference": 3,
       "points": 6,
-      "position": 2
+      "position": 3
     },
     {
       "id": "363",
@@ -17337,7 +17352,7 @@
       "goalsAgainst": 5,
       "goalDifference": 2,
       "points": 6,
-      "position": 3
+      "position": 4
     },
     {
       "id": "337",
@@ -17352,7 +17367,7 @@
       "goalsAgainst": 1,
       "goalDifference": 3,
       "points": 4,
-      "position": 4
+      "position": 5
     },
     {
       "id": "361",
@@ -17367,7 +17382,7 @@
       "goalsAgainst": 2,
       "goalDifference": 2,
       "points": 4,
-      "position": 5
+      "position": 6
     },
     {
       "id": "368",
@@ -17382,7 +17397,7 @@
       "goalsAgainst": 1,
       "goalDifference": 2,
       "points": 4,
-      "position": 6
+      "position": 7
     },
     {
       "id": "357",
@@ -17397,7 +17412,7 @@
       "goalsAgainst": 1,
       "goalDifference": 1,
       "points": 4,
-      "position": 7
+      "position": 8
     },
     {
       "id": "331",
@@ -17410,21 +17425,6 @@
       "losses": 1,
       "goalsFor": 7,
       "goalsAgainst": 4,
-      "goalDifference": 3,
-      "points": 3,
-      "position": 8
-    },
-    {
-      "id": "359",
-      "name": "Arsenal",
-      "nameZh": "阿森纳",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 0,
       "goalDifference": 3,
       "points": 3,
       "position": 9
@@ -17535,21 +17535,6 @@
       "position": 16
     },
     {
-      "id": "362",
-      "name": "Aston Villa",
-      "nameZh": "阿斯顿维拉",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 4,
-      "goalDifference": -4,
-      "points": 0,
-      "position": 17
-    },
-    {
       "id": "388",
       "name": "Coventry City",
       "nameZh": "考文垂",
@@ -17562,7 +17547,7 @@
       "goalsAgainst": 4,
       "goalDifference": -4,
       "points": 0,
-      "position": 18
+      "position": 17
     },
     {
       "id": "384",
@@ -17575,6 +17560,21 @@
       "losses": 2,
       "goalsFor": 1,
       "goalsAgainst": 6,
+      "goalDifference": -5,
+      "points": 0,
+      "position": 18
+    },
+    {
+      "id": "362",
+      "name": "Aston Villa",
+      "nameZh": "阿斯顿维拉",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 0,
+      "goalsAgainst": 5,
       "goalDifference": -5,
       "points": 0,
       "position": 19
@@ -18100,7 +18100,7 @@
   "news": [
     {
       "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-31T13:19:36Z",
+      "published": "2026-08-31T19:48:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "image": "https://a.espncdn.com/photo/2026/0831/r1709442_1296x729_16-9.jpg",
       "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"

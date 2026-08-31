@@ -26,6 +26,8 @@ jobs:
         run: node scripts/update-data.mjs
       - name: Verify update freshness
         run: node scripts/check-update-health.mjs 0.25
+      - name: Verify overview summary
+        run: node scripts/check-summary-consistency.mjs
       - name: Commit changed data
         run: |
           git config user.name "github-actions[bot]"

@@ -91,6 +91,46 @@ function parseStandings(payload) {
   })).filter(t => t.name).sort((a,b) => a.position - b.position);
 }
 
+function buildStandingsFromScoreboard(payload) {
+  const table = new Map();
+  const rowFor = competitor => {
+    const id = String(competitor.team?.id || '');
+    if (!id) return null;
+    if (!table.has(id)) {
+      const name = competitor.team?.displayName || competitor.team?.name || '';
+      table.set(id, {
+        id, name, nameZh: TEAM_NAMES_ZH[name] || name,
+        logo: competitor.team?.logo || logo(id), played: 0, wins: 0, draws: 0,
+        losses: 0, goalsFor: 0, goalsAgainst: 0, goalDifference: 0, points: 0
+      });
+    }
+    return table.get(id);
+  };
+
+  for (const event of payload.events || []) {
+    const competition = event.competitions?.[0];
+    if (!competition?.status?.type?.completed) continue;
+    const home = competition.competitors?.find(item => item.homeAway === 'home');
+    const away = competition.competitors?.find(item => item.homeAway === 'away');
+    if (!home || !away) continue;
+    const homeRow = rowFor(home); const awayRow = rowFor(away);
+    if (!homeRow || !awayRow) continue;
+    const homeGoals = Number(home.score?.value ?? home.score ?? 0);
+    const awayGoals = Number(away.score?.value ?? away.score ?? 0);
+    homeRow.played += 1; awayRow.played += 1;
+    homeRow.goalsFor += homeGoals; homeRow.goalsAgainst += awayGoals;
+    awayRow.goalsFor += awayGoals; awayRow.goalsAgainst += homeGoals;
+    if (homeGoals > awayGoals) { homeRow.wins += 1; homeRow.points += 3; awayRow.losses += 1; }
+    else if (homeGoals < awayGoals) { awayRow.wins += 1; awayRow.points += 3; homeRow.losses += 1; }
+    else { homeRow.draws += 1; awayRow.draws += 1; homeRow.points += 1; awayRow.points += 1; }
+  }
+
+  return [...table.values()]
+    .map(row => ({ ...row, goalDifference: row.goalsFor - row.goalsAgainst }))
+    .sort((a, b) => b.points - a.points || b.goalDifference - a.goalDifference || b.goalsFor - a.goalsFor || a.name.localeCompare(b.name))
+    .map((row, index) => ({ ...row, position: index + 1 }));
+}
+
 function parseScorers(payload) {
   const candidates = [];
   const visit = node => {
@@ -269,13 +309,14 @@ const nextFixtures = competitionResults.flatMap((result, index) => result.status
 const uniqueFixtures = [...new Map(nextFixtures.map(fixture => [fixture.id, fixture])).values()].sort((a,b) => new Date(a.date) - new Date(b.date));
 const fixturesWithRecaps = await attachMatchDetails(uniqueFixtures, previous.fixtures || []);
 const nextStandings = results[0].status === 'fulfilled' ? parseStandings(results[0].value) : [];
+const computedLeagueStandings = competitionResults[0].status === 'fulfilled' ? buildStandingsFromScoreboard(competitionResults[0].value) : [];
 const nextChampionsStandings = results[1].status === 'fulfilled' ? parseStandings(results[1].value) : [];
 const nextNews = results[2].status === 'fulfilled' ? await parseNews(results[2].value, previous.news) : [];
 const rawNews = results[2].status === 'fulfilled' ? results[2].value.articles || [] : [];
 const nextRoster = results[3].status === 'fulfilled' ? parseRoster(results[3].value, rawNews) : [];
 const nextScorers = results[4].status === 'fulfilled' ? parseScorers(results[4].value) : [];
 const fixtures = fixturesWithRecaps.length ? fixturesWithRecaps : previous.fixtures;
-const standings = nextStandings.length ? nextStandings : previous.standings;
+const standings = nextStandings.length ? nextStandings : (computedLeagueStandings.length ? computedLeagueStandings : previous.standings);
 const championsStandings = nextChampionsStandings.length ? nextChampionsStandings : (previous.championsStandings || []);
 const news = nextNews.length ? nextNews : previous.news;
 const roster = nextRoster.length ? nextRoster : (previous.roster || []);

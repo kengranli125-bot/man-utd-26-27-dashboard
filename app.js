@@ -19,7 +19,11 @@ function setView(view) {
   const titles = { overview: '赛季概览', fixtures: '全赛事赛程', squad: '阵容实验室', standings: '积分榜', news: '球队动态' };
   $('#pageTitle').textContent = titles[view];
   $('.sidebar').classList.remove('open'); $('#scrim').classList.remove('open');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  const root = document.documentElement;
+  const previousScrollBehavior = root.style.scrollBehavior;
+  root.style.scrollBehavior = 'auto';
+  $('#dashboard').scrollIntoView({ block: 'start' });
+  root.style.scrollBehavior = previousScrollBehavior;
 }
 
 function renderStats() {

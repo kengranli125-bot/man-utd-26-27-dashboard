@@ -133,7 +133,7 @@ function renderTransfers() {
 function renderJournalists() {
   const items = state.data.journalists || [];
   const updated = state.data.journalistsUpdatedAt;
-  $('#journalistsUpdatedAt').textContent = updated ? fmtDate(updated, true) : '等待首次同步';
+  $('#journalistsUpdatedAt').textContent = updated ? `最新内容同步 ${fmtDate(updated, true)}` : '等待首次同步';
   if (!items.length) {
     $('#journalistFeed').innerHTML = empty('记者动态正在接入', '首次抓取完成后将展示罗马诺、奥恩斯坦及曼联权威跟队记者的公开报道。');
     return;
@@ -169,7 +169,8 @@ async function loadLatestData({ initial = false } = {}) {
     const response = await fetch(`${DATA_URL}?v=${Date.now()}`, { cache: 'no-store' });
     if (!response.ok) throw new Error('data unavailable');
     const nextData = await response.json();
-    const changed = !state.data || nextData.updatedAt !== state.data.updatedAt;
+    const revision = data => [data?.updatedAt, data?.journalistsUpdatedAt].join('|');
+    const changed = !state.data || revision(nextData) !== revision(state.data);
     state.data = nextData;
     if (changed || initial) render();
   } catch {

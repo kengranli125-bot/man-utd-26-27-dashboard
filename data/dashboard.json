@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:38:54.837Z",
+  "updatedAt": "2026-09-01T21:01:18.585Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16209,7 +16209,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-01T16:38:54.704Z"
+        "generatedAt": "2026-09-01T21:01:17.214Z"
       }
     },
     {
@@ -18099,18 +18099,25 @@
   ],
   "news": [
     {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-09-01T20:09:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0901/r1709917_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Ogden: Man Utd failing to sign a defender is a 'dereliction of duty'",
+      "published": "2026-09-01T14:51:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/49793852/man-utd-failing-sign-defender-dereliction-duty",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Ogden_Man_Utd_failing_to_sign_a_defender_is_a_dereliction_of_duty/dm_260901_Ogden_Man_Utd_failing_to_sign_a_defender_is_a_dereliction_of_duty.jpg",
+      "titleZh": "奥格登：曼联未能签下后卫是“玩忽职守”"
+    },
+    {
       "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
       "published": "2026-09-01T06:54:08Z",
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-09-01T11:11:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709442_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Premier League VAR review: Arsenal should've been awarded a penalty, so why did VAR let it go?",
@@ -18174,13 +18181,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49774215/manchester-united-ipswich-town-premier-league-bruno-fernandes-marcus-rashford",
       "image": "https://a.espncdn.com/photo/2026/0830/r1709052_1296x729_16-9.jpg",
       "titleZh": "曼联球员得分，费尔南德斯得分帽子戏法，拉什福德在伊普斯维奇溃败中回归"
-    },
-    {
-      "title": "Man United hit Ipswich Town for five, as Bruno Fernandes scores hat trick",
-      "published": "2026-08-30T18:40:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49774267/man-united-ipswich-town-bruno-fernandes-premier-league-transfers",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709065_1296x729_16-9.jpg",
-      "titleZh": "曼联以五分击中伊普斯威奇镇，布鲁诺·费尔南德斯（ Bruno Fernandes ）获得帽子戏法"
     }
   ],
   "transfers": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T22:49:21.592Z",
+  "updatedAt": "2026-09-01T05:06:09.927Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16209,7 +16209,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-08-31T22:49:21.576Z"
+        "generatedAt": "2026-09-01T05:06:09.813Z"
       }
     },
     {
@@ -18099,6 +18099,13 @@
   ],
   "news": [
     {
+      "title": "Premier League VAR review: Arsenal should've been awarded a penalty, so why did VAR let it go?",
+      "published": "2026-08-31T22:58:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709700_1296x729_16-9.jpg",
+      "titleZh": "英超联赛VAR回顾：曼联手球没有因为奇怪的原因取消进球"
+    },
+    {
       "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "published": "2026-08-31T19:48:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
@@ -18132,13 +18139,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49776270/man-united-happy-always-open-transfer-deadline-approaches",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260.jpg",
       "titleZh": "卡里克：随着转会截止日期的临近，曼联“快乐但始终开放”"
-    },
-    {
-      "title": "Premier League VAR review: Man United handball didn't cancel goal for odd reason",
-      "published": "2026-08-31T08:35:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709133_1296x729_16-9.jpg",
-      "titleZh": "英超联赛VAR回顾：曼联手球没有因为奇怪的原因取消进球"
     },
     {
       "title": "European soccer recap: Man United cruise past Ipswich",

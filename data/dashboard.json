@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:06:09.927Z",
+  "updatedAt": "2026-09-01T11:42:55.148Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -16209,7 +16209,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-01T05:06:09.813Z"
+        "generatedAt": "2026-09-01T11:42:55.001Z"
       }
     },
     {
@@ -18099,6 +18099,20 @@
   ],
   "news": [
     {
+      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
+      "published": "2026-09-01T06:54:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
+      "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
+      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
+    },
+    {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-09-01T11:11:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2026/0831/r1709442_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
       "title": "Premier League VAR review: Arsenal should've been awarded a penalty, so why did VAR let it go?",
       "published": "2026-08-31T22:58:15Z",
       "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
@@ -18106,25 +18120,11 @@
       "titleZh": "英超联赛VAR回顾：曼联手球没有因为奇怪的原因取消进球"
     },
     {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-08-31T19:48:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709442_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
       "title": "Harry Maguire: Man United spotlight a 'shock' for new signings",
       "published": "2026-08-31T11:00:03Z",
       "url": "https://www.espn.com/soccer/story/_/id/49781193/harry-maguire-man-united-spotlight-shock-new-signings",
       "image": "https://a.espncdn.com/photo/2026/0831/r1709384_1296x729_16-9.jpg",
       "titleZh": "哈里·马奎尔：曼联聚焦新签约的“冲击”"
-    },
-    {
-      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-08-31T06:55:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
-      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
     },
     {
       "title": "Fernandes claims hat trick in United's 5-2 win against Ipswich",

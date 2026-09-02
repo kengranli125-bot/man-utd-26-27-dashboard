@@ -28,6 +28,8 @@ jobs:
         run: node scripts/check-update-health.mjs 0.25
       - name: Verify overview summary
         run: node scripts/check-summary-consistency.mjs
+      - name: Verify predicted lineup availability
+        run: node scripts/check-lineup-availability.mjs
       - name: Commit changed data
         run: |
           git config user.name "github-actions[bot]"

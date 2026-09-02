@@ -1,5 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { applyMatchDetails, matchSummaryUrl } from './match-details.mjs';
+import { applyAvailabilityOverrides, isPredictionEligible } from './player-availability.mjs';
 
 const OUTPUT = new URL('../data/dashboard.json', import.meta.url);
 const TEAM_ID = '360';
@@ -271,18 +272,18 @@ function buildTransfers(news) {
   const seen = new Set();
   return candidates.map(article => {
     const player = SUPPLEMENTAL_PLAYERS.find(item => normalize(article.title).includes(normalize(item.name.split(' ').at(-1))));
-    const completed = player && /(sign|announce|complete)/i.test(article.title) && !/(sources|talks)/i.test(article.title);
-    const loan = player && /loan/i.test(article.title);
-    return { ...article, player: player ? PLAYER_NAMES_ZH[player.name][0] : '', status: completed ? '媒体称已完成' : loan ? '租借相关报道' : '媒体报道', statusType: completed ? 'done' : loan ? 'loan' : 'report', key: player?.name || article.url };
-  }).filter(item => !(item.statusType === 'report' && completedNames.has(SUPPLEMENTAL_PLAYERS.find(player => player.nameZh === item.player)?.name)))
+    const completed = /(sign|announce|complete)/i.test(article.title) && !/(sources|talks)/i.test(article.title);
+    const loan = /loan/i.test(article.title);
+    return { ...article, player: player ? PLAYER_NAMES_ZH[player.name][0] : '', status: completed ? '已完成' : loan ? '租借' : '推进中', statusType: completed ? 'done' : loan ? 'loan' : 'progress', key: player?.name || article.url };
+  }).filter(item => !(item.statusType === 'progress' && completedNames.has(SUPPLEMENTAL_PLAYERS.find(player => player.nameZh === item.player)?.name)))
     .filter(item => !seen.has(item.key) && seen.add(item.key)).slice(0,6).map(({ key, ...item }) => item);
 }
 
 function buildLineup(roster, config) {
   const used = new Set();
   const players = config.slots.map(slot => {
-    const preferred = slot.names.map(name => roster.find(player => player.name === name && player.statusType !== 'out' && !used.has(player.id))).find(Boolean);
-    const fallback = roster.find(player => player.position === slot.position && player.statusType !== 'out' && !used.has(player.id));
+    const preferred = slot.names.map(name => roster.find(player => player.name === name && isPredictionEligible(player) && !used.has(player.id))).find(Boolean);
+    const fallback = roster.find(player => player.position === slot.position && isPredictionEligible(player) && !used.has(player.id));
     const player = preferred || fallback;
     if (!player) return null;
     used.add(player.id);
@@ -291,9 +292,42 @@ function buildLineup(roster, config) {
   const avgAvailability = players.length ? Math.round(players.reduce((sum, player) => sum + player.availabilityScore, 0) / players.length) : 0;
   const avgAge = players.length ? players.reduce((sum, player) => sum + (player.age || 24), 0) / players.length : 24;
   const experience = Math.max(65, Math.min(92, Math.round(68 + (avgAge - 22) * 3)));
-  return { formation: '4-2-3-1', title: config.title, summary: config.summary, players, metrics: [
+  return { formation: config.formation || '4-2-3-1', title: config.title, summary: config.summary, players, metrics: [
     { label: '完整度', value: avgAvailability }, { label: '经验值', value: experience }, { label: '攻守平衡', value: config.balance }
   ] };
+}
+
+function buildRecentLeagueLineup(roster, fixtures) {
+  const latest = [...fixtures]
+    .filter(fixture => fixture.competitionGroup === 'league' && fixture.status === 'completed')
+    .sort((a, b) => new Date(b.date) - new Date(a.date))[0];
+  const united = (latest?.lineups || latest?.recap?.lineups || [])
+    .find(team => String(team.teamId) === TEAM_ID || team.teamName === 'Manchester United');
+  if (united?.starters?.length !== 11) return null;
+
+  const positionSlot = position => {
+    if (position === 'G') return { line: 'GK', position: 'Goalkeeper', role: '门将' };
+    if (position === 'RB') return { line: 'D', position: 'Defender', role: '右后卫' };
+    if (position === 'LB') return { line: 'D', position: 'Defender', role: '左后卫' };
+    if (position.startsWith('CD')) return { line: 'D', position: 'Defender', role: '中后卫' };
+    if (position === 'AM-L') return { line: 'AM', position: 'Forward', role: '左翼' };
+    if (position === 'AM-R') return { line: 'AM', position: 'Forward', role: '右翼' };
+    if (position === 'AM') return { line: 'DM', position: 'Midfielder', role: '前腰' };
+    if (['LM', 'RM', 'CM', 'DM'].includes(position)) return { line: 'DM', position: 'Midfielder', role: '中场' };
+    return { line: 'F', position: 'Forward', role: '中锋' };
+  };
+  const slots = united.starters.map(starter => ({ ...positionSlot(starter.position || ''), names: [starter.name] }));
+  const defenders = slots.filter(slot => slot.line === 'D').length;
+  const midfielders = slots.filter(slot => slot.line === 'DM').length;
+  const attackers = slots.filter(slot => slot.line === 'AM' || slot.line === 'F').length;
+  const opponent = latest.home.id === TEAM_ID ? latest.away : latest.home;
+  return buildLineup(roster, {
+    formation: `${defenders}-${midfielders}-${attackers}`,
+    title: '英超预测首发',
+    balance: 86,
+    summary: `以最近一场英超对${opponent.nameZh || opponent.name}的已确认首发为基线，并优先排除官方伤缺球员。`,
+    slots
+  });
 }
 
 function buildPredictions(roster, fixtures = []) {
@@ -307,14 +341,15 @@ function buildPredictions(roster, fixtures = []) {
   const slot = (baseSlot, names, role) => ({ ...baseSlot, names, ...(role ? { role } : {}) });
   const nextFriendly = fixtures.find(fixture => fixture.competitionGroup === 'friendly' && fixture.status === 'upcoming') || fixtures.find(fixture => fixture.competitionGroup === 'friendly');
   const friendlyOpponent = nextFriendly ? (nextFriendly.home.id === TEAM_ID ? nextFriendly.away : nextFriendly.home) : null;
-  return {
-    league: buildLineup(roster, { title: '英超预测首发', balance: 85, summary: '强调联赛连续性和前场压迫，边路保持速度，中场优先选择当前可用球员。', slots: [
+  const fallbackLeague = buildLineup(roster, { title: '英超预测首发', balance: 85, summary: '强调联赛连续性和前场压迫，边路保持速度，中场优先选择当前可用球员。', slots: [
       slot(baseSlots.striker, ['Benjamin Sesko','Joshua Zirkzee']),
       slot(baseSlots.leftWing, ['Matheus Cunha','Marcus Rashford']), slot(baseSlots.ten, ['Bruno Fernandes']), slot(baseSlots.rightWing, ['Bryan Mbeumo','Amad Diallo','Mason Mount']),
       slot(baseSlots.midfield, ['Kobbie Mainoo']), slot(baseSlots.midfield, ['Manuel Ugarte','Mason Mount']),
       slot(baseSlots.leftBack, ['Patrick Dorgu','Luke Shaw']), slot(baseSlots.centerBack, ['Lisandro Martínez']), slot(baseSlots.centerBack, ['Matthijs de Ligt','Leny Yoro']), slot(baseSlots.rightBack, ['Diogo Dalot','Noussair Mazraoui']),
       slot(baseSlots.goalkeeper, ['Senne Lammens','André Onana','Altay Bayindir'])
-    ]}),
+    ]});
+  return {
+    league: buildRecentLeagueLineup(roster, fixtures) || fallbackLeague,
     champions: buildLineup(roster, { title: '欧冠预测首发', balance: 88, summary: '更重视转换防守与后场速度，使用机动性更强的右路组合，应对高强度淘汰赛节奏。', slots: [
       slot(baseSlots.striker, ['Benjamin Sesko','Joshua Zirkzee']),
       slot(baseSlots.leftWing, ['Matheus Cunha']), slot(baseSlots.ten, ['Bruno Fernandes']), slot(baseSlots.rightWing, ['Amad Diallo','Bryan Mbeumo','Mason Mount']),
@@ -350,7 +385,7 @@ const fixtures = fixturesWithRecaps.length ? fixturesWithRecaps : previous.fixtu
 const standings = nextStandings.length ? nextStandings : (computedLeagueStandings.length ? computedLeagueStandings : previous.standings);
 const championsStandings = nextChampionsStandings.length ? nextChampionsStandings : (previous.championsStandings || []);
 const news = nextNews.length ? nextNews : previous.news;
-const roster = nextRoster.length ? nextRoster : (previous.roster || []);
+const roster = applyAvailabilityOverrides(nextRoster.length ? nextRoster : (previous.roster || []));
 const transfers = buildTransfers(news);
 const recapScorers = aggregateScorersFromFixtures(fixtures);
 const scorers = nextScorers.length ? nextScorers : (recapScorers.length ? recapScorers : (previous.scorers || []));

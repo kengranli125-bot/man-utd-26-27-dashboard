@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T16:33:30.427Z",
+  "updatedAt": "2026-09-02T21:02:07.615Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -18099,6 +18099,13 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Feyenoord eye loan move for Man United's Obi",
+      "published": "2026-09-02T20:43:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710574_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻： Feyenoord为曼联的OBI提供EYE LOAN MOVE"
+    },
+    {
       "title": "Worst 2026 transfers, ranked: How Man United, Tottenham and others might have messed up",
       "published": "2026-09-02T14:10:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/49794711/worst-2026-summer-transfers-man-united-tottenham-arsenal-fernandez-rodri-guimaraes-tielemans-tonali",
@@ -18174,16 +18181,19 @@
       "url": "https://www.espn.com/video/clip/_/id/49776270/man-united-happy-always-open-transfer-deadline-approaches",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260/dm_260830_COM_SOC_Presser_Carrick_Man_United_happy_but_always_open_as_transfer_deadline_approaches_20260.jpg",
       "titleZh": "卡里克：随着转会截止日期的临近，曼联“快乐但始终开放”"
-    },
-    {
-      "title": "European soccer recap: Man United cruise past Ipswich",
-      "published": "2026-08-30T19:44:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49735720/european-soccer-live-updates-marcus-rashford-starts-manchester-united-host-ipswich-town",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709052_1296x729_16-9.jpg",
-      "titleZh": "欧洲足球现场更新：曼联看起来要反弹对伊普斯维奇"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Feyenoord eye loan move for Man United's Obi",
+      "published": "2026-09-02T20:43:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
+      "image": "https://a.espncdn.com/photo/2026/0902/r1710574_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻： Feyenoord为曼联的OBI提供EYE LOAN MOVE",
+      "player": "",
+      "status": "租借",
+      "statusType": "loan"
+    },
     {
       "title": "Worst 2026 transfers, ranked: How Man United, Tottenham and others might have messed up",
       "published": "2026-09-02T14:10:52Z",

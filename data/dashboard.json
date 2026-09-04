@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:16:14.365Z",
+  "updatedAt": "2026-09-04T16:20:19.514Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -18099,18 +18099,32 @@
   ],
   "news": [
     {
+      "title": "Man United 'made the most' of money available with transfers - Michael Carrick",
+      "published": "2026-09-04T13:34:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
+      "titleZh": "曼联通过转会“赚得最多” --迈克尔·卡里克（ Michael Carrick ）"
+    },
+    {
+      "title": "Newcastle 'counting' on Man United target Lewis Hall long-term - Matthias Jaissle",
+      "published": "2026-09-04T11:48:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49823683/lewis-hall-newcastle-man-united-premier-league-transfer-rumours",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
+      "titleZh": "纽卡斯尔“指望”曼联的长期目标刘易斯·霍尔-马蒂亚斯·贾斯尔"
+    },
+    {
+      "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
+      "published": "2026-09-04T12:25:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
+      "titleZh": "排名：按真实成本计算，今年夏天英超联赛最昂贵的50次转会"
+    },
+    {
       "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
       "published": "2026-09-04T07:19:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
       "image": "https://a.espncdn.com/photo/2025/0929/r1553049_1296x729_16-9.jpg",
       "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
-      "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
-      "published": "2026-09-04T07:21:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
-      "titleZh": "排名：按真实成本计算，今年夏天英超联赛最昂贵的50次转会"
     },
     {
       "title": "Michael Carrick explains why he doesn't like to play in Man United training",
@@ -18167,23 +18181,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49781683/chelsea-real-madrid-win-transfer-window-liverpool-biggest-losers",
       "image": "https://a.espncdn.com/photo/2026/0901/r1710148_1296x729_16-9.jpg",
       "titleZh": "切尔西、皇家马德里赢得转会窗口；利物浦最大输家"
-    },
-    {
-      "title": "Ogden: Man Utd failing to sign a defender is a 'dereliction of duty'",
-      "published": "2026-09-01T14:51:39Z",
-      "url": "https://www.espn.com/video/clip/_/id/49793852/man-utd-failing-sign-defender-dereliction-duty",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0901/dm_260901_Ogden_Man_Utd_failing_to_sign_a_defender_is_a_dereliction_of_duty/dm_260901_Ogden_Man_Utd_failing_to_sign_a_defender_is_a_dereliction_of_duty.jpg",
-      "titleZh": "奥格登：曼联未能签下后卫是“玩忽职守”"
-    },
-    {
-      "title": "Premier League, EFL summer transfer window 2026 dates: When is Deadline Day?",
-      "published": "2026-09-01T06:54:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
-      "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
-      "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
     }
   ],
   "transfers": [
+    {
+      "title": "Man United 'made the most' of money available with transfers - Michael Carrick",
+      "published": "2026-09-04T13:34:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
+      "titleZh": "曼联通过转会“赚得最多” --迈克尔·卡里克（ Michael Carrick ）",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Could Maguire depart Man United next season?",
       "published": "2026-09-03T02:03:11Z",

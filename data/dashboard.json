@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:31:02.137Z",
+  "updatedAt": "2026-09-04T11:16:14.365Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -18099,6 +18099,20 @@
   ],
   "news": [
     {
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
+      "published": "2026-09-04T07:19:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+      "image": "https://a.espncdn.com/photo/2025/0929/r1553049_1296x729_16-9.jpg",
+      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
+    },
+    {
+      "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
+      "published": "2026-09-04T07:21:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
+      "titleZh": "排名：按真实成本计算，今年夏天英超联赛最昂贵的50次转会"
+    },
+    {
       "title": "Michael Carrick explains why he doesn't like to play in Man United training",
       "published": "2026-09-03T09:52:31Z",
       "url": "https://www.espn.com/soccer/story/_/id/49812257/michael-carrick-explains-why-doesnt-play-man-united-training",
@@ -18111,13 +18125,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49800369/inside-manchester-uniteds-building-blocks-transfer-strategy",
       "image": "https://a.espncdn.com/photo/2026/0902/r1710287_1296x729_16-9.jpg",
       "titleZh": "了解曼联的“积木”转会策略"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-09-03T06:44:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2025/0929/r1553049_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
     },
     {
       "title": "Transfer rumors, news: Could Maguire depart Man United next season?",
@@ -18174,13 +18181,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/48944912/premier-league-efl-summer-transfer-window-2026-dates-does-open-deadline-day",
       "image": "https://a.espncdn.com/photo/2026/0829/r1708630_1296x729_16-9.jpg",
       "titleZh": "英超， EFL夏季转会窗口2026日期：截止日期是什么时候？"
-    },
-    {
-      "title": "Premier League VAR review: Arsenal should've been awarded a penalty, so why did VAR let it go?",
-      "published": "2026-09-02T04:07:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0831/r1709700_1296x729_16-9.jpg",
-      "titleZh": "英超联赛VAR回顾：曼联手球没有因为奇怪的原因取消进球"
     }
   ],
   "transfers": [

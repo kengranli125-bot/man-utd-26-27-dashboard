@@ -18755,6 +18755,18 @@
   ],
   "journalists": [
     {
+      "id": "Andy Mitten:CBMiggJBVV95cUxQMUp3WnpOcFJERFlYN1pfc0liWWFSeVBFbVVqZVA0OGlUckZmZlNjeEFEMkZiUEstYjRmZndEQ05wanhycXNSU1I5QTdCdW9tUFJPY1VQbzhHUGFNR0FkMjJBQ0ZrUTBTc0UtTXlHRkwyUVhqaDVWb0JZQWIwSkhFNG9Wa3JKbjA0a0JVd0gwVWtsbjNqV1NxeUdFRE9kVXpYWWJsUFRtUTBPZWNjMkpVaHBta2lORy1ic01BZE5yb1NEM0pFUEkycjZ0a2gyLWF2LXNOa25SR0FBTXphM0xZX29vdWRNc3lpY3REYVhvd3ZCXzBPdFkzVFlBVWUzb0syZEE",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "LiveScore",
+      "tier": 2,
+      "title": "Surprise choice: Mitten reveals which Man Utd star is internally considered the club’s ‘best signing years’",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMUp3WnpOcFJERFlYN1pfc0liWWFSeVBFbVVqZVA0OGlUckZmZlNjeEFEMkZiUEstYjRmZndEQ05wanhycXNSU1I5QTdCdW9tUFJPY1VQbzhHUGFNR0FkMjJBQ0ZrUTBTc0UtTXlHRkwyUVhqaDVWb0JZQWIwSkhFNG9Wa3JKbjA0a0JVd0gwVWtsbjNqV1NxeUdFRE9kVXpYWWJsUFRtUTBPZWNjMkpVaHBta2lORy1ic01BZE5yb1NEM0pFUEkycjZ0a2gyLWF2LXNOa25SR0FBTXphM0xZX29vdWRNc3lpY3REYVhvd3ZCXzBPdFkzVFlBVWUzb0syZEE?oc=5",
+      "published": "2026-09-04T05:50:23.000Z",
+      "titleZh": "惊喜选择： Mitten透露哪位曼联球星在内部被认为是俱乐部的“最佳签约年份”"
+    },
+    {
       "id": "James Ducker:CBMirAFBVV95cUxQNVhRajFlWWhIT25WdkVRV0hiTW9rOWZmSzNqNXdmWFQyakVKeUR1Q2p6aHV1ZG8xdGFPVUtVTEZqTHVlMGQ0b3dydjZtczlNN2hWZHNPNE10YWp0cUdQdzRSVHU2UjNpSzhnM2dqTU9yU2dvM1lKRUtGQWZRcV9Xamd5eDYtb2hmdmJGUTlINlR6OERza1FBZDVaWE1hVDBzcTBfb1I4ekdyVjRz0gGyAUFVX3lxTE92NVl1U0JOdjJqcGlKQThuZmZCQk1WWUpLMDAtSVhxNWFUOV9rc3g1elBCaXFLSDFaSmNVR3R6eVZ2MUw2alprOTdkOGQ1SWxNZWQ2WXBTbkF1UmNMMWhPSnd5TTRGdFdNSDA4UXVvc1UyRmwwb2ktWlJKSldtRFhlcDZfOXp6ZUFEY3M1eEEzcFZ2TEkwS0UwdkRJQmgwYlBYeFBWa19UZ20wMG5WTUhTVkE",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -18839,10 +18851,10 @@
       "titleZh": "曼联的三级转会策略可能会回来咬他们"
     },
     {
-      "id": "Laurie Whitwell:CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
+      "id": "David Ornstein:CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
       "source": "The New York Times",
       "tier": 1,
       "title": "Everton see Joshua Zirkzee offer rejected by Manchester United - The Athletic",
@@ -18935,16 +18947,28 @@
       "titleZh": "拉什福德和梅努对曼联来说从未如此重要"
     },
     {
-      "id": "Simon Stone:CBMiakFVX3lxTE55U2ExSWNOWVlhLW5xQm9yaHBrVFhWSmNSTG9PRTlxTkdfZGVXRnNISk9nb2lHYjY1R0ZBcnZXVm83V0lBQmV1QWgxVXFxb2ZLR0owdUdFckVWWXEyZHV4a25wMlpMOTRva0E",
+      "id": "Simon Stone:CBMif0FVX3lxTE5OWWYtcjJNYzRRZjhETVZkdUhnQWgza09YVndvOF85NWpxZHNsNHFCR1c3UnhuN2hkamxjeGpaM004U191NHpWTkpXZTJ5TnBzOEtDU1lfUEM0Qm5Ual9QNHd2U2RBUV9CVXFGZ2xUTmlBdTk1eHlaY2hseGpKM2s",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "'Huge hole at Man Utd without Bruno'",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OWWYtcjJNYzRRZjhETVZkdUhnQWgza09YVndvOF85NWpxZHNsNHFCR1c3UnhuN2hkamxjeGpaM004U191NHpWTkpXZTJ5TnBzOEtDU1lfUEM0Qm5Ual9QNHd2U2RBUV9CVXFGZ2xUTmlBdTk1eHlaY2hseGpKM2s?oc=5",
+      "published": "2026-08-31T08:54:51.000Z",
+      "titleZh": "“曼联没有布鲁诺的巨大漏洞”"
+    },
+    {
+      "id": "Simon Stone:CBMiZ0FVX3lxTE1fQldrRlExZU5YOERmODY5QUgycXlIRWYwaTAteFAwaFNmTUdUTWptTEVjN1VOQVVIZEs0cXl1VldtUVdYT3Vael8tckpWX1JrUnZ2ajJ3ZWRuMlVqaUtmRTJsMHdQNzQ",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
-      "title": "'Huge hole at Man Utd without Bruno'",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55U2ExSWNOWVlhLW5xQm9yaHBrVFhWSmNSTG9PRTlxTkdfZGVXRnNISk9nb2lHYjY1R0ZBcnZXVm83V0lBQmV1QWgxVXFxb2ZLR0owdUdFckVWWXEyZHV4a25wMlpMOTRva0E?oc=5",
-      "published": "2026-08-31T08:54:46.000Z",
-      "titleZh": "“曼联没有布鲁诺的巨大漏洞”"
+      "title": "Bruno Fernandes: Captain still setting the standard with Man Utd hat-trick",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fQldrRlExZU5YOERmODY5QUgycXlIRWYwaTAteFAwaFNmTUdUTWptTEVjN1VOQVVIZEs0cXl1VldtUVdYT3Vael8tckpWX1JrUnZ2ajJ3ZWRuMlVqaUtmRTJsMHdQNzQ?oc=5",
+      "published": "2026-08-30T20:04:26.000Z",
+      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ） ：船长仍然通过曼联的帽子戏法树立"
     },
     {
       "id": "Andy Mitten:CBMijAFBVV95cUxPdk9CbHd6c3pkcXZEWHFMZmM5X3liSF9adzFiZDVMb3BuanFIeTVrYUhhZTQ2OGlZS3g1dWd1NDhrUUNfMjV5SHk4cHJSTFg0Vm1IcmR4QkZtQjhxc3FQNW5KTlo0Sjh1MlpIN3laUkNvMTBEUUFyeGlBOHBYTmRWS05CY0tCYURrUFNDbg",
@@ -18987,7 +19011,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.co.uk",
+      "source": "The Sun",
       "tier": 2,
       "title": "Man Utd spent £155m on midfield… but Mainoo's new contract club's biggest deal",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXdRTXQ0SE1DeTA1MlNSSm1sd0Z1RW9UT0NtQWk2OFFRV0VhNnV5RW5PVHRYNmxZbF9KZ3ExZkQ2c05sd1dUeU9sblZuMVlMVElpNHlJUzd4cnBVc2hlYnRsbHgxcFdtbXI1VHBhY3FjMEd3TURpZGlJVUItbzROZ0RuU21RRG9zWXlqMUQxd2FoX3ZC?oc=5",
@@ -18999,7 +19023,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "dailymail.com",
+      "source": "Daily Mail",
       "tier": 2,
       "title": "Why Michael Carrick should be concerned despite Man United's thrilling comeback win over Ipswich as Bruno Fernandes comes to the rescue again, writes CHRIS WHEELER",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNazI5X3FsSDNjVHlKR1V2WmstVVZ2endnOXItS3pzVnBIaWxIVVg1RmVDSkxNcTRWaVhJWnp3WGNIbG5XQXRDT3dvVms1bjNPbHFWUTlwRWktejBkaGZPS0s0QnBSS3Q3dDlfOWwteXFHWEM3UXRYN0k5em9XUkFNYlJvTG5SbTNWTHU2MzdncWxaT0ZIRlBMdVBUVWNlNm1CUlVkUNIBqgFBVV95cUxNS2VoUW5WNzNRZlhwSzVlZWFPajBMSl9aSTZYLXJEaVV2bjNvZXc4M2FQNno0STVPa05TRGdKX2VhWndhaHNnWkk5ekJ1Ukx3NHNjdWY5dkJKRlFhallFWnVsbncwcDhzS3dUMnJHTzRrTldPMl9hbHU5T3FNU2dQX1BiLTJiRS1nOWFPYXMzanVINndYOV9XWm81aXFnOXl4RlZyYUQ2dEh1Zw?oc=5",
@@ -19017,33 +19041,9 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanYxeGttZjYyS0xBODFyaVBab3hqUkV1b1RIeVV1dlpJcGNWblR5bDk4SGxITmNUSGZDTWVkTkprSk53ZFNxZjF3RDV2OWoyYVNoZWVuVGtoRjBvM2VSWjlZZ3RVaUU3TkhOOWdVNU5zX0hkZUM1UFd3YUZxRm9hM0V3Wm5BTnVFNzAxSFV4bGxFV3FFZjBwYQ?oc=5",
       "published": "2026-08-30T07:00:00.000Z",
       "titleZh": "曼联和布莱顿接近Carlos Baleba - The Athletic的交易"
-    },
-    {
-      "id": "Laurie Whitwell:CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Hull ‘saw’ Manchester United’s problems. This is what ‘calm’ Carrick needs to fix",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1g1c2FxR1JSTmZaMnpsc1laaFlRZ3dHejR2Sk95bEd3X0haczl4RWZwZEEwWHFCSDEtNlpfSExsRGY3ZE1FNTg1STl1Vks5MmoyeUl1NXYxdW96bWlyUUF1SW9nanpkdWVNTVZIcGNldGFNOWV6NXlFMzdmMnJ4YzRpaHFnQkU?oc=5",
-      "published": "2026-08-30T07:00:00.000Z",
-      "titleZh": "赫尔“看到”了曼联的问题。这就是“冷静”的卡里克需要解决的问题"
-    },
-    {
-      "id": "Carl Anka:CBMimgFBVV95cUxPcWFSSVZKSC1tRGh5d1JrVmhFWDRsVVVENkRNUG1ZRksyLWJaMDc5VGlYcW1tRGlneXpMSGlTUUFkM3RMZ3dsaEtNSmlfZnJhckc3MVltckc4SDZxUEZQWnpxQzNVUjM1V1VvcmNhazRqSzBVRlhCMXJXRFcyZ3BIOF9vUUtEMFpCZVdudFJXclhfYmE1STR4czln",
-      "reporter": "Carl Anka",
-      "reporterZh": "卡尔·安卡",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "How Manchester United’s new signing Carlos Baleba fits in and what else to know",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWFSSVZKSC1tRGh5d1JrVmhFWDRsVVVENkRNUG1ZRksyLWJaMDc5VGlYcW1tRGlneXpMSGlTUUFkM3RMZ3dsaEtNSmlfZnJhckc3MVltckc4SDZxUEZQWnpxQzNVUjM1V1VvcmNhazRqSzBVRlhCMXJXRFcyZ3BIOF9vUUtEMFpCZVdudFJXclhfYmE1STR4czln?oc=5",
-      "published": "2026-08-30T07:00:00.000Z",
-      "titleZh": "曼联新签约的卡洛斯·巴莱巴（ Carlos Baleba ）如何适应，还有什么需要了解的"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-04T01:20:14.604Z",
+  "journalistsUpdatedAt": "2026-09-04T06:08:53.368Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

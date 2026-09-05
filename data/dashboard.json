@@ -18775,13 +18775,25 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMipgFBVV95cUxOLXN4R091SHd3eFNPdkVCTU5FUXRGcHVfSVNxYmJ1SVVzek5HVGpCb2taa1p5OHBEb0lJa0IxT3dVbV93LXFpRmtpZkp1cWZYdFpmS0kxTFFFWmhObm5VOW1LVHFjQnZ6M2pvUkE4UXdnVDMyZUpqR2VLRTd4R1ZRVXhPYzNMak9MZ1pmcVAyNmJoOG0wdjloWktXRUdqaVRzWms2dklR",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Ornstein questions Man Utd transfer business and makes ‘flow of cash’ claim",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXN4R091SHd3eFNPdkVCTU5FUXRGcHVfSVNxYmJ1SVVzek5HVGpCb2taa1p5OHBEb0lJa0IxT3dVbV93LXFpRmtpZkp1cWZYdFpmS0kxTFFFWmhObm5VOW1LVHFjQnZ6M2pvUkE4UXdnVDMyZUpqR2VLRTd4R1ZRVXhPYzNMak9MZ1pmcVAyNmJoOG0wdjloWktXRUdqaVRzWms2dklR?oc=5",
+      "published": "2026-09-05T15:45:44.000Z",
+      "titleZh": "Ornstein质疑Man Utd转账业务并提出“现金流”索赔"
+    },
+    {
       "id": "David Ornstein:CBMihAJBVV95cUxOODJNWnNZdC1FalRvVTNLa003ZHQ1LWZ2dG01VDBLRGZMUlR6WHBWWkdFZWowUS1wMmUtV1VtTWIwVXRBQVY5QU02QkFQejNwMTRQclFONFpaSGVGMlBHMzVJeVU1OHZCSnZtZmY3aXBUbTIxRXZhTnRya19IeFQ4ejRFdDlRMl9aUkVVRmZEbXduUkdLMWs4UGpYZ0tsNXVfdXE1VXpRc0RPeWxhWTBDTFEyRHF6VXBnNEhhZDFRcnMwa2M2QUQ1WDJvaHZYMXMzN1pDNGVpUWpYbjFpZGNsMjMzRkJ3ak9TaDV1Z1BtM3l6aDg2aXJQVmhUS0pXZXlTT3BhUQ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
       "source": "TNT Sports",
       "tier": 1,
-      "title": "Ornstein: Arsenal's forward gamble and why Man Utd need more time",
+      "title": "Ornstein: No need for panic at United and Arsenal's forward gamble",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOODJNWnNZdC1FalRvVTNLa003ZHQ1LWZ2dG01VDBLRGZMUlR6WHBWWkdFZWowUS1wMmUtV1VtTWIwVXRBQVY5QU02QkFQejNwMTRQclFONFpaSGVGMlBHMzVJeVU1OHZCSnZtZmY3aXBUbTIxRXZhTnRya19IeFQ4ejRFdDlRMl9aUkVVRmZEbXduUkdLMWs4UGpYZ0tsNXVfdXE1VXpRc0RPeWxhWTBDTFEyRHF6VXBnNEhhZDFRcnMwa2M2QUQ1WDJvaHZYMXMzN1pDNGVpUWpYbjFpZGNsMjMzRkJ3ak9TaDV1Z1BtM3l6aDg2aXJQVmhUS0pXZXlTT3BhUQ?oc=5",
       "published": "2026-09-05T12:56:00.000Z",
       "titleZh": "奥恩斯坦：阿森纳的前锋赌博以及为什么曼联需要更多时间"
@@ -18839,7 +18851,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
+      "source": "thesun.ie",
       "tier": 2,
       "title": "Lammens stuns backroom after Belgium gaffe & Baleba's Reds hero revealed",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tUEZFb3JYVlR1RzU3YUF1UkowMThNVll4cVF2MWN1SXBCLVRBRmpsT0pmSlJLTnBkbHNManNnYTVuNVYtRHVoRnRyMWo0OEF0X3NLVDRndHVONFNIV1ZrU2tNR0hXeFZsMWxqRDRXN0JkRk1KcVJIc2dn?oc=5",
@@ -18851,7 +18863,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "unitedinfocus.com",
+      "source": "United In Focus",
       "tier": 2,
       "title": "Andy Mitten reveals Man Utd's dream Luke Shaw alternative as it is sign of Ineos' huge transfer ambitions",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnhfbnR6Y1RBSUhValdKaXhFMG9nT0ZiNU5kRjlWcG5aYXhnZENxVHFKeFBFQU9HdzRzekxvdzFBcTEzb2ZWMUdLT19wODE1VW5MTkV0cUFuWi1kcWd6UDVzWThVUndFOWZIYmlwSlpkVF9VNWR5QkdBbG02VnRHTXpoa085ckttRm5XRjl1WTk3eXJRZTdHUjRVNFQ3MlpIUVRISGUxRlR2MlhvRW52M2JzRm9QVHFrUmpsOU9KYndzVGsyUTNwM1Z0QlQ2NmtjeDhIM0hVOHBLdw?oc=5",
@@ -18887,7 +18899,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.co.uk",
+      "source": "ESPN",
       "tier": 1,
       "title": "Inside Manchester United's 'building blocks' transfer strategy",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVBnQW5MaG1nOWlzQXNvc2E2VkNueEU0clpRY0ZKUnc2WFlYaXUxeF9yOUlTaDB1VGVjRnY0dzFpTk1XejhBU1BSakJBS1FzMkU0UUZlbUU5NUhRY0NUUldFVHZHTXVQUWdBV1U0TTNDTW5POXQ1RktVM3dVTWVTUWpwSV9RMENzZlZieXoteDd2OGJ3dk9ZNnR0YWF1XzdUTlZpbVRmZDhKajFYUnZ5WQ?oc=5",
@@ -18955,16 +18967,16 @@
       "titleZh": "曼联的三级转会策略可能会回来咬他们"
     },
     {
-      "id": "David Ornstein:CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "id": "Laurie Whitwell:CBMifkFVX3lxTE9WZ292dEhsdjE4UXpRUTNvQ0NEVDZWbzl2TEpfUDFKQ05kX3o3aGJRNjBvRTBLdWt5T25SMHF2N2IzV1hwR1hyUW14bVlNTE16ZWxxUk9SNmo1NHJBMUtDVVpwaFdEcGNHRV9UWjJ0am9oR0xPU3FfZUhSYVJ0UQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Football365",
       "tier": 1,
-      "title": "Everton see Joshua Zirkzee offer rejected by Manchester United - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw?oc=5",
-      "published": "2026-09-01T21:28:06.000Z",
-      "titleZh": "埃弗顿看到Joshua Zirkzee的报价被曼联-田径队拒绝"
+      "title": "Insider reveals expected Man Utd deadline day transfer is off",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZ292dEhsdjE4UXpRUTNvQ0NEVDZWbzl2TEpfUDFKQ05kX3o3aGJRNjBvRTBLdWt5T25SMHF2N2IzV1hwR1hyUW14bVlNTE16ZWxxUk9SNmo1NHJBMUtDVVpwaFdEcGNHRV9UWjJ0am9oR0xPU3FfZUhSYVJ0UQ?oc=5",
+      "published": "2026-09-01T19:17:49.000Z",
+      "titleZh": "业内人士透露，预计曼联截止日期转会已关闭"
     },
     {
       "id": "Fabrizio Romano:CBMi6AFBVV95cUxQZW9YRDV1SUtpV3A1M1lsSXlOMTVOdzB1WV9lRl9VeEZHQU9ibmZpY3VUSnlRV0dReXdzbWI2S1Fzc3VOeUIyWG5yMkRXTmdhTThzQmdxRHFGTE9OWk5Ha0E1U0RTdHlFQ0Ztb3JQamJLRnEyS0ZNSkw1cWxMcE5Cb2hteERWT3JQYmlERGRLR0RxdV9WRW5tMDJMM1VxcFZIdTRfZkk3ZmdjV3ZRZVVlY3BLUlNJbmZfbFo3WlV5ZWZqS09zS3ZLeXlES2VqZnNTV0JWUTF2QlpINklKQlpIcmdPNklxcFlG",
@@ -19003,18 +19015,6 @@
       "titleZh": "曼联希望在最后一刻与加里·内维尔（ Gary Neville ）签约，在转会业务中“震惊”"
     },
     {
-      "id": "David Ornstein:CBMirgFBVV95cUxQVmxVSi1DSXhMZ2VYMWp0Szgzbk1MN0Yxa2ZlR0t6M2kxTlhkODNmRGNOLTNDOFNnRVAzT2dMUURCNEhsekFqc0w5N2FrcG5xN2hrM1cteFY0RkJPQkVUSFZITDdGTGtDQWR6TDFpeU1FV1Z6UXpLcFViSjBnMS1KOUtFTE1vUmxiZWNQMU9OUEt3eEduLVZPMXFEWmQ2YWtuN0phbU8ybTNiMmpwQkHSAbMBQVVfeXFMTXN3OVkwTy1ZZW45bW1EWHZ5a2t3NlhPX25aVFc2YXE0UTlHZC1tSjhMRlJCNHF3VVl1ZDZ2UkpwRVl4T0FUYm4yRFZvb1hndkZ6ZVRHSTgxWVE5YWp1VWFPVGJsblJKRHNCNW82Y1BKaGVlQTMzVXFoSklTM3V5QWZCQ28zdDY2UjgtWHJuTEpOVURhdTBkYVZlS1QtZExGQWY2eHJCeTlZQ0NnZVFjUlV6dnc",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "esteemedkompany.com",
-      "tier": 1,
-      "title": "Perhaps the perfect move for a Manchester City favourite came through",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVmxVSi1DSXhMZ2VYMWp0Szgzbk1MN0Yxa2ZlR0t6M2kxTlhkODNmRGNOLTNDOFNnRVAzT2dMUURCNEhsekFqc0w5N2FrcG5xN2hrM1cteFY0RkJPQkVUSFZITDdGTGtDQWR6TDFpeU1FV1Z6UXpLcFViSjBnMS1KOUtFTE1vUmxiZWNQMU9OUEt3eEduLVZPMXFEWmQ2YWtuN0phbU8ybTNiMmpwQkHSAbMBQVVfeXFMTXN3OVkwTy1ZZW45bW1EWHZ5a2t3NlhPX25aVFc2YXE0UTlHZC1tSjhMRlJCNHF3VVl1ZDZ2UkpwRVl4T0FUYm4yRFZvb1hndkZ6ZVRHSTgxWVE5YWp1VWFPVGJsblJKRHNCNW82Y1BKaGVlQTMzVXFoSklTM3V5QWZCQ28zdDY2UjgtWHJuTEpOVURhdTBkYVZlS1QtZExGQWY2eHJCeTlZQ0NnZVFjUlV6dnc?oc=5",
-      "published": "2026-09-01T11:27:58.000Z",
-      "titleZh": "对于曼城最受欢迎的球员来说，这也许是完美的举动"
-    },
-    {
       "id": "Chris Wheeler:CBMiW0FVX3lxTE9HNmItZmMzd0NkLUJIdE1pQUEtZk8wTXpUbG9HMFVVa01OVlNXWmEtcE8zRU5nSXhIVU16NTJaUTJlY1RKTm9aRXJBTjRSbXhGdkxDT1BMVF9naVE",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -19031,7 +19031,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "thescore.com",
+      "source": "theScore",
       "tier": 1,
       "title": "Latest transfer news and rumors ahead of deadline day",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkg5cVB6dTVkRmhiSXlUT25QVktVdUR2dUQ5T2t4MkxjMVgtbE9HT2xuN3lnNnVIaWF6SU1SbFJ5RG11U1dzYTd1SnVHUzZJdHoxbm85Y1lUaHhfdFVBSmdsS1FHdU53ZndRT3g2TGRNZ3RDYk5yV1N5cmVWMFhsM25lNUs0ZURSRWVHamRvYnpUdGpkbGVBZWVENA?oc=5",
@@ -19043,7 +19043,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "unitedinfocus.com",
+      "source": "United In Focus",
       "tier": 2,
       "title": "Joshua Zirkzee's days are numbered at Man Utd",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnhMNFI1T3pZMXhzTkU5YXVNQ1dadnhXWG5nNzR1S0JBbVlLRHZpQjlNZDkyUGJhdDdhcUhYT2ZxSF9UbHZVMFJnRWdfbWFuWkVxeEgwOW5SdTkzaC1hMG1vM2lGUXEzQkVJR0haUVBfU3JFMktXcG5pMWdhcVF4eWdreDVCNDNPRkR5Y1QwcXRKVXRQelB3cWx5c3phRmdab25Wb3BNUDFKTXRLd0NsbndQSFdLS3pXc2c?oc=5",
@@ -19063,7 +19063,7 @@
       "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）的协议更新显示，曼联可以在转会截止日期前"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-05T13:00:53.081Z",
+  "journalistsUpdatedAt": "2026-09-05T16:00:20.774Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T20:44:51.196Z",
+  "updatedAt": "2026-09-05T04:26:23.452Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
-    "position": 10,
+    "position": 11,
     "played": 2,
     "points": 3,
     "goalDifference": 1
@@ -17355,6 +17355,21 @@
       "position": 4
     },
     {
+      "id": "364",
+      "name": "Liverpool",
+      "nameZh": "利物浦",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "played": 3,
+      "wins": 1,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 6,
+      "goalsAgainst": 4,
+      "goalDifference": 2,
+      "points": 5,
+      "position": 5
+    },
+    {
       "id": "337",
       "name": "Brentford",
       "nameZh": "布伦特福德",
@@ -17367,7 +17382,7 @@
       "goalsAgainst": 1,
       "goalDifference": 3,
       "points": 4,
-      "position": 5
+      "position": 6
     },
     {
       "id": "361",
@@ -17382,7 +17397,7 @@
       "goalsAgainst": 2,
       "goalDifference": 2,
       "points": 4,
-      "position": 6
+      "position": 7
     },
     {
       "id": "368",
@@ -17397,7 +17412,7 @@
       "goalsAgainst": 1,
       "goalDifference": 2,
       "points": 4,
-      "position": 7
+      "position": 8
     },
     {
       "id": "357",
@@ -17412,7 +17427,7 @@
       "goalsAgainst": 1,
       "goalDifference": 1,
       "points": 4,
-      "position": 8
+      "position": 9
     },
     {
       "id": "331",
@@ -17427,7 +17442,7 @@
       "goalsAgainst": 4,
       "goalDifference": 3,
       "points": 3,
-      "position": 9
+      "position": 10
     },
     {
       "id": "360",
@@ -17442,7 +17457,7 @@
       "goalsAgainst": 4,
       "goalDifference": 1,
       "points": 3,
-      "position": 10
+      "position": 11
     },
     {
       "id": "366",
@@ -17457,36 +17472,21 @@
       "goalsAgainst": 2,
       "goalDifference": 0,
       "points": 3,
-      "position": 11
+      "position": 12
     },
     {
       "id": "373",
       "name": "Ipswich Town",
       "nameZh": "伊普斯维奇",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-      "played": 2,
+      "played": 3,
       "wins": 1,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goalsFor": 4,
-      "goalsAgainst": 6,
-      "goalDifference": -2,
+      "goalsAgainst": 8,
+      "goalDifference": -4,
       "points": 3,
-      "position": 12
-    },
-    {
-      "id": "364",
-      "name": "Liverpool",
-      "nameZh": "利物浦",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "played": 2,
-      "wins": 0,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 4,
-      "goalsAgainst": 4,
-      "goalDifference": 0,
-      "points": 2,
       "position": 13
     },
     {
@@ -18114,7 +18114,7 @@
     },
     {
       "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
-      "published": "2026-09-04T12:25:18Z",
+      "published": "2026-09-04T20:54:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
       "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
       "titleZh": "排名：按真实成本计算，今年夏天英超联赛最昂贵的50次转会"

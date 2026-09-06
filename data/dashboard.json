@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:27:07.581Z",
+  "updatedAt": "2026-09-06T20:23:12.605Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -17973,7 +17973,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-06T15:27:06.776Z"
+        "generatedAt": "2026-09-06T20:23:11.437Z"
       }
     },
     {
@@ -19050,6 +19050,21 @@
       "position": 1
     },
     {
+      "id": "359",
+      "name": "Arsenal",
+      "nameZh": "阿森纳",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 6,
+      "goalsAgainst": 1,
+      "goalDifference": 5,
+      "points": 9,
+      "position": 2
+    },
+    {
       "id": "306",
       "name": "Hull City",
       "nameZh": "赫尔城",
@@ -19062,21 +19077,6 @@
       "goalsAgainst": 0,
       "goalDifference": 3,
       "points": 7,
-      "position": 2
-    },
-    {
-      "id": "359",
-      "name": "Arsenal",
-      "nameZh": "阿森纳",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 4,
-      "goalsAgainst": 0,
-      "goalDifference": 4,
-      "points": 6,
       "position": 3
     },
     {
@@ -19084,13 +19084,13 @@
       "name": "Chelsea",
       "nameZh": "切尔西",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "played": 2,
+      "played": 3,
       "wins": 2,
       "draws": 0,
-      "losses": 0,
-      "goalsFor": 7,
-      "goalsAgainst": 5,
-      "goalDifference": 2,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "goalDifference": 1,
       "points": 6,
       "position": 4
     },
@@ -19869,11 +19869,46 @@
   ],
   "news": [
     {
-      "title": "Premier League live updates: Man United re-take lead vs. Everton",
-      "published": "2026-09-06T14:53:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49817781/premier-league-live-updates-everton-take-manchester-united-chelsea-arsenal-barcelona-valencia-juventus-milan",
-      "image": "https://a.espncdn.com/photo/2026/0906/r1712291_1296x729_16-9.jpg",
-      "titleZh": "英超联赛现场更新：曼联重夺领先优势vs.埃弗顿"
+      "title": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
+      "published": "2026-09-06T19:04:16Z",
+      "url": "https://www.espn.com/video/clip/_/id/49851253/everton-made-bruno-fernandes-invisible-man-united-draw",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G/dm_260906_COM_SOC_Analysis_Leboeuf_Everton_made_Bruno_Fernandes_invisible_in_Man_United_draw_20260906_G.jpg",
+      "titleZh": "Leboeuf ：埃弗顿让布鲁诺·费尔南德斯在曼联平局中“隐形”"
+    },
+    {
+      "title": "Another game, more dropped points: Are Man United still a work in progress?",
+      "published": "2026-09-06T18:18:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49849587/another-game-more-dropped-points-man-united-work-progress",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
+      "titleZh": "另一场比赛，更多的掉分：曼联仍在进行中吗？"
+    },
+    {
+      "title": "Michael Carrick: Man United draw to Everton 'feels like defeat'",
+      "published": "2026-09-06T17:14:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49849966/man-united-draw-everton-feels-defeat",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712293_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克：曼联平局埃弗顿“感觉像失败”"
+    },
+    {
+      "title": "Carrick 'bitterly disappointed' with Man Utd's late Everton draw",
+      "published": "2026-09-06T16:14:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/49849674/carrick-bitterly-disappointed-man-utd-late-everton-draw",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_Carrick_bitterly_disappointed_with_Man_Utds_late_Everton_draw/dm_260906_Carrick_bitterly_disappointed_with_Man_Utds_late_Everton_draw.jpg",
+      "titleZh": "卡里克对曼联晚期的埃弗顿平局“深感失望”"
+    },
+    {
+      "title": "Everton deny Manchester United second win of season with last-gasp equalizer",
+      "published": "2026-09-06T17:06:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49849520/man-united-everton-premier-league-bryan-mbeumo-benjamin-sesko-ainsley-maitland-niles-tyrique-george",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712307_2_1296x729_16-9.jpg",
+      "titleZh": "埃弗顿否认曼联用last-gasp均衡器赢得本赛季第二场胜利"
+    },
+    {
+      "title": "Last-gasp Ainsley Maitland-Niles screamer snatches point for Everton against Man United",
+      "published": "2026-09-06T15:30:38Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879291",
+      "image": "https://a.espncdn.com/photo/2026/0906/r1712301_1296x729_16-9.jpg",
+      "titleZh": "安斯利·梅特兰-内尔斯（ Ainsley Maitland-Niles ）的尖叫者抢夺埃弗顿（ Everton ）对曼联"
     },
     {
       "title": "Carrick: Man United 'can compete' with Premier League rivals despite spending less",
@@ -19916,41 +19951,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49823683/lewis-hall-newcastle-man-united-premier-league-transfer-rumours",
       "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
       "titleZh": "纽卡斯尔“指望”曼联的长期目标刘易斯·霍尔-马蒂亚斯·贾斯尔"
-    },
-    {
-      "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost",
-      "published": "2026-09-04T20:54:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49817274/ranked-top-50-most-expensive-premier-league-transfers-summer-true-cost",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711182_1296x729_16-9.jpg",
-      "titleZh": "排名：按真实成本计算，今年夏天英超联赛最昂贵的50次转会"
-    },
-    {
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-      "published": "2026-09-04T07:19:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-      "image": "https://a.espncdn.com/photo/2025/0929/r1553049_1296x729_16-9.jpg",
-      "titleZh": "2026年英超联赛夏季转会：每个俱乐部的所有已确认进出"
-    },
-    {
-      "title": "Michael Carrick explains why he doesn't like to play in Man United training",
-      "published": "2026-09-03T09:52:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49812257/michael-carrick-explains-why-doesnt-play-man-united-training",
-      "image": "https://a.espncdn.com/photo/2026/0903/r1710803_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克解释为什么他不喜欢参加曼联训练"
-    },
-    {
-      "title": "Inside Manchester United's 'building blocks' transfer strategy",
-      "published": "2026-09-03T07:52:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49800369/inside-manchester-uniteds-building-blocks-transfer-strategy",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710287_1296x729_16-9.jpg",
-      "titleZh": "了解曼联的“积木”转会策略"
-    },
-    {
-      "title": "Transfer rumors, news: Could Maguire depart Man United next season?",
-      "published": "2026-09-03T02:03:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710637_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻： Feyenoord为曼联的OBI提供EYE LOAN MOVE"
     }
   ],
   "transfers": [
@@ -19980,16 +19980,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
       "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
       "titleZh": "曼联通过转会“赚得最多” --迈克尔·卡里克（ Michael Carrick ）",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Could Maguire depart Man United next season?",
-      "published": "2026-09-03T02:03:11Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49800789/transfer-rumors-news-wrexham-keen-free-agent-ex-leicester-jamie-vardy",
-      "image": "https://a.espncdn.com/photo/2026/0902/r1710637_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻： Feyenoord为曼联的OBI提供EYE LOAN MOVE",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

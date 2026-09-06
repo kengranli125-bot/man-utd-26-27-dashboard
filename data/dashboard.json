@@ -20525,6 +20525,42 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMiakFVX3lxTE50a3BFZFlvVnBRbVJjT3dCcTZDVEhaSV9QemF5WlRxOE1HT1lDWnI2bm15d3ZxN0J3ZzZNSlFOUWRiMC1VYUh3bnVncXFfQ0FIVWxTc01vSEVCUTRyMDBTRlBMOWFxM1FNQ2c",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Everton 2-2 Manchester United: Red Devils frustrated but Michael Carrick still optimistic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50a3BFZFlvVnBRbVJjT3dCcTZDVEhaSV9QemF5WlRxOE1HT1lDWnI2bm15d3ZxN0J3ZzZNSlFOUWRiMC1VYUh3bnVncXFfQ0FIVWxTc01vSEVCUTRyMDBTRlBMOWFxM1FNQ2c?oc=5",
+      "published": "2026-09-06T17:18:32.000Z",
+      "titleZh": "埃弗顿2-2曼联：红魔队感到沮丧，但迈克尔·卡里克仍然乐观"
+    },
+    {
+      "id": "Chris Wheeler:CBMiowFBVV95cUxOd0x3SmkxWVdVMWFSeUhuUVRPZTRVU0ozODNmMGppa2dZZnFjSFZ4LWVPT1FpbHNPVGIwY0c5M3EwQVZmZ19HMWN0dHdWNmJOZ3hVc3Ftc2xES0tmMEVJd0pKenFwa1dsYmR5dVNDT3pPQWVZc2NYNkFLRXg4LU1zRjVkX18wT0NpdXZ0WlBPbEI5MHhaNjYyM2NQMTlCNElDRENJ0gGoAUFVX3lxTE1rVlpjS0dsa2VlRUtTc1p0OXEwYlJpa24wUFVvS2hvcXd1aGFsdzNCaUtsQ2VMMHhZcnRCXzY2NnJTWnk3bXF6bloxaTBxS1g4S0pJYjJGWEt4YmhjS2lKQlZMaUhSNHU0cktxa2QxS2tMNkxoTG94RzhQTlMtQ2VlMnIxNm1LRWdsc2tENHJyRWFCbUQtZ3pjNmJqZTR6QnBETGY3cjZSOQ",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Everton vs Manchester United - Premier League RECAP: Ainsley Maitland-Niles scores stunner in 95TH MINUTE...",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0x3SmkxWVdVMWFSeUhuUVRPZTRVU0ozODNmMGppa2dZZnFjSFZ4LWVPT1FpbHNPVGIwY0c5M3EwQVZmZ19HMWN0dHdWNmJOZ3hVc3Ftc2xES0tmMEVJd0pKenFwa1dsYmR5dVNDT3pPQWVZc2NYNkFLRXg4LU1zRjVkX18wT0NpdXZ0WlBPbEI5MHhaNjYyM2NQMTlCNElDRENJ0gGoAUFVX3lxTE1rVlpjS0dsa2VlRUtTc1p0OXEwYlJpa24wUFVvS2hvcXd1aGFsdzNCaUtsQ2VMMHhZcnRCXzY2NnJTWnk3bXF6bloxaTBxS1g4S0pJYjJGWEt4YmhjS2lKQlZMaUhSNHU0cktxa2QxS2tMNkxoTG94RzhQTlMtQ2VlMnIxNm1LRWdsc2tENHJyRWFCbUQtZ3pjNmJqZTR6QnBETGY3cjZSOQ?oc=5",
+      "published": "2026-09-06T16:24:42.000Z",
+      "titleZh": "埃弗顿vs曼联-英超联赛回顾： Ainsley Maitland-Niles在第95分钟得分惊人..."
+    },
+    {
+      "id": "Samuel Luckhurst:CBMilgFBVV95cUxPdEVrVm1fdnIzU1Vmdzlyd0JYNVgyYTNEQ0VINU9jTVdZTnVRSW9qUlhLYjFQbUthR0hGbTdqMzM2TzlDVnpLNjJINkE3ZkgyU1poa1YwblBuT3llZ0FVVEUwdFdDbng4VmVwejFzUDlBcFlLa1EzUlpGOXZjUmdXVUMtdVVScGRCVUJXem1EQ1hqckZCYXc",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Everton 2 Man Utd 2: Ainsley Maitland-Niles nets amazing late rocket equaliser",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEVrVm1fdnIzU1Vmdzlyd0JYNVgyYTNEQ0VINU9jTVdZTnVRSW9qUlhLYjFQbUthR0hGbTdqMzM2TzlDVnpLNjJINkE3ZkgyU1poa1YwblBuT3llZ0FVVEUwdFdDbng4VmVwejFzUDlBcFlLa1EzUlpGOXZjUmdXVUMtdVVScGRCVUJXem1EQ1hqckZCYXc?oc=5",
+      "published": "2026-09-06T15:04:41.000Z",
+      "titleZh": "Everton 2 Man Utd 2 ： Ainsley Maitland-Niles网令人惊叹的晚期火箭均衡器"
+    },
+    {
       "id": "Simon Stone:CBMirgFBVV95cUxOMzc4M1NKZGhDaTRGOFRaZXo4TDJGcGJIVE1HTkVhUWlibjR4ZVJiM2lzS0ZiVFp6NFVWanhGUmtQZV8wRmVwQTdfMk9neC1KZXVLRk1PQWFSTlVhdC1BanYxOW9WLUJWUklNaWxJd0cxRTFOa1puempxRjhjTWp6ODhHTDNzZ1FEa213VkR1U1BOb24xcExZNHFQV29JX0xzSFo0Wk5kSDQ0MlQ1YVHSAbMBQVVfeXFMUDJhWlB5RzRsbV9jdkpQVF94NlVYUXNEaXM5TkRFaHVOMUxPM2VwWC1LWjQzSFU3cWhKQm15WGphMzRQYkpMZW12cEQwWnBCYm9OdVZzalNOMHJBN0xCMVJTRU5SSjRFbmRmQ2Nna09JS3E2UUN5TEdoU0VZWndyM296Y3ZfdHdjRDAtLUlFRzRDTGF1b05LRTdGanp6RXR2d2hxUmJaaGVFMG83UU9KYzBaNzg",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -20541,12 +20577,24 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "TEAMtalk",
+      "source": "teamtalk.com",
       "tier": 2,
       "title": "Man Utd reach decision on new Bruno Fernandes contract – ‘It’ll be a good move’",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3lNNGhReVlaaElqZzU2REc3d3lneW5vZG9iRnYwNGQ5d1RKQlQ1N0J2TEtQckVPUXRybG1NWWhSZlhPUElkYUloRm1oUDBUbUR1aHlOSXRHQm9iQkhDU1lRdUgzbUJlQzhzbndLLWk2bkk1YmlHcExlUlFYZnZ0WVdJazNRVE1ITzhSXzE5N09jQQ?oc=5",
       "published": "2026-09-06T07:38:48.000Z",
       "titleZh": "曼联就新的布鲁诺·费尔南德斯合同做出决定– “这将是一个很好的举动”"
+    },
+    {
+      "id": "Laurie Whitwell:CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
+      "published": "2026-09-05T19:32:00.000Z",
+      "titleZh": "曼联的转会窗口：新中场，贝拉达对霍尔的呼吁和最后一天的挫折-田径"
     },
     {
       "id": "David Ornstein:CBMipgFBVV95cUxOLXN4R091SHd3eFNPdkVCTU5FUXRGcHVfSVNxYmJ1SVVzek5HVGpCb2taa1p5OHBEb0lJa0IxT3dVbV93LXFpRmtpZkp1cWZYdFpmS0kxTFFFWmhObm5VOW1LVHFjQnZ6M2pvUkE4UXdnVDMyZUpqR2VLRTd4R1ZRVXhPYzNMak9MZ1pmcVAyNmJoOG0wdjloWktXRUdqaVRzWms2dklR",
@@ -20565,7 +20613,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "tntsports.co.uk",
+      "source": "TNT Sports",
       "tier": 1,
       "title": "Ornstein: No need for panic at United and Arsenal's forward gamble",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOODJNWnNZdC1FalRvVTNLa003ZHQ1LWZ2dG01VDBLRGZMUlR6WHBWWkdFZWowUS1wMmUtV1VtTWIwVXRBQVY5QU02QkFQejNwMTRQclFONFpaSGVGMlBHMzVJeVU1OHZCSnZtZmY3aXBUbTIxRXZhTnRya19IeFQ4ejRFdDlRMl9aUkVVRmZEbXduUkdLMWs4UGpYZ0tsNXVfdXE1VXpRc0RPeWxhWTBDTFEyRHF6VXBnNEhhZDFRcnMwa2M2QUQ1WDJvaHZYMXMzN1pDNGVpUWpYbjFpZGNsMjMzRkJ3ak9TaDV1Z1BtM3l6aDg2aXJQVmhUS0pXZXlTT3BhUQ?oc=5",
@@ -20589,7 +20637,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "tntsports.co.uk",
+      "source": "TNT Sports",
       "tier": 1,
       "title": "The three left-backs Man Utd considered signing before deadline amid ‘cash flow’ issues - Ornstein",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQN2FKaTI5TmluclZQaEFNa2wycVJEQ0xuaHdadV9KSFdwQ2cxV3NKWmxtWXlJQWhDb1VjbTZSSy1LcXhBbVhuLXZ2Q2V4SHpRUFBGZ0hQUGwxTFMyTUFrNVgtbFFrOGNBeG1CRndSam9FX1JVOXZtbGlLUFRPOWwwTF9FT25Fa3hLQl9uSjFsYjl5UXBwTF9GeHF1ei02ZmktTzhnNnE4OWFmRW9mWVdLd01mNEd3ZjNPT0tsZDBzc0ZJZ25temNManRLMHFtTi0xV1NDWU1VVnhpOUhqQjJEQ0llbUp2MG9KeUs1eUhfVXRvYUFXaEZSeG12TlduaktnNmhxTGZJS1I5SVdLSWowTTMyMEMwOGdpMHM2MFNWdjVNZXU1REs5MGFQajhMX1kz?oc=5",
@@ -20613,7 +20661,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "Official Manchester United Website",
+      "source": "Manchester United",
       "tier": 2,
       "title": "Diogo Dalot delights young people at Man Utd Foundation camp",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0lsNnJGMzBOckdQWW1XUDRLenF6ejVHUXNNODBJWTRpR0JXbU1UREUxV3VFMGxEYXNJcDIyc29vOUdQd0Z6RnVEMDJ1VDh3TGZXMUMzaVdwSURfZFdDUW54RDlHLVRJZXFYb3d5VXoza3A5NWhQMmF0aFkzLUZHVl9FazBwTE9n?oc=5",
@@ -20637,7 +20685,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "unitedinfocus.com",
+      "source": "United In Focus",
       "tier": 2,
       "title": "Andy Mitten reveals Man Utd's dream Luke Shaw alternative as it is sign of Ineos' huge transfer ambitions",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnhfbnR6Y1RBSUhValdKaXhFMG9nT0ZiNU5kRjlWcG5aYXhnZENxVHFKeFBFQU9HdzRzekxvdzFBcTEzb2ZWMUdLT19wODE1VW5MTkV0cUFuWi1kcWd6UDVzWThVUndFOWZIYmlwSlpkVF9VNWR5QkdBbG02VnRHTXpoa085ckttRm5XRjl1WTk3eXJRZTdHUjRVNFQ3MlpIUVRISGUxRlR2MlhvRW52M2JzRm9QVHFrUmpsOU9KYndzVGsyUTNwM1Z0QlQ2NmtjeDhIM0hVOHBLdw?oc=5",
@@ -20705,18 +20753,6 @@
       "titleZh": "罗马诺透露曼联“今天”与前锋达成“交易” - “我们来了”"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE1jc2g0WGFFX2xoSUVDcENCTjRVdTZITzZlREoyT3N4bTQ0bUtIc19kNUd5akcyalFmWW1mOWlUbU1XZXpjU0xuY0RnMkhJbjJSZ0JoQlRwa1pVMFJseXZUU1JIOGRadWs",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United: Have Michael Carrick's side taken a risk not signing a left-back?",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jc2g0WGFFX2xoSUVDcENCTjRVdTZITzZlREoyT3N4bTQ0bUtIc19kNUd5akcyalFmWW1mOWlUbU1XZXpjU0xuY0RnMkhJbjJSZ0JoQlRwa1pVMFJseXZUU1JIOGRadWs?oc=5",
-      "published": "2026-09-02T10:46:56.000Z",
-      "titleZh": "曼联：迈克尔·卡里克的球队是否冒着不签下左后卫的风险？"
-    },
-    {
       "id": "Rob Dawson:CBMiogFBVV95cUxNdWxXaXV6dEFXaS1jXzVubEN2ai14Mk5KcXRITGlWNnJhWndNOWJJaVdfZmhCMjJaRWJ1Z3lnOUtjcHRVMjRUbVJ6SjV3WGw0RU4yMUZzRWtCa1FVZWQ4eEZueFVPQUdkRWZyT211Y3prV2Zkc2RLdGJGSFZCd0o5cHI1WkJnYTE5Mlprb25aUDlTdVNXa3QwWW9ZYUZtemhkYVE",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -20741,28 +20777,16 @@
       "titleZh": "曼联的三级转会策略可能会回来咬他们"
     },
     {
-      "id": "Laurie Whitwell:CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
+      "id": "David Ornstein:CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
       "source": "The New York Times",
       "tier": 1,
       "title": "Everton see Joshua Zirkzee offer rejected by Manchester United - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0JKS1lYM2MzT0RoeGswNmpQZFdsNEFRT0cwQlVEMW00cER4Ny11VDRwUThvYXZkQW03alMxWmo0bmpqdDlSOEpudUhRd2o2dGw4SmVBbW96TzJnYXJIdXRWTVBXY2J4bkNMMUo2NmVQVnZ3aU9OcTZiZVJ3ZTVyWXdMYzVCbkJMVkh2dVlkUmx6RFc3TDBVRw?oc=5",
       "published": "2026-09-01T21:28:06.000Z",
       "titleZh": "埃弗顿看到Joshua Zirkzee的报价被曼联-田径队拒绝"
-    },
-    {
-      "id": "Laurie Whitwell:CBMifkFVX3lxTE9WZ292dEhsdjE4UXpRUTNvQ0NEVDZWbzl2TEpfUDFKQ05kX3o3aGJRNjBvRTBLdWt5T25SMHF2N2IzV1hwR1hyUW14bVlNTE16ZWxxUk9SNmo1NHJBMUtDVVpwaFdEcGNHRV9UWjJ0am9oR0xPU3FfZUhSYVJ0UQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Insider reveals expected Man Utd deadline day transfer is off",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZ292dEhsdjE4UXpRUTNvQ0NEVDZWbzl2TEpfUDFKQ05kX3o3aGJRNjBvRTBLdWt5T25SMHF2N2IzV1hwR1hyUW14bVlNTE16ZWxxUk9SNmo1NHJBMUtDVVpwaFdEcGNHRV9UWjJ0am9oR0xPU3FfZUhSYVJ0UQ?oc=5",
-      "published": "2026-09-01T19:17:49.000Z",
-      "titleZh": "业内人士透露，预计曼联截止日期转会已关闭"
     },
     {
       "id": "Fabrizio Romano:CBMi6AFBVV95cUxQZW9YRDV1SUtpV3A1M1lsSXlOMTVOdzB1WV9lRl9VeEZHQU9ibmZpY3VUSnlRV0dReXdzbWI2S1Fzc3VOeUIyWG5yMkRXTmdhTThzQmdxRHFGTE9OWk5Ha0E1U0RTdHlFQ0Ztb3JQamJLRnEyS0ZNSkw1cWxMcE5Cb2hteERWT3JQYmlERGRLR0RxdV9WRW5tMDJMM1VxcFZIdTRfZkk3ZmdjV3ZRZVVlY3BLUlNJbmZfbFo3WlV5ZWZqS09zS3ZLeXlES2VqZnNTV0JWUTF2QlpINklKQlpIcmdPNklxcFlG",
@@ -20777,43 +20801,19 @@
       "titleZh": "“做出决定” – Fabrizio Romano提供有关曼联和切尔西转会目标的最新信息"
     },
     {
-      "id": "Chris Wheeler:CBMiW0FVX3lxTE9HNmItZmMzd0NkLUJIdE1pQUEtZk8wTXpUbG9HMFVVa01OVlNXWmEtcE8zRU5nSXhIVU16NTJaUTJlY1RKTm9aRXJBTjRSbXhGdkxDT1BMVF9naVE",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Mshale",
-      "tier": 2,
-      "title": "Harry Maguire APOLOGIZES To United Fans After His Mistake COST The Loss To Hull City! Guardian (l4aCdL3JNb)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNmItZmMzd0NkLUJIdE1pQUEtZk8wTXpUbG9HMFVVa01OVlNXWmEtcE8zRU5nSXhIVU16NTJaUTJlY1RKTm9aRXJBTjRSbXhGdkxDT1BMVF9naVE?oc=5",
-      "published": "2026-09-01T10:02:35.000Z",
-      "titleZh": "哈利·马奎尔（ Harry Maguire ）向曼联球迷道歉，因为他的错误让赫尔城（ Hull City ）蒙受了损失！ Guardian (l4aCdL3JNb)"
-    },
-    {
-      "id": "Fabrizio Romano:CBMimwFBVV95cUxNWkg5cVB6dTVkRmhiSXlUT25QVktVdUR2dUQ5T2t4MkxjMVgtbE9HT2xuN3lnNnVIaWF6SU1SbFJ5RG11U1dzYTd1SnVHUzZJdHoxbm85Y1lUaHhfdFVBSmdsS1FHdU53ZndRT3g2TGRNZ3RDYk5yV1N5cmVWMFhsM25lNUs0ZURSRWVHamRvYnpUdGpkbGVBZWVENA",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "theScore",
+      "id": "Laurie Whitwell:CBMiqwFBVV95cUxPT1pTeW9Lc1VCTE5NdGhWQ0lHb3ZJdVBjdDNLTmxvZlE4dVdNY2FkNl9TMUZNeWhIMnMxUlFGa0YxaTNoMll1V3I4MXVsaDhOdDdQelBxXzNRSGxLcWNiNDYxSHhlZ010a3VjamJOeWl5QmtXOC1kaWFWMlViUGRuTFZrUFVkbjRMN3oxcmtWTHhYVkFmRl9LSFNxYlNfX0dOdW52SHFCcG1YOVE",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Football365",
       "tier": 1,
-      "title": "Latest transfer news and rumors ahead of deadline day",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkg5cVB6dTVkRmhiSXlUT25QVktVdUR2dUQ5T2t4MkxjMVgtbE9HT2xuN3lnNnVIaWF6SU1SbFJ5RG11U1dzYTd1SnVHUzZJdHoxbm85Y1lUaHhfdFVBSmdsS1FHdU53ZndRT3g2TGRNZ3RDYk5yV1N5cmVWMFhsM25lNUs0ZURSRWVHamRvYnpUdGpkbGVBZWVENA?oc=5",
-      "published": "2026-08-31T22:12:47.000Z",
-      "titleZh": "截止日期前的最新转会新闻和谣言"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMijAFBVV95cUxPdVBQeDhmSEN1TTRPMGRDVWRUU3BNSkI5WkdSdzJtZU14MXZ5UTlTaEtVNUxxZnpfb1hfNkV4TFlDSC1ENmpSUGJsZzJsSGZxNHpsZHM4aHREZ3EtT1Nqa2hPdEtmUTFMNjN6YUFpZEhPUkFkTlNMZzBROElLUFpRREdnNUZzR3JOSkUzdA",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Manchester United ready to make Bruno Fernandes best-paid player with new deal",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVBQeDhmSEN1TTRPMGRDVWRUU3BNSkI5WkdSdzJtZU14MXZ5UTlTaEtVNUxxZnpfb1hfNkV4TFlDSC1ENmpSUGJsZzJsSGZxNHpsZHM4aHREZ3EtT1Nqa2hPdEtmUTFMNjN6YUFpZEhPUkFkTlNMZzBROElLUFpRREdnNUZzR3JOSkUzdA?oc=5",
-      "published": "2026-08-31T13:26:10.000Z",
-      "titleZh": "曼联准备通过新协议成为布鲁诺·费尔南德斯收入最高的球员"
+      "title": "Man Utd want last-minute midfield signing with Gary Neville in ‘shock’ at transfer business",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1pTeW9Lc1VCTE5NdGhWQ0lHb3ZJdVBjdDNLTmxvZlE4dVdNY2FkNl9TMUZNeWhIMnMxUlFGa0YxaTNoMll1V3I4MXVsaDhOdDdQelBxXzNRSGxLcWNiNDYxSHhlZ010a3VjamJOeWl5QmtXOC1kaWFWMlViUGRuTFZrUFVkbjRMN3oxcmtWTHhYVkFmRl9LSFNxYlNfX0dOdW52SHFCcG1YOVE?oc=5",
+      "published": "2026-09-01T12:52:15.000Z",
+      "titleZh": "曼联希望在最后一刻与加里·内维尔（ Gary Neville ）签约，在转会业务中“震惊”"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-06T17:47:09.405Z",
+  "journalistsUpdatedAt": "2026-09-06T19:37:31.780Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

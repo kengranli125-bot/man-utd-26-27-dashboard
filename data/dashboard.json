@@ -20495,11 +20495,47 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMihwFBVV95cUxNbTl6ZU40U3VJTzFUOWhRc0xvbkVmNkNmanIyVHpWN0pxcDVKRUdYV3FRRlE4cHZMaVdfcHpscjJYT0EzQ0Q5M2tQbHA3MWJkSm4xQkt5cFh5aTdsYTNWY012R3R2SXFOM3lwMGJNbDd6LS1XdTF0U2d2bDFUT1E5dGZNMTh4UlU",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Why Man Utd did not sign a defender despite up to SIX leaving next year as leaky backline costs them again at Everton",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTl6ZU40U3VJTzFUOWhRc0xvbkVmNkNmanIyVHpWN0pxcDVKRUdYV3FRRlE4cHZMaVdfcHpscjJYT0EzQ0Q5M2tQbHA3MWJkSm4xQkt5cFh5aTdsYTNWY012R3R2SXFOM3lwMGJNbDd6LS1XdTF0U2d2bDFUT1E5dGZNMTh4UlU?oc=5",
+      "published": "2026-09-07T16:34:40.000Z",
+      "titleZh": "为什么曼联没有签下一名后卫，尽管明年最多有六名后卫离开，因为泄漏的后卫在埃弗顿再次让他们付出代价"
+    },
+    {
+      "id": "Andy Mitten:CBMinAFBVV95cUxOR0dUa0tuNTRUOXJSLXlSdlVvb1k3TU5SU2VXaXZXYnJNNWh1WXcwbDBQRnllQV91S20tcEZlVkhnMG1zS0NqbXNBXzZLcnVReU43T2stS1J4Z3VkXzk0WkxkWG5XWDBMWEpoU0VSSW5FODhmVDFaYUxjRnA4Q1RleHdULWdmeWlWYU12ZEpjanpWaDNfdnBLR2Fya0s",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United Q&A with Andy Mitten",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0dUa0tuNTRUOXJSLXlSdlVvb1k3TU5SU2VXaXZXYnJNNWh1WXcwbDBQRnllQV91S20tcEZlVkhnMG1zS0NqbXNBXzZLcnVReU43T2stS1J4Z3VkXzk0WkxkWG5XWDBMWEpoU0VSSW5FODhmVDFaYUxjRnA4Q1RleHdULWdmeWlWYU12ZEpjanpWaDNfdnBLR2Fya0s?oc=5",
+      "published": "2026-09-07T13:00:00.000Z",
+      "titleZh": "Andy Mitten的曼联问答体验"
+    },
+    {
+      "id": "Rob Dawson:CBMiuwFBVV95cUxQb3dVUVZXTUFXRVhaRkQ3VnNmb3ZBTGJDTkJndWJkUF9GUUlwcEREd1hDOGxKTEVzTTdJcHg2ZVNyY0twQWlnangybUY5QVFSdFFJVExnT0Q1QnR4SWUwSmJzcktLSnVsZ3R4OVc1SlJCN01YSndPR2pCVXVTWlJDRU9zM3NqMU1hNHIta3JDY2VlTTAzT1NFSGtZdFd1TGQ0VXpWb1kxMTlKTWUzTGtBYk1CV2lJeTk4bldN",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United still pursuing Leicester midfielder Louis Page - sources",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3dVUVZXTUFXRVhaRkQ3VnNmb3ZBTGJDTkJndWJkUF9GUUlwcEREd1hDOGxKTEVzTTdJcHg2ZVNyY0twQWlnangybUY5QVFSdFFJVExnT0Q1QnR4SWUwSmJzcktLSnVsZ3R4OVc1SlJCN01YSndPR2pCVXVTWlJDRU9zM3NqMU1hNHIta3JDY2VlTTAzT1NFSGtZdFd1TGQ0VXpWb1kxMTlKTWUzTGtBYk1CV2lJeTk4bldN?oc=5",
+      "published": "2026-09-07T10:33:00.000Z",
+      "titleZh": "曼联仍在追逐莱斯特中场球员路易斯·佩奇-消息来源"
+    },
+    {
       "id": "Chris Wheeler:CBMimwFBVV95cUxNNF9seGFtVGduS21zeWtMc2FvTzAwOE05WFVyY1N5TnRELTRHSnl5ekpZa05HV2d5M2FpOEZ2ajRseDRaWGs5RERzU3N4a1F2bVlneWtLLW11azkwWi1mX29jaDllQklFcmV3RDkyQXlhY0EzcTZhU0RJUUdocVY1SGxRcFVTaWtESFl4UldaSTIyUjhqMVoxeGlHWdIBoAFBVV95cUxOblBFZk4tVHpUR1hwRDFMOElMVF94WXB6TWtIVks0SHNhZGlyX1dJbnh2WTR4ZU41WEpDaHVyR3Z0ejVMakJ2c09LZUJWb2Zva2k1WWJIQWlDMDBEczVpOEpMaEpxNGJ2ZUJkUzJTbzhqYW1yalJPWGNMSnhHMGUxZ1M5TmU5dlJHbUhXWm0xLTFOQ3VUSGR5UmF4RGhmeXJ5",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "dailymail.com",
+      "source": "Daily Mail",
       "tier": 2,
       "title": "Prickly Michael Carrick must address the key cause of Man United's mixed start to the season - and the pressure is on to get the balance right in midfield after £150m rebuild, writes CHRIS WHEELER",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNF9seGFtVGduS21zeWtMc2FvTzAwOE05WFVyY1N5TnRELTRHSnl5ekpZa05HV2d5M2FpOEZ2ajRseDRaWGs5RERzU3N4a1F2bVlneWtLLW11azkwWi1mX29jaDllQklFcmV3RDkyQXlhY0EzcTZhU0RJUUdocVY1SGxRcFVTaWtESFl4UldaSTIyUjhqMVoxeGlHWdIBoAFBVV95cUxOblBFZk4tVHpUR1hwRDFMOElMVF94WXB6TWtIVks0SHNhZGlyX1dJbnh2WTR4ZU41WEpDaHVyR3Z0ejVMakJ2c09LZUJWb2Zva2k1WWJIQWlDMDBEczVpOEpMaEpxNGJ2ZUJkUzJTbzhqYW1yalJPWGNMSnhHMGUxZ1M5TmU5dlJHbUhXWm0xLTFOQ3VUSGR5UmF4RGhmeXJ5?oc=5",
@@ -20547,12 +20583,24 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "dailymail.com",
+      "source": "Daily Mail",
       "tier": 2,
       "title": "Everton vs Manchester United - Premier League RECAP: Ainsley Maitland-Niles scores stunner in 95TH MINUTE...",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0x3SmkxWVdVMWFSeUhuUVRPZTRVU0ozODNmMGppa2dZZnFjSFZ4LWVPT1FpbHNPVGIwY0c5M3EwQVZmZ19HMWN0dHdWNmJOZ3hVc3Ftc2xES0tmMEVJd0pKenFwa1dsYmR5dVNDT3pPQWVZc2NYNkFLRXg4LU1zRjVkX18wT0NpdXZ0WlBPbEI5MHhaNjYyM2NQMTlCNElDRENJ0gGoAUFVX3lxTE1rVlpjS0dsa2VlRUtTc1p0OXEwYlJpa24wUFVvS2hvcXd1aGFsdzNCaUtsQ2VMMHhZcnRCXzY2NnJTWnk3bXF6bloxaTBxS1g4S0pJYjJGWEt4YmhjS2lKQlZMaUhSNHU0cktxa2QxS2tMNkxoTG94RzhQTlMtQ2VlMnIxNm1LRWdsc2tENHJyRWFCbUQtZ3pjNmJqZTR6QnBETGY3cjZSOQ?oc=5",
       "published": "2026-09-06T16:24:42.000Z",
       "titleZh": "埃弗顿vs曼联-英超联赛回顾： Ainsley Maitland-Niles在第95分钟得分惊人..."
+    },
+    {
+      "id": "Simon Stone:CBMirgFBVV95cUxOMzc4M1NKZGhDaTRGOFRaZXo4TDJGcGJIVE1HTkVhUWlibjR4ZVJiM2lzS0ZiVFp6NFVWanhGUmtQZV8wRmVwQTdfMk9neC1KZXVLRk1PQWFSTlVhdC1BanYxOW9WLUJWUklNaWxJd0cxRTFOa1puempxRjhjTWp6ODhHTDNzZ1FEa213VkR1U1BOb24xcExZNHFQV29JX0xzSFo0Wk5kSDQ0MlQ1YVHSAbMBQVVfeXFMUDJhWlB5RzRsbV9jdkpQVF94NlVYUXNEaXM5TkRFaHVOMUxPM2VwWC1LWjQzSFU3cWhKQm15WGphMzRQYkpMZW12cEQwWnBCYm9OdVZzalNOMHJBN0xCMVJTRU5SSjRFbmRmQ2Nna09JS3E2UUN5TEdoU0VZWndyM296Y3ZfdHdjRDAtLUlFRzRDTGF1b05LRTdGanp6RXR2d2hxUmJaaGVFMG83UU9KYzBaNzg",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "utdreport.co.uk",
+      "tier": 1,
+      "title": "BBC journo singles out Man Utd star who’s ‘causing Everton massive problems’ in first half",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzc4M1NKZGhDaTRGOFRaZXo4TDJGcGJIVE1HTkVhUWlibjR4ZVJiM2lzS0ZiVFp6NFVWanhGUmtQZV8wRmVwQTdfMk9neC1KZXVLRk1PQWFSTlVhdC1BanYxOW9WLUJWUklNaWxJd0cxRTFOa1puempxRjhjTWp6ODhHTDNzZ1FEa213VkR1U1BOb24xcExZNHFQV29JX0xzSFo0Wk5kSDQ0MlQ1YVHSAbMBQVVfeXFMUDJhWlB5RzRsbV9jdkpQVF94NlVYUXNEaXM5TkRFaHVOMUxPM2VwWC1LWjQzSFU3cWhKQm15WGphMzRQYkpMZW12cEQwWnBCYm9OdVZzalNOMHJBN0xCMVJTRU5SSjRFbmRmQ2Nna09JS3E2UUN5TEdoU0VZWndyM296Y3ZfdHdjRDAtLUlFRzRDTGF1b05LRTdGanp6RXR2d2hxUmJaaGVFMG83UU9KYzBaNzg?oc=5",
+      "published": "2026-09-06T13:52:19.000Z",
+      "titleZh": "英国广播公司杂志挑选出曼联球星，他在上半场“给埃弗顿带来了巨大的问题”"
     },
     {
       "id": "Chris Wheeler:CBMikgFBVV95cUxNM3lNNGhReVlaaElqZzU2REc3d3lneW5vZG9iRnYwNGQ5d1RKQlQ1N0J2TEtQckVPUXRybG1NWWhSZlhPUElkYUloRm1oUDBUbUR1aHlOSXRHQm9iQkhDU1lRdUgzbUJlQzhzbndLLWk2bkk1YmlHcExlUlFYZnZ0WVdJazNRVE1ITzhSXzE5N09jQQ",
@@ -20589,6 +20637,18 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTlNSDRhS2RtUU1sWDUzTHJvT3dISnZmX1dXU2ZMbVBrRC01M0djQkpRN0RzMDF0ZURjSS1WdzRmUmJMNEFCckF4RjBkLXZXWHhzLWRRTTRvT2psQU53OHFpNXlkbWFmdHM2dl9EVDJRbUR3YmFpcTZnNUhsSGZreTBOX2tGQkZwMi1KaW1hS2p0enZ6ZjhaVU9SQlpZME5EMkY1RmZBSndoMTY4T0NRZ1dTWQ?oc=5",
       "published": "2026-09-05T21:30:00.000Z",
       "titleZh": "卡里克：曼联“可以与英超对手竞争” ，尽管花费更少"
+    },
+    {
+      "id": "Laurie Whitwell:CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
+      "published": "2026-09-05T19:32:00.000Z",
+      "titleZh": "曼联的转会窗口：新中场，贝拉达对霍尔的呼吁和最后一天的挫折-田径"
     },
     {
       "id": "David Ornstein:CBMipgFBVV95cUxOLXN4R091SHd3eFNPdkVCTU5FUXRGcHVfSVNxYmJ1SVVzek5HVGpCb2taa1p5OHBEb0lJa0IxT3dVbV93LXFpRmtpZkp1cWZYdFpmS0kxTFFFWmhObm5VOW1LVHFjQnZ6M2pvUkE4UXdnVDMyZUpqR2VLRTd4R1ZRVXhPYzNMak9MZ1pmcVAyNmJoOG0wdjloWktXRUdqaVRzWms2dklR",
@@ -20639,18 +20699,6 @@
       "titleZh": "三名左后卫曼联在“现金流”问题上考虑在截止日期前签约-奥恩斯坦"
     },
     {
-      "id": "Laurie Whitwell:CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
-      "published": "2026-09-05T07:00:00.000Z",
-      "titleZh": "曼联的转会窗口：新中场，贝拉达对霍尔的呼吁和最后一天的挫折-田径"
-    },
-    {
       "id": "Simon Stone:CBMilwFBVV95cUxPMzBGWkJkS3pPdml2TFR4M3JBWUs5ZFlZZXNseTNHWFNRTjBIM0lsWm9WcTdyRnA2OGxKWGpVZzVKRk41U0dBRWhlVllFb01ueS1ibDNndFJnWHBUYi1CS3ZQaXltelNNdXdZUTRTbUNXTTB5NjNYOHF0SVVqeXFEbkh0RTdGRVUwbHZabU9ZUHdsbVg1SFA4",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -20687,18 +20735,6 @@
       "titleZh": "比利时GAFFE和Baleba的红人英雄揭晓后， Lammens惊呆了幕后"
     },
     {
-      "id": "Andy Mitten:CBMiwAFBVV95cUxPb2l5d0hlRDJBQXlzTHlDcUkwU2JzNmRZVGpJaENqbWtUQ19kWnF5blIxWTF3eEQ2YTFNUUVZcVhHZDdfZ3NibEdaMF8zMXNiUEJlV0pMQUhseFNuZDFWVlB0blZGOVJpT1paS091SkdvLVA3SU5uS3M4RWU5X0xkbloxWU5rR0RKX0s4Zm1kcTI0cjdjcVdFZUU1NzRJSi1TVUZLVUJCX0lubDRBZlZ4a0VMSjdEMHRNZDNGVHFKX1Y",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "United In Focus",
-      "tier": 2,
-      "title": "Why Man Utd's 25-man Champions League squad falls into one of TWO different tiers",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb2l5d0hlRDJBQXlzTHlDcUkwU2JzNmRZVGpJaENqbWtUQ19kWnF5blIxWTF3eEQ2YTFNUUVZcVhHZDdfZ3NibEdaMF8zMXNiUEJlV0pMQUhseFNuZDFWVlB0blZGOVJpT1paS091SkdvLVA3SU5uS3M4RWU5X0xkbloxWU5rR0RKX0s4Zm1kcTI0cjdjcVdFZUU1NzRJSi1TVUZLVUJCX0lubDRBZlZ4a0VMSjdEMHRNZDNGVHFKX1Y?oc=5",
-      "published": "2026-09-04T11:38:39.000Z",
-      "titleZh": "为什么曼联的25人冠军联赛阵容属于两个不同的级别之一"
-    },
-    {
       "id": "Andy Mitten:CBMi2gFBVV95cUxQdnhfbnR6Y1RBSUhValdKaXhFMG9nT0ZiNU5kRjlWcG5aYXhnZENxVHFKeFBFQU9HdzRzekxvdzFBcTEzb2ZWMUdLT19wODE1VW5MTkV0cUFuWi1kcWd6UDVzWThVUndFOWZIYmlwSlpkVF9VNWR5QkdBbG02VnRHTXpoa085ckttRm5XRjl1WTk3eXJRZTdHUjRVNFQ3MlpIUVRISGUxRlR2MlhvRW52M2JzRm9QVHFrUmpsOU9KYndzVGsyUTNwM1Z0QlQ2NmtjeDhIM0hVOHBLdw",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -20723,18 +20759,6 @@
       "titleZh": "惊喜选择： Mitten透露哪位曼联球星在内部被认为是俱乐部的“最佳签约年份”"
     },
     {
-      "id": "Laurie Whitwell:CBMib0FVX3lxTFBaWUNkQnJxcTVQVHV3ZXFTOGpqRW5zYjhVZHJSZUlOS0VwUFpNZkdqYnJjal85UWgyZTB1WV9ILWd5bW1sUjNySlctUUNSdjVtTzhmcGRXbGxUX2JFUVRoajRvc2ktb1hrUmRZWXQ5OA",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "Read Man Utd",
-      "tier": 1,
-      "title": "Why Man Utd missed out on signing Lewis Hall",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaWUNkQnJxcTVQVHV3ZXFTOGpqRW5zYjhVZHJSZUlOS0VwUFpNZkdqYnJjal85UWgyZTB1WV9ILWd5bW1sUjNySlctUUNSdjVtTzhmcGRXbGxUX2JFUVRoajRvc2ktb1hrUmRZWXQ5OA?oc=5",
-      "published": "2026-09-03T19:02:32.000Z",
-      "titleZh": "曼联为什么没有签下刘易斯·霍尔"
-    },
-    {
       "id": "Rob Dawson:CBMiogFBVV95cUxNbWY3MVgwVmJ6c2pvRlhseWhuX2ctRTNIVkVKTjhJTlRjeTVYSEZfSHlDd0FlRWV4SDFHdkJuT1FuYnpZVlZvQi1rcTNHaUdpOEx2RG1jcDJzemlpLV9BOXQzTFhIZ3hnV1FWYlI3TEtGR29UUXQ4S0xkcHNZQjFZdmpBSmJkTVZhN04tOWNPUnE5VkU1TGhUak1Eakt1d2lnOFE",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -20757,33 +20781,9 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVBnQW5MaG1nOWlzQXNvc2E2VkNueEU0clpRY0ZKUnc2WFlYaXUxeF9yOUlTaDB1VGVjRnY0dzFpTk1XejhBU1BSakJBS1FzMkU0UUZlbUU5NUhRY0NUUldFVHZHTXVQUWdBV1U0TTNDTW5POXQ1RktVM3dVTWVTUWpwSV9RMENzZlZieXoteDd2OGJ3dk9ZNnR0YWF1XzdUTlZpbVRmZDhKajFYUnZ5WQ?oc=5",
       "published": "2026-09-03T08:00:00.000Z",
       "titleZh": "了解曼联的“积木”转会策略"
-    },
-    {
-      "id": "James Ducker:CBMiowFBVV95cUxQeWFFTE41bXBNTld5dmh2UWdPbTZVdHBfNHlnVFQ2RWF1eXpyZURzbjRnS2lBMFhPVzdaTnMwWkRMb3ZJWDQwVDVUU3NhNF9RVUJ1ZGtvajYya0N1Tzd2Vy13Y0dvVzNSZmVwa3k5TzgxRHdPSkNmeUg0Z1V5eGZVR2lWU1NjaGpxcmxiM2FHbFRqbFNuTVd2SXNwTXk3QWhhVVZV",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd to make four signings in 2027 as INEOS get 'buy in' from No 1 target",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWFFTE41bXBNTld5dmh2UWdPbTZVdHBfNHlnVFQ2RWF1eXpyZURzbjRnS2lBMFhPVzdaTnMwWkRMb3ZJWDQwVDVUU3NhNF9RVUJ1ZGtvajYya0N1Tzd2Vy13Y0dvVzNSZmVwa3k5TzgxRHdPSkNmeUg0Z1V5eGZVR2lWU1NjaGpxcmxiM2FHbFRqbFNuTVd2SXNwTXk3QWhhVVZV?oc=5",
-      "published": "2026-09-02T15:28:34.000Z",
-      "titleZh": "曼联将在2027年进行四次签约，因为INEOS从排名第一的目标中获得“买入”"
-    },
-    {
-      "id": "Fabrizio Romano:CBMinAFBVV95cUxNNkpJNFI5dE1KbE5kQV9lMmFOUWRCSVJieGdXclpVTm5zeUwtLVpmNWNUVlAxM2VUZ3VNd1kwUEloaDRBR3hnMi1iWTE1WmRZN0d3X0d6VS01U2lmZFFmWXEyQTR5d3duc0w5Q0lVUkxaeERlM1lTck1PQldCdll5QkxxNGprTUNCMlB3TmNncE5SeDFPREVrUGc3NUY",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals Man Utd 'DEAL DONE' for striker with medical 'today' - 'here we go'",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkpJNFI5dE1KbE5kQV9lMmFOUWRCSVJieGdXclpVTm5zeUwtLVpmNWNUVlAxM2VUZ3VNd1kwUEloaDRBR3hnMi1iWTE1WmRZN0d3X0d6VS01U2lmZFFmWXEyQTR5d3duc0w5Q0lVUkxaeERlM1lTck1PQldCdll5QkxxNGprTUNCMlB3TmNncE5SeDFPREVrUGc3NUY?oc=5",
-      "published": "2026-09-02T14:27:36.000Z",
-      "titleZh": "罗马诺透露曼联“今天”与前锋达成“交易” - “我们来了”"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-07T12:46:55.100Z",
+  "journalistsUpdatedAt": "2026-09-07T17:57:22.422Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

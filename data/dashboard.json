@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:23:12.605Z",
+  "updatedAt": "2026-09-07T04:39:06.983Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -17973,7 +17973,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-06T20:23:11.437Z"
+        "generatedAt": "2026-09-07T04:39:06.100Z"
       }
     },
     {
@@ -19869,6 +19869,13 @@
   ],
   "news": [
     {
+      "title": "Overy joins Sydney FC from Manchester United to chase Socceroos dream",
+      "published": "2026-09-07T00:00:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49853230/manchester-united-teen-lands-league-men-chase-socceroos-dream",
+      "image": "https://a.espncdn.com/photo/2025/1106/r1571933_1296x729_16-9.jpg",
+      "titleZh": "Overy从曼联加入悉尼足球俱乐部，追逐Socceroos的梦想"
+    },
+    {
       "title": "Leboeuf: Everton made Bruno Fernandes 'invisible' in Man United draw",
       "published": "2026-09-06T19:04:16Z",
       "url": "https://www.espn.com/video/clip/_/id/49851253/everton-made-bruno-fernandes-invisible-man-united-draw",
@@ -19944,13 +19951,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
       "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
       "titleZh": "曼联通过转会“赚得最多” --迈克尔·卡里克（ Michael Carrick ）"
-    },
-    {
-      "title": "Newcastle 'counting' on Man United target Lewis Hall long-term - Matthias Jaissle",
-      "published": "2026-09-04T11:48:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49823683/lewis-hall-newcastle-man-united-premier-league-transfer-rumours",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711244_1296x729_16-9.jpg",
-      "titleZh": "纽卡斯尔“指望”曼联的长期目标刘易斯·霍尔-马蒂亚斯·贾斯尔"
     }
   ],
   "transfers": [

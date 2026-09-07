@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:39:06.983Z",
+  "updatedAt": "2026-09-07T12:30:23.019Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -17973,7 +17973,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-07T04:39:06.100Z"
+        "generatedAt": "2026-09-07T12:30:21.501Z"
       }
     },
     {
@@ -19869,6 +19869,27 @@
   ],
   "news": [
     {
+      "title": "Benjamin Šeško urges Man United to find positives after 'painful' Everton draw",
+      "published": "2026-09-07T11:57:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858651/benjamin-šeško-urges-man-united-find-positives-painful-everton-draw",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712717_1296x729_16-9.jpg",
+      "titleZh": "本杰明·舍什科（ Benjamin Šeško ）敦促曼联在“痛苦”的埃弗顿平局后找到积极的一面"
+    },
+    {
+      "title": "Man United still pursuing Leicester midfielder Louis Page - sources",
+      "published": "2026-09-07T10:34:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
+      "titleZh": "曼联仍在追逐莱斯特中场球员路易斯·佩奇-消息来源"
+    },
+    {
+      "title": "Champions League Power Rankings before MD1: Who's No. 1?",
+      "published": "2026-09-07T08:54:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49826219/champions-league-power-rankings-md1-no-1-psg-arsenal-barcelona-bayern-munich",
+      "image": "https://a.espncdn.com/photo/2026/0530/r1665877_1296x729_16-9.jpg",
+      "titleZh": "MD1之前的冠军联赛实力排名：谁是第一？"
+    },
+    {
       "title": "Overy joins Sydney FC from Manchester United to chase Socceroos dream",
       "published": "2026-09-07T00:00:51Z",
       "url": "https://www.espn.com/soccer/story/_/id/49853230/manchester-united-teen-lands-league-men-chase-socceroos-dream",
@@ -19930,27 +19951,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
       "image": "https://a.espncdn.com/photo/2026/0905/r1711840_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：利物浦，曼联眼鬃毛"
-    },
-    {
-      "title": "Premier League VAR review: Should Forest's goal have stood vs. Spurs?",
-      "published": "2026-09-06T00:47:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711837_1296x729_16-9.jpg",
-      "titleZh": "英超联赛VAR回顾：森林的目标是否应该与马刺的目标相对？"
-    },
-    {
-      "title": "Carrick 'delighted' with new Manchester United signings",
-      "published": "2026-09-05T12:31:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49834440/carrick-delighted-new-manchester-united-signings",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Carrick_delighted_with_new_Manchester_United_signings/dm_260905_Carrick_delighted_with_new_Manchester_United_signings.jpg",
-      "titleZh": "卡里克对曼联的新签约感到“高兴”"
-    },
-    {
-      "title": "Man United 'made the most' of money available with transfers - Michael Carrick",
-      "published": "2026-09-04T13:34:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
-      "titleZh": "曼联通过转会“赚得最多” --迈克尔·卡里克（ Michael Carrick ）"
     }
   ],
   "transfers": [
@@ -19960,26 +19960,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
       "image": "https://a.espncdn.com/photo/2026/0905/r1711840_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：利物浦，曼联眼鬃毛",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Carrick 'delighted' with new Manchester United signings",
-      "published": "2026-09-05T12:31:36Z",
-      "url": "https://www.espn.com/video/clip/_/id/49834440/carrick-delighted-new-manchester-united-signings",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Carrick_delighted_with_new_Manchester_United_signings/dm_260905_Carrick_delighted_with_new_Manchester_United_signings.jpg",
-      "titleZh": "卡里克对曼联的新签约感到“高兴”",
-      "player": "",
-      "status": "已完成",
-      "statusType": "done"
-    },
-    {
-      "title": "Man United 'made the most' of money available with transfers - Michael Carrick",
-      "published": "2026-09-04T13:34:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49824904/man-united-made-most-money-available-transfers-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
-      "titleZh": "曼联通过转会“赚得最多” --迈克尔·卡里克（ Michael Carrick ）",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

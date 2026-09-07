@@ -20495,11 +20495,23 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMitAFBVV95cUxNRHBsSTNSRmdldVYxUDdGcm1vZFJYUnNlbkRidUFVT1QtMnpOS1VKaXBXS3JOS25sdkRnSHFuQVpGZFhvcFlwVllFVFZyeEhtQlc5QmgzYVljb1M3SVI2MzhuVjAzVjlIVl9tREhWSFpocURGRlV0YllWWElMTkc2UVlQbmFYb01BV25CVDBGU1c5bGRuNDJXckFMaFFtd0R6eHNKSm16Z0J4Wm4yQWNXZlY1SE8",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "readliverpoolfc.com",
+      "tier": 1,
+      "title": "‘Here we go’ – Fabrizio Romano confirms Liverpool player will join Manchester United",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHBsSTNSRmdldVYxUDdGcm1vZFJYUnNlbkRidUFVT1QtMnpOS1VKaXBXS3JOS25sdkRnSHFuQVpGZFhvcFlwVllFVFZyeEhtQlc5QmgzYVljb1M3SVI2MzhuVjAzVjlIVl9tREhWSFpocURGRlV0YllWWElMTkc2UVlQbmFYb01BV25CVDBGU1c5bGRuNDJXckFMaFFtd0R6eHNKSm16Z0J4Wm4yQWNXZlY1SE8?oc=5",
+      "published": "2026-09-07T20:08:40.000Z",
+      "titleZh": "‘Here we go’ – Fabrizio Romano confirms Liverpool player will join Manchester United"
+    },
+    {
       "id": "Samuel Luckhurst:CBMihwFBVV95cUxNbTl6ZU40U3VJTzFUOWhRc0xvbkVmNkNmanIyVHpWN0pxcDVKRUdYV3FRRlE4cHZMaVdfcHpscjJYT0EzQ0Q5M2tQbHA3MWJkSm4xQkt5cFh5aTdsYTNWY012R3R2SXFOM3lwMGJNbDd6LS1XdTF0U2d2bDFUT1E5dGZNMTh4UlU",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "tier": 2,
       "title": "Why Man Utd did not sign a defender despite up to SIX leaving next year as leaky backline costs them again at Everton",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTl6ZU40U3VJTzFUOWhRc0xvbkVmNkNmanIyVHpWN0pxcDVKRUdYV3FRRlE4cHZMaVdfcHpscjJYT0EzQ0Q5M2tQbHA3MWJkSm4xQkt5cFh5aTdsYTNWY012R3R2SXFOM3lwMGJNbDd6LS1XdTF0U2d2bDFUT1E5dGZNMTh4UlU?oc=5",
@@ -20547,7 +20559,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "tier": 2,
       "title": "Three points from Man Utd's Everton draw as Carrick puts himself in firing line",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEsxRkRDeFJpdDJDc2Vfd2hGS2lVekdPenM1ZER4X01IZy1seWlocFJmZ3ctNUhSVlFmc3BOTzdmZEFYQVphX3dHSGtoYjkyMEtJd0pRdWMtajJnU2dKZ2U5ZmdYeFpIYlRVSkkwNzVoZFFYYW10R3lpb2F4VDlaT1hmN0J1NHdCbG1YekFRanROS2J1MHJyWlluR1lSN0E?oc=5",
@@ -20631,7 +20643,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Carrick: Man United 'can compete' with Premier League rivals despite spending less",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTlNSDRhS2RtUU1sWDUzTHJvT3dISnZmX1dXU2ZMbVBrRC01M0djQkpRN0RzMDF0ZURjSS1WdzRmUmJMNEFCckF4RjBkLXZXWHhzLWRRTTRvT2psQU53OHFpNXlkbWFmdHM2dl9EVDJRbUR3YmFpcTZnNUhsSGZreTBOX2tGQkZwMi1KaW1hS2p0enZ6ZjhaVU9SQlpZME5EMkY1RmZBSndoMTY4T0NRZ1dTWQ?oc=5",
@@ -20715,7 +20727,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "tier": 2,
       "title": "Carrick gives verdict on window & claims squad player's 'like a new signing'",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXJzVjFkcjh0WHNDSXJMYlZXVFJnZVh0Y0FDLUNPWFBnbWFDdmtGQ0g2UXUtazhHYWVKakVZSzgtejJDWnV3Y2JmU3BFQzlncTE4ekNMdUFSSmZBRmFsWE9SWHlWZmZFUkVSTDVIQTlBazBpb0FMRmVqTzE0czA0RC1TWlJDbnNEbXN5V054bw?oc=5",
@@ -20769,21 +20781,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWY3MVgwVmJ6c2pvRlhseWhuX2ctRTNIVkVKTjhJTlRjeTVYSEZfSHlDd0FlRWV4SDFHdkJuT1FuYnpZVlZvQi1rcTNHaUdpOEx2RG1jcDJzemlpLV9BOXQzTFhIZ3hnV1FWYlI3TEtGR29UUXQ4S0xkcHNZQjFZdmpBSmJkTVZhN04tOWNPUnE5VkU1TGhUak1Eakt1d2lnOFE?oc=5",
       "published": "2026-09-03T12:15:24.000Z",
       "titleZh": "了解曼联的“积木”转会策略"
-    },
-    {
-      "id": "Rob Dawson:CBMisAFBVV95cUxQMVBnQW5MaG1nOWlzQXNvc2E2VkNueEU0clpRY0ZKUnc2WFlYaXUxeF9yOUlTaDB1VGVjRnY0dzFpTk1XejhBU1BSakJBS1FzMkU0UUZlbUU5NUhRY0NUUldFVHZHTXVQUWdBV1U0TTNDTW5POXQ1RktVM3dVTWVTUWpwSV9RMENzZlZieXoteDd2OGJ3dk9ZNnR0YWF1XzdUTlZpbVRmZDhKajFYUnZ5WQ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Inside Manchester United's 'building blocks' transfer strategy",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVBnQW5MaG1nOWlzQXNvc2E2VkNueEU0clpRY0ZKUnc2WFlYaXUxeF9yOUlTaDB1VGVjRnY0dzFpTk1XejhBU1BSakJBS1FzMkU0UUZlbUU5NUhRY0NUUldFVHZHTXVQUWdBV1U0TTNDTW5POXQ1RktVM3dVTWVTUWpwSV9RMENzZlZieXoteDd2OGJ3dk9ZNnR0YWF1XzdUTlZpbVRmZDhKajFYUnZ5WQ?oc=5",
-      "published": "2026-09-03T08:00:00.000Z",
-      "titleZh": "了解曼联的“积木”转会策略"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-07T21:28:05.911Z",
+  "journalistsUpdatedAt": "2026-09-07T23:44:10.947Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

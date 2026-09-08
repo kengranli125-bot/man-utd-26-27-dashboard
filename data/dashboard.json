@@ -20484,13 +20484,25 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5",
+      "published": "2026-09-08T15:30:44.000Z",
+      "titleZh": "David Ornstein的The Athletic FC问答： 1月份的活跃团队？卡马拉、利物浦和切尔西？伯恩茅斯的销售？"
+    },
+    {
       "id": "Laurie Whitwell:CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
-      "title": "Manchester United fan group to protest season ticket sanctions before derby",
+      "title": "Manchester United fan group to protest season ticket sanctions before derby - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB?oc=5",
       "published": "2026-09-08T13:51:28.000Z",
       "titleZh": "曼联球迷团体在德比前抗议季票制裁"
@@ -20532,6 +20544,30 @@
       "titleZh": "Joshua Zirkzee在曼联的日子屈指可数"
     },
     {
+      "id": "Fabrizio Romano:CBMiyAFBVV95cUxPX0tUY2VmVGY0Ml9HQjgxRUh6SnVaYmJ1NS1hc2R0UDBNSkQ4VXBIRXFOSjNLUHlxZWFSX0JIUjlZcV9MMThDQXZvcWgtM2lSczRUX1BERUZhc0VpX2g3aEp2SWItOUItV2dMMlotdHFZRWlOT1FYWFREX0pvTklJYy1jNmg3Q1NCdnVBTDc0YzRjRnFaU0hZa2xSbEdPTDZwUmZuQkNKcWNjcC1BUFFfZzQ4LUJ6Szh5bWlyeTB0c2pKaW55U0p2Z9IBzgFBVV95cUxQX2x6SGk0bl9qS1Jmb0RldDlRaUNJMWRKaG9CX19mbXkxUXJTTlc0WmVLak5qcHFENUoyOFBBb1Nfd0NjUU1teDBuQ092Y2RYb3RnLUZMZHE5UVZCQ0pESlVmRzQzMmpTZndKczJ0MTJnVU0yMUl5aElXbGYtajJiTUpKZ3dKNlp3dV9TdGxnaWVFUkNWNC1GRnBHelVBaHJvUXh2R3JDY1VnQnJEWlFrczJ4NHhyUldCWjIyU3EtcjNvakdNOERGckZDY01iUQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "utdreport.co.uk",
+      "tier": 1,
+      "title": "‘My feeling is…’: Romano admits he’s been left shocked by Man Utd summer window for one key reason",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0tUY2VmVGY0Ml9HQjgxRUh6SnVaYmJ1NS1hc2R0UDBNSkQ4VXBIRXFOSjNLUHlxZWFSX0JIUjlZcV9MMThDQXZvcWgtM2lSczRUX1BERUZhc0VpX2g3aEp2SWItOUItV2dMMlotdHFZRWlOT1FYWFREX0pvTklJYy1jNmg3Q1NCdnVBTDc0YzRjRnFaU0hZa2xSbEdPTDZwUmZuQkNKcWNjcC1BUFFfZzQ4LUJ6Szh5bWlyeTB0c2pKaW55U0p2Z9IBzgFBVV95cUxQX2x6SGk0bl9qS1Jmb0RldDlRaUNJMWRKaG9CX19mbXkxUXJTTlc0WmVLak5qcHFENUoyOFBBb1Nfd0NjUU1teDBuQ092Y2RYb3RnLUZMZHE5UVZCQ0pESlVmRzQzMmpTZndKczJ0MTJnVU0yMUl5aElXbGYtajJiTUpKZ3dKNlp3dV9TdGxnaWVFUkNWNC1GRnBHelVBaHJvUXh2R3JDY1VnQnJEWlFrczJ4NHhyUldCWjIyU3EtcjNvakdNOERGckZDY01iUQ?oc=5",
+      "published": "2026-09-08T10:38:19.000Z",
+      "titleZh": "“我的感觉是……” ： Romano承认，他被曼联的夏季窗户震惊了一个关键原因"
+    },
+    {
+      "id": "Simon Stone:CBMiakFVX3lxTFBUTUVyQWlNZzNsa1hvU3dxenJNNWwxdVhkUlgxczVtWnhqbndTNDRxUlN5alNDZnp1YmhLNWNfZ2pycVJKeHpfS19NcFQ4RU5HNFpXZVY2VWdfcUhndDFpR3hWWS1OUlptOEE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: SumUp becomes shirt sleeve sponsor",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTUVyQWlNZzNsa1hvU3dxenJNNWwxdVhkUlgxczVtWnhqbndTNDRxUlN5alNDZnp1YmhLNWNfZ2pycVJKeHpfS19NcFQ4RU5HNFpXZVY2VWdfcUhndDFpR3hWWS1OUlptOEE?oc=5",
+      "published": "2026-09-08T10:12:57.000Z",
+      "titleZh": "曼联新闻： SumUp成为衬衫袖子赞助商"
+    },
+    {
       "id": "Carl Anka:CBMikgFBVV95cUxNQmhSbUtzem5lTUN5YlZIUjJwT0hiMnN6d09uTmtIenRKajhwV01VUm9ISHEzT1hFYjhzYWZxZ21tM25YdXc1S3VQbWxWd2dmZGxzTEsxbVRhYmV1eUpHRHhpaTZWMjVBWllpdUdlMDBIRHZjbGlRNGJfbFA2OVhSQ0lHSUhTbFVpSXJ6ZktrQ3hxQQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
@@ -20556,6 +20592,18 @@
       "titleZh": "曼联有信心他们将击败阿森纳到明年1月签约，因为明智的计划显示"
     },
     {
+      "id": "Fabrizio Romano:CBMirwFBVV95cUxONnNId0p3T1hRWkFodGhaYkhhMDhTOXRnSUFMZEctVWVNaUthVHA1ZUV1cFIwa1hFSEZCOWhvbEtzajNZUXBjU0tYWXFyWVFGR0g2c01SemZDZkZkX3lEbDBBelBTWW5oLWxnTS1ZWUwyTkZyemxVTWt5cHlHUU9KYW1rR2xHcmc0VFdXQjZJMW95Q01kVkUwRGpudVlWVGt5Vk94UE1fZnlvb2Z2cnJF",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals next Man Utd signing 'completed'; INEOS primed to land Arsenal target",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnNId0p3T1hRWkFodGhaYkhhMDhTOXRnSUFMZEctVWVNaUthVHA1ZUV1cFIwa1hFSEZCOWhvbEtzajNZUXBjU0tYWXFyWVFGR0g2c01SemZDZkZkX3lEbDBBelBTWW5oLWxnTS1ZWUwyTkZyemxVTWt5cHlHUU9KYW1rR2xHcmc0VFdXQjZJMW95Q01kVkUwRGpudVlWVGt5Vk94UE1fZnlvb2Z2cnJF?oc=5",
+      "published": "2026-09-08T07:23:46.000Z",
+      "titleZh": "Romano透露下一个曼联签约“完成” ； INEOS准备登陆阿森纳目标"
+    },
+    {
       "id": "Fabrizio Romano:CBMitAFBVV95cUxNRHBsSTNSRmdldVYxUDdGcm1vZFJYUnNlbkRidUFVT1QtMnpOS1VKaXBXS3JOS25sdkRnSHFuQVpGZFhvcFlwVllFVFZyeEhtQlc5QmgzYVljb1M3SVI2MzhuVjAzVjlIVl9tREhWSFpocURGRlV0YllWWElMTkc2UVlQbmFYb01BV25CVDBGU1c5bGRuNDJXckFMaFFtd0R6eHNKSm16Z0J4Wm4yQWNXZlY1SE8",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -20572,7 +20620,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
+      "source": "thesun.ie",
       "tier": 2,
       "title": "Why Man Utd did not sign a defender despite up to SIX leaving next year as leaky backline costs them again at Everton",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTl6ZU40U3VJTzFUOWhRc0xvbkVmNkNmanIyVHpWN0pxcDVKRUdYV3FRRlE4cHZMaVdfcHpscjJYT0EzQ0Q5M2tQbHA3MWJkSm4xQkt5cFh5aTdsYTNWY012R3R2SXFOM3lwMGJNbDd6LS1XdTF0U2d2bDFUT1E5dGZNMTh4UlU?oc=5",
@@ -20608,7 +20656,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
+      "source": "thesun.ie",
       "tier": 2,
       "title": "Three points from Man Utd's Everton draw as Carrick puts himself in firing line",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEsxRkRDeFJpdDJDc2Vfd2hGS2lVekdPenM1ZER4X01IZy1seWlocFJmZ3ctNUhSVlFmc3BOTzdmZEFYQVphX3dHSGtoYjkyMEtJd0pRdWMtajJnU2dKZ2U5ZmdYeFpIYlRVSkkwNzVoZFFYYW10R3lpb2F4VDlaT1hmN0J1NHdCbG1YekFRanROS2J1MHJyWlluR1lSN0E?oc=5",
@@ -20616,15 +20664,15 @@
       "titleZh": "曼联埃弗顿平局3分，卡里克将自己置于射门线"
     },
     {
-      "id": "James Ducker:CBMiqgFBVV95cUxOakpkMk1PRl8yYnowRDEwNl9GdTFQZWt5ZVI3dXV3SXN2WW50M1FacFRQV3Nnd0hrLXFLa1paOEltT0xSdW5FNmo1WHFRWU1BMW15ZXN3dF9PYzdueU4tOUZDY21SRVMtZjFxeVh5cmNNRlFaSlNFVlhfUHRDRlk5Z29mbmE0N3lyUGRxalJCUW5vRVF3dDFqZDZkUVM2TkNDMHR0Ry1meHRFdw",
+      "id": "James Ducker:CBMifEFVX3lxTE80clNtRldvRmszNmR2dURsdkpkRFUyaGlNOXlKMUc3ZmFmelNUem5nUm43eVJKb3J5U1dSZmIwVk5XLXlhbHZTTi0teUs1c00yU1FuRmZ3ZGZta2NlaUkwUHBiRWJodHB6VGhQanl6Tk1qSzRRenN5dHkxcnE",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
+      "source": "Yahoo",
       "tier": 1,
       "title": "Man Utd spent £155m this summer but face the same old problems",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpkMk1PRl8yYnowRDEwNl9GdTFQZWt5ZVI3dXV3SXN2WW50M1FacFRQV3Nnd0hrLXFLa1paOEltT0xSdW5FNmo1WHFRWU1BMW15ZXN3dF9PYzdueU4tOUZDY21SRVMtZjFxeVh5cmNNRlFaSlNFVlhfUHRDRlk5Z29mbmE0N3lyUGRxalJCUW5vRVF3dDFqZDZkUVM2TkNDMHR0Ry1meHRFdw?oc=5",
-      "published": "2026-09-06T17:29:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80clNtRldvRmszNmR2dURsdkpkRFUyaGlNOXlKMUc3ZmFmelNUem5nUm43eVJKb3J5U1dSZmIwVk5XLXlhbHZTTi0teUs1c00yU1FuRmZ3ZGZta2NlaUkwUHBiRWJodHB6VGhQanl6Tk1qSzRRenN5dHkxcnE?oc=5",
+      "published": "2026-09-06T17:29:15.000Z",
       "titleZh": "曼联今年夏天花了1.55亿英镑，但面临着同样的老问题"
     },
     {
@@ -20682,7 +20730,7 @@
       "reporterOutlet": "每日邮报曼联跟队",
       "source": "TEAMtalk",
       "tier": 2,
-      "title": "Man Utd news: INEOS reach decision on new Bruno Fernandes contract - 'It'll be a good move'",
+      "title": "Man Utd reach decision on new Bruno Fernandes contract – ‘It’ll be a good move’",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3lNNGhReVlaaElqZzU2REc3d3lneW5vZG9iRnYwNGQ5d1RKQlQ1N0J2TEtQckVPUXRybG1NWWhSZlhPUElkYUloRm1oUDBUbUR1aHlOSXRHQm9iQkhDU1lRdUgzbUJlQzhzbndLLWk2bkk1YmlHcExlUlFYZnZ0WVdJazNRVE1ITzhSXzE5N09jQQ?oc=5",
       "published": "2026-09-06T07:38:48.000Z",
       "titleZh": "曼联就新的布鲁诺·费尔南德斯合同做出决定– “这将是一个很好的举动”"
@@ -20722,57 +20770,9 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOODJNWnNZdC1FalRvVTNLa003ZHQ1LWZ2dG01VDBLRGZMUlR6WHBWWkdFZWowUS1wMmUtV1VtTWIwVXRBQVY5QU02QkFQejNwMTRQclFONFpaSGVGMlBHMzVJeVU1OHZCSnZtZmY3aXBUbTIxRXZhTnRya19IeFQ4ejRFdDlRMl9aUkVVRmZEbXduUkdLMWs4UGpYZ0tsNXVfdXE1VXpRc0RPeWxhWTBDTFEyRHF6VXBnNEhhZDFRcnMwa2M2QUQ1WDJvaHZYMXMzN1pDNGVpUWpYbjFpZGNsMjMzRkJ3ak9TaDV1Z1BtM3l6aDg2aXJQVmhUS0pXZXlTT3BhUQ?oc=5",
       "published": "2026-09-05T15:21:00.000Z",
       "titleZh": "奥恩斯坦：阿森纳的前锋赌博以及为什么曼联需要更多时间"
-    },
-    {
-      "id": "James Ducker:CBMi4wFBVV95cUxNVTJfVkxHRDhySC00Zk1RQjk0RmZKTjBxenItN3ByRWNvNFYxTWdfMWVrdWZrZVZCLVYza1ZQSEJfdGpTV09PUU1jamh5dXJtRXBQNFJuN05nclRhTTVmeGtQeDlxUmJmNlJucTZVc2FhOUUzMnV2LWpRNXJIbGRpSDFNTU9GT3FEZE9jdGlNSk1Wc1lxWWFlSlVabHFocUl3ZUFoTHZSd3JoaE4xdjU0Yy13UFVsRURuN2xpblRIR2hWT1p5ajdmZm4yYkdpUk53emhyZ0F0RXVRZ3FCUnU0X2doQQ",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "LiveScore",
-      "tier": 1,
-      "title": "Top Man Utd journalist rates chances of 2027 Lewis Hall signing after BIG mistake",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVTJfVkxHRDhySC00Zk1RQjk0RmZKTjBxenItN3ByRWNvNFYxTWdfMWVrdWZrZVZCLVYza1ZQSEJfdGpTV09PUU1jamh5dXJtRXBQNFJuN05nclRhTTVmeGtQeDlxUmJmNlJucTZVc2FhOUUzMnV2LWpRNXJIbGRpSDFNTU9GT3FEZE9jdGlNSk1Wc1lxWWFlSlVabHFocUl3ZUFoTHZSd3JoaE4xdjU0Yy13UFVsRURuN2xpblRIR2hWT1p5ajdmZm4yYkdpUk53emhyZ0F0RXVRZ3FCUnU0X2doQQ?oc=5",
-      "published": "2026-09-05T12:54:17.000Z",
-      "titleZh": "曼联顶级记者评价2027年刘易斯·霍尔在大失误后签约的几率"
-    },
-    {
-      "id": "Laurie Whitwell:CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
-      "published": "2026-09-05T07:00:00.000Z",
-      "titleZh": "曼联的转会窗口：新中场，贝拉达对霍尔的呼吁和最后一天的挫折-田径"
-    },
-    {
-      "id": "Simon Stone:CBMilwFBVV95cUxPMzBGWkJkS3pPdml2TFR4M3JBWUs5ZFlZZXNseTNHWFNRTjBIM0lsWm9WcTdyRnA2OGxKWGpVZzVKRk41U0dBRWhlVllFb01ueS1ibDNndFJnWHBUYi1CS3ZQaXltelNNdXdZUTRTbUNXTTB5NjNYOHF0SVVqeXFEbkh0RTdGRVUwbHZabU9ZUHdsbVg1SFA4",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Carrick rejects talk of financial restrictions",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzBGWkJkS3pPdml2TFR4M3JBWUs5ZFlZZXNseTNHWFNRTjBIM0lsWm9WcTdyRnA2OGxKWGpVZzVKRk41U0dBRWhlVllFb01ueS1ibDNndFJnWHBUYi1CS3ZQaXltelNNdXdZUTRTbUNXTTB5NjNYOHF0SVVqeXFEbkh0RTdGRVUwbHZabU9ZUHdsbVg1SFA4?oc=5",
-      "published": "2026-09-04T15:44:14.000Z",
-      "titleZh": "卡里克拒绝谈论财务限制"
-    },
-    {
-      "id": "Chris Wheeler:CBMiqgFBVV95cUxQNUFNYlBHZG1VWldyQUJ2SzFxZnl0ZTNQdV9WVWhseFdsYUh1ZkdBbEdJZW4yZWdQTzNFNUZpXzJfV0NxWUQ3Vl9tNC1LUjFDWVFsOTFPMGdEU25kX2FlUjF0M1VWa1pNWnQ2Z2ZjMjBWbTZ6Q1dib3BzaEJyWTRCVGFwZkF0eURDdENzN1lOckl0VlFUU1hENFV5WDBzSHp3eFpfMnBvRnByQdIBrwFBVV95cUxOYjNSMU1TVE9zeG4wbW5nSGZJVXptQ19fOVNpeFA3My1LZUF5YVlnZnFNeWlzbkdTQXhSdGJhVXc4SXA4QzY3Ti1iSXJ1VGp5aUlDeXBmWkZJNTB1c182YnF1RHROalpnRGFVZzJOM2FCVzFOblRabWtCWkIyWHNVQTR6UUJYR1pZQjZtR0NLMnY4WFJPRzREZGtlZVVWY2lMRVJ3NHhTcFVIVlVuMlgw",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Michael Carrick insists he's 'largely happy' with Manchester United's transfer business after quiet deadline day... and reveals surprise name as Luke Shaw's left back deputy",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUFNYlBHZG1VWldyQUJ2SzFxZnl0ZTNQdV9WVWhseFdsYUh1ZkdBbEdJZW4yZWdQTzNFNUZpXzJfV0NxWUQ3Vl9tNC1LUjFDWVFsOTFPMGdEU25kX2FlUjF0M1VWa1pNWnQ2Z2ZjMjBWbTZ6Q1dib3BzaEJyWTRCVGFwZkF0eURDdENzN1lOckl0VlFUU1hENFV5WDBzSHp3eFpfMnBvRnByQdIBrwFBVV95cUxOYjNSMU1TVE9zeG4wbW5nSGZJVXptQ19fOVNpeFA3My1LZUF5YVlnZnFNeWlzbkdTQXhSdGJhVXc4SXA4QzY3Ti1iSXJ1VGp5aUlDeXBmWkZJNTB1c182YnF1RHROalpnRGFVZzJOM2FCVzFOblRabWtCWkIyWHNVQTR6UUJYR1pZQjZtR0NLMnY4WFJPRzREZGtlZVVWY2lMRVJ3NHhTcFVIVlVuMlgw?oc=5",
-      "published": "2026-09-04T14:07:12.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）坚称，在安静的截止日期后，他对曼联的转会业务“非常满意”......并透露了卢克·肖（ Luke Shaw ）左后卫的惊人名字"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-08T15:23:27.604Z",
+  "journalistsUpdatedAt": "2026-09-08T18:57:14.496Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

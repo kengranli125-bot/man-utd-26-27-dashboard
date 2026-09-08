@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:33:49.763Z",
+  "updatedAt": "2026-09-08T11:17:09.586Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -17973,7 +17973,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-08T04:33:49.747Z"
+        "generatedAt": "2026-09-08T11:17:08.608Z"
       }
     },
     {
@@ -19869,6 +19869,20 @@
   ],
   "news": [
     {
+      "title": "Premier League 2026-27 kits: Ranking every jersey released",
+      "published": "2026-09-08T10:15:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
+      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
+    },
+    {
+      "title": "Premier League clubs are overspending on wingers who can't score goals",
+      "published": "2026-09-08T07:57:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49860446/premier-league-clubs-overspending-wingers-cannot-score-goals-transfers",
+      "image": "https://a.espncdn.com/photo/2026/0907/r1712835_1296x729_16-9.jpg",
+      "titleZh": "英超俱乐部在无法进球的边锋身上花费过多"
+    },
+    {
       "title": "Benjamin Šeško urges Man United to find positives after 'painful' Everton draw",
       "published": "2026-09-07T11:57:38Z",
       "url": "https://www.espn.com/soccer/story/_/id/49858651/benjamin-šeško-urges-man-united-find-positives-painful-everton-draw",
@@ -19937,34 +19951,9 @@
       "url": "http://www.espn.com/soccer/report/_/gameId/401879291",
       "image": "https://a.espncdn.com/photo/2026/0906/r1712301_1296x729_16-9.jpg",
       "titleZh": "安斯利·梅特兰-内尔斯（ Ainsley Maitland-Niles ）的尖叫者抢夺埃弗顿（ Everton ）对曼联"
-    },
-    {
-      "title": "Carrick: Man United 'can compete' with Premier League rivals despite spending less",
-      "published": "2026-09-05T21:30:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49837387/michael-carrick-manchester-united-compete-premier-league-outspent",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711860_1296x729_16-9.jpg",
-      "titleZh": "卡里克：曼联“可以与英超对手竞争” ，尽管花费更少"
-    },
-    {
-      "title": "Transfer rumors, news: Liverpool, Man United eye Mane",
-      "published": "2026-09-05T17:50:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711840_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：利物浦，曼联眼鬃毛"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Liverpool, Man United eye Mane",
-      "published": "2026-09-05T17:50:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49833077/transfer-rumors-news-arsenal-set-sign-teenage-georgian-midfielder",
-      "image": "https://a.espncdn.com/photo/2026/0905/r1711840_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：利物浦，曼联眼鬃毛",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",
@@ -20229,7 +20218,7 @@
       "shortNameZh": "B费",
       "jersey": "8",
       "position": "Midfielder",
-      "age": 31,
+      "age": 32,
       "nationality": "Portugal",
       "nationalityZh": "葡萄牙",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
@@ -20893,7 +20882,7 @@
           "shortNameZh": "B费",
           "jersey": "8",
           "position": "Midfielder",
-          "age": 31,
+          "age": 32,
           "nationality": "Portugal",
           "nationalityZh": "葡萄牙",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
@@ -21007,7 +20996,7 @@
         },
         {
           "label": "经验值",
-          "value": 85
+          "value": 86
         },
         {
           "label": "攻守平衡",
@@ -21066,7 +21055,7 @@
           "shortNameZh": "B费",
           "jersey": "8",
           "position": "Midfielder",
-          "age": 31,
+          "age": 32,
           "nationality": "Portugal",
           "nationalityZh": "葡萄牙",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",

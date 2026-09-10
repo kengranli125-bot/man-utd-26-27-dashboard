@@ -20495,6 +20495,18 @@
   ],
   "journalists": [
     {
+      "id": "Andy Mitten:CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "The Champions League is back at Old Trafford. This is why it matters so much",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB?oc=5",
+      "published": "2026-09-10T04:11:53.000Z",
+      "titleZh": "冠军联赛重返老特拉福德。这就是为什么它如此重要"
+    },
+    {
       "id": "Samuel Luckhurst:CBMiZkFVX3lxTE9STVdTWjFvVm9qMUxZZFJzOHhQYURwSzl4Y3BDNlk2aF9FSlljNEVSRU05Q3VDdXE3SmI5N3RYWDVyZGRESmE1Y0dWS3p0aTZIMXczUkRnQTdZUjdzMW9ERHRpaURWdw",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -20507,15 +20519,15 @@
       "titleZh": "曼联仍然梦想着冠军联赛的荣耀，尽管战绩糟糕"
     },
     {
-      "id": "Rob Dawson:CBMisAFBVV95cUxPaHhoTmt4NTl4NkVlSjlNN19pTWp1VV9ERnZVVi13VGs4aW9tMDNnOEpwLU91TF9QY3FlTkp3OVlYU3V3dk9udFVIZkw5cGlCWGtXdWR4RGZ4dlhnaGlrS0VMOGNXYVZHRmNXcnpVNWJROFBjd2xsZnVQaDEwdGZyV2FCLVYwT3htNTRQRXZCejRjTF9STjhiQUNyMzRIa3ppNXBGeXRUV1E1czYwNXVpXw",
+      "id": "Rob Dawson:CBMiqwFBVV95cUxQQ3ZLVjhMNEs5NXFKeTlYcWhXNlhTYlhGNVF1VkRKQ2lHSjVMaDM1ZjA2d2RjMGtfdlQ5bUZ4YzhubjFxeXE1WnJZTXlrbjJ3QnU0U3NLVzU0X2cwVV9FdndUeEFlR3lxUF9TYVNkRGE4czViSUlFTktRdEw1TUo0ZWdFbkhjQXFUU0Y4QXF6MnRQT0E3b21RQlJyNmkzS25lNFRTaFVYTkQ4U3M",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.in",
       "tier": 1,
       "title": "Man United's Champions League return: What does success look like?",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHhoTmt4NTl4NkVlSjlNN19pTWp1VV9ERnZVVi13VGs4aW9tMDNnOEpwLU91TF9QY3FlTkp3OVlYU3V3dk9udFVIZkw5cGlCWGtXdWR4RGZ4dlhnaGlrS0VMOGNXYVZHRmNXcnpVNWJROFBjd2xsZnVQaDEwdGZyV2FCLVYwT3htNTRQRXZCejRjTF9STjhiQUNyMzRIa3ppNXBGeXRUV1E1czYwNXVpXw?oc=5",
-      "published": "2026-09-09T13:56:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZLVjhMNEs5NXFKeTlYcWhXNlhTYlhGNVF1VkRKQ2lHSjVMaDM1ZjA2d2RjMGtfdlQ5bUZ4YzhubjFxeXE1WnJZTXlrbjJ3QnU0U3NLVzU0X2cwVV9FdndUeEFlR3lxUF9TYVNkRGE4czViSUlFTktRdEw1TUo0ZWdFbkhjQXFUU0Y4QXF6MnRQT0E3b21RQlJyNmkzS25lNFRTaFVYTkQ4U3M?oc=5",
+      "published": "2026-09-09T13:48:00.000Z",
       "titleZh": "曼联的冠军联赛回归：成功是什么样的？"
     },
     {
@@ -20547,7 +20559,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "Is 15-year-old Gabriel set to become Man Utd's youngest ever player?",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zak9Db1BZNmVpWk8xQTB6aVdvNk41OGpQaDU5YjdxbnB1aV9vTFlkTktmZ1RocXNrMDk4VUI4aXNsQllhNkt6YThHMS1feXpjTUF6SU9JVkxFcjQ0by1nWHFRLUx6LUFqNXc?oc=5",
@@ -20571,11 +20583,11 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Is Marcus Rashford really getting back to his Manchester United best? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTkxZ2IzVVVlV3JaaHhVZGs3ZUFhdFB1R2tHckswR2Q5S3kzWDh3YW5rQU9WT19Gay04OWh3ZlNRUjV6WDFuT0FtRXJKVV9wZWl5dXFoeFJtX1Rxb3JDNkZDOGQ3ODMwUlU5dEpNUDFVT1ZUWGtneE5feHgzcG5fQUZESEowR2k4ejlVcWdBM0lDSDVCZ29FVXo0YUp6VHpjV2c?oc=5",
-      "published": "2026-09-09T08:14:15.000Z",
+      "published": "2026-09-09T08:14:00.000Z",
       "titleZh": "马库斯·拉什福德真的能最好地回到曼联吗？"
     },
     {
@@ -20595,7 +20607,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales?",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5",
@@ -20607,7 +20619,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Manchester United fan group to protest season ticket sanctions before derby - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB?oc=5",
@@ -20615,23 +20627,11 @@
       "titleZh": "曼联球迷团体在德比前抗议季票制裁"
     },
     {
-      "id": "Andy Mitten:CBMihgFBVV95cUxPSEl6d3p1X1BpeFlGdnRVTGdfU1NSSDI0VFBHaEFyZERyZGtUR3J2ZlRIY0RkdnBXamY4ck5QYU9oMkFEZXdnUmRkZnNQc01uMndZZUhya2tJWFI0STdNaUJTMFAwNGNpdG1DZ2tPREpscmphRlp1M2Q1cWFDS1V4SW0xU1pPUQ",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "Official Manchester United Website",
-      "tier": 2,
-      "title": "How Lewis's legacy lives on through our Foundation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEl6d3p1X1BpeFlGdnRVTGdfU1NSSDI0VFBHaEFyZERyZGtUR3J2ZlRIY0RkdnBXamY4ck5QYU9oMkFEZXdnUmRkZnNQc01uMndZZUhya2tJWFI0STdNaUJTMFAwNGNpdG1DZ2tPREpscmphRlp1M2Q1cWFDS1V4SW0xU1pPUQ?oc=5",
-      "published": "2026-09-08T13:23:14.000Z",
-      "titleZh": "刘易斯的遗产如何通过我们的基金会延续下去"
-    },
-    {
       "id": "Laurie Whitwell:CBMimwFBVV95cUxNWDJvRGhjUUZBeU9ablRQVFVQZ2p5Sk4xYjdhbUE3SVhMNzZQWWg3TEdhelVPc1ozUHdPSG1NRGcwc0hSSFNOdzk0X2Q5bC0yN2xETVE2TjJaYWlqaTN5bWhqeE02ekVQbVdnUmpwTWE0M2VLYlZ0NC00Zk00SjZBQ3UtdlVoeXVQN1QtTk80d2ctV3M2WTNTUjhFYw",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Manchester United announce sleeve sponsorship deal with fintech SumUp",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDJvRGhjUUZBeU9ablRQVFVQZ2p5Sk4xYjdhbUE3SVhMNzZQWWg3TEdhelVPc1ozUHdPSG1NRGcwc0hSSFNOdzk0X2Q5bC0yN2xETVE2TjJaYWlqaTN5bWhqeE02ekVQbVdnUmpwTWE0M2VLYlZ0NC00Zk00SjZBQ3UtdlVoeXVQN1QtTk80d2ctV3M2WTNTUjhFYw?oc=5",
@@ -20655,7 +20655,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Cameroon vs Ivory Coast Box Score - October 03, 2026 - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQmhSbUtzem5lTUN5YlZIUjJwT0hiMnN6d09uTmtIenRKajhwV01VUm9ISHEzT1hFYjhzYWZxZ21tM25YdXc1S3VQbWxWd2dmZGxzTEsxbVRhYmV1eUpHRHhpaTZWMjVBWllpdUdlMDBIRHZjbGlRNGJfbFA2OVhSQ0lHSUhTbFVpSXJ6ZktrQ3hxQQ?oc=5",
@@ -20691,7 +20691,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Manchester Evening News",
+      "source": "manchestereveningnews.co.uk",
       "tier": 1,
       "title": "Man United strike agreement to sign Liverpool youngster as deal 'completed'",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEpFRXlySkxEUTlFUF96dC00cE11UWh5eTNFczRxZHRldlU5ZWpmamdlVVNCb3U0bnlOeF9CSGktajduUHBVS3dyb2FGMU91dEw1TGEtNmkyOWdRa3FJNEZvdHRBU25vNUZlNnAta2VPakU0NXZxZ1F6eUFFME1vY0xyMGhFMk5FWHJqYl85UzUyRHpIcEZqSWxWSl9jMUZRVDlTWEVDUDJ6dDNMaWdfdTZJZVQ5NEtGcEFHNTNGczFHZ9IBwgFBVV95cUxPbEpFRXlySkxEUTlFUF96dC00cE11UWh5eTNFczRxZHRldlU5ZWpmamdlVVNCb3U0bnlOeF9CSGktajduUHBVS3dyb2FGMU91dEw1TGEtNmkyOWdRa3FJNEZvdHRBU25vNUZlNnAta2VPakU0NXZxZ1F6eUFFME1vY0xyMGhFMk5FWHJqYl85UzUyRHpIcEZqSWxWSl9jMUZRVDlTWEVDUDJ6dDNMaWdfdTZJZVQ5NEtGcEFHNTNGczFHZw?oc=5",
@@ -20715,7 +20715,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "LiveScore",
+      "source": "livescore.com",
       "tier": 1,
       "title": "Man Utd reach decision on January left-back signing amid £75m Lewis Hall pursuit",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTVVDNThlbnJmZjhCR3VzQzVGZUdwd3NvYVptMVpoM0NxamhDeGlwYjlFT1FwX3d1TEQ1N3llVnRaUEVDR0dBSHVOWUdubV9LMXNsd0I1eTV5d3E4X3ZjLXdzQnNoT1lIaV9SLWVUUC1hNE1QbWNuM1RzLUNoRG5sYlZzeW03VnlIZ0dXTXJPbXducUxMVUItNGpmWk1UWWhON0tRWTVJU2dLQzhYYTdRbXhzaVFldVg3ZE55UGJJQllGRUVLNkFtUXk1R2FWVkNjYXNYYUhTblJkUWFCNF84WA?oc=5",
@@ -20727,7 +20727,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Manchester United Q&A with Andy Mitten",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0dUa0tuNTRUOXJSLXlSdlVvb1k3TU5SU2VXaXZXYnJNNWh1WXcwbDBQRnllQV91S20tcEZlVkhnMG1zS0NqbXNBXzZLcnVReU43T2stS1J4Z3VkXzk0WkxkWG5XWDBMWEpoU0VSSW5FODhmVDFaYUxjRnA4Q1RleHdULWdmeWlWYU12ZEpjanpWaDNfdnBLR2Fya0s?oc=5",
@@ -20739,7 +20739,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "dailymail.com",
+      "source": "Daily Mail",
       "tier": 2,
       "title": "Prickly Michael Carrick must address the key cause of Man United's mixed start to the season - and the pressure is on to get the balance right in midfield after £150m rebuild, writes CHRIS WHEELER",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNF9seGFtVGduS21zeWtMc2FvTzAwOE05WFVyY1N5TnRELTRHSnl5ekpZa05HV2d5M2FpOEZ2ajRseDRaWGs5RERzU3N4a1F2bVlneWtLLW11azkwWi1mX29jaDllQklFcmV3RDkyQXlhY0EzcTZhU0RJUUdocVY1SGxRcFVTaWtESFl4UldaSTIyUjhqMVoxeGlHWdIBoAFBVV95cUxOblBFZk4tVHpUR1hwRDFMOElMVF94WXB6TWtIVks0SHNhZGlyX1dJbnh2WTR4ZU41WEpDaHVyR3Z0ejVMakJ2c09LZUJWb2Zva2k1WWJIQWlDMDBEczVpOEpMaEpxNGJ2ZUJkUzJTbzhqYW1yalJPWGNMSnhHMGUxZ1M5TmU5dlJHbUhXWm0xLTFOQ3VUSGR5UmF4RGhmeXJ5?oc=5",
@@ -20783,7 +20783,7 @@
       "titleZh": "埃弗顿2-2曼联：红魔队感到沮丧，但迈克尔·卡里克仍然乐观"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-10T00:09:22.591Z",
+  "journalistsUpdatedAt": "2026-09-10T04:55:13.478Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

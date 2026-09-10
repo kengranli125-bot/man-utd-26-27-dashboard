@@ -20495,6 +20495,18 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMiqAFBVV95cUxNYS03ZGxjTWg5SHdpZHUxbVd0VWN3bTVoN21IU1p2WmV5TlRiRjlOek9Ib3RmM2JHbF9Cb3V1ZU8xUWd5anBNdUlfNGUzM3lSNzdSd1pRS1pkVGV0WXJoblJqRktXMzJHQ092bWhLMGxWaDV3LVdjN2htXzNhUDlUbkU1Qm1SVzFoaWdjYmlCV0VvN1NxN3YtMC0zeGVPNU05eDVsUWxNZ0g",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "The £343m Champions League gulf that shows how far United are behind City",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS03ZGxjTWg5SHdpZHUxbVd0VWN3bTVoN21IU1p2WmV5TlRiRjlOek9Ib3RmM2JHbF9Cb3V1ZU8xUWd5anBNdUlfNGUzM3lSNzdSd1pRS1pkVGV0WXJoblJqRktXMzJHQ092bWhLMGxWaDV3LVdjN2htXzNhUDlUbkU1Qm1SVzFoaWdjYmlCV0VvN1NxN3YtMC0zeGVPNU05eDVsUWxNZ0g?oc=5",
+      "published": "2026-09-10T06:30:00.000Z",
+      "titleZh": "£ 3.43亿冠军联赛鸿沟，显示曼联落后于曼城的距离"
+    },
+    {
       "id": "Andy Mitten:CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -20691,7 +20703,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "manchestereveningnews.co.uk",
+      "source": "Manchester Evening News",
       "tier": 1,
       "title": "Man United strike agreement to sign Liverpool youngster as deal 'completed'",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEpFRXlySkxEUTlFUF96dC00cE11UWh5eTNFczRxZHRldlU5ZWpmamdlVVNCb3U0bnlOeF9CSGktajduUHBVS3dyb2FGMU91dEw1TGEtNmkyOWdRa3FJNEZvdHRBU25vNUZlNnAta2VPakU0NXZxZ1F6eUFFME1vY0xyMGhFMk5FWHJqYl85UzUyRHpIcEZqSWxWSl9jMUZRVDlTWEVDUDJ6dDNMaWdfdTZJZVQ5NEtGcEFHNTNGczFHZ9IBwgFBVV95cUxPbEpFRXlySkxEUTlFUF96dC00cE11UWh5eTNFczRxZHRldlU5ZWpmamdlVVNCb3U0bnlOeF9CSGktajduUHBVS3dyb2FGMU91dEw1TGEtNmkyOWdRa3FJNEZvdHRBU25vNUZlNnAta2VPakU0NXZxZ1F6eUFFME1vY0xyMGhFMk5FWHJqYl85UzUyRHpIcEZqSWxWSl9jMUZRVDlTWEVDUDJ6dDNMaWdfdTZJZVQ5NEtGcEFHNTNGczFHZw?oc=5",
@@ -20715,12 +20727,24 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "livescore.com",
+      "source": "LiveScore",
       "tier": 1,
       "title": "Man Utd reach decision on January left-back signing amid £75m Lewis Hall pursuit",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTVVDNThlbnJmZjhCR3VzQzVGZUdwd3NvYVptMVpoM0NxamhDeGlwYjlFT1FwX3d1TEQ1N3llVnRaUEVDR0dBSHVOWUdubV9LMXNsd0I1eTV5d3E4X3ZjLXdzQnNoT1lIaV9SLWVUUC1hNE1QbWNuM1RzLUNoRG5sYlZzeW03VnlIZ0dXTXJPbXducUxMVUItNGpmWk1UWWhON0tRWTVJU2dLQzhYYTdRbXhzaVFldVg3ZE55UGJJQllGRUVLNkFtUXk1R2FWVkNjYXNYYUhTblJkUWFCNF84WA?oc=5",
       "published": "2026-09-07T15:59:15.000Z",
       "titleZh": "曼联在1月份的左后卫签约中达成决定，追求7500万英镑的刘易斯霍尔"
+    },
+    {
+      "id": "Rob Dawson:CBMitgFBVV95cUxNeFBaZ1BLVXZzZ0V5aXIyaXJTU3FqTzVzWFBEQU9GNHBEQ0xtRWhMODBmdFlGQkpNTGd4TkM5RURsaEdnOXU4YVFhbHFkMjV2SEVnUnhLOExtVnl4R3MwUmw1YmpLSWRUOTNhZDVQeEhrRHUtS2RwZUJjUzJ0YjFsX21KS2R1Sm1TMVQydV81MG5wRzRjTGlrWTZHRDdlTll3ZFc2MV9Qbm5tQ2NjcU9iVlRTWkhWdw",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United still pursuing Leicester midfielder Louis Page - sources",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFBaZ1BLVXZzZ0V5aXIyaXJTU3FqTzVzWFBEQU9GNHBEQ0xtRWhMODBmdFlGQkpNTGd4TkM5RURsaEdnOXU4YVFhbHFkMjV2SEVnUnhLOExtVnl4R3MwUmw1YmpLSWRUOTNhZDVQeEhrRHUtS2RwZUJjUzJ0YjFsX21KS2R1Sm1TMVQydV81MG5wRzRjTGlrWTZHRDdlTll3ZFc2MV9Qbm5tQ2NjcU9iVlRTWkhWdw?oc=5",
+      "published": "2026-09-07T10:33:00.000Z",
+      "titleZh": "曼联仍在追逐莱斯特中场球员路易斯·佩奇-消息来源"
     },
     {
       "id": "Andy Mitten:CBMinAFBVV95cUxOR0dUa0tuNTRUOXJSLXlSdlVvb1k3TU5SU2VXaXZXYnJNNWh1WXcwbDBQRnllQV91S20tcEZlVkhnMG1zS0NqbXNBXzZLcnVReU43T2stS1J4Z3VkXzk0WkxkWG5XWDBMWEpoU0VSSW5FODhmVDFaYUxjRnA4Q1RleHdULWdmeWlWYU12ZEpjanpWaDNfdnBLR2Fya0s",
@@ -20751,39 +20775,15 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "PressReader",
+      "source": "pressreader.com",
       "tier": 2,
       "title": "Everyone dreams of debut like that, says Everton hero Ainsley",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HRklGU21DRVNrRlJfRVJFZWRaaEtLVDZYQmhybkJUT2RWcU5IalRfR0tEZEVITFJMR0FuVFVPN296SVVObUNRNUpTX21GSnRBb1FBZGdPOElvYUR5Nzg2MFM4cS0xeDRnaF8wUVd1bFQycTEx?oc=5",
       "published": "2026-09-07T05:48:43.000Z",
       "titleZh": "埃弗顿英雄安斯利说，每个人都梦想着这样的首次亮相"
-    },
-    {
-      "id": "James Ducker:CBMiqgFBVV95cUxOakpkMk1PRl8yYnowRDEwNl9GdTFQZWt5ZVI3dXV3SXN2WW50M1FacFRQV3Nnd0hrLXFLa1paOEltT0xSdW5FNmo1WHFRWU1BMW15ZXN3dF9PYzdueU4tOUZDY21SRVMtZjFxeVh5cmNNRlFaSlNFVlhfUHRDRlk5Z29mbmE0N3lyUGRxalJCUW5vRVF3dDFqZDZkUVM2TkNDMHR0Ry1meHRFdw",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Man Utd spent £155m this summer but face the same old problems",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpkMk1PRl8yYnowRDEwNl9GdTFQZWt5ZVI3dXV3SXN2WW50M1FacFRQV3Nnd0hrLXFLa1paOEltT0xSdW5FNmo1WHFRWU1BMW15ZXN3dF9PYzdueU4tOUZDY21SRVMtZjFxeVh5cmNNRlFaSlNFVlhfUHRDRlk5Z29mbmE0N3lyUGRxalJCUW5vRVF3dDFqZDZkUVM2TkNDMHR0Ry1meHRFdw?oc=5",
-      "published": "2026-09-06T17:29:00.000Z",
-      "titleZh": "曼联今年夏天花了1.55亿英镑，但面临着同样的老问题"
-    },
-    {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE4zTEM2OW1zRVhTYnRIMkppeWI0QkkyZDdGdGIxUWEtWEt6TEYtOEMyRXI1ejZhSldZeEF1T1F6cjlfTm5qVjhwMzNOZ2tldU5QNTEzZGxwYmlWX1M5cjdkWHBJT0k4QW8",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Everton 2-2 Manchester United: Red Devils frustrated but Michael Carrick still optimistic",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zTEM2OW1zRVhTYnRIMkppeWI0QkkyZDdGdGIxUWEtWEt6TEYtOEMyRXI1ejZhSldZeEF1T1F6cjlfTm5qVjhwMzNOZ2tldU5QNTEzZGxwYmlWX1M5cjdkWHBJT0k4QW8?oc=5",
-      "published": "2026-09-06T17:18:32.000Z",
-      "titleZh": "埃弗顿2-2曼联：红魔队感到沮丧，但迈克尔·卡里克仍然乐观"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-10T04:55:13.478Z",
+  "journalistsUpdatedAt": "2026-09-10T09:39:09.447Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

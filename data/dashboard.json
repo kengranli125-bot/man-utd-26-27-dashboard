@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:17:40.534Z",
+  "updatedAt": "2026-09-10T16:22:57.268Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -18458,7 +18458,7 @@
     },
     {
       "id": "401879195",
-      "date": "2026-12-26T15:00Z",
+      "date": "2026-12-27T16:30Z",
       "status": "upcoming",
       "venue": "Old Trafford",
       "competition": "英超",
@@ -18482,7 +18482,7 @@
     },
     {
       "id": "401879188",
-      "date": "2026-12-30T20:00Z",
+      "date": "2026-12-30T19:30Z",
       "status": "upcoming",
       "venue": "Old Trafford",
       "competition": "英超",
@@ -18506,7 +18506,7 @@
     },
     {
       "id": "401878728",
-      "date": "2027-01-02T15:00Z",
+      "date": "2027-01-02T12:30Z",
       "status": "upcoming",
       "venue": "American Express Stadium",
       "competition": "英超",
@@ -18530,7 +18530,7 @@
     },
     {
       "id": "401879170",
-      "date": "2027-01-06T20:00Z",
+      "date": "2027-01-07T20:00Z",
       "status": "upcoming",
       "venue": "Old Trafford",
       "competition": "英超",
@@ -19869,6 +19869,34 @@
   ],
   "news": [
     {
+      "title": "Barcelona's Deco: Anthony Gordon a better fit than Marcus Rashford",
+      "published": "2026-09-10T11:05:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49890559/barcelona-deco-anthony-gordon-better-fit-marcus-rashford",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706159_1296x729_16-9.jpg",
+      "titleZh": "巴塞罗那的装饰：安东尼·戈登（ Anthony Gordon ）比马库斯·拉什福德（ Marcus R"
+    },
+    {
+      "title": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
+      "published": "2026-09-10T10:49:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714230_1296x729_16-9.jpg",
+      "titleZh": "转会谣言，新闻：曼联，托特纳姆眼球俱乐部布鲁日前锋"
+    },
+    {
+      "title": "Who are Sabah FK, Champions League debutants, Arsenal/Man United opponents?",
+      "published": "2026-09-10T10:21:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707627_1296x729_16-9.jpg",
+      "titleZh": "谁是沙巴FK、冠军联赛新秀、阿森纳/曼联对手？"
+    },
+    {
+      "title": "Carrick 'ready to do business' on Man Utd return to Champions League",
+      "published": "2026-09-10T07:55:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49889618/carrick-ready-do-business-man-utd-return-champions-league",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_Carrick_ready_to_do_business_on_Man_Utd_return_to_Champions_League/dm_260910_Carrick_ready_to_do_business_on_Man_Utd_return_to_Champions_League.jpg",
+      "titleZh": "卡里克在曼联“准备好做生意”重返欧洲冠军联赛"
+    },
+    {
       "title": "Michael Carrick: Man United not in Champions League 'to just enjoy the occasion'",
       "published": "2026-09-09T17:10:31Z",
       "url": "https://www.espn.com/soccer/story/_/id/49879895/man-united-not-champions-league-just-enjoy-occasion",
@@ -19923,37 +19951,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49867513/manchester-united-fan-group-call-pre-derby-protest-amid-season-ticket-fiasco",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
       "titleZh": "曼联球迷团体呼吁在赛季门票“惨败”期间举行统一的赛前抗议活动"
-    },
-    {
-      "title": "Premier League 2026-27 kits: Ranking every jersey released",
-      "published": "2026-09-08T10:15:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0808/r1699058_1296x729_16-9.jpg",
-      "titleZh": "英超联赛2026-27赛衣：排名发布的每件球衣"
-    },
-    {
-      "title": "Premier League clubs are overspending on wingers who can't score goals",
-      "published": "2026-09-08T12:50:00Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49860446/premier-league-clubs-overspending-wingers-cannot-score-goals-transfers",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712835_1296x729_16-9.jpg",
-      "titleZh": "英超俱乐部在无法进球的边锋身上花费过多"
-    },
-    {
-      "title": "Benjamin Šeško urges Man United to find positives after 'painful' Everton draw",
-      "published": "2026-09-07T11:57:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49858651/benjamin-šeško-urges-man-united-find-positives-painful-everton-draw",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712717_1296x729_16-9.jpg",
-      "titleZh": "本杰明·舍什科（ Benjamin Šeško ）敦促曼联在“痛苦”的埃弗顿平局后找到积极的一面"
-    },
-    {
-      "title": "Man United still pursuing Leicester midfielder Louis Page - sources",
-      "published": "2026-09-07T14:26:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one",
-      "image": "https://a.espncdn.com/photo/2026/0907/r1712698_1296x729_16-9.jpg",
-      "titleZh": "曼联仍在追逐莱斯特中场球员路易斯·佩奇-消息来源"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
+      "published": "2026-09-10T10:49:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714230_1296x729_16-9.jpg",
+      "titleZh": "转会谣言，新闻：曼联，托特纳姆眼球俱乐部布鲁日前锋",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Man United scouted Kylian Mbappé but rejected chance to sign him - Ryan Giggs",
       "published": "2026-09-09T07:16:57Z",

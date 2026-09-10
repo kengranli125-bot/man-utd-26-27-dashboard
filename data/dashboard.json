@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:32:38.441Z",
+  "updatedAt": "2026-09-10T20:51:12.556Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -18007,15 +18007,15 @@
           "confirmed": true,
           "starters": [
             {
-              "id": "289155",
-              "name": "Benjamin Sesko",
-              "nameZh": "本杰明·谢什科",
-              "jersey": "30",
-              "position": "SUB",
+              "id": "301425",
+              "name": "Senne Lammens",
+              "nameZh": "森内·拉门斯",
+              "jersey": "1",
+              "position": "G",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18023,11 +18023,11 @@
               "name": "Lisandro Martínez",
               "nameZh": "利桑德罗·马丁内斯",
               "jersey": "6",
-              "position": "SUB",
+              "position": "CD-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18035,71 +18035,11 @@
               "name": "Leny Yoro",
               "nameZh": "莱尼·约罗",
               "jersey": "15",
-              "position": "SUB",
+              "position": "CD-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "301425",
-              "name": "Senne Lammens",
-              "nameZh": "森内·拉门斯",
-              "jersey": "1",
-              "position": "SUB",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "328466",
-              "name": "Kobbie Mainoo",
-              "nameZh": "科比·梅努",
-              "jersey": "37",
-              "position": "SUB",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "193297",
-              "name": "Youri Tielemans",
-              "nameZh": "尤里·蒂勒曼斯",
-              "jersey": "18",
-              "position": "SUB",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "271170",
-              "name": "Bryan Mbeumo",
-              "nameZh": "布莱恩·姆伯莫",
-              "jersey": "19",
-              "position": "SUB",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "259902",
-              "name": "Matheus Cunha",
-              "nameZh": "马特乌斯·库尼亚",
-              "jersey": "10",
-              "position": "SUB",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18107,23 +18047,23 @@
               "name": "Patrick Dorgu",
               "nameZh": "帕特里克·多尔古",
               "jersey": "13",
-              "position": "SUB",
+              "position": "LB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
+              "subbedIn": false,
               "subbedOut": true,
-              "substitutionTime": ""
+              "substitutionTime": "72'"
             },
             {
               "id": "239350",
               "name": "Noussair Mazraoui",
               "nameZh": "努赛尔·马兹拉维",
               "jersey": "3",
-              "position": "SUB",
+              "position": "RB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18131,12 +18071,72 @@
               "name": "Bruno Fernandes",
               "nameZh": "布鲁诺·费尔南德斯",
               "jersey": "8",
-              "position": "SUB",
+              "position": "AM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
+            },
+            {
+              "id": "328466",
+              "name": "Kobbie Mainoo",
+              "nameZh": "科比·梅努",
+              "jersey": "37",
+              "position": "LM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "64'"
+            },
+            {
+              "id": "193297",
+              "name": "Youri Tielemans",
+              "nameZh": "尤里·蒂勒曼斯",
+              "jersey": "18",
+              "position": "RM",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "289155",
+              "name": "Benjamin Sesko",
+              "nameZh": "本杰明·谢什科",
+              "jersey": "30",
+              "position": "F",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "64'"
+            },
+            {
+              "id": "259902",
+              "name": "Matheus Cunha",
+              "nameZh": "马特乌斯·库尼亚",
+              "jersey": "10",
+              "position": "AM-L",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "271170",
+              "name": "Bryan Mbeumo",
+              "nameZh": "布莱恩·姆伯莫",
+              "jersey": "19",
+              "position": "AM-R",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "72'"
             }
           ],
           "substitutes": [
@@ -18149,8 +18149,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "45'"
             },
             {
               "id": "130877",
@@ -18160,8 +18160,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18172,8 +18172,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18184,8 +18184,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18197,8 +18197,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "64'"
             },
             {
               "id": "276327",
@@ -18209,8 +18209,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "64'"
             },
             {
               "id": "238902",
@@ -18220,8 +18220,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18232,8 +18232,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18244,8 +18244,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18257,8 +18257,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "72'"
             },
             {
               "id": "356940",
@@ -18269,8 +18269,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "72'"
             },
             {
               "id": "356044",
@@ -18280,8 +18280,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ]
@@ -18290,7 +18290,7 @@
           "teamId": "21922",
           "teamName": "Sabah FK",
           "logo": "",
-          "formation": "4-2-3-1",
+          "formation": "4-3-3",
           "confirmed": true,
           "starters": [
             {
@@ -18301,20 +18301,8 @@
               "position": "G",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "258421",
-              "name": "Tymoteusz Puchacz",
-              "nameZh": "Tymoteusz Puchacz",
-              "jersey": "27",
-              "position": "D",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18322,11 +18310,11 @@
               "name": "Aden Mccarthy",
               "nameZh": "Aden Mccarthy",
               "jersey": "4",
-              "position": "D",
+              "position": "CD-L",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18334,11 +18322,23 @@
               "name": "Rahman Dashdamirov",
               "nameZh": "Rahman Dashdamirov",
               "jersey": "5",
-              "position": "D",
+              "position": "CD-R",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
+              "substitutionTime": ""
+            },
+            {
+              "id": "258421",
+              "name": "Tymoteusz Puchacz",
+              "nameZh": "Tymoteusz Puchacz",
+              "jersey": "27",
+              "position": "LB",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18346,47 +18346,23 @@
               "name": "Akim Zedadka",
               "nameZh": "Akim Zedadka",
               "jersey": "80",
-              "position": "D",
+              "position": "RB",
               "starter": true,
               "active": true,
-              "subbedIn": true,
+              "subbedIn": false,
               "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "385377",
-              "name": "Christian Nwachukwu",
-              "nameZh": "Christian Nwachukwu",
-              "jersey": "8",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "substitutionTime": "76'"
             },
             {
               "id": "260848",
               "name": "Ivan Lepinjica",
               "nameZh": "Ivan Lepinjica",
               "jersey": "13",
-              "position": "M",
+              "position": "CM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
-            },
-            {
-              "id": "362336",
-              "name": "Umarali Rakhmonaliev",
-              "nameZh": "Umarali Rakhmonaliev",
-              "jersey": "7",
-              "position": "M",
-              "starter": true,
-              "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18394,24 +18370,24 @@
               "name": "Veljko Simic",
               "nameZh": "Veljko Simic",
               "jersey": "21",
-              "position": "M",
+              "position": "LM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
+              "subbedIn": false,
               "subbedOut": true,
-              "substitutionTime": ""
+              "substitutionTime": "75'"
             },
             {
-              "id": "268529",
-              "name": "Kaheem Parris",
-              "nameZh": "Kaheem Parris",
-              "jersey": "11",
-              "position": "M",
+              "id": "362336",
+              "name": "Umarali Rakhmonaliev",
+              "nameZh": "Umarali Rakhmonaliev",
+              "jersey": "7",
+              "position": "RM",
               "starter": true,
               "active": true,
-              "subbedIn": true,
+              "subbedIn": false,
               "subbedOut": true,
-              "substitutionTime": ""
+              "substitutionTime": "71'"
             },
             {
               "id": "291791",
@@ -18421,9 +18397,33 @@
               "position": "F",
               "starter": true,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
+            },
+            {
+              "id": "385377",
+              "name": "Christian Nwachukwu",
+              "nameZh": "Christian Nwachukwu",
+              "jersey": "8",
+              "position": "LF",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "45'"
+            },
+            {
+              "id": "268529",
+              "name": "Kaheem Parris",
+              "nameZh": "Kaheem Parris",
+              "jersey": "11",
+              "position": "RF",
+              "starter": true,
+              "active": true,
+              "subbedIn": false,
+              "subbedOut": true,
+              "substitutionTime": "63'"
             }
           ],
           "substitutes": [
@@ -18436,8 +18436,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "45'"
             },
             {
               "id": "274878",
@@ -18448,8 +18448,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "63'"
             },
             {
               "id": "237718",
@@ -18459,8 +18459,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18471,8 +18471,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18484,8 +18484,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "76'"
             },
             {
               "id": "342959",
@@ -18495,8 +18495,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18507,8 +18507,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18520,8 +18520,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "75'"
             },
             {
               "id": "338216",
@@ -18532,8 +18532,8 @@
               "starter": false,
               "active": true,
               "subbedIn": true,
-              "subbedOut": true,
-              "substitutionTime": ""
+              "subbedOut": false,
+              "substitutionTime": "71'"
             },
             {
               "id": "274346",
@@ -18543,8 +18543,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             },
             {
@@ -18555,8 +18555,8 @@
               "position": "SUB",
               "starter": false,
               "active": true,
-              "subbedIn": true,
-              "subbedOut": true,
+              "subbedIn": false,
+              "subbedOut": false,
               "substitutionTime": ""
             }
           ]
@@ -20056,11 +20056,63 @@
       "points": 3
     },
     {
+      "id": "104",
+      "name": "AS Roma",
+      "nameZh": "AS Roma",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "position": 13,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalDifference": 0,
+      "points": 1
+    },
+    {
+      "id": "493",
+      "name": "Shakhtar Donetsk",
+      "nameZh": "Shakhtar Donetsk",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+      "position": 14,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalDifference": 0,
+      "points": 1
+    },
+    {
+      "id": "436",
+      "name": "Fenerbahce",
+      "nameZh": "Fenerbahce",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+      "position": 15,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalDifference": 0,
+      "points": 1
+    },
+    {
+      "id": "148",
+      "name": "PSV Eindhoven",
+      "nameZh": "PSV Eindhoven",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+      "position": 16,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalDifference": 0,
+      "points": 1
+    },
+    {
       "id": "132",
       "name": "Bayern Munich",
       "nameZh": "Bayern Munich",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "position": 13,
+      "position": 17,
       "played": 0,
       "wins": 0,
       "draws": 0,
@@ -20073,7 +20125,7 @@
       "name": "Bodo/Glimt",
       "nameZh": "Bodo/Glimt",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-      "position": 14,
+      "position": 18,
       "played": 0,
       "wins": 0,
       "draws": 0,
@@ -20086,20 +20138,7 @@
       "name": "Como",
       "nameZh": "Como",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-      "position": 15,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "points": 0
-    },
-    {
-      "id": "436",
-      "name": "Fenerbahce",
-      "nameZh": "Fenerbahce",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-      "position": 16,
+      "position": 19,
       "played": 0,
       "wins": 0,
       "draws": 0,
@@ -20112,7 +20151,7 @@
       "name": "Lens",
       "nameZh": "Lens",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "position": 17,
+      "position": 20,
       "played": 0,
       "wins": 0,
       "draws": 0,
@@ -20125,20 +20164,7 @@
       "name": "Manchester United",
       "nameZh": "曼联",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "position": 18,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "points": 0
-    },
-    {
-      "id": "148",
-      "name": "PSV Eindhoven",
-      "nameZh": "PSV Eindhoven",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-      "position": 19,
+      "position": 21,
       "played": 0,
       "wins": 0,
       "draws": 0,
@@ -20151,20 +20177,7 @@
       "name": "RB Leipzig",
       "nameZh": "RB Leipzig",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "position": 20,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "points": 0
-    },
-    {
-      "id": "104",
-      "name": "AS Roma",
-      "nameZh": "AS Roma",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "position": 21,
+      "position": 22,
       "played": 0,
       "wins": 0,
       "draws": 0,
@@ -20177,19 +20190,6 @@
       "name": "Sabah FK",
       "nameZh": "Sabah FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-      "position": 22,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "points": 0
-    },
-    {
-      "id": "493",
-      "name": "Shakhtar Donetsk",
-      "nameZh": "Shakhtar Donetsk",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
       "position": 23,
       "played": 0,
       "wins": 0,
@@ -20432,18 +20432,39 @@
   ],
   "news": [
     {
+      "title": "Man United vs. Sabah LIVE: Champions League updates as Martínez adds fourth for hosts",
+      "published": "2026-09-10T20:33:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49893438/man-united-vs-sabah-live-champions-league-updates-commentary-score-result",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714525_1296x729_16-9.jpg",
+      "titleZh": "曼联对沙巴的比赛现场直播：欧洲冠军联赛更新，马丁内斯为体验达人增加了第四名"
+    },
+    {
+      "title": "Champions League live updates: Man United lead Sabah",
+      "published": "2026-09-10T20:22:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49830057/uefa-champions-league-live-updates-roma-fenerbahce-bayern-munich-bodo-glimt-manchester-united-sabah",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714495_1296x729_16-9.jpg",
+      "titleZh": "欧洲冠军联赛现场更新：曼联领先沙巴"
+    },
+    {
+      "title": "JJ Gabriel scores hat trick on UEFA Youth League debut for Man United",
+      "published": "2026-09-10T18:03:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49894218/jj-gabriel-scores-hat-trick-uefa-youth-league-debut-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714438_1296x729_16-9.jpg",
+      "titleZh": "JJ Gabriel在曼联的欧足联青年联赛首秀上演帽子戏法"
+    },
+    {
+      "title": "Weekend predictions: Can Wrexham get a win? Who wins Manchester derby? Elversberg over Bayern?",
+      "published": "2026-09-10T18:43:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49891922/weekend-predictions-wins-manchester-derby-elversberg-stun-bayern",
+      "image": "https://a.espncdn.com/photo/2026/0910/r1714342_1296x729_16-9.jpg",
+      "titleZh": "周末预测： Wrexham能赢吗？谁赢得了曼彻斯特德比？埃尔弗斯贝格战胜拜仁？"
+    },
+    {
       "title": "Barcelona's Deco: Anthony Gordon a better fit than Marcus Rashford",
-      "published": "2026-09-10T11:05:25Z",
+      "published": "2026-09-10T20:08:33Z",
       "url": "https://www.espn.com/soccer/story/_/id/49890559/barcelona-deco-anthony-gordon-better-fit-marcus-rashford",
       "image": "https://a.espncdn.com/photo/2026/0824/r1706159_1296x729_16-9.jpg",
       "titleZh": "巴塞罗那的装饰：安东尼·戈登（ Anthony Gordon ）比马库斯·拉什福德（ Marcus R"
-    },
-    {
-      "title": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
-      "published": "2026-09-10T10:49:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714230_1296x729_16-9.jpg",
-      "titleZh": "转会谣言，新闻：曼联，托特纳姆眼球俱乐部布鲁日前锋"
     },
     {
       "title": "Who are Sabah FK, Champions League debutants, Arsenal/Man United opponents?",
@@ -20493,51 +20514,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/49878227/marcus-rashford-returns-training-ahead-manchester-united-champions-league-clash",
       "image": "https://a.espncdn.com/photo/2026/0909/r1713674_1296x729_16-9.jpg",
       "titleZh": "马库斯·拉什福德（ Marcus Rashford ）在曼联欧冠比赛前重返训练"
-    },
-    {
-      "title": "Pep Guardiola called Marcus Rashford Man United's best player: 'I'd take him tomorrow'",
-      "published": "2026-09-09T07:08:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49876884/pep-guardiola-called-marcus-rashford-man-united-best-player-man-city-ryan-giggs",
-      "image": "https://a.espncdn.com/photo/2026/0909/r1713644_1296x729_16-9.jpg",
-      "titleZh": "瓜迪奥拉称马库斯·拉什福德是曼联最好的球员： “我明天会带他走”"
-    },
-    {
-      "title": "Man United scouted Kylian Mbappé but rejected chance to sign him - Ryan Giggs",
-      "published": "2026-09-09T07:16:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49876933/man-united-scouted-kylian-mbappe-didnt-try-sign-ryan-giggs",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713413_1296x729_16-9.jpg",
-      "titleZh": "曼联侦察了Kylian Mbappé ，但拒绝了签下他的机会- Ryan Giggs"
-    },
-    {
-      "title": "Man United fan group call for unified pre-derby protest amid season ticket 'fiasco'",
-      "published": "2026-09-08T17:58:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49867513/manchester-united-fan-group-call-pre-derby-protest-amid-season-ticket-fiasco",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
-      "titleZh": "曼联球迷团体呼吁在赛季门票“惨败”期间举行统一的赛前抗议活动"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United, Tottenham eye Club Brugge striker",
-      "published": "2026-09-10T10:49:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49889462/transfer-rumors-news-man-united-tottenham-eye-club-brugge-striker",
-      "image": "https://a.espncdn.com/photo/2026/0910/r1714230_1296x729_16-9.jpg",
-      "titleZh": "转会谣言，新闻：曼联，托特纳姆眼球俱乐部布鲁日前锋",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Man United scouted Kylian Mbappé but rejected chance to sign him - Ryan Giggs",
-      "published": "2026-09-09T07:16:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49876933/man-united-scouted-kylian-mbappe-didnt-try-sign-ryan-giggs",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713413_1296x729_16-9.jpg",
-      "titleZh": "曼联侦察了Kylian Mbappé ，但拒绝了签下他的机会- Ryan Giggs",
-      "player": "",
-      "status": "已完成",
-      "statusType": "done"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

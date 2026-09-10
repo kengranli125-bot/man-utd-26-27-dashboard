@@ -22424,6 +22424,18 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMiggFBVV95cUxQQWtVQXZWVmFidkx0SzVxX2tBZFR5ekFhdkRUbFNlNDQ4SUJOdUtHTldNVUZyTnAxRjJoYU94OEtXUG1QYVMzdlRXM3NNZ2V6VExMQWZ0MkpjZENjbjBiSTFrRGFWYklCdkxQbDBHemZsMGdKY1R5TmNBanJXRkUtZkdB",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Man Utd ratings: Mainoo is best player again but Mazraoui won't dislodge Dalot",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWtVQXZWVmFidkx0SzVxX2tBZFR5ekFhdkRUbFNlNDQ4SUJOdUtHTldNVUZyTnAxRjJoYU94OEtXUG1QYVMzdlRXM3NNZ2V6VExMQWZ0MkpjZENjbjBiSTFrRGFWYklCdkxQbDBHemZsMGdKY1R5TmNBanJXRkUtZkdB?oc=5",
+      "published": "2026-09-10T21:11:56.000Z",
+      "titleZh": "曼联评分： Mainoo再次成为最佳球员，但Mazraoui不会驱逐Dalot"
+    },
+    {
       "id": "Andy Mitten:CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -22460,15 +22472,15 @@
       "titleZh": "曼联仍然梦想着冠军联赛的荣耀，尽管战绩糟糕"
     },
     {
-      "id": "Rob Dawson:CBMisAFBVV95cUxOSGFVVDlYOGFzbkNVcDJrTXNReUcza29KV0JMa01kU1lTazdrYWU5LUxDZFE0SHNPTTItZUNHSER2bHg0UHozaTVJd2tuV2l3WGNtRmhKbDd1YTF0LXBiU1ZPcG5abmlqNHozRlVlekdPZEhwbFlwcmR1Yk96UGVSNU5SMUFaWHVBU3ZKN2lxWDczTW5xRUdFdTBsUHpEWmxNa2t5TXZQS3h6eDB1TjNMMA",
+      "id": "Rob Dawson:CBMiqwFBVV95cUxQQ3ZLVjhMNEs5NXFKeTlYcWhXNlhTYlhGNVF1VkRKQ2lHSjVMaDM1ZjA2d2RjMGtfdlQ5bUZ4YzhubjFxeXE1WnJZTXlrbjJ3QnU0U3NLVzU0X2cwVV9FdndUeEFlR3lxUF9TYVNkRGE4czViSUlFTktRdEw1TUo0ZWdFbkhjQXFUU0Y4QXF6MnRQT0E3b21RQlJyNmkzS25lNFRTaFVYTkQ4U3M",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.in",
       "tier": 1,
       "title": "Man United's Champions League return: What does success look like?",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGFVVDlYOGFzbkNVcDJrTXNReUcza29KV0JMa01kU1lTazdrYWU5LUxDZFE0SHNPTTItZUNHSER2bHg0UHozaTVJd2tuV2l3WGNtRmhKbDd1YTF0LXBiU1ZPcG5abmlqNHozRlVlekdPZEhwbFlwcmR1Yk96UGVSNU5SMUFaWHVBU3ZKN2lxWDczTW5xRUdFdTBsUHpEWmxNa2t5TXZQS3h6eDB1TjNMMA?oc=5",
-      "published": "2026-09-09T14:18:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZLVjhMNEs5NXFKeTlYcWhXNlhTYlhGNVF1VkRKQ2lHSjVMaDM1ZjA2d2RjMGtfdlQ5bUZ4YzhubjFxeXE1WnJZTXlrbjJ3QnU0U3NLVzU0X2cwVV9FdndUeEFlR3lxUF9TYVNkRGE4czViSUlFTktRdEw1TUo0ZWdFbkhjQXFUU0Y4QXF6MnRQT0E3b21RQlJyNmkzS25lNFRTaFVYTkQ4U3M?oc=5",
+      "published": "2026-09-09T13:48:00.000Z",
       "titleZh": "曼联的冠军联赛回归：成功是什么样的？"
     },
     {
@@ -22652,18 +22664,6 @@
       "titleZh": "曼联在1月份的左后卫签约中达成决定，追求7500万英镑的刘易斯霍尔"
     },
     {
-      "id": "Rob Dawson:CBMitgFBVV95cUxNeFBaZ1BLVXZzZ0V5aXIyaXJTU3FqTzVzWFBEQU9GNHBEQ0xtRWhMODBmdFlGQkpNTGd4TkM5RURsaEdnOXU4YVFhbHFkMjV2SEVnUnhLOExtVnl4R3MwUmw1YmpLSWRUOTNhZDVQeEhrRHUtS2RwZUJjUzJ0YjFsX21KS2R1Sm1TMVQydV81MG5wRzRjTGlrWTZHRDdlTll3ZFc2MV9Qbm5tQ2NjcU9iVlRTWkhWdw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United still pursuing Leicester midfielder Louis Page - sources",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFBaZ1BLVXZzZ0V5aXIyaXJTU3FqTzVzWFBEQU9GNHBEQ0xtRWhMODBmdFlGQkpNTGd4TkM5RURsaEdnOXU4YVFhbHFkMjV2SEVnUnhLOExtVnl4R3MwUmw1YmpLSWRUOTNhZDVQeEhrRHUtS2RwZUJjUzJ0YjFsX21KS2R1Sm1TMVQydV81MG5wRzRjTGlrWTZHRDdlTll3ZFc2MV9Qbm5tQ2NjcU9iVlRTWkhWdw?oc=5",
-      "published": "2026-09-07T10:33:00.000Z",
-      "titleZh": "曼联仍在追逐莱斯特中场球员路易斯·佩奇-消息来源"
-    },
-    {
       "id": "Andy Mitten:CBMinAFBVV95cUxOR0dUa0tuNTRUOXJSLXlSdlVvb1k3TU5SU2VXaXZXYnJNNWh1WXcwbDBQRnllQV91S20tcEZlVkhnMG1zS0NqbXNBXzZLcnVReU43T2stS1J4Z3VkXzk0WkxkWG5XWDBMWEpoU0VSSW5FODhmVDFaYUxjRnA4Q1RleHdULWdmeWlWYU12ZEpjanpWaDNfdnBLR2Fya0s",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -22712,7 +22712,7 @@
       "titleZh": "曼联今年夏天花了1.55亿英镑，但面临着同样的老问题"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-10T20:06:30.882Z",
+  "journalistsUpdatedAt": "2026-09-10T22:34:07.228Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

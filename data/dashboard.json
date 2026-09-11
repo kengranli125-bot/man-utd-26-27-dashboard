@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:27:11.794Z",
+  "updatedAt": "2026-09-11T20:57:29.389Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -19937,7 +19937,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-11T16:27:10.754Z"
+        "generatedAt": "2026-09-11T20:57:28.200Z"
       }
     },
     {
@@ -21809,6 +21809,13 @@
   ],
   "news": [
     {
+      "title": "Dalot: I want to put Manchester United back on top",
+      "published": "2026-09-11T16:30:15Z",
+      "url": "https://www.espn.com/video/clip/_/id/49904946/want-put-manchester-united-back-top",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Dalot_I_want_to_put_Manchester_United_back_on_top/dm_260911_Dalot_I_want_to_put_Manchester_United_back_on_top.jpg",
+      "titleZh": "达洛特：我想让曼联重回榜首"
+    },
+    {
       "title": "Carrick expects 'different' Manchester derby after last season's win",
       "published": "2026-09-11T14:31:08Z",
       "url": "https://www.espn.com/video/clip/_/id/49903951/carrick-expects-different-manchester-derby-last-season-win",
@@ -21884,13 +21891,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49897185/michael-carrick-praises-man-united-perfect-night-champions-league-return",
       "image": "https://a.espncdn.com/photo/2026/0910/r1714609_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）称赞曼联在冠军联赛回归"
-    },
-    {
-      "title": "Will Manchester United struggle later on in the Champions League?",
-      "published": "2026-09-10T23:06:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49897092/will-manchester-united-struggle-later-champions-league",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_COM_SOC_Analysis_Will_Manchester_United_struggle_later_on_in_the_Champions_League_20260910_GLOB/dm_260910_COM_SOC_Analysis_Will_Manchester_United_struggle_later_on_in_the_Champions_League_20260910_GLOB.jpg",
-      "titleZh": "曼联以后会在冠军联赛中挣扎吗？"
     }
   ],
   "transfers": [],

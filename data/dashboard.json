@@ -22424,6 +22424,30 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMitAFBVV95cUxNQ0pxRFZ4bHhlTFBkUVhIMElKQTZuSTJPR3JqSVFiLXF5UmtkWHVBZ0VzSjR2SktfMXdOcG5ab0JWQWprNGRTcmpmYV8wV0ZjQ3RDb2VWcFlGVzJfLURTZXRTVHJaMWRJR1lyVGhmV0lvemVFaG1fMnFZZUNYdnBNdVUtakYzNk84QWhhUDFuakVBWHJQTUNCZ1lnSzNkVGFpX0R0Tl9IT0tXTWNuUTJvYS1UeTI",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Šeško makes his case for Man United ahead of Manchester derby",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0pxRFZ4bHhlTFBkUVhIMElKQTZuSTJPR3JqSVFiLXF5UmtkWHVBZ0VzSjR2SktfMXdOcG5ab0JWQWprNGRTcmpmYV8wV0ZjQ3RDb2VWcFlGVzJfLURTZXRTVHJaMWRJR1lyVGhmV0lvemVFaG1fMnFZZUNYdnBNdVUtakYzNk84QWhhUDFuakVBWHJQTUNCZ1lnSzNkVGFpX0R0Tl9IT0tXTWNuUTJvYS1UeTI?oc=5",
+      "published": "2026-09-10T23:18:00.000Z",
+      "titleZh": "舍什科在曼彻斯特德比之前为曼联辩护"
+    },
+    {
+      "id": "Chris Wheeler:CBMisAFBVV95cUxOTDVtTmdUSVlsdm51ck10NVlLcGUxX0pBNUhUNzJrOWVXRHNVQVZBcERYZllhNmFJTExvX19CVGRiNjZ3NTVieE5fTHIzYS1jUkdURDFjeWlGUGJwbFNxcU9LbkZZQ2hFU2NySnA5QWF4bkYxS3ZpY19ER081bWFJOXRySDV1Y0lza3dGeXBHazNJRUJJRTVhRHowRFo3QS1aMFpIcGhuOXBKM2JPTXhfR9IBtgFBVV95cUxPSGR0Q0RCakVrYlc1VTFwQl9FVm5iR2FMZEh4U1lSZ1YxZG9aVHhUZVVEMEZ6eDhROWZrbEs5YmJINU8zMDdPUURQUHpVSVFOYnF3NlFSSVJWTGdyeUdPVzFLZWNvOExMNElEUDNZUldfVjlYdWZmZ3JMZkZYdUVrMDVhZmlEYUd2OU5tWUJnR19Fb01yZkdrY2VuUWNwQjBSRFRvUlJSUEpwMDBEZHR6NXBYcUU3UQ",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Manchester United vs Sabah - Champions League RECAP: Four different scorers help hosts record comfortable win",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDVtTmdUSVlsdm51ck10NVlLcGUxX0pBNUhUNzJrOWVXRHNVQVZBcERYZllhNmFJTExvX19CVGRiNjZ3NTVieE5fTHIzYS1jUkdURDFjeWlGUGJwbFNxcU9LbkZZQ2hFU2NySnA5QWF4bkYxS3ZpY19ER081bWFJOXRySDV1Y0lza3dGeXBHazNJRUJJRTVhRHowRFo3QS1aMFpIcGhuOXBKM2JPTXhfR9IBtgFBVV95cUxPSGR0Q0RCakVrYlc1VTFwQl9FVm5iR2FMZEh4U1lSZ1YxZG9aVHhUZVVEMEZ6eDhROWZrbEs5YmJINU8zMDdPUURQUHpVSVFOYnF3NlFSSVJWTGdyeUdPVzFLZWNvOExMNElEUDNZUldfVjlYdWZmZ3JMZkZYdUVrMDVhZmlEYUd2OU5tWUJnR19Fb01yZkdrY2VuUWNwQjBSRFRvUlJSUEpwMDBEZHR6NXBYcUU3UQ?oc=5",
+      "published": "2026-09-10T22:21:43.000Z",
+      "titleZh": "曼联与沙巴-冠军联赛回顾：四位不同的得分手帮助体验达人创造舒适的胜利"
+    },
+    {
       "id": "Samuel Luckhurst:CBMiggFBVV95cUxQQWtVQXZWVmFidkx0SzVxX2tBZFR5ekFhdkRUbFNlNDQ4SUJOdUtHTldNVUZyTnAxRjJoYU94OEtXUG1QYVMzdlRXM3NNZ2V6VExMQWZ0MkpjZENjbjBiSTFrRGFWYklCdkxQbDBHemZsMGdKY1R5TmNBanJXRkUtZkdB",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -22686,33 +22710,9 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNF9seGFtVGduS21zeWtMc2FvTzAwOE05WFVyY1N5TnRELTRHSnl5ekpZa05HV2d5M2FpOEZ2ajRseDRaWGs5RERzU3N4a1F2bVlneWtLLW11azkwWi1mX29jaDllQklFcmV3RDkyQXlhY0EzcTZhU0RJUUdocVY1SGxRcFVTaWtESFl4UldaSTIyUjhqMVoxeGlHWdIBoAFBVV95cUxOblBFZk4tVHpUR1hwRDFMOElMVF94WXB6TWtIVks0SHNhZGlyX1dJbnh2WTR4ZU41WEpDaHVyR3Z0ejVMakJ2c09LZUJWb2Zva2k1WWJIQWlDMDBEczVpOEpMaEpxNGJ2ZUJkUzJTbzhqYW1yalJPWGNMSnhHMGUxZ1M5TmU5dlJHbUhXWm0xLTFOQ3VUSGR5UmF4RGhmeXJ5?oc=5",
       "published": "2026-09-07T06:00:52.000Z",
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道， Prickly迈克尔·卡里克（ Michael Carrick ）必须解决曼联本赛季开局混乱的关键原因-在1.5亿英镑的重建后，中场平衡的压力正在加大"
-    },
-    {
-      "id": "Chris Wheeler:CBMidEFVX3lxTE9HRklGU21DRVNrRlJfRVJFZWRaaEtLVDZYQmhybkJUT2RWcU5IalRfR0tEZEVITFJMR0FuVFVPN296SVVObUNRNUpTX21GSnRBb1FBZGdPOElvYUR5Nzg2MFM4cS0xeDRnaF8wUVd1bFQycTEx",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "PressReader",
-      "tier": 2,
-      "title": "Everyone dreams of debut like that, says Everton hero Ainsley",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HRklGU21DRVNrRlJfRVJFZWRaaEtLVDZYQmhybkJUT2RWcU5IalRfR0tEZEVITFJMR0FuVFVPN296SVVObUNRNUpTX21GSnRBb1FBZGdPOElvYUR5Nzg2MFM4cS0xeDRnaF8wUVd1bFQycTEx?oc=5",
-      "published": "2026-09-07T05:48:43.000Z",
-      "titleZh": "埃弗顿英雄安斯利说，每个人都梦想着这样的首次亮相"
-    },
-    {
-      "id": "James Ducker:CBMiqgFBVV95cUxOakpkMk1PRl8yYnowRDEwNl9GdTFQZWt5ZVI3dXV3SXN2WW50M1FacFRQV3Nnd0hrLXFLa1paOEltT0xSdW5FNmo1WHFRWU1BMW15ZXN3dF9PYzdueU4tOUZDY21SRVMtZjFxeVh5cmNNRlFaSlNFVlhfUHRDRlk5Z29mbmE0N3lyUGRxalJCUW5vRVF3dDFqZDZkUVM2TkNDMHR0Ry1meHRFdw",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Man Utd spent £155m this summer but face the same old problems",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakpkMk1PRl8yYnowRDEwNl9GdTFQZWt5ZVI3dXV3SXN2WW50M1FacFRQV3Nnd0hrLXFLa1paOEltT0xSdW5FNmo1WHFRWU1BMW15ZXN3dF9PYzdueU4tOUZDY21SRVMtZjFxeVh5cmNNRlFaSlNFVlhfUHRDRlk5Z29mbmE0N3lyUGRxalJCUW5vRVF3dDFqZDZkUVM2TkNDMHR0Ry1meHRFdw?oc=5",
-      "published": "2026-09-06T17:29:00.000Z",
-      "titleZh": "曼联今年夏天花了1.55亿英镑，但面临着同样的老问题"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-10T22:34:07.228Z",
+  "journalistsUpdatedAt": "2026-09-11T00:31:42.693Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

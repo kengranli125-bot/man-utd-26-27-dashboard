@@ -22435,15 +22435,27 @@
   ],
   "journalists": [
     {
-      "id": "Rob Dawson:CBMiqAFBVV95cUxNNXZTXzVWeU9nUzRKS2NzWVBLc1cwOEtPU0tkc2dBSU5SdW1sUWF0YzNqMHBkeGhyS2NOdUZEYU5BX0dPaHlZQWRlMVF1alRIcnN5NU9nNjkwWVJ0MzZDLUFQS1pqc3hvVEpvdlJSUTJXTnRlR1ZHUUppT0VFOWVFQVRibFZUbWtXODZ4RkppcWNvUnVPOTNuaVdEbW9xTjM5YTNDckJmWWw",
+      "id": "Simon Stone:CBMiZ0FVX3lxTFBlX01mNHVWeTVvTGlpdzcwcVdteUhxU3NhdWJTOHU2Z1RUVTFrUHU5aUxvOVl1SndqM2htMG1mZzFjNTE1SV8xWUMzRXdLOXM4TVlCbW1pU3o2cXczLUhHUTJPWHBqWjA",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd's Martinez ready for Haaland derby test",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlX01mNHVWeTVvTGlpdzcwcVdteUhxU3NhdWJTOHU2Z1RUVTFrUHU5aUxvOVl1SndqM2htMG1mZzFjNTE1SV8xWUMzRXdLOXM4TVlCbW1pU3o2cXczLUhHUTJPWHBqWjA?oc=5",
+      "published": "2026-09-12T11:01:56.000Z",
+      "titleZh": "曼联的马丁内斯为哈兰德德比测试做好准备"
+    },
+    {
+      "id": "Rob Dawson:CBMipAFBVV95cUxQWTF6RDNsU05pcVE1U1JwS3FTT05GVmtERHFuTjVLdnlRSU8yWVNQcm9aMjF0Sk56SkFzQngza3JzaGtGa05fNlM3UGtOSHVpekF6Y0pvaktaNjFMYmZzOXVUQ21HbVZnOE1XR0ZQOGtwa0JVVUZpR0FPU1B6bHgxc3I3ZTVWellLYVhQZmlpY3VyWWpJLTVXaWF0T290SHhQdDQ4cg",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "ESPN Philippines",
       "tier": 1,
       "title": "Dalot still dreams of putting Manchester United back on top",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXZTXzVWeU9nUzRKS2NzWVBLc1cwOEtPU0tkc2dBSU5SdW1sUWF0YzNqMHBkeGhyS2NOdUZEYU5BX0dPaHlZQWRlMVF1alRIcnN5NU9nNjkwWVJ0MzZDLUFQS1pqc3hvVEpvdlJSUTJXTnRlR1ZHUUppT0VFOWVFQVRibFZUbWtXODZ4RkppcWNvUnVPOTNuaVdEbW9xTjM5YTNDckJmWWw?oc=5",
-      "published": "2026-09-12T07:22:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTF6RDNsU05pcVE1U1JwS3FTT05GVmtERHFuTjVLdnlRSU8yWVNQcm9aMjF0Sk56SkFzQngza3JzaGtGa05fNlM3UGtOSHVpekF6Y0pvaktaNjFMYmZzOXVUQ21HbVZnOE1XR0ZQOGtwa0JVVUZpR0FPU1B6bHgxc3I3ZTVWellLYVhQZmlpY3VyWWpJLTVXaWF0T290SHhQdDQ4cg?oc=5",
+      "published": "2026-09-12T07:36:25.000Z",
       "titleZh": "达洛特仍然梦想着让曼联重回榜首"
     },
     {
@@ -22463,7 +22475,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Manchester United ban 685 season-ticket holders after investigation into touting",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXFUUVY3SmRYeXlaRXRPY1hvdjZVbHhNWm9VSnVndnNLRG1zWDctOGs0YUdSM1FURWhhVFpyWmxFcHRYY2hkLXBJZE5vWUthMlpVa0M5b054NUlQZ3pXbDJtcGxrM0diSXkxakpqNUtrM2FWQk9UYTlMMERnWUhMQlpOR0xyTlp3ZWZhOVdKbjBQMHM?oc=5",
@@ -22475,7 +22487,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Man Utd strip 685 fans of season tickets in clampdown on touting",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFp5WE1uT20xbnhmd21PeE9jSUIwRnhnT0RQN2lSakdxZ3B2WldPb1RkanRvNV9XUmNUTXBCTUxGWWNTWUp0THRHd3ZaSVY3OFAwRVotS045cGZSUHllUkF4ZE1EQUpmSjQzUDNxVGZiN2NoeHZkS0t3QkR0bEpyVWp5VDVCbjltcU5pbWhLREdvbGhKQmNWZ0QxWHU1dGFKMEJ1Nm1saWpmdw?oc=5",
@@ -22535,7 +22547,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
+      "source": "dailymail.com",
       "tier": 2,
       "title": "Manchester United vs Sabah - Champions League RECAP: Four different scorers help hosts record comfortable win",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDVtTmdUSVlsdm51ck10NVlLcGUxX0pBNUhUNzJrOWVXRHNVQVZBcERYZllhNmFJTExvX19CVGRiNjZ3NTVieE5fTHIzYS1jUkdURDFjeWlGUGJwbFNxcU9LbkZZQ2hFU2NySnA5QWF4bkYxS3ZpY19ER081bWFJOXRySDV1Y0lza3dGeXBHazNJRUJJRTVhRHowRFo3QS1aMFpIcGhuOXBKM2JPTXhfR9IBtgFBVV95cUxPSGR0Q0RCakVrYlc1VTFwQl9FVm5iR2FMZEh4U1lSZ1YxZG9aVHhUZVVEMEZ6eDhROWZrbEs5YmJINU8zMDdPUURQUHpVSVFOYnF3NlFSSVJWTGdyeUdPVzFLZWNvOExMNElEUDNZUldfVjlYdWZmZ3JMZkZYdUVrMDVhZmlEYUd2OU5tWUJnR19Fb01yZkdrY2VuUWNwQjBSRFRvUlJSUEpwMDBEZHR6NXBYcUU3UQ?oc=5",
@@ -22543,23 +22555,11 @@
       "titleZh": "曼联与沙巴-冠军联赛回顾：四位不同的得分手帮助体验达人创造舒适的胜利"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTFBISDFFU05tTkFnSDF6UDRtSmh0YUNfQl8xTmhPclhMMmZzcjBCTmJYaG5KeTVDVUJPNThwenpYNHoySTFQa3RRYkNZVkU3WXZuZkFVNVJURHdRUXlTcGhBRnMzaEVMSlE",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Benjamin Sesko can help Manchester United find top form after two goals in two games",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBISDFFU05tTkFnSDF6UDRtSmh0YUNfQl8xTmhPclhMMmZzcjBCTmJYaG5KeTVDVUJPNThwenpYNHoySTFQa3RRYkNZVkU3WXZuZkFVNVJURHdRUXlTcGhBRnMzaEVMSlE?oc=5",
-      "published": "2026-09-10T22:41:17.000Z",
-      "titleZh": "本杰明·塞斯科（ Benjamin Sesko ）可以帮助曼联在两场比赛中打进两球后找到最佳状态"
-    },
-    {
       "id": "Andy Mitten:CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "The Champions League is back at Old Trafford. This is why it matters so much - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB?oc=5",
@@ -22579,6 +22579,18 @@
       "titleZh": "曼联评分： Mainoo再次成为最佳球员，但Mazraoui不会驱逐Dalot"
     },
     {
+      "id": "Simon Stone:CBMiZkFVX3lxTE1CVkVzU0pkQXlUVnlYRTQ1VmFtUS1VQ05YdHdsRVNyazB0Q2pMZG1KejBiTnJtRkV3ekkwZjBvVUtjb2l5ckxVNVJhSzQ5a2JUdkY3SzdfX0JHRjlUX3dIZDdIdE1Tdw",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd 4-0 Sabah: Red Devils hit four against Sabah FK on Champions League return",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVkVzU0pkQXlUVnlYRTQ1VmFtUS1VQ05YdHdsRVNyazB0Q2pMZG1KejBiTnJtRkV3ekkwZjBvVUtjb2l5ckxVNVJhSzQ5a2JUdkY3SzdfX0JHRjlUX3dIZDdIdE1Tdw?oc=5",
+      "published": "2026-09-10T21:09:42.000Z",
+      "titleZh": "曼联4-0沙巴：红魔在冠军联赛回归中击中4对阵沙巴"
+    },
+    {
       "id": "Andy Mitten:CBMijgFBVV95cUxNS2FGMmlIei0zbzhaRDFvMmpzal9ZTmhBQ0xBMWRJZ1YtYkVtTy1UZGZUeXphcnU0TzVfRFhFOXZwcWxXUGl1SUtsXzhRdG5MUXFvajhEalRKQ1RXOFpTM1hNWWg0cWRyMEF6UG5mUk5qdnlhcHFZZFEwNkMtdmdNSk1uS3k1MURsNld3bUNR",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -22587,7 +22599,7 @@
       "tier": 2,
       "title": "Experience the Malaysia Airlines fan zone",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2FGMmlIei0zbzhaRDFvMmpzal9ZTmhBQ0xBMWRJZ1YtYkVtTy1UZGZUeXphcnU0TzVfRFhFOXZwcWxXUGl1SUtsXzhRdG5MUXFvajhEalRKQ1RXOFpTM1hNWWg0cWRyMEF6UG5mUk5qdnlhcHFZZFEwNkMtdmdNSk1uS3k1MURsNld3bUNR?oc=5",
-      "published": "2026-09-10T06:39:50.000Z",
+      "published": "2026-09-10T10:31:49.000Z",
       "titleZh": "体验马来西亚航空公司风扇区"
     },
     {
@@ -22595,12 +22607,24 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "The £343m Champions League gulf that shows how far United are behind City",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS03ZGxjTWg5SHdpZHUxbVd0VWN3bTVoN21IU1p2WmV5TlRiRjlOek9Ib3RmM2JHbF9Cb3V1ZU8xUWd5anBNdUlfNGUzM3lSNzdSd1pRS1pkVGV0WXJoblJqRktXMzJHQ092bWhLMGxWaDV3LVdjN2htXzNhUDlUbkU1Qm1SVzFoaWdjYmlCV0VvN1NxN3YtMC0zeGVPNU05eDVsUWxNZ0g?oc=5",
       "published": "2026-09-10T06:30:00.000Z",
       "titleZh": "£ 3.43亿冠军联赛鸿沟，显示曼联落后于曼城的距离"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMiZEFVX3lxTE0wNmxMdWFuZU5zOWhvcGNNaVdMS0t1Q3hCTHdaNjBrdEItUUNZc0h0WEZuR2FzbW55TnRhaG51RkpKVnhIMlRlVy1JRUJKcFFjdGVXZ1k1OHg4Sy1iYzlXSld3cDM",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Man Utd dreaming of CL glory despite wretched record and embarrassing Bruno stat",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNmxMdWFuZU5zOWhvcGNNaVdMS0t1Q3hCTHdaNjBrdEItUUNZc0h0WEZuR2FzbW55TnRhaG51RkpKVnhIMlRlVy1JRUJKcFFjdGVXZ1k1OHg4Sy1iYzlXSld3cDM?oc=5",
+      "published": "2026-09-09T17:19:54.000Z",
+      "titleZh": "曼联梦想着CL的荣耀，尽管糟糕的记录和令人尴尬的布鲁诺统计数据"
     },
     {
       "id": "Rob Dawson:CBMiqgFBVV95cUxOaGJLRm9SN1B6WEdMenZGNGZEWEEwQ3JfNTZfWHJWNG1KNW1iYmhTeGlQMXBsQ0d2d0FfeXBNc0pqVDlRM2xPREtENDVNbEI2dGV2bzg0X3Nkb0VvVzFHWEdtYXhwZ2NfdjkzUmhaR3lpWGJjRFptMGVmalFJclNVZGdmRDRhX1lIakZDTUQyQ0MyMThGb25PX2o1UVZ5clpsS2ZzcEN2WFozUQ",
@@ -22615,28 +22639,16 @@
       "titleZh": "曼联的冠军联赛回归：成功是什么样的？"
     },
     {
-      "id": "Simon Stone:CBMieEFVX3lxTE5pSUp3b1dWUENvNlNxN2ItaWV2MTZEbkJIRDVrckdwN3g2SXdkeTJ3NUFCUi15SVJvRm1Ra2w2SXNXOTRjcjVqNDJROE5ZX2hTRTNLUF85aGFCWkl1Z0hXbktxQnVMS2tJbXRSOEQtUGJJZEduYS0yNw",
+      "id": "Simon Stone:CBMidkFVX3lxTFBGVFhrNVlHNG5kREM5R0lncVgyZmFUNExrTVJyMTNNUHdBZ3I5TE1JM3lzM2t5aXBiWVpnTXpNSUQxTkE3ZFY2MkpDVEJTUXZrZkZoRmRTcjZmRHFfQ21BVWhuQUE1X2J0Qy0tVjNaWGF2d1BwN1E",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
+      "source": "Yahoo",
       "tier": 1,
       "title": "When will Baleba make his Man Utd debut?",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pSUp3b1dWUENvNlNxN2ItaWV2MTZEbkJIRDVrckdwN3g2SXdkeTJ3NUFCUi15SVJvRm1Ra2w2SXNXOTRjcjVqNDJROE5ZX2hTRTNLUF85aGFCWkl1Z0hXbktxQnVMS2tJbXRSOEQtUGJJZEduYS0yNw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVFhrNVlHNG5kREM5R0lncVgyZmFUNExrTVJyMTNNUHdBZ3I5TE1JM3lzM2t5aXBiWVpnTXpNSUQxTkE3ZFY2MkpDVEJTUXZrZkZoRmRTcjZmRHFfQ21BVWhuQUE1X2J0Qy0tVjNaWGF2d1BwN1E?oc=5",
       "published": "2026-09-09T12:03:30.000Z",
       "titleZh": "Baleba什么时候会首次亮相曼联？"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMihgFBVV95cUxQd211eG5ldy1BUmFYQ2M1eHo2V2tJNEFDSjdERUZiYl93RlFoWE0zM3RneWl6U05vUERqelQ3dHNkc3p3aHZnQnVvSVRkN1F0UU94bGM5ZlQ5R2x4anlJdUg1UGJiZ2YwZUxUaHIxR3lETTVvSzRBRFFQcTZYa3lyTktYMHdmZw",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Luke Shaw missing from Manchester United training amid left back concerns",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd211eG5ldy1BUmFYQ2M1eHo2V2tJNEFDSjdERUZiYl93RlFoWE0zM3RneWl6U05vUERqelQ3dHNkc3p3aHZnQnVvSVRkN1F0UU94bGM5ZlQ5R2x4anlJdUg1UGJiZ2YwZUxUaHIxR3lETTVvSzRBRFFQcTZYa3lyTktYMHdmZw?oc=5",
-      "published": "2026-09-09T11:38:13.000Z",
-      "titleZh": "由于左后卫的担忧， Luke Shaw在曼联训练中失踪"
     },
     {
       "id": "Rob Dawson:CBMixgFBVV95cUxNQmxxdU9XVjEtWUE2N3VVSjd5emJOTnl5R3Fybk9VcjVQeWpzUlJsWldHUkI1THF1SHUycFY0MVNKRkEzQmxQbzZENW80MnpaTmI1dVQxa2VHN29pcDd6NWM4dWJ5VXFGOHVnTkNOZ2ZWWHVNaUlrSUVndHF3elBpMzAwY09DSGN6RTd5Um9ZbzVqSUR3TjdKekhUZllTbXBWUHVYOGViSU9MZFZhdmNmeE85RW9GN0tMTEhTWVVWZVkwWVNFNkE",
@@ -22651,11 +22663,23 @@
       "titleZh": "马库斯·拉什福德（ Marcus Rashford ）在曼联欧冠比赛前重返训练"
     },
     {
+      "id": "James Ducker:CBMizgFBVV95cUxOZHBaM1JyM2tEX3hQSkVIQmFFV0JEa0FYQkRRWmh2c1pHcG42YlN4X2tFSnkyYUw2RlNLS0NkS0J0NFpwX1ZsWkp5ZkRpdTEzaWpHODY4aEktcG04WGVYOE9PR01OaGU5MFdoU19iM3pEM1UzcnItaGdDaXcxd1IwM2hTWWlfLURVcHpTaEhJNmFfS19RanZuSTRUT0tnTnB1REJLbmtiWWUtUGt6V0JLZXNSRklPUW5feDhjRFN5MnZwQnFUaUlrVWxJX2JLdw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "LiveScore",
+      "tier": 1,
+      "title": "Man Utd to offer Lisandro Martinez new contract on two conditions",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHBaM1JyM2tEX3hQSkVIQmFFV0JEa0FYQkRRWmh2c1pHcG42YlN4X2tFSnkyYUw2RlNLS0NkS0J0NFpwX1ZsWkp5ZkRpdTEzaWpHODY4aEktcG04WGVYOE9PR01OaGU5MFdoU19iM3pEM1UzcnItaGdDaXcxd1IwM2hTWWlfLURVcHpTaEhJNmFfS19RanZuSTRUT0tnTnB1REJLbmtiWWUtUGt6V0JLZXNSRklPUW5feDhjRFN5MnZwQnFUaUlrVWxJX2JLdw?oc=5",
+      "published": "2026-09-09T09:39:52.000Z",
+      "titleZh": "曼联将向利桑德罗·马丁内斯提供两项条件的新合同"
+    },
+    {
       "id": "Laurie Whitwell:CBMiogFBVV95cUxQMTkxZ2IzVVVlV3JaaHhVZGs3ZUFhdFB1R2tHckswR2Q5S3kzWDh3YW5rQU9WT19Gay04OWh3ZlNRUjV6WDFuT0FtRXJKVV9wZWl5dXFoeFJtX1Rxb3JDNkZDOGQ3ODMwUlU5dEpNUDFVT1ZUWGtneE5feHgzcG5fQUZESEowR2k4ejlVcWdBM0lDSDVCZ29FVXo0YUp6VHpjV2c",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Is Marcus Rashford really getting back to his Manchester United best? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTkxZ2IzVVVlV3JaaHhVZGs3ZUFhdFB1R2tHckswR2Q5S3kzWDh3YW5rQU9WT19Gay04OWh3ZlNRUjV6WDFuT0FtRXJKVV9wZWl5dXFoeFJtX1Rxb3JDNkZDOGQ3ODMwUlU5dEpNUDFVT1ZUWGtneE5feHgzcG5fQUZESEowR2k4ejlVcWdBM0lDSDVCZ29FVXo0YUp6VHpjV2c?oc=5",
@@ -22667,7 +22691,7 @@
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Man Utd analysis after Champions League draw: Bayern at Old Trafford and Bruno Fernandes goes home",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelZZYUZibTNRV1dPaUdUSFQ0OGlGMmM4UkhZWEFHVzdpdHVSRHRiYkU4anNnb19OVFQxcEVPVFlMaUljLVBvVEdkMHR3NWp3YW1rMnZXZnNueXYzdG9TOF9xaEdBYTZ6Rzk3YW5PR2xiaWR5NkxyUlRRZHhTRjFaZ0dHXzdXR25QN0diQnNxOHlBcUtXaHlPUEswQ0lGZVBNeHJRNjh0TEVmSmt6d1pN?oc=5",
@@ -22679,7 +22703,7 @@
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "David Ornstein’s The Athletic FC Q&A: Active teams in January? Camara, Liverpool and Chelsea? Bournemouth sales?",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5",
@@ -22691,39 +22715,15 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Manchester United fan group to protest season ticket sanctions before derby - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB?oc=5",
       "published": "2026-09-08T13:51:28.000Z",
       "titleZh": "曼联球迷团体在德比前抗议季票制裁"
-    },
-    {
-      "id": "Laurie Whitwell:CBMimwFBVV95cUxNWDJvRGhjUUZBeU9ablRQVFVQZ2p5Sk4xYjdhbUE3SVhMNzZQWWg3TEdhelVPc1ozUHdPSG1NRGcwc0hSSFNOdzk0X2Q5bC0yN2xETVE2TjJaYWlqaTN5bWhqeE02ekVQbVdnUmpwTWE0M2VLYlZ0NC00Zk00SjZBQ3UtdlVoeXVQN1QtTk80d2ctV3M2WTNTUjhFYw",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
-      "tier": 1,
-      "title": "Manchester United announce sleeve sponsorship deal with fintech SumUp",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDJvRGhjUUZBeU9ablRQVFVQZ2p5Sk4xYjdhbUE3SVhMNzZQWWg3TEdhelVPc1ozUHdPSG1NRGcwc0hSSFNOdzk0X2Q5bC0yN2xETVE2TjJaYWlqaTN5bWhqeE02ekVQbVdnUmpwTWE0M2VLYlZ0NC00Zk00SjZBQ3UtdlVoeXVQN1QtTk80d2ctV3M2WTNTUjhFYw?oc=5",
-      "published": "2026-09-08T11:15:24.000Z",
-      "titleZh": "曼联宣布与Fintech SumUp达成Sleeve赞助协议"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiyAFBVV95cUxPX0tUY2VmVGY0Ml9HQjgxRUh6SnVaYmJ1NS1hc2R0UDBNSkQ4VXBIRXFOSjNLUHlxZWFSX0JIUjlZcV9MMThDQXZvcWgtM2lSczRUX1BERUZhc0VpX2g3aEp2SWItOUItV2dMMlotdHFZRWlOT1FYWFREX0pvTklJYy1jNmg3Q1NCdnVBTDc0YzRjRnFaU0hZa2xSbEdPTDZwUmZuQkNKcWNjcC1BUFFfZzQ4LUJ6Szh5bWlyeTB0c2pKaW55U0p2Z9IBzgFBVV95cUxQX2x6SGk0bl9qS1Jmb0RldDlRaUNJMWRKaG9CX19mbXkxUXJTTlc0WmVLak5qcHFENUoyOFBBb1Nfd0NjUU1teDBuQ092Y2RYb3RnLUZMZHE5UVZCQ0pESlVmRzQzMmpTZndKczJ0MTJnVU0yMUl5aElXbGYtajJiTUpKZ3dKNlp3dV9TdGxnaWVFUkNWNC1GRnBHelVBaHJvUXh2R3JDY1VnQnJEWlFrczJ4NHhyUldCWjIyU3EtcjNvakdNOERGckZDY01iUQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "utdreport.co.uk",
-      "tier": 1,
-      "title": "‘My feeling is…’: Romano admits he’s been left shocked by Man Utd summer window for one key reason",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0tUY2VmVGY0Ml9HQjgxRUh6SnVaYmJ1NS1hc2R0UDBNSkQ4VXBIRXFOSjNLUHlxZWFSX0JIUjlZcV9MMThDQXZvcWgtM2lSczRUX1BERUZhc0VpX2g3aEp2SWItOUItV2dMMlotdHFZRWlOT1FYWFREX0pvTklJYy1jNmg3Q1NCdnVBTDc0YzRjRnFaU0hZa2xSbEdPTDZwUmZuQkNKcWNjcC1BUFFfZzQ4LUJ6Szh5bWlyeTB0c2pKaW55U0p2Z9IBzgFBVV95cUxQX2x6SGk0bl9qS1Jmb0RldDlRaUNJMWRKaG9CX19mbXkxUXJTTlc0WmVLak5qcHFENUoyOFBBb1Nfd0NjUU1teDBuQ092Y2RYb3RnLUZMZHE5UVZCQ0pESlVmRzQzMmpTZndKczJ0MTJnVU0yMUl5aElXbGYtajJiTUpKZ3dKNlp3dV9TdGxnaWVFUkNWNC1GRnBHelVBaHJvUXh2R3JDY1VnQnJEWlFrczJ4NHhyUldCWjIyU3EtcjNvakdNOERGckZDY01iUQ?oc=5",
-      "published": "2026-09-08T10:38:19.000Z",
-      "titleZh": "“我的感觉是……” ： Romano承认，他被曼联的夏季窗户震惊了一个关键原因"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-12T09:13:54.728Z",
+  "journalistsUpdatedAt": "2026-09-12T12:56:04.166Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-12T15:30:45.606Z",
+  "updatedAt": "2026-09-12T20:37:20.338Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
-    "position": 11,
+    "position": 13,
     "played": 3,
     "points": 4,
     "goalDifference": 1
@@ -19937,7 +19937,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-12T15:30:45.477Z"
+        "generatedAt": "2026-09-12T20:37:19.085Z"
       }
     },
     {
@@ -21009,14 +21009,14 @@
       "name": "Hull City",
       "nameZh": "赫尔城",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
-      "played": 3,
+      "played": 4,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 2,
       "goalDifference": 3,
-      "points": 7,
+      "points": 8,
       "position": 3
     },
     {
@@ -21024,14 +21024,14 @@
       "name": "Chelsea",
       "nameZh": "切尔西",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "played": 3,
+      "played": 4,
       "wins": 2,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 7,
+      "goalsFor": 10,
+      "goalsAgainst": 9,
       "goalDifference": 1,
-      "points": 6,
+      "points": 7,
       "position": 4
     },
     {
@@ -21039,14 +21039,14 @@
       "name": "Brentford",
       "nameZh": "布伦特福德",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-      "played": 3,
+      "played": 4,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "losses": 0,
-      "goalsFor": 5,
-      "goalsAgainst": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 4,
       "goalDifference": 3,
-      "points": 5,
+      "points": 6,
       "position": 5
     },
     {
@@ -21054,15 +21054,45 @@
       "name": "Liverpool",
       "nameZh": "利物浦",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "played": 3,
+      "played": 4,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "losses": 0,
       "goalsFor": 6,
       "goalsAgainst": 4,
       "goalDifference": 2,
-      "points": 5,
+      "points": 6,
       "position": 6
+    },
+    {
+      "id": "368",
+      "name": "Everton",
+      "nameZh": "埃弗顿",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "played": 4,
+      "wins": 1,
+      "draws": 3,
+      "losses": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 3,
+      "goalDifference": 2,
+      "points": 6,
+      "position": 7
+    },
+    {
+      "id": "373",
+      "name": "Ipswich Town",
+      "nameZh": "伊普斯维奇",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+      "played": 4,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 10,
+      "goalDifference": -3,
+      "points": 6,
+      "position": 8
     },
     {
       "id": "361",
@@ -21077,22 +21107,7 @@
       "goalsAgainst": 4,
       "goalDifference": 2,
       "points": 5,
-      "position": 7
-    },
-    {
-      "id": "368",
-      "name": "Everton",
-      "nameZh": "埃弗顿",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 5,
-      "goalsAgainst": 3,
-      "goalDifference": 2,
-      "points": 5,
-      "position": 8
+      "position": 9
     },
     {
       "id": "357",
@@ -21107,7 +21122,22 @@
       "goalsAgainst": 2,
       "goalDifference": 1,
       "points": 5,
-      "position": 9
+      "position": 10
+    },
+    {
+      "id": "393",
+      "name": "Nottingham Forest",
+      "nameZh": "诺丁汉森林",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 4,
+      "goalDifference": 0,
+      "points": 5,
+      "position": 11
     },
     {
       "id": "331",
@@ -21122,7 +21152,7 @@
       "goalsAgainst": 5,
       "goalDifference": 3,
       "points": 4,
-      "position": 10
+      "position": 12
     },
     {
       "id": "360",
@@ -21137,7 +21167,7 @@
       "goalsAgainst": 6,
       "goalDifference": 1,
       "points": 4,
-      "position": 11
+      "position": 13
     },
     {
       "id": "366",
@@ -21152,36 +21182,6 @@
       "goalsAgainst": 3,
       "goalDifference": 0,
       "points": 4,
-      "position": 12
-    },
-    {
-      "id": "384",
-      "name": "Crystal Palace",
-      "nameZh": "水晶宫",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "played": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 8,
-      "goalDifference": -4,
-      "points": 3,
-      "position": 13
-    },
-    {
-      "id": "373",
-      "name": "Ipswich Town",
-      "nameZh": "伊普斯维奇",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-      "played": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 8,
-      "goalDifference": -4,
-      "points": 3,
       "position": 14
     },
     {
@@ -21189,74 +21189,74 @@
       "name": "AFC Bournemouth",
       "nameZh": "伯恩茅斯",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "played": 3,
+      "played": 4,
       "wins": 0,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 5,
+      "goalsFor": 6,
+      "goalsAgainst": 7,
       "goalDifference": -1,
-      "points": 2,
+      "points": 3,
       "position": 15
     },
     {
-      "id": "393",
-      "name": "Nottingham Forest",
-      "nameZh": "诺丁汉森林",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-      "played": 3,
-      "wins": 0,
-      "draws": 2,
-      "losses": 1,
-      "goalsFor": 2,
-      "goalsAgainst": 3,
-      "goalDifference": -1,
-      "points": 2,
-      "position": 16
-    },
-    {
-      "id": "362",
-      "name": "Aston Villa",
-      "nameZh": "阿斯顿维拉",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "played": 3,
-      "wins": 0,
-      "draws": 1,
-      "losses": 2,
-      "goalsFor": 0,
-      "goalsAgainst": 5,
+      "id": "384",
+      "name": "Crystal Palace",
+      "nameZh": "水晶宫",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "played": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 11,
       "goalDifference": -5,
-      "points": 1,
-      "position": 17
+      "points": 3,
+      "position": 16
     },
     {
       "id": "367",
       "name": "Tottenham Hotspur",
       "nameZh": "托特纳姆热刺",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-      "played": 3,
+      "played": 4,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
       "goalsFor": 0,
       "goalsAgainst": 5,
       "goalDifference": -5,
-      "points": 1,
-      "position": 18
+      "points": 2,
+      "position": 17
     },
     {
       "id": "370",
       "name": "Fulham",
       "nameZh": "富勒姆",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-      "played": 3,
+      "played": 4,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
       "goalsFor": 4,
       "goalsAgainst": 7,
       "goalDifference": -3,
-      "points": 0,
+      "points": 1,
+      "position": 18
+    },
+    {
+      "id": "362",
+      "name": "Aston Villa",
+      "nameZh": "阿斯顿维拉",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "played": 4,
+      "wins": 0,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 1,
+      "goalsAgainst": 7,
+      "goalDifference": -6,
+      "points": 1,
       "position": 19
     },
     {
@@ -21809,13 +21809,6 @@
   ],
   "news": [
     {
-      "title": "Transfer rumors, news: Man United eye Bournemouth defender to replace Shaw",
-      "published": "2026-09-12T12:57:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49911577/transfer-rumors-news-man-united-eye-bournemouth-defender-replace-shaw",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715244_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联眼睛伯恩茅斯后卫取代肖"
-    },
-    {
       "title": "Dalot still dreams of putting Manchester United back on top",
       "published": "2026-09-12T07:22:47Z",
       "url": "https://www.espn.com/soccer/story/_/id/49906828/diogo-dalot-dreams-putting-manchester-united-back-top",
@@ -21891,20 +21884,16 @@
       "url": "https://www.espn.com/soccer/story/_/id/49897449/benjamin-sesko-makes-case-manchester-united-ahead-manchester-derby",
       "image": "https://a.espncdn.com/photo/2026/0910/r1714615_1296x729_16-9.jpg",
       "titleZh": "舍什科在曼彻斯特德比之前为曼联辩护"
-    }
-  ],
-  "transfers": [
+    },
     {
-      "title": "Transfer rumors, news: Man United eye Bournemouth defender to replace Shaw",
-      "published": "2026-09-12T12:57:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49911577/transfer-rumors-news-man-united-eye-bournemouth-defender-replace-shaw",
-      "image": "https://a.espncdn.com/photo/2026/0912/r1715244_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联眼睛伯恩茅斯后卫取代肖",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
+      "title": "Carrick: It was a good game for Man United from start to finish",
+      "published": "2026-09-10T23:06:52Z",
+      "url": "https://www.espn.com/video/clip/_/id/49897399/was-good-game-man-united-start-finish",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0910/dm_260910_COM_SOC_Analysis_Carrick_It_was_a_good_game_for_Man_United_from_start_to_finish_20260910_GLOBAL/dm_260910_COM_SOC_Analysis_Carrick_It_was_a_good_game_for_Man_United_from_start_to_finish_20260910_GLOBAL.jpg",
+      "titleZh": "卡里克：对曼联来说，从头到尾都是一场精彩的比赛"
     }
   ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

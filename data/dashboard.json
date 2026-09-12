@@ -22435,18 +22435,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTFBlX01mNHVWeTVvTGlpdzcwcVdteUhxU3NhdWJTOHU2Z1RUVTFrUHU5aUxvOVl1SndqM2htMG1mZzFjNTE1SV8xWUMzRXdLOXM4TVlCbW1pU3o2cXczLUhHUTJPWHBqWjA",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd's Martinez ready for Haaland derby test",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlX01mNHVWeTVvTGlpdzcwcVdteUhxU3NhdWJTOHU2Z1RUVTFrUHU5aUxvOVl1SndqM2htMG1mZzFjNTE1SV8xWUMzRXdLOXM4TVlCbW1pU3o2cXczLUhHUTJPWHBqWjA?oc=5",
-      "published": "2026-09-12T11:01:56.000Z",
-      "titleZh": "曼联的马丁内斯为哈兰德德比测试做好准备"
-    },
-    {
       "id": "Rob Dawson:CBMipAFBVV95cUxQWTF6RDNsU05pcVE1U1JwS3FTT05GVmtERHFuTjVLdnlRSU8yWVNQcm9aMjF0Sk56SkFzQngza3JzaGtGa05fNlM3UGtOSHVpekF6Y0pvaktaNjFMYmZzOXVUQ21HbVZnOE1XR0ZQOGtwa0JVVUZpR0FPU1B6bHgxc3I3ZTVWellLYVhQZmlpY3VyWWpJLTVXaWF0T290SHhQdDQ4cg",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -22547,12 +22535,24 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "dailymail.com",
+      "source": "Daily Mail",
       "tier": 2,
       "title": "Manchester United vs Sabah - Champions League RECAP: Four different scorers help hosts record comfortable win",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDVtTmdUSVlsdm51ck10NVlLcGUxX0pBNUhUNzJrOWVXRHNVQVZBcERYZllhNmFJTExvX19CVGRiNjZ3NTVieE5fTHIzYS1jUkdURDFjeWlGUGJwbFNxcU9LbkZZQ2hFU2NySnA5QWF4bkYxS3ZpY19ER081bWFJOXRySDV1Y0lza3dGeXBHazNJRUJJRTVhRHowRFo3QS1aMFpIcGhuOXBKM2JPTXhfR9IBtgFBVV95cUxPSGR0Q0RCakVrYlc1VTFwQl9FVm5iR2FMZEh4U1lSZ1YxZG9aVHhUZVVEMEZ6eDhROWZrbEs5YmJINU8zMDdPUURQUHpVSVFOYnF3NlFSSVJWTGdyeUdPVzFLZWNvOExMNElEUDNZUldfVjlYdWZmZ3JMZkZYdUVrMDVhZmlEYUd2OU5tWUJnR19Fb01yZkdrY2VuUWNwQjBSRFRvUlJSUEpwMDBEZHR6NXBYcUU3UQ?oc=5",
       "published": "2026-09-10T22:50:49.000Z",
       "titleZh": "曼联与沙巴-冠军联赛回顾：四位不同的得分手帮助体验达人创造舒适的胜利"
+    },
+    {
+      "id": "Simon Stone:CBMiZ0FVX3lxTFBISDFFU05tTkFnSDF6UDRtSmh0YUNfQl8xTmhPclhMMmZzcjBCTmJYaG5KeTVDVUJPNThwenpYNHoySTFQa3RRYkNZVkU3WXZuZkFVNVJURHdRUXlTcGhBRnMzaEVMSlE",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Benjamin Sesko can help Manchester United find top form after two goals in two games",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBISDFFU05tTkFnSDF6UDRtSmh0YUNfQl8xTmhPclhMMmZzcjBCTmJYaG5KeTVDVUJPNThwenpYNHoySTFQa3RRYkNZVkU3WXZuZkFVNVJURHdRUXlTcGhBRnMzaEVMSlE?oc=5",
+      "published": "2026-09-10T22:41:17.000Z",
+      "titleZh": "本杰明·塞斯科（ Benjamin Sesko ）可以帮助曼联在两场比赛中打进两球后找到最佳状态"
     },
     {
       "id": "Andy Mitten:CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB",
@@ -22589,6 +22589,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVkVzU0pkQXlUVnlYRTQ1VmFtUS1VQ05YdHdsRVNyazB0Q2pMZG1KejBiTnJtRkV3ekkwZjBvVUtjb2l5ckxVNVJhSzQ5a2JUdkY3SzdfX0JHRjlUX3dIZDdIdE1Tdw?oc=5",
       "published": "2026-09-10T21:09:42.000Z",
       "titleZh": "曼联4-0沙巴：红魔在冠军联赛回归中击中4对阵沙巴"
+    },
+    {
+      "id": "David Ornstein:CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Ornstein tips Man Utd to open £60m talks for ‘best left-back in the country’",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP?oc=5",
+      "published": "2026-09-10T12:09:14.000Z",
+      "titleZh": "Ornstein建议曼联开启£ 6000万“全国最佳左后卫”会谈"
     },
     {
       "id": "Andy Mitten:CBMijgFBVV95cUxNS2FGMmlIei0zbzhaRDFvMmpzal9ZTmhBQ0xBMWRJZ1YtYkVtTy1UZGZUeXphcnU0TzVfRFhFOXZwcWxXUGl1SUtsXzhRdG5MUXFvajhEalRKQ1RXOFpTM1hNWWg0cWRyMEF6UG5mUk5qdnlhcHFZZFEwNkMtdmdNSk1uS3k1MURsNld3bUNR",
@@ -22639,14 +22651,14 @@
       "titleZh": "曼联的冠军联赛回归：成功是什么样的？"
     },
     {
-      "id": "Simon Stone:CBMidkFVX3lxTFBGVFhrNVlHNG5kREM5R0lncVgyZmFUNExrTVJyMTNNUHdBZ3I5TE1JM3lzM2t5aXBiWVpnTXpNSUQxTkE3ZFY2MkpDVEJTUXZrZkZoRmRTcjZmRHFfQ21BVWhuQUE1X2J0Qy0tVjNaWGF2d1BwN1E",
+      "id": "Simon Stone:CBMieEFVX3lxTE5pSUp3b1dWUENvNlNxN2ItaWV2MTZEbkJIRDVrckdwN3g2SXdkeTJ3NUFCUi15SVJvRm1Ra2w2SXNXOTRjcjVqNDJROE5ZX2hTRTNLUF85aGFCWkl1Z0hXbktxQnVMS2tJbXRSOEQtUGJJZEduYS0yNw",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "Yahoo",
+      "source": "Yahoo Sports",
       "tier": 1,
       "title": "When will Baleba make his Man Utd debut?",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVFhrNVlHNG5kREM5R0lncVgyZmFUNExrTVJyMTNNUHdBZ3I5TE1JM3lzM2t5aXBiWVpnTXpNSUQxTkE3ZFY2MkpDVEJTUXZrZkZoRmRTcjZmRHFfQ21BVWhuQUE1X2J0Qy0tVjNaWGF2d1BwN1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pSUp3b1dWUENvNlNxN2ItaWV2MTZEbkJIRDVrckdwN3g2SXdkeTJ3NUFCUi15SVJvRm1Ra2w2SXNXOTRjcjVqNDJROE5ZX2hTRTNLUF85aGFCWkl1Z0hXbktxQnVMS2tJbXRSOEQtUGJJZEduYS0yNw?oc=5",
       "published": "2026-09-09T12:03:30.000Z",
       "titleZh": "Baleba什么时候会首次亮相曼联？"
     },
@@ -22709,21 +22721,9 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmp4MktjMTlNOEFCeFBNaWFQYndYTzB0Vnhvb2xlTlQ4dHlScVJNcDRWdVVuUUhISDhaMVF2a1hJZDdOMUFnV3I1WUpvUFkzbl9IUXJOS0QtaWYzWGV1RGpRQ0YzMlFtSzA5UE9Ta1QxbGg0bE1laExVVzdZLU4zWTE2WU1IM3VqMUtETEJOODhMOG0wRlVlUlVySlU0YTdNeFhF?oc=5",
       "published": "2026-09-08T15:30:44.000Z",
       "titleZh": "David Ornstein的The Athletic FC问答： 1月份的活跃团队？卡马拉、利物浦和切尔西？伯恩茅斯的销售？"
-    },
-    {
-      "id": "Laurie Whitwell:CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United fan group to protest season ticket sanctions before derby - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB?oc=5",
-      "published": "2026-09-08T13:51:28.000Z",
-      "titleZh": "曼联球迷团体在德比前抗议季票制裁"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-12T12:56:04.166Z",
+  "journalistsUpdatedAt": "2026-09-12T16:14:44.391Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

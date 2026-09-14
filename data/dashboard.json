@@ -24143,14 +24143,26 @@
   ],
   "journalists": [
     {
-      "id": "Samuel Luckhurst:CBMie0FVX3lxTE1sbk0ybG90cWI0aVRpYllpWGUzVTdFZW9vOUNNTndzNjJJZWJOQXE4cHhsaEZWU2tjRGI3TnVyNXZVT3UwWUR1SUVfZEo5eWpXS0E5MHdZZDdQbjc2ZVRJRzdXdzVzOVdDb3VoUzBoUmx4S1pWVGx5UkFHUQ",
+      "id": "Fabrizio Romano:CBMi7AFBVV95cUxNOXJkMEgxdEx4RThfR3d3RDZMWjhOT3RDcUZDN0VRanlabkRSak44MlgyTXRiTW5TeE1QZHpNeW44dzFCakdIOUx1aGtlNjJsZGNQMXBQakF0VmhoczFXN25MZldpT2ExQW95QWFtS2Z5bG9oN0tmRmJ2cVBvRXV6NWpDdVpSbjhMejZuZ3ZiQ0JmdUNXVHFqWVhMOHBTMUxLYnhtbHFpb3NDalJMcW5SdnRDOXBEQmJVX1dpd0VYXzhacHB4OVNGMEhMaXhOU1BBYjh0OU1SRHQ5b3R3X2JXYXhpTm9VN0pCUjhtVA",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "roundtable.io",
+      "tier": 1,
+      "title": "Fabrizio Romano Reveal's INEOS Stance On Michael Carrick After Poor Start To Season",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXJkMEgxdEx4RThfR3d3RDZMWjhOT3RDcUZDN0VRanlabkRSak44MlgyTXRiTW5TeE1QZHpNeW44dzFCakdIOUx1aGtlNjJsZGNQMXBQakF0VmhoczFXN25MZldpT2ExQW95QWFtS2Z5bG9oN0tmRmJ2cVBvRXV6NWpDdVpSbjhMejZuZ3ZiQ0JmdUNXVHFqWVhMOHBTMUxLYnhtbHFpb3NDalJMcW5SdnRDOXBEQmJVX1dpd0VYXzhacHB4OVNGMEhMaXhOU1BBYjh0OU1SRHQ5b3R3X2JXYXhpTm9VN0pCUjhtVA?oc=5",
+      "published": "2026-09-14T17:38:28.000Z",
+      "titleZh": "Fabrizio Romano揭示了INEOS对Michael Carrick在糟糕的赛季开始后的立场"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
       "source": "The Irish Sun",
       "tier": 2,
       "title": "Ratcliffe sneaked into Old Trafford through back door for City game amid protest",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sbk0ybG90cWI0aVRpYllpWGUzVTdFZW9vOUNNTndzNjJJZWJOQXE4cHhsaEZWU2tjRGI3TnVyNXZVT3UwWUR1SUVfZEo5eWpXS0E5MHdZZDdQbjc2ZVRJRzdXdzVzOVdDb3VoUzBoUmx4S1pWVGx5UkFHUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc?oc=5",
       "published": "2026-09-14T14:12:39.000Z",
       "titleZh": "在抗议活动中，拉特克利夫从后门潜入老特拉福德参加城市比赛"
     },
@@ -24363,7 +24375,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "PressReader",
+      "source": "pressreader.com",
       "tier": 2,
       "title": "If it weren’t for anthem you wouldn’t know this was Champions League",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZERuZnVYbnBJSHhKZ0Z4NkFfd1N3TVROUVpPbWdvQWc3UlhweFFzRURjekhmWGIzSnowZ0dkTV9oWGE2b0c5bDBSbUlQRjJQUHhtVEpjeHRVZXoxNE80dERMcE5VVGlkZ2w3NWUxUUR3TGFm?oc=5",
@@ -24417,21 +24429,9 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP?oc=5",
       "published": "2026-09-10T12:09:14.000Z",
       "titleZh": "Ornstein建议曼联开启£ 6000万“全国最佳左后卫”会谈"
-    },
-    {
-      "id": "Andy Mitten:CBMijgFBVV95cUxNS2FGMmlIei0zbzhaRDFvMmpzal9ZTmhBQ0xBMWRJZ1YtYkVtTy1UZGZUeXphcnU0TzVfRFhFOXZwcWxXUGl1SUtsXzhRdG5MUXFvajhEalRKQ1RXOFpTM1hNWWg0cWRyMEF6UG5mUk5qdnlhcHFZZFEwNkMtdmdNSk1uS3k1MURsNld3bUNR",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "Official Manchester United Website",
-      "tier": 2,
-      "title": "Experience the Malaysia Airlines fan zone",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2FGMmlIei0zbzhaRDFvMmpzal9ZTmhBQ0xBMWRJZ1YtYkVtTy1UZGZUeXphcnU0TzVfRFhFOXZwcWxXUGl1SUtsXzhRdG5MUXFvajhEalRKQ1RXOFpTM1hNWWg0cWRyMEF6UG5mUk5qdnlhcHFZZFEwNkMtdmdNSk1uS3k1MURsNld3bUNR?oc=5",
-      "published": "2026-09-10T10:31:49.000Z",
-      "titleZh": "体验马来西亚航空公司风扇区"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-14T18:34:24.765Z",
+  "journalistsUpdatedAt": "2026-09-14T22:02:03.002Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T12:44:13.859Z",
+  "updatedAt": "2026-09-14T21:48:35.896Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -21680,7 +21680,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-14T12:44:12.953Z"
+        "generatedAt": "2026-09-14T21:48:34.846Z"
       }
     },
     {
@@ -22724,6 +22724,21 @@
       "position": 2
     },
     {
+      "id": "357",
+      "name": "Leeds United",
+      "nameZh": "利兹联",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 7,
+      "goalsAgainst": 3,
+      "goalDifference": 4,
+      "points": 8,
+      "position": 3
+    },
+    {
       "id": "306",
       "name": "Hull City",
       "nameZh": "赫尔城",
@@ -22736,7 +22751,7 @@
       "goalsAgainst": 2,
       "goalDifference": 3,
       "points": 8,
-      "position": 3
+      "position": 4
     },
     {
       "id": "331",
@@ -22751,7 +22766,7 @@
       "goalsAgainst": 5,
       "goalDifference": 8,
       "points": 7,
-      "position": 4
+      "position": 5
     },
     {
       "id": "363",
@@ -22766,7 +22781,7 @@
       "goalsAgainst": 9,
       "goalDifference": 1,
       "points": 7,
-      "position": 5
+      "position": 6
     },
     {
       "id": "337",
@@ -22781,7 +22796,7 @@
       "goalsAgainst": 4,
       "goalDifference": 3,
       "points": 6,
-      "position": 6
+      "position": 7
     },
     {
       "id": "364",
@@ -22796,7 +22811,7 @@
       "goalsAgainst": 4,
       "goalDifference": 2,
       "points": 6,
-      "position": 7
+      "position": 8
     },
     {
       "id": "368",
@@ -22811,7 +22826,7 @@
       "goalsAgainst": 3,
       "goalDifference": 2,
       "points": 6,
-      "position": 8
+      "position": 9
     },
     {
       "id": "373",
@@ -22826,37 +22841,7 @@
       "goalsAgainst": 10,
       "goalDifference": -3,
       "points": 6,
-      "position": 9
-    },
-    {
-      "id": "361",
-      "name": "Newcastle United",
-      "nameZh": "纽卡斯尔联",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
-      "goalDifference": 2,
-      "points": 5,
       "position": 10
-    },
-    {
-      "id": "357",
-      "name": "Leeds United",
-      "nameZh": "利兹联",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 2,
-      "goalDifference": 1,
-      "points": 5,
-      "position": 11
     },
     {
       "id": "393",
@@ -22870,6 +22855,21 @@
       "goalsFor": 4,
       "goalsAgainst": 4,
       "goalDifference": 0,
+      "points": 5,
+      "position": 11
+    },
+    {
+      "id": "361",
+      "name": "Newcastle United",
+      "nameZh": "纽卡斯尔联",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "goalDifference": -1,
       "points": 5,
       "position": 12
     },
@@ -23528,11 +23528,32 @@
   ],
   "news": [
     {
+      "title": "VAR from Manchester derby not given a Premier League game for upcoming weekend",
+      "published": "2026-09-14T15:48:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49940750/var-manchester-derby-not-given-premier-league-games-upcoming-weekend",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716022_1296x729_16-9.jpg",
+      "titleZh": "来自曼彻斯特德比的瓦尔在即将到来的周末没有参加英超比赛"
+    },
+    {
+      "title": "Ex-Man United striker Wayne Rooney: 'Baffling' that VAR awarded Erling Haaland goal",
+      "published": "2026-09-14T13:53:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49939998/ex-man-united-striker-wayne-rooney-baffling-var-awarded-erling-haaland-goal",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
+      "titleZh": "前曼联前锋韦恩·鲁尼（ Wayne Rooney ） ： VAR授予埃尔林·哈兰德（ Erling Haaland ）进球的"
+    },
+    {
       "title": "Manchester derby reaction: Live updates, latest news after Erling Haaland goal controversy",
-      "published": "2026-09-14T12:14:18Z",
+      "published": "2026-09-14T13:28:29Z",
       "url": "https://www.espn.com/soccer/story/_/id/49937502/premier-league-today-blog-14-09-2026-live-updates-man-city-man-united-news-erling-haaland-referee",
       "image": "https://a.espncdn.com/photo/2026/0913/r1716101_1296x729_16-9.jpg",
       "titleZh": "曼彻斯特德比反应：实时更新， Erling Haaland进球争议后的最新消息"
+    },
+    {
+      "title": "Manchester derby defined by VAR drama; Real Madrid booed; Chelsea bullied by Hull",
+      "published": "2026-09-14T13:22:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49936126/manchester-united-manchester-city-var-drama-real-madrid-chelsea-premier-league-analysis",
+      "image": "https://a.espncdn.com/photo/2026/0914/r1716497_1296x729_16-9.jpg",
+      "titleZh": "曼彻斯特德比由VAR戏剧定义；皇家马德里嘘声；切尔西被赫尔欺负"
     },
     {
       "title": "Michael Carrick calls on Man United squad to 'move on' after derby loss, Erling Haaland goal 'injustice'",
@@ -23543,7 +23564,7 @@
     },
     {
       "title": "Manchester derby mess shows VAR's quest for perfection is doomed to fail",
-      "published": "2026-09-14T10:06:18Z",
+      "published": "2026-09-14T12:29:38Z",
       "url": "https://www.espn.com/soccer/story/_/id/49938529/erling-haaland-manchester-city-manchester-united-derby-goal-premier-league-var",
       "image": "https://a.espncdn.com/photo/2026/0914/r1716471_1296x729_16-9.jpg",
       "titleZh": "曼彻斯特德比混乱表明VAR对完美的追求注定要失败"
@@ -23589,27 +23610,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49932785/hislop-claims-refs-failed-apply-common-sense-manchester-derby",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby.jpg",
       "titleZh": "Hislop声称在曼彻斯特德比期间“裁判未能运用常识”"
-    },
-    {
-      "title": "Premier League referees' body apologizes to Man United after derby offside controversy",
-      "published": "2026-09-13T21:16:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49932067/premier-league-referees-body-apologises-man-united-derby-offside-controversy",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716064_1296x729_16-9.jpg",
-      "titleZh": "英超联赛裁判的身体在德比越位争议后向曼联道歉"
-    },
-    {
-      "title": "Micah Richards: Manchester derby a 'bad day for referees' after Phil Foden red, Erling Haaland winner",
-      "published": "2026-09-13T20:41:37Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49931033/micah-richard-manchester-city-united-bad-day-referees-phil-foden-red-erling-haaland-winner",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716101_1296x729_16-9.jpg",
-      "titleZh": "Micah Richards ：继Erling Haaland获胜者Phil Foden red之后，曼彻斯特德比“对裁判来说糟糕的一天”"
-    },
-    {
-      "title": "Man United 0-1 Man City: 10-man City win with controversial Haaland goal - as it happened",
-      "published": "2026-09-13T19:08:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49927321/man-united-man-city-live-premier-league-latest-updates-commentary-score-result",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716033_1296x729_16-9.jpg",
-      "titleZh": "曼联vs曼城现场直播：英超联赛更新，福登在老特拉福德早期看到红色"
     }
   ],
   "transfers": [],
@@ -24118,7 +24118,7 @@
       "nameZh": "Shea Lacey",
       "shortName": "S. Lacey",
       "shortNameZh": "Lacey",
-      "jersey": "61",
+      "jersey": "31",
       "position": "Forward",
       "age": 19,
       "nationality": "England",

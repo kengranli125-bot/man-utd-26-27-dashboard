@@ -24143,6 +24143,42 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMie0FVX3lxTE1sbk0ybG90cWI0aVRpYllpWGUzVTdFZW9vOUNNTndzNjJJZWJOQXE4cHhsaEZWU2tjRGI3TnVyNXZVT3UwWUR1SUVfZEo5eWpXS0E5MHdZZDdQbjc2ZVRJRzdXdzVzOVdDb3VoUzBoUmx4S1pWVGx5UkFHUQ",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Ratcliffe sneaked into Old Trafford through back door for City game amid protest",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sbk0ybG90cWI0aVRpYllpWGUzVTdFZW9vOUNNTndzNjJJZWJOQXE4cHhsaEZWU2tjRGI3TnVyNXZVT3UwWUR1SUVfZEo5eWpXS0E5MHdZZDdQbjc2ZVRJRzdXdzVzOVdDb3VoUzBoUmx4S1pWVGx5UkFHUQ?oc=5",
+      "published": "2026-09-14T14:12:39.000Z",
+      "titleZh": "在抗议活动中，拉特克利夫从后门潜入老特拉福德参加城市比赛"
+    },
+    {
+      "id": "Andy Mitten:CBMipgFBVV95cUxNQXJlNjR1a00tUmhKRlVRMVRVa093c3JTWnlIYlhHd0twNTZDZTZRU0ZtRUhXVC1DWjBlMG1aeUxzMUJTai1xclRhYU1HNGN3Y1I0UHNOMDh0WlZyemtua0pMT1Zta1NHX0NoRzl0TGp1b0xDSnBDQ1RtUVVJOURaWnZyelhHeGx0Tm40QmlrRkphSUNWMUxmV3B5QjlSTnREbmJQcW9B",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "Manchester United Q&A with Andy Mitten",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXJlNjR1a00tUmhKRlVRMVRVa093c3JTWnlIYlhHd0twNTZDZTZRU0ZtRUhXVC1DWjBlMG1aeUxzMUJTai1xclRhYU1HNGN3Y1I0UHNOMDh0WlZyemtua0pMT1Zta1NHX0NoRzl0TGp1b0xDSnBDQ1RtUVVJOURaWnZyelhHeGx0Tm40QmlrRkphSUNWMUxmV3B5QjlSTnREbmJQcW9B?oc=5",
+      "published": "2026-09-14T13:00:00.000Z",
+      "titleZh": "Andy Mitten的曼联问答体验"
+    },
+    {
+      "id": "Simon Stone:CBMi8AFBVV95cUxPdjVMSnp6TTZrcENKYWkzUkVXdFBPcFExeFB4VFE1TmFKQ0g1dEFBeVctd1NPM0F5elh1a0VUUjVraEFNS0hHSnp1WjlQdUtBVDZWU0VBZGc2RlJkQTlJb3VmaXE4VU9Td3RtS0JSMWJ6US0xQk12dkNDVHpMbnJVV0FBSTUxZlA1aWk2aUFOU3ZQNERPam42WTNOdktTQi1KYS1xdzJFc0pMLUt4Y1hJZWV5Tnd6SUlGVXc4cFdkV2t6a3FjMHpRWkZwT1Rucm1rTUNMRDZYUjZoc1ZhQWNPaTZnUlRFQV9xSFFKb3BTYmI",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Ownership protests intensify",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdjVMSnp6TTZrcENKYWkzUkVXdFBPcFExeFB4VFE1TmFKQ0g1dEFBeVctd1NPM0F5elh1a0VUUjVraEFNS0hHSnp1WjlQdUtBVDZWU0VBZGc2RlJkQTlJb3VmaXE4VU9Td3RtS0JSMWJ6US0xQk12dkNDVHpMbnJVV0FBSTUxZlA1aWk2aUFOU3ZQNERPam42WTNOdktTQi1KYS1xdzJFc0pMLUt4Y1hJZWV5Tnd6SUlGVXc4cFdkV2t6a3FjMHpRWkZwT1Rucm1rTUNMRDZYUjZoc1ZhQWNPaTZnUlRFQV9xSFFKb3BTYmI?oc=5",
+      "published": "2026-09-14T12:39:42.000Z",
+      "titleZh": "曼联新闻：所有权抗议活动加剧"
+    },
+    {
       "id": "Simon Stone:CBMiakFVX3lxTE5PSlNXMWVpUnB1S0VaNWhwYnJBaXcxeGVGbndkek5TU29GYWVzTUZXZFlrbnFESXZNVjF5ektHV3lxbmcza3RPX3k0SlJKaUZFZDBzMXJlSzVCeGNWWGtQOUZKOHZkVHdoYmc",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -24155,30 +24191,6 @@
       "titleZh": "给曼联的熟悉问题，现在卡里克必须找到答案"
     },
     {
-      "id": "James Ducker:CBMi3AFBVV95cUxPbEgzOTBHMUgzU0RRMlRfSk1zbTRqSW9ScWM1VklLWXliNlluMzJUM3R4SjFmbDRlUG5xR2llLVFwR0htbVNOZnRmQkVVVTE2ZGdYanlNSFA3cW94VnNlQURGMUdaWnR0RTdOcGZXaXMxN2FaNld0RzNxV1Vjb3c4U25uTmE0WmhybVQ4UDJydVpiZnVoQ2lpTFE4NWh0alRuQzBmU3BnVi1pcXRIZHRvamV5VGxYUnhyaGctajFwOUVBeEwyLVpyTGo0Z3B2dTRPM09EempscWVhZ1Y3",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "independent.ie",
-      "tier": 1,
-      "title": "Youri Tielemans disappointed in Manchester United’s derby day performance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEgzOTBHMUgzU0RRMlRfSk1zbTRqSW9ScWM1VklLWXliNlluMzJUM3R4SjFmbDRlUG5xR2llLVFwR0htbVNOZnRmQkVVVTE2ZGdYanlNSFA3cW94VnNlQURGMUdaWnR0RTdOcGZXaXMxN2FaNld0RzNxV1Vjb3c4U25uTmE0WmhybVQ4UDJydVpiZnVoQ2lpTFE4NWh0alRuQzBmU3BnVi1pcXRIZHRvamV5VGxYUnhyaGctajFwOUVBeEwyLVpyTGo0Z3B2dTRPM09EempscWVhZ1Y3?oc=5",
-      "published": "2026-09-14T09:20:00.000Z",
-      "titleZh": "Youri Tielemans对曼联的德比日表现感到失望"
-    },
-    {
-      "id": "Andy Mitten:CBMipgFBVV95cUxNQXJlNjR1a00tUmhKRlVRMVRVa093c3JTWnlIYlhHd0twNTZDZTZRU0ZtRUhXVC1DWjBlMG1aeUxzMUJTai1xclRhYU1HNGN3Y1I0UHNOMDh0WlZyemtua0pMT1Zta1NHX0NoRzl0TGp1b0xDSnBDQ1RtUVVJOURaWnZyelhHeGx0Tm40QmlrRkphSUNWMUxmV3B5QjlSTnREbmJQcW9B",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Manchester United Q&A with Andy Mitten",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXJlNjR1a00tUmhKRlVRMVRVa093c3JTWnlIYlhHd0twNTZDZTZRU0ZtRUhXVC1DWjBlMG1aeUxzMUJTai1xclRhYU1HNGN3Y1I0UHNOMDh0WlZyemtua0pMT1Zta1NHX0NoRzl0TGp1b0xDSnBDQ1RtUVVJOURaWnZyelhHeGx0Tm40QmlrRkphSUNWMUxmV3B5QjlSTnREbmJQcW9B?oc=5",
-      "published": "2026-09-14T09:07:18.000Z",
-      "titleZh": "Andy Mitten的曼联问答体验"
-    },
-    {
       "id": "Chris Wheeler:CBMihAFBVV95cUxPMXlBdTBDenljUHlaNkdPb2d5REgtYkZ5YWcwc0dJY211MHlLZjdxMS1vdVRmcXVJQloxdEVLX21lWkhCaEpDMkhVeFRUZ18zbDB1dkpKc1QtZmRGa191MVpnRVpDODBjNkIwODFBZnFndy1Rc3RRN3FhQUVZekJsWmpyUEzSAYoBQVVfeXFMT1hLQXVRMDhZdFE4SnRLNV80V2VtaXQtVVdPR3dfWlJ6Z2FWbGRBSUZmaENGa0xnMjZXZEdpcTdpaHpLTWc0c0RfajEtY0hWVk43OVJ3ZU1vUzZxSXFrS29wWS03ZEZWSk1lRmdGMm1vLWVScUt5SDJKV3ZZV1ZJeVpiS2pRSUNfcklB",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -24189,18 +24201,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXlBdTBDenljUHlaNkdPb2d5REgtYkZ5YWcwc0dJY211MHlLZjdxMS1vdVRmcXVJQloxdEVLX21lWkhCaEpDMkhVeFRUZ18zbDB1dkpKc1QtZmRGa191MVpnRVpDODBjNkIwODFBZnFndy1Rc3RRN3FhQUVZekJsWmpyUEzSAYoBQVVfeXFMT1hLQXVRMDhZdFE4SnRLNV80V2VtaXQtVVdPR3dfWlJ6Z2FWbGRBSUZmaENGa0xnMjZXZEdpcTdpaHpLTWc0c0RfajEtY0hWVk43OVJ3ZU1vUzZxSXFrS29wWS03ZEZWSk1lRmdGMm1vLWVScUt5SDJKV3ZZV1ZJeVpiS2pRSUNfcklB?oc=5",
       "published": "2026-09-14T06:04:53.000Z",
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，这对曼联来说是一场痛苦的德比失利，令人担忧的是，球场上平坦，看台上叛乱恶化，迈克尔·卡里克（ Michael Carrick ）的大本杰明·塞斯科（ Benjamin Sesko ）的电话适得其反，几乎没有进展的迹象"
-    },
-    {
-      "id": "James Ducker:CBMi6AFBVV95cUxQMWZ2N0s0UExCT1hLdWxjZ1NqQUhramVmWWk2SXRCMjQ5ZHViVjJGTk0zeG14RW1OTXZPWmJxNklBc0lBTVdvUkRsRmRsMFlETzZvN2JtemQ1ZEtLMUkyR3NKQ2I0WnUzZHU5Rm5YQVZNVmF5cTdTX0MxV2dyS0FPcmJpWWVtRDZhSWhnYk1fcHE5SE9LVlg0QmRjd2V6OURPSXZVMGFkQWt6U003NWc1WC1pUkItdXlnOUVqYkxxYUstWEp5cG03WExvTzdhdl91b1BHNVNrUnhZMXZjenNDcGh5M19iSHpf",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "independent.ie",
-      "tier": 1,
-      "title": "Manchester United receive apology after ref body admits error of judgment in Erling Haaland goal",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMWZ2N0s0UExCT1hLdWxjZ1NqQUhramVmWWk2SXRCMjQ5ZHViVjJGTk0zeG14RW1OTXZPWmJxNklBc0lBTVdvUkRsRmRsMFlETzZvN2JtemQ1ZEtLMUkyR3NKQ2I0WnUzZHU5Rm5YQVZNVmF5cTdTX0MxV2dyS0FPcmJpWWVtRDZhSWhnYk1fcHE5SE9LVlg0QmRjd2V6OURPSXZVMGFkQWt6U003NWc1WC1pUkItdXlnOUVqYkxxYUstWEp5cG03WExvTzdhdl91b1BHNVNrUnhZMXZjenNDcGh5M19iSHpf?oc=5",
-      "published": "2026-09-13T22:20:00.000Z",
-      "titleZh": "在裁判机构承认Erling Haaland进球的判断错误后，曼联收到道歉"
     },
     {
       "id": "David Ornstein:CBMi0gFBVV95cUxNTVp2M1JpcDJYMUxvcHhGdndiMFJmMlc5LXNtU2tLOWY2WktNVS05VGk0UE1PNTJ2SGVoRWpzdGU0Q3hmMDdXaXFhZFBkdFh1NEZPN0doNGZnelQ1VldzQ2NndEl4SGJkdVp3cHlzLWgtSDdMZ2xmVnVycy1RU3RBQVoyUjVWYVlTWVA5T19HazZTUEZ2SGtwekh3MW9rTmxyUTlmbmZUSTc0QTF0ZVZGTU13RmFhS1RoY2ZUa3dDdjNlMUVjUXNXelZDejlMZTlwSWc",
@@ -24251,6 +24251,18 @@
       "titleZh": "菲尔·福登（ Phil Foden ）看到红色，但埃尔林·哈兰德（ Erling Haaland ）得分优胜者-曼联v曼城球员评分"
     },
     {
+      "id": "James Ducker:CBMigwFBVV95cUxNMEI5Z1U2U2FwX2MtV2R1S1pDQ3NHMVh2cWR0VG9rWjhEbURnQl9NQU9ady1WeWhyRVlaOGQ0ZTA3eDIyZm5iVFBEaUNqZ1lkMVZXVDlUa3pVelpHRThiUVQtYmIxQ3U3cXlwVGw1NlpJMDFza0otTmtWU3hIV1dXY3loYw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "Yahoo",
+      "tier": 1,
+      "title": "Thousands of Man Utd fans protest against Ratcliffe and Glazers",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEI5Z1U2U2FwX2MtV2R1S1pDQ3NHMVh2cWR0VG9rWjhEbURnQl9NQU9ady1WeWhyRVlaOGQ0ZTA3eDIyZm5iVFBEaUNqZ1lkMVZXVDlUa3pVelpHRThiUVQtYmIxQ3U3cXlwVGw1NlpJMDFza0otTmtWU3hIV1dXY3loYw?oc=5",
+      "published": "2026-09-13T15:53:28.000Z",
+      "titleZh": "成千上万的曼联球迷抗议拉特克利夫和格雷泽斯"
+    },
+    {
       "id": "Fabrizio Romano:CBMirwFBVV95cUxPbnROUWZkc1FoWHVTVmRibGF3QXJFeGY3NU5uT1lsd212Wld6QzBBQjltSzRaYUUzSnBLd2pySWVOMzdBUjgybGs5aWNtanl2MjZNUHlUSGlodkQ2RktuNnpDZGxoeTE4WXBQTlRHdVZoU0ZFM0RVMzJNUlZXSmRTM1E4SjBZU0FBNG1BTU1iYllHbF9MYnVlZkxDbTUtSnViTjFQWkM5SGxpVEUwenAw",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -24275,16 +24287,16 @@
       "titleZh": "达洛特仍然梦想着让曼联重回榜首"
     },
     {
-      "id": "Samuel Luckhurst:CBMiigFBVV95cUxPNURZekd1eHZSV0ltTnlubHNtWFhGSEw0eHBaUE5sM2xZZWRKWFFheEo0aThhMVIzNUFOVXUwQTdQQ0p6aXQwV2o3TjhTRGZndVRsOXlCQy1QTXYyckJRbnlEclRMQkZzSU5sSUVKaHNSS1VSWFllMGQ5SEJ0LXJTZ2lOWnNVMExjS0E",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Manchester United coach Michael Carrick scoffs at Elliot Anderson jibe",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNURZekd1eHZSV0ltTnlubHNtWFhGSEw0eHBaUE5sM2xZZWRKWFFheEo0aThhMVIzNUFOVXUwQTdQQ0p6aXQwV2o3TjhTRGZndVRsOXlCQy1QTXYyckJRbnlEclRMQkZzSU5sSUVKaHNSS1VSWFllMGQ5SEJ0LXJTZ2lOWnNVMExjS0E?oc=5",
-      "published": "2026-09-11T12:32:19.000Z",
-      "titleZh": "曼联主教练迈克尔·卡里克（ Michael Carrick ）嘲笑埃利奥特·安德森（ Elliot Anderson ）"
+      "id": "James Ducker:CBMi4wFBVV95cUxOWDlnZGhqc2txWmJhVU1idXEyY0hfWDFoWlgxTXA3djFoNHFVcHFDRnduNFdLUlFvU0VLNmtLcjZ5SU9YaEt2TWJIWEZqVHRFVVZxLXRyTTRGOFRBcVdhNmZ3WFU0QXZ5bThNX2dwb2w1Z2FjemprVmtXR1Q0c3N4RGlxdDhHZXVmVXZyVUhkU2ZlNThhZzBydzdMei14aWVBTmt4aE56bVJWMWtwdDVYczRuQ0s5T3ZQY2xhOTZ2N0xxNC02MHIyVy1NMTh1ZUFDWEU3dkc3a2V5QmZlZmZtalZ6WQ",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "Irish Independent",
+      "tier": 1,
+      "title": "Michael Carrick shrugs off Elliot Anderson ‘City are kings of Manchester’ claim",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWDlnZGhqc2txWmJhVU1idXEyY0hfWDFoWlgxTXA3djFoNHFVcHFDRnduNFdLUlFvU0VLNmtLcjZ5SU9YaEt2TWJIWEZqVHRFVVZxLXRyTTRGOFRBcVdhNmZ3WFU0QXZ5bThNX2dwb2w1Z2FjemprVmtXR1Q0c3N4RGlxdDhHZXVmVXZyVUhkU2ZlNThhZzBydzdMei14aWVBTmt4aE56bVJWMWtwdDVYczRuQ0s5T3ZQY2xhOTZ2N0xxNC02MHIyVy1NMTh1ZUFDWEU3dkc3a2V5QmZlZmZtalZ6WQ?oc=5",
+      "published": "2026-09-11T14:52:24.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）对艾略特·安德森（ Elliot Anderson ）耸耸肩“曼城是曼"
     },
     {
       "id": "Laurie Whitwell:CBMikwFBVV95cUxOUXFUUVY3SmRYeXlaRXRPY1hvdjZVbHhNWm9VSnVndnNLRG1zWDctOGs0YUdSM1FURWhhVFpyWmxFcHRYY2hkLXBJZE5vWUthMlpVa0M5b054NUlQZ3pXbDJtcGxrM0diSXkxakpqNUtrM2FWQk9UYTlMMERnWUhMQlpOR0xyTlp3ZWZhOVdKbjBQMHM",
@@ -24303,7 +24315,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Furious Man Utd fans to hold derby protest over ‘disgraceful’ treatment",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFp5WE1uT20xbnhmd21PeE9jSUIwRnhnT0RQN2lSakdxZ3B2WldPb1RkanRvNV9XUmNUTXBCTUxGWWNTWUp0THRHd3ZaSVY3OFAwRVotS045cGZSUHllUkF4ZE1EQUpmSjQzUDNxVGZiN2NoeHZkS0t3QkR0bEpyVWp5VDVCbjltcU5pbWhLREdvbGhKQmNWZ0QxWHU1dGFKMEJ1Nm1saWpmdw?oc=5",
@@ -24383,18 +24395,6 @@
       "titleZh": "曼联与沙巴-冠军联赛回顾：四位不同的得分手帮助体验达人创造舒适的胜利"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTFBISDFFU05tTkFnSDF6UDRtSmh0YUNfQl8xTmhPclhMMmZzcjBCTmJYaG5KeTVDVUJPNThwenpYNHoySTFQa3RRYkNZVkU3WXZuZkFVNVJURHdRUXlTcGhBRnMzaEVMSlE",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Benjamin Sesko can help Manchester United find top form after two goals in two games",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBISDFFU05tTkFnSDF6UDRtSmh0YUNfQl8xTmhPclhMMmZzcjBCTmJYaG5KeTVDVUJPNThwenpYNHoySTFQa3RRYkNZVkU3WXZuZkFVNVJURHdRUXlTcGhBRnMzaEVMSlE?oc=5",
-      "published": "2026-09-10T22:41:17.000Z",
-      "titleZh": "本杰明·塞斯科（ Benjamin Sesko ）可以帮助曼联在两场比赛中打进两球后找到最佳状态"
-    },
-    {
       "id": "Samuel Luckhurst:CBMihgFBVV95cUxNcVI4UlU4bWJBYW9XeFdxdy02T0ZPNXd0Q1M0ZmdNa0RWenllbkhPeHltWVVYd1dEMDNrUzlZak0tSmI0R05VZ2NnVkdURkpBVmRvUUw1eTZ4V1o4SGFiMUtYY2t5WnhEektxY2IxOGtfX0VXX2FBMWR5UUlaVWhSd0FBeWlsUQ",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -24431,7 +24431,7 @@
       "titleZh": "体验马来西亚航空公司风扇区"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-14T13:03:14.937Z",
+  "journalistsUpdatedAt": "2026-09-14T18:34:24.765Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

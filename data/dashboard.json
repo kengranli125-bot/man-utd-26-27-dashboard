@@ -24179,6 +24179,18 @@
       "titleZh": "菲尔·福登（ Phil Foden ）看到红色，但埃尔林·哈兰德（ Erling Haaland ）得分优胜者-曼联v曼城球员评分"
     },
     {
+      "id": "Simon Stone:CBMiakFVX3lxTFBLVm9pLUV4d2FlOW9YdTZQOXJFelZINWNqOGVCTmxKNkVpeE41a3FOQ1hLR3BkWHRFZTUwZHV0VkVxSDFhVkZOMEdpSzhXRWdMbmo5a0lDazNRcTFJMENvbWhHcGh4bkpJQXc",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd: Thousands take part in fan protest at Old Trafford",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVm9pLUV4d2FlOW9YdTZQOXJFelZINWNqOGVCTmxKNkVpeE41a3FOQ1hLR3BkWHRFZTUwZHV0VkVxSDFhVkZOMEdpSzhXRWdMbmo5a0lDazNRcTFJMENvbWhHcGh4bkpJQXc?oc=5",
+      "published": "2026-09-13T16:16:10.000Z",
+      "titleZh": "曼联：成千上万的球迷在老特拉福德参加抗议活动"
+    },
+    {
       "id": "Fabrizio Romano:CBMirwFBVV95cUxPbnROUWZkc1FoWHVTVmRibGF3QXJFeGY3NU5uT1lsd212Wld6QzBBQjltSzRaYUUzSnBLd2pySWVOMzdBUjgybGs5aWNtanl2MjZNUHlUSGlodkQ2RktuNnpDZGxoeTE4WXBQTlRHdVZoU0ZFM0RVMzJNUlZXSmRTM1E4SjBZU0FBNG1BTU1iYllHbF9MYnVlZkxDbTUtSnViTjFQWkM5SGxpVEUwenAw",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -24347,18 +24359,6 @@
       "titleZh": "曼联评分： Mainoo再次成为最佳球员，但Mazraoui不会驱逐Dalot"
     },
     {
-      "id": "Simon Stone:CBMiZkFVX3lxTE1CVkVzU0pkQXlUVnlYRTQ1VmFtUS1VQ05YdHdsRVNyazB0Q2pMZG1KejBiTnJtRkV3ekkwZjBvVUtjb2l5ckxVNVJhSzQ5a2JUdkY3SzdfX0JHRjlUX3dIZDdIdE1Tdw",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd 4-0 Sabah: Red Devils hit four against Sabah FK on Champions League return",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVkVzU0pkQXlUVnlYRTQ1VmFtUS1VQ05YdHdsRVNyazB0Q2pMZG1KejBiTnJtRkV3ekkwZjBvVUtjb2l5ckxVNVJhSzQ5a2JUdkY3SzdfX0JHRjlUX3dIZDdIdE1Tdw?oc=5",
-      "published": "2026-09-10T21:09:42.000Z",
-      "titleZh": "曼联4-0沙巴：红魔在冠军联赛回归中击中4对阵沙巴"
-    },
-    {
       "id": "David Ornstein:CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -24431,7 +24431,7 @@
       "titleZh": "Baleba什么时候会首次亮相曼联？"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-13T23:06:05.803Z",
+  "journalistsUpdatedAt": "2026-09-14T01:01:53.722Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

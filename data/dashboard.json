@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:48:32.940Z",
+  "updatedAt": "2026-09-14T04:54:27.337Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -21680,7 +21680,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-13T20:48:31.809Z"
+        "generatedAt": "2026-09-14T04:54:26.530Z"
       }
     },
     {
@@ -23528,8 +23528,29 @@
   ],
   "news": [
     {
+      "title": "Leboeuf on Foden's red card in Manchester derby: 'It's a joke!'",
+      "published": "2026-09-13T21:47:24Z",
+      "url": "https://www.espn.com/video/clip/_/id/49933209/joke",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Leboeuf_on_Fodens_red_card_in_Manchester_derby_Its_a_joke/dm_260913_Leboeuf_on_Fodens_red_card_in_Manchester_derby_Its_a_joke.jpg",
+      "titleZh": "Leboeuf对Foden在曼彻斯特德比的红牌说： “这是个笑话！”"
+    },
+    {
+      "title": "Hislop claims 'refs failed to apply common sense' during Manchester derby",
+      "published": "2026-09-13T21:24:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/49932785/hislop-claims-refs-failed-apply-common-sense-manchester-derby",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby.jpg",
+      "titleZh": "Hislop声称在曼彻斯特德比期间“裁判未能运用常识”"
+    },
+    {
+      "title": "Premier League referees' body apologizes to Man United after derby offside controversy",
+      "published": "2026-09-13T21:16:04Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49932067/premier-league-referees-body-apologises-man-united-derby-offside-controversy",
+      "image": "https://a.espncdn.com/photo/2026/0913/r1716064_1296x729_16-9.jpg",
+      "titleZh": "英超联赛裁判的身体在德比越位争议后向曼联道歉"
+    },
+    {
       "title": "Micah Richards: Manchester derby a 'bad day for referees' after Phil Foden red, Erling Haaland winner",
-      "published": "2026-09-13T19:51:32Z",
+      "published": "2026-09-13T20:41:37Z",
       "url": "https://www.espn.com/soccer/story/_/id/49931033/micah-richard-manchester-city-united-bad-day-referees-phil-foden-red-erling-haaland-winner",
       "image": "https://a.espncdn.com/photo/2026/0913/r1716101_1296x729_16-9.jpg",
       "titleZh": "Micah Richards ：继Erling Haaland获胜者Phil Foden red之后，曼彻斯特德比“对裁判来说糟糕的一天”"
@@ -23589,27 +23610,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49894830/premier-league-europe-soccer-live-updates-coventry-city-brighton-manchester-united-manchester-city-barcelona-bayern-munich",
       "image": "https://a.espncdn.com/photo/2026/0913/r1715984_1296x729_16-9.jpg",
       "titleZh": "英超联赛现场更新：曼联东道主城市德比"
-    },
-    {
-      "title": "Contentious Erling Haaland goal decides Manchester derby in Man City's favor ",
-      "published": "2026-09-13T18:04:03Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401879278",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716007_1296x729_16-9.jpg",
-      "titleZh": "有争议的Erling Haaland进球决定曼城德比对曼城有利"
-    },
-    {
-      "title": "Man City's Phil Foden sent off in derby after kick on Man United's Bruno Fernandes",
-      "published": "2026-09-13T16:53:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49928532/manchester-city-phil-foden-sent-manchester-united-derby-kick-bruno-fernandes",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715955_1296x729_16-9.jpg",
-      "titleZh": "曼城的菲尔·福登（ Phil Foden ）在曼联的布鲁诺·费尔南德斯（ Bruno Fernandes ）被踢出德"
-    },
-    {
-      "title": "Man United fans protest club ownership pre-derby kick-off amid 'season ticket fiasco'",
-      "published": "2026-09-13T16:56:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49927940/manchester-united-fans-protest-season-ticket-ban-fiasco-derby-kick-off",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1715916_1296x729_16-9.jpg",
-      "titleZh": "曼联球迷在德比开球前抗议“季票禁令失败”"
     }
   ],
   "transfers": [],

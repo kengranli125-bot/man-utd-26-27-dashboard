@@ -24143,11 +24143,35 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMia0FVX3lxTFByRTZ6VEdYcFNNV1gyQjg0RzB4WWxuSEdwc3ZRQXN2b1VoV2FUN3htajI1ek1QNVdlbWRrWnppRmY2Zlp4M0o1ZGRHdXF2MXFUdWsxcUg3Vmp3V0ZNX3FqUm56dHlLZHAtbG5R",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Have Manchester United got their recruitment right?",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByRTZ6VEdYcFNNV1gyQjg0RzB4WWxuSEdwc3ZRQXN2b1VoV2FUN3htajI1ek1QNVdlbWRrWnppRmY2Zlp4M0o1ZGRHdXF2MXFUdWsxcUg3Vmp3V0ZNX3FqUm56dHlLZHAtbG5R?oc=5",
+      "published": "2026-09-15T07:27:01.000Z",
+      "titleZh": "曼联新闻：曼联的招聘是否正确？"
+    },
+    {
+      "id": "Fabrizio Romano:CBMi7AFBVV95cUxNOXJkMEgxdEx4RThfR3d3RDZMWjhOT3RDcUZDN0VRanlabkRSak44MlgyTXRiTW5TeE1QZHpNeW44dzFCakdIOUx1aGtlNjJsZGNQMXBQakF0VmhoczFXN25MZldpT2ExQW95QWFtS2Z5bG9oN0tmRmJ2cVBvRXV6NWpDdVpSbjhMejZuZ3ZiQ0JmdUNXVHFqWVhMOHBTMUxLYnhtbHFpb3NDalJMcW5SdnRDOXBEQmJVX1dpd0VYXzhacHB4OVNGMEhMaXhOU1BBYjh0OU1SRHQ5b3R3X2JXYXhpTm9VN0pCUjhtVA",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "roundtable.io",
+      "tier": 1,
+      "title": "Fabrizio Romano Reveal's INEOS Stance On Michael Carrick After Poor Start To Season",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXJkMEgxdEx4RThfR3d3RDZMWjhOT3RDcUZDN0VRanlabkRSak44MlgyTXRiTW5TeE1QZHpNeW44dzFCakdIOUx1aGtlNjJsZGNQMXBQakF0VmhoczFXN25MZldpT2ExQW95QWFtS2Z5bG9oN0tmRmJ2cVBvRXV6NWpDdVpSbjhMejZuZ3ZiQ0JmdUNXVHFqWVhMOHBTMUxLYnhtbHFpb3NDalJMcW5SdnRDOXBEQmJVX1dpd0VYXzhacHB4OVNGMEhMaXhOU1BBYjh0OU1SRHQ5b3R3X2JXYXhpTm9VN0pCUjhtVA?oc=5",
+      "published": "2026-09-14T16:42:44.000Z",
+      "titleZh": "Fabrizio Romano揭示了INEOS对Michael Carrick在糟糕的赛季开始后的立场"
+    },
+    {
       "id": "Samuel Luckhurst:CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "tier": 2,
       "title": "Ratcliffe sneaked into Old Trafford through back door for City game amid protest",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc?oc=5",
@@ -24159,7 +24183,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 2,
       "title": "Manchester United Q&A with Andy Mitten",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXJlNjR1a00tUmhKRlVRMVRVa093c3JTWnlIYlhHd0twNTZDZTZRU0ZtRUhXVC1DWjBlMG1aeUxzMUJTai1xclRhYU1HNGN3Y1I0UHNOMDh0WlZyemtua0pMT1Zta1NHX0NoRzl0TGp1b0xDSnBDQ1RtUVVJOURaWnZyelhHeGx0Tm40QmlrRkphSUNWMUxmV3B5QjlSTnREbmJQcW9B?oc=5",
@@ -24263,16 +24287,16 @@
       "titleZh": "吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）和曼联（ Man Utd ）在球场内外的"
     },
     {
-      "id": "James Ducker:CBMigwFBVV95cUxNMEI5Z1U2U2FwX2MtV2R1S1pDQ3NHMVh2cWR0VG9rWjhEbURnQl9NQU9ady1WeWhyRVlaOGQ0ZTA3eDIyZm5iVFBEaUNqZ1lkMVZXVDlUa3pVelpHRThiUVQtYmIxQ3U3cXlwVGw1NlpJMDFza0otTmtWU3hIV1dXY3loYw",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Yahoo",
+      "id": "Laurie Whitwell:CBMioAFBVV95cUxNM0JWb1hudzJ5LWFXNGxObzhRTE1ZVGN5WktMQ3I1bVc4eTB0aEg3ZV84ckRHRlZJWno0eUlCbUtHWFA3bTlJMko1cGZPbHdiWGxOSzVTczgtYkpmenVZb1prRDJOWmlNX0NNc0lTRGxjcTJyUTdfS0kyUUZuNl83ZjRWTGtzWW82Ykt5aWpmTHpsLWxrcFV0QzdnT3NJbnE2",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
       "tier": 1,
-      "title": "Thousands of Man Utd fans protest against Ratcliffe and Glazers",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEI5Z1U2U2FwX2MtV2R1S1pDQ3NHMVh2cWR0VG9rWjhEbURnQl9NQU9ady1WeWhyRVlaOGQ0ZTA3eDIyZm5iVFBEaUNqZ1lkMVZXVDlUa3pVelpHRThiUVQtYmIxQ3U3cXlwVGw1NlpJMDFza0otTmtWU3hIV1dXY3loYw?oc=5",
-      "published": "2026-09-13T15:53:28.000Z",
-      "titleZh": "成千上万的曼联球迷抗议拉特克利夫和格雷泽斯"
+      "title": "Benjamin Sesko ‘ready to provide everything’ for Manchester United after injury recovery - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0JWb1hudzJ5LWFXNGxObzhRTE1ZVGN5WktMQ3I1bVc4eTB0aEg3ZV84ckRHRlZJWno0eUlCbUtHWFA3bTlJMko1cGZPbHdiWGxOSzVTczgtYkpmenVZb1prRDJOWmlNX0NNc0lTRGxjcTJyUTdfS0kyUUZuNl83ZjRWTGtzWW82Ykt5aWpmTHpsLWxrcFV0QzdnT3NJbnE2?oc=5",
+      "published": "2026-09-13T07:02:59.000Z",
+      "titleZh": "本杰明·塞斯科（ Benjamin Sesko ）在伤病康复后“准备为曼联提供一切” - The Athletic"
     },
     {
       "id": "Fabrizio Romano:CBMirwFBVV95cUxPbnROUWZkc1FoWHVTVmRibGF3QXJFeGY3NU5uT1lsd212Wld6QzBBQjltSzRaYUUzSnBLd2pySWVOMzdBUjgybGs5aWNtanl2MjZNUHlUSGlodkQ2RktuNnpDZGxoeTE4WXBQTlRHdVZoU0ZFM0RVMzJNUlZXSmRTM1E4SjBZU0FBNG1BTU1iYllHbF9MYnVlZkxDbTUtSnViTjFQWkM5SGxpVEUwenAw",
@@ -24287,15 +24311,15 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）建议，巴塞罗那明星有可能在1月份加盟"
     },
     {
-      "id": "Rob Dawson:CBMipAFBVV95cUxQWTF6RDNsU05pcVE1U1JwS3FTT05GVmtERHFuTjVLdnlRSU8yWVNQcm9aMjF0Sk56SkFzQngza3JzaGtGa05fNlM3UGtOSHVpekF6Y0pvaktaNjFMYmZzOXVUQ21HbVZnOE1XR0ZQOGtwa0JVVUZpR0FPU1B6bHgxc3I3ZTVWellLYVhQZmlpY3VyWWpJLTVXaWF0T290SHhQdDQ4cg",
+      "id": "Rob Dawson:CBMiowFBVV95cUxQOVVQS2R0WDRkaTBVY3Q5dTk5bXdkU0ZwX1hDd0tNaEVULTVEaENOdU56U2dPbEJzNERDSDJsWUFMY2NFQjJuQnpSbEplTXp4RkwxcUlFV1JoeDlDLTJmeEZ6MWg3a21RdWVNUGdwME54MWxSVm9fb0JKTXB2am8yTDIyS0czMDdfY1BsaXVYVUdNU2ZzZVFJcFltZ19XYlJYYlFj",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN Philippines",
+      "source": "ESPN",
       "tier": 1,
       "title": "Dalot still dreams of putting Manchester United back on top",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTF6RDNsU05pcVE1U1JwS3FTT05GVmtERHFuTjVLdnlRSU8yWVNQcm9aMjF0Sk56SkFzQngza3JzaGtGa05fNlM3UGtOSHVpekF6Y0pvaktaNjFMYmZzOXVUQ21HbVZnOE1XR0ZQOGtwa0JVVUZpR0FPU1B6bHgxc3I3ZTVWellLYVhQZmlpY3VyWWpJLTVXaWF0T290SHhQdDQ4cg?oc=5",
-      "published": "2026-09-12T07:36:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVVQS2R0WDRkaTBVY3Q5dTk5bXdkU0ZwX1hDd0tNaEVULTVEaENOdU56U2dPbEJzNERDSDJsWUFMY2NFQjJuQnpSbEplTXp4RkwxcUlFV1JoeDlDLTJmeEZ6MWg3a21RdWVNUGdwME54MWxSVm9fb0JKTXB2am8yTDIyS0czMDdfY1BsaXVYVUdNU2ZzZVFJcFltZ19XYlJYYlFj?oc=5",
+      "published": "2026-09-12T07:22:00.000Z",
       "titleZh": "达洛特仍然梦想着让曼联重回榜首"
     },
     {
@@ -24303,7 +24327,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "Irish Independent",
+      "source": "independent.ie",
       "tier": 1,
       "title": "Michael Carrick shrugs off Elliot Anderson ‘City are kings of Manchester’ claim",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWDlnZGhqc2txWmJhVU1idXEyY0hfWDFoWlgxTXA3djFoNHFVcHFDRnduNFdLUlFvU0VLNmtLcjZ5SU9YaEt2TWJIWEZqVHRFVVZxLXRyTTRGOFRBcVdhNmZ3WFU0QXZ5bThNX2dwb2w1Z2FjemprVmtXR1Q0c3N4RGlxdDhHZXVmVXZyVUhkU2ZlNThhZzBydzdMei14aWVBTmt4aE56bVJWMWtwdDVYczRuQ0s5T3ZQY2xhOTZ2N0xxNC02MHIyVy1NMTh1ZUFDWEU3dkc3a2V5QmZlZmZtalZ6WQ?oc=5",
@@ -24315,7 +24339,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "tier": 1,
       "title": "Manchester United ban 685 season-ticket holders after investigation into touting",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXFUUVY3SmRYeXlaRXRPY1hvdjZVbHhNWm9VSnVndnNLRG1zWDctOGs0YUdSM1FURWhhVFpyWmxFcHRYY2hkLXBJZE5vWUthMlpVa0M5b054NUlQZ3pXbDJtcGxrM0diSXkxakpqNUtrM2FWQk9UYTlMMERnWUhMQlpOR0xyTlp3ZWZhOVdKbjBQMHM?oc=5",
@@ -24351,7 +24375,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "tier": 2,
       "title": "Manchester United might have already made their Benjamin Sesko decision",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50Uzh3ci1QM2VsNnFGekhyNFNFNm5xQVAzVVgzZExpNkVUVTZOQUpzZlN1VXM2WnV6S1R6Nkd4TjZ3TDREZ016cXgtTXU4UEFJR1FGYUY5dXNPdmtlU3lzNHJDTFNGLWdFN2tfeEsxMjJ2cnc?oc=5",
@@ -24395,43 +24419,19 @@
       "titleZh": "舍什科在曼彻斯特德比之前为曼联辩护"
     },
     {
-      "id": "Chris Wheeler:CBMisAFBVV95cUxOTDVtTmdUSVlsdm51ck10NVlLcGUxX0pBNUhUNzJrOWVXRHNVQVZBcERYZllhNmFJTExvX19CVGRiNjZ3NTVieE5fTHIzYS1jUkdURDFjeWlGUGJwbFNxcU9LbkZZQ2hFU2NySnA5QWF4bkYxS3ZpY19ER081bWFJOXRySDV1Y0lza3dGeXBHazNJRUJJRTVhRHowRFo3QS1aMFpIcGhuOXBKM2JPTXhfR9IBtgFBVV95cUxPSGR0Q0RCakVrYlc1VTFwQl9FVm5iR2FMZEh4U1lSZ1YxZG9aVHhUZVVEMEZ6eDhROWZrbEs5YmJINU8zMDdPUURQUHpVSVFOYnF3NlFSSVJWTGdyeUdPVzFLZWNvOExMNElEUDNZUldfVjlYdWZmZ3JMZkZYdUVrMDVhZmlEYUd2OU5tWUJnR19Fb01yZkdrY2VuUWNwQjBSRFRvUlJSUEpwMDBEZHR6NXBYcUU3UQ",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
+      "id": "Andy Mitten:CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
       "tier": 2,
-      "title": "Manchester United vs Sabah - Champions League RECAP: Four different scorers help hosts record comfortable win",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDVtTmdUSVlsdm51ck10NVlLcGUxX0pBNUhUNzJrOWVXRHNVQVZBcERYZllhNmFJTExvX19CVGRiNjZ3NTVieE5fTHIzYS1jUkdURDFjeWlGUGJwbFNxcU9LbkZZQ2hFU2NySnA5QWF4bkYxS3ZpY19ER081bWFJOXRySDV1Y0lza3dGeXBHazNJRUJJRTVhRHowRFo3QS1aMFpIcGhuOXBKM2JPTXhfR9IBtgFBVV95cUxPSGR0Q0RCakVrYlc1VTFwQl9FVm5iR2FMZEh4U1lSZ1YxZG9aVHhUZVVEMEZ6eDhROWZrbEs5YmJINU8zMDdPUURQUHpVSVFOYnF3NlFSSVJWTGdyeUdPVzFLZWNvOExMNElEUDNZUldfVjlYdWZmZ3JMZkZYdUVrMDVhZmlEYUd2OU5tWUJnR19Fb01yZkdrY2VuUWNwQjBSRFRvUlJSUEpwMDBEZHR6NXBYcUU3UQ?oc=5",
-      "published": "2026-09-10T22:50:49.000Z",
-      "titleZh": "曼联与沙巴-冠军联赛回顾：四位不同的得分手帮助体验达人创造舒适的胜利"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMihgFBVV95cUxNcVI4UlU4bWJBYW9XeFdxdy02T0ZPNXd0Q1M0ZmdNa0RWenllbkhPeHltWVVYd1dEMDNrUzlZak0tSmI0R05VZ2NnVkdURkpBVmRvUUw1eTZ4V1o4SGFiMUtYY2t5WnhEektxY2IxOGtfX0VXX2FBMWR5UUlaVWhSd0FBeWlsUQ",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
-      "tier": 2,
-      "title": "Man Utd ratings: Mainoo is best player again but Mazraoui won't dislodge Dalot",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVI4UlU4bWJBYW9XeFdxdy02T0ZPNXd0Q1M0ZmdNa0RWenllbkhPeHltWVVYd1dEMDNrUzlZak0tSmI0R05VZ2NnVkdURkpBVmRvUUw1eTZ4V1o4SGFiMUtYY2t5WnhEektxY2IxOGtfX0VXX2FBMWR5UUlaVWhSd0FBeWlsUQ?oc=5",
-      "published": "2026-09-10T21:10:17.000Z",
-      "titleZh": "曼联评分： Mainoo再次成为最佳球员，但Mazraoui不会驱逐Dalot"
-    },
-    {
-      "id": "David Ornstein:CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Ornstein tips Man Utd to open £60m talks for ‘best left-back in the country’",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP?oc=5",
-      "published": "2026-09-10T12:09:14.000Z",
-      "titleZh": "Ornstein建议曼联开启£ 6000万“全国最佳左后卫”会谈"
+      "title": "The Champions League is back at Old Trafford. This is why it matters so much - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNC13M0Y5MHZ6V0djZWxqaGZYckxZbEotR1RzcmVaTlJpUXVRbmVfc0t1YkJvbloySE5jcG9yZDhuMEwtU1JxOVc1MF9raFJJTlEzZEdybDRmRW1FTVVMWEFLUXp3emtVRE51NFo0ZUpwdWpOZ003VlpwOFZQRGNLSXNsOGdBZFlOM2hDX2N4YlcyTi1laDFFTDZB?oc=5",
+      "published": "2026-09-10T21:25:15.000Z",
+      "titleZh": "冠军联赛重返老特拉福德。这就是为什么它如此重要- The Athletic"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-15T05:17:23.956Z",
+  "journalistsUpdatedAt": "2026-09-15T10:11:05.067Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

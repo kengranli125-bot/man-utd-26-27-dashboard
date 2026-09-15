@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:48:35.896Z",
+  "updatedAt": "2026-09-15T04:52:44.162Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -21680,7 +21680,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-14T21:48:34.846Z"
+        "generatedAt": "2026-09-15T04:52:43.396Z"
       }
     },
     {
@@ -23528,6 +23528,13 @@
   ],
   "news": [
     {
+      "title": "Burley: VAR issues caused by incompetent humans, not technology",
+      "published": "2026-09-14T22:20:00Z",
+      "url": "https://www.espn.com/video/clip/_/id/49943722/var-issues-caused-incompetent-humans-not-technology",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL.jpg",
+      "titleZh": "BURLEY ： VAR问题是由不称职的人类引起的，而不是技术"
+    },
+    {
       "title": "VAR from Manchester derby not given a Premier League game for upcoming weekend",
       "published": "2026-09-14T15:48:51Z",
       "url": "https://www.espn.com/soccer/story/_/id/49940750/var-manchester-derby-not-given-premier-league-games-upcoming-weekend",
@@ -23603,13 +23610,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49933209/joke",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Leboeuf_on_Fodens_red_card_in_Manchester_derby_Its_a_joke/dm_260913_Leboeuf_on_Fodens_red_card_in_Manchester_derby_Its_a_joke.jpg",
       "titleZh": "Leboeuf对Foden在曼彻斯特德比的红牌说： “这是个笑话！”"
-    },
-    {
-      "title": "Hislop claims 'refs failed to apply common sense' during Manchester derby",
-      "published": "2026-09-13T21:24:02Z",
-      "url": "https://www.espn.com/video/clip/_/id/49932785/hislop-claims-refs-failed-apply-common-sense-manchester-derby",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby/dm_260913_Hislop_claims_refs_failed_to_apply_common_sense_during_Manchester_derby.jpg",
-      "titleZh": "Hislop声称在曼彻斯特德比期间“裁判未能运用常识”"
     }
   ],
   "transfers": [],

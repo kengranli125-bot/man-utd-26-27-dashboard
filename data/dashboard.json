@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T16:57:59.995Z",
+  "updatedAt": "2026-09-15T21:19:35.624Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -21680,7 +21680,7 @@
             ]
           }
         ],
-        "generatedAt": "2026-09-15T16:57:58.821Z"
+        "generatedAt": "2026-09-15T21:19:34.778Z"
       }
     },
     {
@@ -23528,6 +23528,27 @@
   ],
   "news": [
     {
+      "title": "Dawson: Man Utd still hope to keep JJ Gabriel at the club",
+      "published": "2026-09-15T18:43:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/49950869/man-utd-hope-keep-jj-gabriel-club",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Dawson_Man_Utd_still_hope_to_keep_JJ_Gabriel_at_the_club/dm_260915_Dawson_Man_Utd_still_hope_to_keep_JJ_Gabriel_at_the_club.jpg",
+      "titleZh": "道森：曼联仍然希望让JJ加布里埃尔留在俱乐部"
+    },
+    {
+      "title": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
+      "published": "2026-09-15T18:45:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49950304/manchester-united-jj-gabriel-fan-protests-manchester-derby-var-defeat-analysis-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0915/r1717115_1296x729_16-9.jpg",
+      "titleZh": "曼联需要在JJ加布里埃尔骚乱，抗议和德比戏剧的糟糕一周后获胜"
+    },
+    {
+      "title": "Ogden: Manchester derby mistake has broken trust in VAR",
+      "published": "2026-09-15T17:27:10Z",
+      "url": "https://www.espn.com/video/clip/_/id/49950514/manchester-derby-mistake-broken-trust-var",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL/dm_260915_COM_SOC_Analysis_Ogden_Manchester_derby_mistake_has_broken_trust_in_VAR__20260915_GLOBAL.jpg",
+      "titleZh": "奥格登：曼彻斯特德比错误打破了对VAR的信任"
+    },
+    {
       "title": "Pro Ref chief Howard Webb: 'Tunnel vision' helped Erling Haaland goal to stand, Enzo Fernández offside missed",
       "published": "2026-09-15T16:39:59Z",
       "url": "https://www.espn.com/soccer/story/_/id/49950126/pro-ref-chief-howard-webb-tunnel-vision-allowed-erling-haaland-goal-stand",
@@ -23543,7 +23564,7 @@
     },
     {
       "title": "Man United wonderkid JJ Gabriel, 15, asks to leave club - sources",
-      "published": "2026-09-15T14:24:29Z",
+      "published": "2026-09-15T18:44:08Z",
       "url": "https://www.espn.com/soccer/story/_/id/49948971/man-united-starlet-jj-gabriel-15-asks-leave-club-sources",
       "image": "https://a.espncdn.com/photo/2026/0915/r1717007_1296x729_16-9.jpg",
       "titleZh": "曼联Wonderkid JJ Gabriel ， 15岁，要求离开俱乐部-消息来源"
@@ -23554,13 +23575,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49948803/beauty-winning-sport-for",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Carrick_The_beauty_of_winning_is_what_were_in_sport_for/dm_260915_Carrick_The_beauty_of_winning_is_what_were_in_sport_for.jpg",
       "titleZh": "卡里克：胜利的美妙之处在于我们从事体育运动的目的"
-    },
-    {
-      "title": "Transfer rumors, news: Man United, Bruno Fernandes contract talks stall",
-      "published": "2026-09-15T12:37:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49947329/transfer-rumors-news-man-united-bruno-fernandes-contract-talks-stall",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709025_1296x729_16-9.jpg",
-      "titleZh": "转会谣言、新闻：曼联、布鲁诺·费尔南德斯合同谈判失速"
     },
     {
       "title": "Carlos Baleba returns to training, nears Man United debut",
@@ -23596,34 +23610,9 @@
       "url": "https://www.espn.com/video/clip/_/id/49943722/var-issues-caused-incompetent-humans-not-technology",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL.jpg",
       "titleZh": "BURLEY ： VAR问题是由不称职的人类引起的，而不是技术"
-    },
-    {
-      "title": "VAR from Manchester derby not given a Premier League game for upcoming weekend",
-      "published": "2026-09-14T15:48:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49940750/var-manchester-derby-not-given-premier-league-games-upcoming-weekend",
-      "image": "https://a.espncdn.com/photo/2026/0913/r1716022_1296x729_16-9.jpg",
-      "titleZh": "来自曼彻斯特德比的瓦尔在即将到来的周末没有参加英超比赛"
-    },
-    {
-      "title": "Ex-Man United striker Wayne Rooney: 'Baffling' that VAR awarded Erling Haaland goal",
-      "published": "2026-09-14T13:53:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49939998/ex-man-united-striker-wayne-rooney-baffling-var-awarded-erling-haaland-goal",
-      "image": "https://a.espncdn.com/photo/2026/0914/r1716456_1296x729_16-9.jpg",
-      "titleZh": "前曼联前锋韦恩·鲁尼（ Wayne Rooney ） ： VAR授予埃尔林·哈兰德（ Erling Haaland ）进球的"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United, Bruno Fernandes contract talks stall",
-      "published": "2026-09-15T12:37:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49947329/transfer-rumors-news-man-united-bruno-fernandes-contract-talks-stall",
-      "image": "https://a.espncdn.com/photo/2026/0830/r1709025_1296x729_16-9.jpg",
-      "titleZh": "转会谣言、新闻：曼联、布鲁诺·费尔南德斯合同谈判失速",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

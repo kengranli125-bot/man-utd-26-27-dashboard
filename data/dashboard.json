@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:47:45.800Z",
+  "updatedAt": "2026-09-16T11:31:07.205Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -23528,6 +23528,20 @@
   ],
   "news": [
     {
+      "title": "Enzo Maresca on Manchester derby VAR drama: Man City still waiting on apology for 2023 incident",
+      "published": "2026-09-16T10:55:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49955910/man-city-man-united-var-derby-controversy-enzo-maresca-erling-haaland-enzo-fernandez",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717452_1296x729_16-9.jpg",
+      "titleZh": "恩佐·马雷斯卡谈曼彻斯特德比VAR剧：曼城仍在等待2023年事件的道歉"
+    },
+    {
+      "title": "Barcelona, Real Madrid monitoring JJ Gabriel situation at Man United - sources",
+      "published": "2026-09-16T09:52:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49955685/jj-gabriel-barcelona-real-madrid-man-united-chelsea-man-city",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+      "titleZh": "巴塞罗那，皇家马德里监控曼联的JJ Gabriel情况-来源"
+    },
+    {
       "title": "Dawson: Man Utd still hope to keep JJ Gabriel at the club",
       "published": "2026-09-15T18:43:40Z",
       "url": "https://www.espn.com/video/clip/_/id/49950869/man-utd-hope-keep-jj-gabriel-club",
@@ -23596,20 +23610,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49945295/all-20-premier-league-teams-ranked-which-managers-fired-first",
       "image": "https://a.espncdn.com/photo/2026/0915/r1716846_1296x729_16-9.jpg",
       "titleZh": "所有20支英超球队排名：哪位经理先被解雇？"
-    },
-    {
-      "title": "Jamie Carragher on Mikel Arteta referee rant: 'Becoming Sir Alex Ferguson of Premier League now'",
-      "published": "2026-09-15T07:19:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49947328/jamie-carragher-mikel-arteta-referee-rant-becoming-sir-alex-ferguson-premier-league-now",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716919_1296x729_16-9.jpg",
-      "titleZh": "杰米·卡拉格（ Jamie Carragher ）对米克尔·阿尔特塔（ Mikel Arteta ）裁判的咆哮： “现在成为英超联赛的亚历克斯·弗格"
-    },
-    {
-      "title": "Burley: VAR issues caused by incompetent humans, not technology",
-      "published": "2026-09-14T22:20:00Z",
-      "url": "https://www.espn.com/video/clip/_/id/49943722/var-issues-caused-incompetent-humans-not-technology",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0914/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL/dm_260914_COM_SOC_Analysis_Burley_VAR_issues_caused_by_incompetent_humans_not_technology_20260914_GLOBAL.jpg",
-      "titleZh": "BURLEY ： VAR问题是由不称职的人类引起的，而不是技术"
     }
   ],
   "transfers": [],

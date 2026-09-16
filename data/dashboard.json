@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:19:30.629Z",
+  "updatedAt": "2026-09-16T21:16:40.702Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -24031,6 +24031,20 @@
   ],
   "news": [
     {
+      "title": "Man United vs. Brighton LIVE: Visitors come back from 0-2 down, knock Carrick's men out of Carabao Cup",
+      "published": "2026-09-16T21:15:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49958086/manchester-united-brighton-carabao-cup-third-round-commentary-analysis-goals-result",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717758_1296x729_16-9.jpg",
+      "titleZh": "曼联vs布莱顿直播：游客从0-2落后回来，将卡里克的队员赶出卡拉宝杯"
+    },
+    {
+      "title": "Man United collapse in Carabao Cup exit as Brighton advance",
+      "published": "2026-09-16T21:12:36Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401914261",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717753_1024x576_16-9.jpg",
+      "titleZh": "随着布莱顿前进，曼联在Carabao杯出口崩溃"
+    },
+    {
       "title": "Soccer should learn from the NFL to fix the mess that VAR has created",
       "published": "2026-09-16T13:51:15Z",
       "url": "https://www.espn.com/soccer/story/_/id/49956007/soccer-learn-nfl-fix-mess-var-created",
@@ -24099,20 +24113,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49948803/beauty-winning-sport-for",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Carrick_The_beauty_of_winning_is_what_were_in_sport_for/dm_260915_Carrick_The_beauty_of_winning_is_what_were_in_sport_for.jpg",
       "titleZh": "卡里克：胜利的美妙之处在于我们从事体育运动的目的"
-    },
-    {
-      "title": "Carlos Baleba returns to training, nears Man United debut",
-      "published": "2026-09-15T12:30:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49948615/carlos-baleba-returns-man-united-training-nears-debut",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716983_1296x729_16-9.jpg",
-      "titleZh": "卡洛斯·巴莱巴重返训练场，接近曼联首次亮相"
-    },
-    {
-      "title": "Michael Carrick faces rotation dilemma vs. Brighton amid Man United pressure",
-      "published": "2026-09-15T12:32:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49947891/man-united-michael-carrick-brighton-carabao-cup-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716944_1296x729_16-9.jpg",
-      "titleZh": "在曼联的压力下，迈克尔·卡里克面临着与布莱顿的轮换困境"
     }
   ],
   "transfers": [],

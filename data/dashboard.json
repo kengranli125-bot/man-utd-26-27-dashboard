@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T11:31:07.205Z",
+  "updatedAt": "2026-09-16T16:53:45.971Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -23528,6 +23528,13 @@
   ],
   "news": [
     {
+      "title": "Soccer should learn from the NFL to fix the mess that VAR has created",
+      "published": "2026-09-16T13:51:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49956007/soccer-learn-nfl-fix-mess-var-created",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717460_1296x729_16-9.jpg",
+      "titleZh": "足球应该向NFL学习，以解决VAR造成的混乱"
+    },
+    {
       "title": "Enzo Maresca on Manchester derby VAR drama: Man City still waiting on apology for 2023 incident",
       "published": "2026-09-16T10:55:06Z",
       "url": "https://www.espn.com/soccer/story/_/id/49955910/man-city-man-united-var-derby-controversy-enzo-maresca-erling-haaland-enzo-fernandez",
@@ -23603,13 +23610,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49947891/man-united-michael-carrick-brighton-carabao-cup-premier-league",
       "image": "https://a.espncdn.com/photo/2026/0915/r1716944_1296x729_16-9.jpg",
       "titleZh": "在曼联的压力下，迈克尔·卡里克面临着与布莱顿的轮换困境"
-    },
-    {
-      "title": "All 20 Premier League teams ranked: Which managers will be fired first?",
-      "published": "2026-09-15T12:43:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49945295/all-20-premier-league-teams-ranked-which-managers-fired-first",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1716846_1296x729_16-9.jpg",
-      "titleZh": "所有20支英超球队排名：哪位经理先被解雇？"
     }
   ],
   "transfers": [],

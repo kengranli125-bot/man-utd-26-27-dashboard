@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:27:44.531Z",
+  "updatedAt": "2026-09-17T04:51:08.756Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -25275,15 +25275,36 @@
   ],
   "news": [
     {
-      "title": "Man United vs. Brighton LIVE: Visitors come back from 0-2 down, knock Carrick's men out of Carabao Cup",
-      "published": "2026-09-16T21:15:25Z",
+      "title": "Man United will be 'careful' with Gabriel future, Carrick says",
+      "published": "2026-09-16T23:43:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960828/man-united-careful-gabriel-future",
+      "image": "sportscenter://x-callback-url/showStory?uid=49950304",
+      "titleZh": "卡里克说，曼联将“谨慎”对待加布里埃尔的未来"
+    },
+    {
+      "title": "Man United's collapse puts Carrick under pressure for first time",
+      "published": "2026-09-16T23:34:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960829/manchester-united-collapse-puts-michael-carrick-pressure-first",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717818_1296x729_16-9.jpg",
+      "titleZh": "曼联的崩溃首次给卡里克带来压力"
+    },
+    {
+      "title": "Michael Carrick: 'We can't accept' Man United showing in Carabao Cup exit, 'I take responsibility'",
+      "published": "2026-09-16T22:58:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49960667/michael-carrick-accept-manchester-united-showing-carabao-cup-exit-take-responsibility",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717812_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ） ： “我们不能接受”曼联在卡拉宝杯退出中的表现， “我承担责任”"
+    },
+    {
+      "title": "Man United 2-3 Brighton: Carrick's men squander two-goal lead as Seagulls reach fourth round - as it happened",
+      "published": "2026-09-16T21:43:36Z",
       "url": "https://www.espn.com/soccer/story/_/id/49958086/manchester-united-brighton-carabao-cup-third-round-commentary-analysis-goals-result",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717758_1296x729_16-9.jpg",
       "titleZh": "曼联vs布莱顿直播：游客从0-2落后回来，将卡里克的队员赶出卡拉宝杯"
     },
     {
       "title": "Man United collapse in Carabao Cup exit as Brighton advance",
-      "published": "2026-09-16T21:12:36Z",
+      "published": "2026-09-16T22:48:33Z",
       "url": "http://www.espn.com/soccer/report/_/gameId/401914261",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717753_1024x576_16-9.jpg",
       "titleZh": "随着布莱顿前进，曼联在Carabao杯出口崩溃"
@@ -25336,27 +25357,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49950126/pro-ref-chief-howard-webb-tunnel-vision-allowed-erling-haaland-goal-stand",
       "image": "https://a.espncdn.com/photo/2026/0913/r1716042_1296x729_16-9.jpg",
       "titleZh": "职业裁判首席霍华德·韦伯： “隧道愿景”帮助Erling Haaland实现目标，恩佐·费尔南德斯越位失利"
-    },
-    {
-      "title": "Ruben Amorim: AC Milan's objective is 'obviously to win' Europa League",
-      "published": "2026-09-15T14:32:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49949298/ac-milan-europa-league-ruben-amorim",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717033_1296x729_16-9.jpg",
-      "titleZh": "鲁本·阿莫林： AC米兰的目标“显然是赢得”欧洲联赛"
-    },
-    {
-      "title": "Man United wonderkid JJ Gabriel, 15, asks to leave club - sources",
-      "published": "2026-09-15T18:44:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49948971/man-united-starlet-jj-gabriel-15-asks-leave-club-sources",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717007_1296x729_16-9.jpg",
-      "titleZh": "曼联Wonderkid JJ Gabriel ， 15岁，要求离开俱乐部-消息来源"
-    },
-    {
-      "title": "Carrick: The beauty of winning is what we're in sport for",
-      "published": "2026-09-15T13:04:26Z",
-      "url": "https://www.espn.com/video/clip/_/id/49948803/beauty-winning-sport-for",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0915/dm_260915_Carrick_The_beauty_of_winning_is_what_were_in_sport_for/dm_260915_Carrick_The_beauty_of_winning_is_what_were_in_sport_for.jpg",
-      "titleZh": "卡里克：胜利的美妙之处在于我们从事体育运动的目的"
     }
   ],
   "transfers": [],

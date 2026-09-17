@@ -1,5 +1,5 @@
-﻿/* ============================================================================
-   scroll-world 鈥?portable scroll-scrubbed camera-flight engine
+?/* ============================================================================
+   scroll-world ??portable scroll-scrubbed camera-flight engine
    ----------------------------------------------------------------------------
    Framework-agnostic. Vanilla JS, zero dependencies. It builds its own DOM and
    injects its own (namespaced) CSS into a container you give it, so it drops into
@@ -16,22 +16,22 @@
        atmosphere: true,  // subtle gradient + drifting particles behind the clips
        sections: [
          { id, label, still, stillMobile, clip, clipMobile, accent,
-           scroll: 1.6,   // optional per-section override of diveScroll 鈥?more scroll
+           scroll: 1.6,   // optional per-section override of diveScroll ??more scroll
                           // distance = a slower, longer dwell in this scene
-           linger: 0.5,   // optional 0..1 鈥?remaps time so the camera settles mid-scene
+           linger: 0.5,   // optional 0..1 ??remaps time so the camera settles mid-scene
                           // (exactly where the copy peaks) and moves quicker at the
-                          // edges. 0 = linear (default). Keep 鈮?0.6; 1 = full pause.
-           eyebrow, title, body, tags:[鈥,
+                          // edges. 0 = linear (default). Keep ??0.6; 1 = full pause.
+           eyebrow, title, body, tags:[??,
            cta:{ primary:{label,href}, secondary:{label,href} } }, // last section only
-         鈥?       ],
-       connectors: [clipUrl, 鈥,          // length = sections.length - 1 (nulls allowed)
-       connectorsMobile: [clipUrl, 鈥,    // optional lighter connectors for phones (same length)
+         ??       ],
+       connectors: [clipUrl, ??,          // length = sections.length - 1 (nulls allowed)
+       connectorsMobile: [clipUrl, ??,    // optional lighter connectors for phones (same length)
 
    MOBILE (the clipMobile/connectorsMobile variants are the opt-in mobile version;
    the rest of the phone handling below is always on)
-     The engine is phone-aware out of the box: on a coarse-pointer / 鈮?60px viewport it
+     The engine is phone-aware out of the box: on a coarse-pointer / ??60px viewport it
        - loads `clipMobile` / `connectorsMobile` when provided (encode these smaller +
-         tighter-GOP 鈥?seek cost on a phone decoder is dominated by frames-from-keyframe,
+         tighter-GOP ??seek cost on a phone decoder is dominated by frames-from-keyframe,
          so a 720p, -g 4 file scrubs far smoother than the 1080p desktop master; see
          pipeline.md). Falls back to the desktop `clip` if no mobile variant is given.
        - uses `stillMobile` as the scene poster when provided (pair it with native 9:16
@@ -41,10 +41,10 @@
        - coalesces seeks (never issues a new currentTime while the decoder is still
          `seeking`) so fast flicks can't pile up and freeze the video.
        - keeps the still as a live poster until the clip actually paints its first frame,
-         and primes each video (muted play鈫抪ause) on first touch 鈥?this is what stops iOS
+         and primes each video (muted play??ause) on first touch ??this is what stops iOS
          from showing a blank scene before the first seek.
        - drops the drifting particles and ignores URL-bar-only resizes (no scroll jump).
-     Nothing here is required 鈥?a config with only `clip`/`connectors` still works on
+     Nothing here is required ??a config with only `clip`/`connectors` still works on
      phones; the mobile variants just make it lighter and smoother.
 
    THEME (CSS custom properties; set on the container or :root to override)
@@ -65,7 +65,7 @@
 function mountScrollWorld(container, config) {
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   // Phone detection. `coarse` is captured once (input type doesn't change mid-session);
-  // the 鈮?60px query is read live via isMobile() so a desktop resize/DevTools toggle
+  // the ??60px query is read live via isMobile() so a desktop resize/DevTools toggle
   // switches sources and seek behaviour without a reload.
   const coarse = window.matchMedia('(hover: none) and (pointer: coarse)').matches;
   const smallMQ = window.matchMedia('(max-width: 860px)');
@@ -81,8 +81,10 @@ function mountScrollWorld(container, config) {
 
   injectCSS();
   container.classList.add('sw-root');
+  const dashboard = document.getElementById('dashboard');
+  const worldBeforeDashboard = !dashboard || Boolean(container.compareDocumentPosition(dashboard) & Node.DOCUMENT_POSITION_FOLLOWING);
 
-  // ---- build the interleaved segment chain: dive0, conn0, dive1, 鈥?diveN-1 ----
+  // ---- build the interleaved segment chain: dive0, conn0, dive1, ??diveN-1 ----
   const SEGMENTS = [];
   SECTIONS.forEach((s, i) => {
     const dive = { kind: 'dive', si: i, clip: s.clip, clipM: s.clipMobile, still: s.still, stillM: s.stillMobile,
@@ -171,7 +173,7 @@ function mountScrollWorld(container, config) {
   // ---- math ----
   const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
   const smooth = x => { x = clamp(x); return x * x * (3 - 2 * x); };
-  // Per-section dwell: monotone remap of scroll鈫抰ime so the camera settles mid-scene
+  // Per-section dwell: monotone remap of scroll??ime so the camera settles mid-scene
   // (where the copy peaks) and moves quicker near the seams. L=0 linear, L=1 full
   // mid-scene pause. f(0)=0, f(1)=1 always, so seam frames are untouched.
   const lingerEase = (x, L) => { L = clamp(L); const c = x - 0.5; return (1 - L) * x + L * (4 * c * c * c + 0.5); };
@@ -196,7 +198,7 @@ function mountScrollWorld(container, config) {
   }
 
   function loadClip(s) {
-    // Under prefers-reduced-motion we never load the clips at all 鈥?the stills stay up
+    // Under prefers-reduced-motion we never load the clips at all ??the stills stay up
     // and simply cross-dissolve as you scroll. No scrubbed video motion, no decode cost.
     if (reduce || s.loading || !s.clip) return;
     s.loading = true;
@@ -211,7 +213,7 @@ function mountScrollWorld(container, config) {
         v.src = URL.createObjectURL(blob);
         v.addEventListener('loadedmetadata', () => { s.ready = true; read(); });
         // Reveal the video (hide the still poster) only once a real frame has
-        // painted 鈥?on iOS a seeked-but-never-played muted video stays blank, so
+        // painted ??on iOS a seeked-but-never-played muted video stays blank, so
         // hiding the still on metadata alone would flash an empty scene.
         v.addEventListener('seeked', () => { s.el.classList.add('has-clip'); }, { once: true });
         v.addEventListener('loadeddata', () => { try { v.pause(); } catch (e) {} if (userReady) primeVideo(v); });
@@ -226,7 +228,7 @@ function mountScrollWorld(container, config) {
     const completed = y >= totalW * vh;
     container.classList.toggle('sw-before', before);
     container.classList.toggle('sw-complete', completed);
-    document.body.classList.toggle('dashboard-reached', completed);
+    if (worldBeforeDashboard) document.body.classList.toggle('dashboard-reached', completed);
     const fade = CROSSFADE * vh;
     let ci = 0;
     for (let i = 0; i < NSEG; i++) if (y >= SEGMENTS[i].start) ci = i;
@@ -295,7 +297,7 @@ function mountScrollWorld(container, config) {
   }
 
   // iOS needs a user gesture before a muted video will decode/paint reliably. On the
-  // first touch we prime every loaded clip (muted play鈫抪ause) so the first seek is
+  // first touch we prime every loaded clip (muted play??ause) so the first seek is
   // instant instead of showing a blank frame. `userReady` also makes freshly-loaded
   // clips prime themselves (see loadClip).
   let userReady = false;
@@ -449,7 +451,7 @@ function injectCSS() {
   @media (prefers-reduced-motion:reduce){ .sw-hint i::after{animation:none;} .sw-pt{display:none;} }
   `;
   // Wrap in a cascade layer so the page's own theme tokens (unlayered
-  // :root / .sw-root { --sw-bg / --sw-ink / --sw-accent 鈥?}) always win over
+  // :root / .sw-root { --sw-bg / --sw-ink / --sw-accent ??}) always win over
   // these defaults, regardless of injection order. Enables clean dark themes.
   const style = document.createElement('style'); style.id = 'sw-css';
   style.textContent = '@layer sw {\n' + css + '\n}';

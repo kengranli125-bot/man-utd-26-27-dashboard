@@ -25890,6 +25890,30 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMirAFBVV95cUxOUnY1Ql9GaENkSFFvdFJ1WDlxQ25YSkZTcThMbWNzeDFIQjZENi16ck9jekg5MjB5ZUtaazRiRUY4bnNpWGluSTU2dWFud196a2VvTG9xUW92Ul83eUJGRjBaOWZRNXoyQnc1dDY2TjB2Z3htSEpGV25EZDAzTHh1ZjZBYjFkZzVrdTFRSVJRVnEtVFY2TGVxZ3oyM2szdHdtM1ZKMWotYUtXYXpP",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "JJ Gabriel fuels speculation over next move by travelling to Spain",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnY1Ql9GaENkSFFvdFJ1WDlxQ25YSkZTcThMbWNzeDFIQjZENi16ck9jekg5MjB5ZUtaazRiRUY4bnNpWGluSTU2dWFud196a2VvTG9xUW92Ul83eUJGRjBaOWZRNXoyQnc1dDY2TjB2Z3htSEpGV25EZDAzTHh1ZjZBYjFkZzVrdTFRSVJRVnEtVFY2TGVxZ3oyM2szdHdtM1ZKMWotYUtXYXpP?oc=5",
+      "published": "2026-09-18T16:06:00.000Z",
+      "titleZh": "JJ Gabriel前往西班牙，助长了对下一步行动的猜测"
+    },
+    {
+      "id": "Chris Wheeler:CBMiiwFBVV95cUxNbkFRNnVKd1FBcnVzTXI3TUFwWGZXdlVpR3JhVnpjeEJZd1BMbTJqQ2dBM0hyb2ZwbVNQbVY2Xzh2RGpNRFFRX2JNVFgwV2pkcEd3UUgzUzNfaFVOajhtMnJsUl9CYVRqQm5lN193dnMwRHkxSHFxbWMyYmY4dHZvZXVsaWhaZzF5M1lr",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "centredevils.co.uk",
+      "tier": 2,
+      "title": "JJ Gabriel arrives in Barcelona for talks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkFRNnVKd1FBcnVzTXI3TUFwWGZXdlVpR3JhVnpjeEJZd1BMbTJqQ2dBM0hyb2ZwbVNQbVY2Xzh2RGpNRFFRX2JNVFgwV2pkcEd3UUgzUzNfaFVOajhtMnJsUl9CYVRqQm5lN193dnMwRHkxSHFxbWMyYmY4dHZvZXVsaWhaZzF5M1lr?oc=5",
+      "published": "2026-09-18T14:28:00.000Z",
+      "titleZh": "JJ Gabriel抵达巴塞罗那参加会谈"
+    },
+    {
       "id": "Andy Mitten:CBMid0FVX3lxTE5rc01GM0xDQlhsUTdFWUJIQmtaYV9IWjQzeTlXc2J5Y25fZEQyOFBNekgzV2FiMlVWazZVVExpY0NaRWFzNjViVW43R2IzTWJEdWRzQnJTbXhjSHRybGhTLV9hMV9STE9ISzhVcHFjZnhTTGJidnJJ0gF8QVVfeXFMUGFRbVVpRDd4RmpIWkQya0VFZ2dwUjNMQ3R3NDY3S2pMM25vemwzNERuWlUwa3lvalV5TndQZzBKaW9BaVZ1S3pIZ0wtUUxTM3Y3bThSQmtOVmdVajJ5c2tYRFVoanExd1BsQURPYnJIbE8teE94VWhwN2VYYg",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -25974,6 +25998,18 @@
       "titleZh": "奥恩斯坦透露，卡里克希望曼联“第一”优先签约£ 7000万明星"
     },
     {
+      "id": "Rob Dawson:CBMitAFBVV95cUxQNFVOSUhERmFMR0JtR1c3Z1VjbDYzTGFxM29hc1JSZVVQNDlvai02RC1nWWp4VC1NR1dqR0szaHFpcmNxMHRFQXA2c29oUzdyY0JtZVBUR3FoQWEySHRLM0FMUU1JM0RPR3ZuaEdHaUI2dmxsNk5HVzNHcUdXS1Y3TV80YzJpUkQ5YUVWVlZ5cWFwSDJxQmpzenhoQ0prLWxCSEhnQVN6YWdDUE1POWRtSGZrYXc",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United's collapse puts Carrick under pressure for first time",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFVOSUhERmFMR0JtR1c3Z1VjbDYzTGFxM29hc1JSZVVQNDlvai02RC1nWWp4VC1NR1dqR0szaHFpcmNxMHRFQXA2c29oUzdyY0JtZVBUR3FoQWEySHRLM0FMUU1JM0RPR3ZuaEdHaUI2dmxsNk5HVzNHcUdXS1Y3TV80YzJpUkQ5YUVWVlZ5cWFwSDJxQmpzenhoQ0prLWxCSEhnQVN6YWdDUE1POWRtSGZrYXc?oc=5",
+      "published": "2026-09-16T23:27:00.000Z",
+      "titleZh": "曼联的崩溃首次给卡里克带来压力"
+    },
+    {
       "id": "Samuel Luckhurst:CBMijwFBVV95cUxPelJWNEs4U3Qxd3VBXzZXRU9vckNsTThfWllnZTZ3Z0dWck9pMUVmNWhGa1JUVlFiYldpX0xWZzhOQzNOLUFCWFNlN05ncVB1eGFsUXpoODZsM2ZFWUlaQ2JiMmpLbkFWUUJmaVF4ckE2dnlrOFY3Y2ZJRF9TRGx6VnFtOWl2WEhqeXByOE03WQ",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -25996,18 +26032,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWw3YUVNZXVtanpMSEtkQmcyN2tSckV4VmRDTnNIeG81YTJ6ZlhBM0FLN1UyZUliaGQ2bnRkSjFHSWk3TW41RWx0a3NuZHR2YmVEX09rS2oxMzB5WVhRSU9kQkxqbmlnS2doa2h4NjVLdC1TdWx0RUdzWkRwREpzM21sTnBUa0JEbmRkQ2YtWU1HMFBZN1BUSE1UR1lFMG9qSkNnbzBoWklaTE9QREg0Wk03X1hhWXlxUS1pVndTQTlpbFo0UHRpLVhkaXZQeXFUVlFWQzNqMGRLMUR0aDdKWDVJZU1nT3ZCVmd2eldIWkRJdw?oc=5",
       "published": "2026-09-16T17:39:20.000Z",
       "titleZh": "曼联新闻：为什么JJ Gabriel可以离开"
-    },
-    {
-      "id": "Fabrizio Romano:CBMihwFBVV95cUxQMlpBV1NJdURqVFBaWUp3M1FtZUpLbWF6UVVfN1ZwTmc1TE5JRkl6ODRVUy12Ri1VN0JVd09mYTdLaXJUUzh5ZVU0Rk0wajhzZ0s3RW5pQ1lSaVExVnRmdWVlYlN2Ny1UTDI2OEhRUVpQXzR3amF0bHkzMm5qbTQ1QjRwNGxXck0",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo",
-      "tier": 1,
-      "title": "Just in: Real Madrid favourites to sign Manchester United prodigy also wanted by Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlpBV1NJdURqVFBaWUp3M1FtZUpLbWF6UVVfN1ZwTmc1TE5JRkl6ODRVUy12Ri1VN0JVd09mYTdLaXJUUzh5ZVU0Rk0wajhzZ0s3RW5pQ1lSaVExVnRmdWVlYlN2Ny1UTDI2OEhRUVpQXzR3amF0bHkzMm5qbTQ1QjRwNGxXck0?oc=5",
-      "published": "2026-09-16T17:20:00.000Z",
-      "titleZh": "就在：皇家马德里最受欢迎的签约曼联神童球员，也是巴塞罗那想要的球员"
     },
     {
       "id": "Chris Wheeler:CBMiuAFBVV95cUxNX3F5VkhUaEZYaUVPdS1JeGYyc0k0OXRtSko4V1JIMDhRMUlVamlrMUpLenZKSWc2MTFoSndJQjJzZmVHZlU2aHB0bHFOWmRFc010UWdTVHE5MUJOeGVMLWdlNm1SWndCbll0d24xaWotQU0wUndCUHlWSlJQY0R3U0dZZXlQM3ZSdHY4NW1LenlOM25ab09XN2tWbUtfeFFLYTZWZnBHd19vbWJhcXdlRFVWeU1ocld4",
@@ -26070,6 +26094,18 @@
       "titleZh": "曼联需要在JJ加布里埃尔骚乱，抗议和德比戏剧的糟糕一周后获胜"
     },
     {
+      "id": "Samuel Luckhurst:CBMihwFBVV95cUxOeFJwcGV6WUNWbDZSZHRQZjZTcXg4cUtUUnJZT3VjYWlTRWZXMGJUQ0N2R1Bnb3JrQ3FHSXM5dDkxR2ppQkdYaFJKSnE4dlhXdkVIWlEyVVpkU2JMMFR1Q2dKVUd1Z25fVXNZcnRCMk9uVTdPQkNNd3Y3bFhGQXl1ZVNWZjV1M3c",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Sun",
+      "tier": 2,
+      "title": "JJ Gabriel’s dad is journeyman ex-Arsenal ace with growing role on his career",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFJwcGV6WUNWbDZSZHRQZjZTcXg4cUtUUnJZT3VjYWlTRWZXMGJUQ0N2R1Bnb3JrQ3FHSXM5dDkxR2ppQkdYaFJKSnE4dlhXdkVIWlEyVVpkU2JMMFR1Q2dKVUd1Z25fVXNZcnRCMk9uVTdPQkNNd3Y3bFhGQXl1ZVNWZjV1M3c?oc=5",
+      "published": "2026-09-15T18:08:57.000Z",
+      "titleZh": "JJ Gabriel的父亲是前阿森纳王牌球员，在他的职业生涯中扮演着越来越重要的角色"
+    },
+    {
       "id": "David Ornstein:CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -26080,30 +26116,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc?oc=5",
       "published": "2026-09-15T16:12:43.000Z",
       "titleZh": "David Ornstein的The Athletic FC问答： Carrick审查？兰帕德的起步？阿森纳对恩古莫哈的兴趣？"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMihwFBVV95cUxOeFJwcGV6WUNWbDZSZHRQZjZTcXg4cUtUUnJZT3VjYWlTRWZXMGJUQ0N2R1Bnb3JrQ3FHSXM5dDkxR2ppQkdYaFJKSnE4dlhXdkVIWlEyVVpkU2JMMFR1Q2dKVUd1Z25fVXNZcnRCMk9uVTdPQkNNd3Y3bFhGQXl1ZVNWZjV1M3c",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Sun",
-      "tier": 2,
-      "title": "JJ Gabriel’s dad is journeyman ex-Arsenal ace with growing role on his career",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFJwcGV6WUNWbDZSZHRQZjZTcXg4cUtUUnJZT3VjYWlTRWZXMGJUQ0N2R1Bnb3JrQ3FHSXM5dDkxR2ppQkdYaFJKSnE4dlhXdkVIWlEyVVpkU2JMMFR1Q2dKVUd1Z25fVXNZcnRCMk9uVTdPQkNNd3Y3bFhGQXl1ZVNWZjV1M3c?oc=5",
-      "published": "2026-09-15T13:44:00.000Z",
-      "titleZh": "JJ Gabriel的父亲是前阿森纳王牌球员，在他的职业生涯中扮演着越来越重要的角色"
-    },
-    {
-      "id": "Rob Dawson:CBMipwFBVV95cUxOVG81bUpEMnZsMGpnMHpKTDNISXRNQ2Vjc05qcTZBcU5kenQ0Q3NLZWVPSlo3Y1NpaV9QbDE5ckJ5cDY1TUpmLVBQa25SOC04TlM1Zm5nS0txcTJLb1pLVW95TklSMnZxVHVyeExfdFVPcGFrSzJhOGNiaFJYN3hMSmxsZ3N6N09nZXlyMFRRaHZiY0doUE1xdUZRMlBGdWgwNDIxWXFzOA",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United wonderkid JJ Gabriel, 15, asks to leave club - sources",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVG81bUpEMnZsMGpnMHpKTDNISXRNQ2Vjc05qcTZBcU5kenQ0Q3NLZWVPSlo3Y1NpaV9QbDE5ckJ5cDY1TUpmLVBQa25SOC04TlM1Zm5nS0txcTJLb1pLVW95TklSMnZxVHVyeExfdFVPcGFrSzJhOGNiaFJYN3hMSmxsZ3N6N09nZXlyMFRRaHZiY0doUE1xdUZRMlBGdWgwNDIxWXFzOA?oc=5",
-      "published": "2026-09-15T13:37:00.000Z",
-      "titleZh": "曼联Wonderkid JJ Gabriel ， 15岁，要求离开俱乐部-消息来源"
     },
     {
       "id": "Simon Stone:CBMia0FVX3lxTFByRTZ6VEdYcFNNV1gyQjg0RzB4WWxuSEdwc3ZRQXN2b1VoV2FUN3htajI1ek1QNVdlbWRrWnppRmY2Zlp4M0o1ZGRHdXF2MXFUdWsxcUg3Vmp3V0ZNX3FqUm56dHlLZHAtbG5R",
@@ -26142,18 +26154,6 @@
       "titleZh": "Youri Tielemans对曼联的德比日表现感到失望"
     },
     {
-      "id": "Chris Wheeler:CBMihAFBVV95cUxPMXlBdTBDenljUHlaNkdPb2d5REgtYkZ5YWcwc0dJY211MHlLZjdxMS1vdVRmcXVJQloxdEVLX21lWkhCaEpDMkhVeFRUZ18zbDB1dkpKc1QtZmRGa191MVpnRVpDODBjNkIwODFBZnFndy1Rc3RRN3FhQUVZekJsWmpyUEzSAYoBQVVfeXFMT1hLQXVRMDhZdFE4SnRLNV80V2VtaXQtVVdPR3dfWlJ6Z2FWbGRBSUZmaENGa0xnMjZXZEdpcTdpaHpLTWc0c0RfajEtY0hWVk43OVJ3ZU1vUzZxSXFrS29wWS03ZEZWSk1lRmdGMm1vLWVScUt5SDJKV3ZZV1ZJeVpiS2pRSUNfcklB",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Worryingly flat on the pitch and mutiny festering in the stands, this was a painful derby defeat for Man United, writes CHRIS WHEELER - Michael Carrick's big Benjamin Sesko call backfired and there's little sign of progress",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXlBdTBDenljUHlaNkdPb2d5REgtYkZ5YWcwc0dJY211MHlLZjdxMS1vdVRmcXVJQloxdEVLX21lWkhCaEpDMkhVeFRUZ18zbDB1dkpKc1QtZmRGa191MVpnRVpDODBjNkIwODFBZnFndy1Rc3RRN3FhQUVZekJsWmpyUEzSAYoBQVVfeXFMT1hLQXVRMDhZdFE4SnRLNV80V2VtaXQtVVdPR3dfWlJ6Z2FWbGRBSUZmaENGa0xnMjZXZEdpcTdpaHpLTWc0c0RfajEtY0hWVk43OVJ3ZU1vUzZxSXFrS29wWS03ZEZWSk1lRmdGMm1vLWVScUt5SDJKV3ZZV1ZJeVpiS2pRSUNfcklB?oc=5",
-      "published": "2026-09-14T06:04:53.000Z",
-      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，这对曼联来说是一场痛苦的德比失利，令人担忧的是，球场上平坦，看台上叛乱恶化，迈克尔·卡里克（ Michael Carrick ）的大本杰明·塞斯科（ Benjamin Sesko ）的电话适得其反，几乎没有进展的迹象"
-    },
-    {
       "id": "Laurie Whitwell:CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -26178,7 +26178,7 @@
       "titleZh": "“没有突破” – David Ornstein发布了令人担忧的曼联转会更新"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-18T11:54:15.069Z",
+  "journalistsUpdatedAt": "2026-09-18T16:19:52.987Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -25890,18 +25890,6 @@
   ],
   "journalists": [
     {
-      "id": "James Ducker:CBMirAFBVV95cUxOUnY1Ql9GaENkSFFvdFJ1WDlxQ25YSkZTcThMbWNzeDFIQjZENi16ck9jekg5MjB5ZUtaazRiRUY4bnNpWGluSTU2dWFud196a2VvTG9xUW92Ul83eUJGRjBaOWZRNXoyQnc1dDY2TjB2Z3htSEpGV25EZDAzTHh1ZjZBYjFkZzVrdTFRSVJRVnEtVFY2TGVxZ3oyM2szdHdtM1ZKMWotYUtXYXpP",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "JJ Gabriel fuels speculation over next move by travelling to Spain",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnY1Ql9GaENkSFFvdFJ1WDlxQ25YSkZTcThMbWNzeDFIQjZENi16ck9jekg5MjB5ZUtaazRiRUY4bnNpWGluSTU2dWFud196a2VvTG9xUW92Ul83eUJGRjBaOWZRNXoyQnc1dDY2TjB2Z3htSEpGV25EZDAzTHh1ZjZBYjFkZzVrdTFRSVJRVnEtVFY2TGVxZ3oyM2szdHdtM1ZKMWotYUtXYXpP?oc=5",
-      "published": "2026-09-18T16:06:00.000Z",
-      "titleZh": "JJ Gabriel前往西班牙，助长了对下一步行动的猜测"
-    },
-    {
       "id": "Chris Wheeler:CBMiiwFBVV95cUxNbkFRNnVKd1FBcnVzTXI3TUFwWGZXdlVpR3JhVnpjeEJZd1BMbTJqQ2dBM0hyb2ZwbVNQbVY2Xzh2RGpNRFFRX2JNVFgwV2pkcEd3UUgzUzNfaFVOajhtMnJsUl9CYVRqQm5lN193dnMwRHkxSHFxbWMyYmY4dHZvZXVsaWhaZzF5M1lr",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -25910,7 +25898,7 @@
       "tier": 2,
       "title": "JJ Gabriel arrives in Barcelona for talks",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkFRNnVKd1FBcnVzTXI3TUFwWGZXdlVpR3JhVnpjeEJZd1BMbTJqQ2dBM0hyb2ZwbVNQbVY2Xzh2RGpNRFFRX2JNVFgwV2pkcEd3UUgzUzNfaFVOajhtMnJsUl9CYVRqQm5lN193dnMwRHkxSHFxbWMyYmY4dHZvZXVsaWhaZzF5M1lr?oc=5",
-      "published": "2026-09-18T14:28:00.000Z",
+      "published": "2026-09-18T14:27:51.000Z",
       "titleZh": "JJ Gabriel抵达巴塞罗那参加会谈"
     },
     {
@@ -25950,16 +25938,28 @@
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）正处于下一个曼联厄运螺旋的风口浪尖"
     },
     {
-      "id": "Simon Stone:CBMia0FVX3lxTE16Mk9CTUhBUFVYQ092d3FuZlM4N1BTTDRFMGdJYURsLWNqWVk5LXBXU1ZjOHNWS1FnQU9MTWEwUHZIWnRvLVhVa29iaHZpUWlUNl9OWk9JMXNyZm9RcERwNEtNcV9xbTBYbm44",
+      "id": "Laurie Whitwell:CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "JJ Gabriel: Why Real Madrid target may not return to Man Utd – and what happens next? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ?oc=5",
+      "published": "2026-09-17T11:05:00.000Z",
+      "titleZh": "JJ Gabriel ：为什么皇家马德里目标可能不会回到曼联–接下来会发生什么？ - The Athletic"
+    },
+    {
+      "id": "Simon Stone:CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
-      "title": "Man Utd news: Analysis - Michael Carrick needs players to step up",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Mk9CTUhBUFVYQ092d3FuZlM4N1BTTDRFMGdJYURsLWNqWVk5LXBXU1ZjOHNWS1FnQU9MTWEwUHZIWnRvLVhVa29iaHZpUWlUNl9OWk9JMXNyZm9RcERwNEtNcV9xbTBYbm44?oc=5",
-      "published": "2026-09-17T10:42:09.000Z",
-      "titleZh": "曼联新闻：分析-迈克尔·卡里克需要球员加强"
+      "title": "JJ Gabriel: Man Utd's 15-year-old interests Real Madrid",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0?oc=5",
+      "published": "2026-09-17T07:52:32.000Z",
+      "titleZh": "JJ Gabriel ：曼联15年来对皇家马德里的兴趣"
     },
     {
       "id": "Andy Mitten:CBMiwAFBVV95cUxQMmlSeXVERjNsRTF5WFh1VjB0UGtla0RXNDNXbFVlWXBHTTk1a3k1SVJVZ3gzZ01jb3Y2VTFjMEQ5OGhycU9RM25YT0ZSR1B6RVpwSG1LR2ExVWZqWWVuaGZETnhHWlF1YlZScVN2WVdiQXIxSmZRb1hIYW5aTENvVkNLQjNUa3RpdWZtN3JZOG15Q3dRQnhja3VPMHFPS2MyVVNOd0NKeVNRQWV6UThnblZLTERtME0zeVlTd1N4Slo",
@@ -25986,18 +25986,6 @@
       "titleZh": "这是严重疏忽，因为混乱的曼联让两球领先失误"
     },
     {
-      "id": "David Ornstein:CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Ornstein reveals Carrick wanted Man Utd 'first' priority signing over £70m star",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE?oc=5",
-      "published": "2026-09-17T01:38:33.000Z",
-      "titleZh": "奥恩斯坦透露，卡里克希望曼联“第一”优先签约£ 7000万明星"
-    },
-    {
       "id": "Rob Dawson:CBMitAFBVV95cUxQNFVOSUhERmFMR0JtR1c3Z1VjbDYzTGFxM29hc1JSZVVQNDlvai02RC1nWWp4VC1NR1dqR0szaHFpcmNxMHRFQXA2c29oUzdyY0JtZVBUR3FoQWEySHRLM0FMUU1JM0RPR3ZuaEdHaUI2dmxsNk5HVzNHcUdXS1Y3TV80YzJpUkQ5YUVWVlZ5cWFwSDJxQmpzenhoQ0prLWxCSEhnQVN6YWdDUE1POWRtSGZrYXc",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -26014,7 +26002,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
+      "source": "thesun.ie",
       "tier": 2,
       "title": "Man Utd 2 Brighton 3: 42-year record blown as hosts throw away half-time lead",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelJWNEs4U3Qxd3VBXzZXRU9vckNsTThfWllnZTZ3Z0dWck9pMUVmNWhGa1JUVlFiYldpX0xWZzhOQzNOLUFCWFNlN05ncVB1eGFsUXpoODZsM2ZFWUlaQ2JiMmpLbkFWUUJmaVF4ckE2dnlrOFY3Y2ZJRF9TRGx6VnFtOWl2WEhqeXByOE03WQ?oc=5",
@@ -26044,6 +26032,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3F5VkhUaEZYaUVPdS1JeGYyc0k0OXRtSko4V1JIMDhRMUlVamlrMUpLenZKSWc2MTFoSndJQjJzZmVHZlU2aHB0bHFOWmRFc010UWdTVHE5MUJOeGVMLWdlNm1SWndCbll0d24xaWotQU0wUndCUHlWSlJQY0R3U0dZZXlQM3ZSdHY4NW1LenlOM25ab09XN2tWbUtfeFFLYTZWZnBHd19vbWJhcXdlRFVWeU1ocld4?oc=5",
       "published": "2026-09-16T12:32:51.000Z",
       "titleZh": "老特拉福德时代的终结！曼联老将准备离开俱乐部"
+    },
+    {
+      "id": "David Ornstein:CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Ornstein reveals Carrick wanted Man Utd 'first' priority signing over £70m star",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE?oc=5",
+      "published": "2026-09-16T09:28:24.000Z",
+      "titleZh": "奥恩斯坦透露，卡里克希望曼联“第一”优先签约£ 7000万明星"
     },
     {
       "id": "Laurie Whitwell:CBMia0FVX3lxTE1UZVg1MnNRMV95bTM2RkRfdVZoRkN0WU93bWFPYVB3cVJ6ZEJ6Y0ZxVWlWb0k2OEJrRmNURVBYa1BmVW82bnVLcElpWGlndFVyUzJ3M1JSU3dUR1VGc3J3SDBWVzdJVUFiWlA00gFwQVVfeXFMT2RMQlZ4b3pUSDBqVzFKZWF0cXVKUzY3NEo1QVhMTndGTmdTN3pKUlNRbmRSQllxeG5Zam5uMFBxUi1samJFc3h4R2NZTlhwRUhOcVRWOUZ1cTVpMVlJZlVVUkNYSlNvZGEwb1A3X3dQWQ",
@@ -26134,7 +26134,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
+      "source": "thesun.ie",
       "tier": 2,
       "title": "Ratcliffe sneaked into Old Trafford through back door for City game amid protest",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc?oc=5",
@@ -26154,6 +26154,18 @@
       "titleZh": "Youri Tielemans对曼联的德比日表现感到失望"
     },
     {
+      "id": "James Ducker:CBMiqAFBVV95cUxNWTFQLWlhdktLTnI3UkJHTkIxekY1ek9zLUV5c3MzNjh1cTFyTmU2TmhIR2NRLXBPclhycmRRWUZsaWRJVUliSFliOS1oaUJfWmJXSUtOemlydGJiWmh3ZEtKUk8yZmhOaTBfRktMM1hPQi1zbG1LX3pDREl6bHRTLTlGZVowVlJaUHFXWWsweThLZ1pxQUVtbVA0WGl1aXNQSEZqVGZGbkg",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "The moments that show Erling Haaland has become a true leader of men",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTFQLWlhdktLTnI3UkJHTkIxekY1ek9zLUV5c3MzNjh1cTFyTmU2TmhIR2NRLXBPclhycmRRWUZsaWRJVUliSFliOS1oaUJfWmJXSUtOemlydGJiWmh3ZEtKUk8yZmhOaTBfRktMM1hPQi1zbG1LX3pDREl6bHRTLTlGZVowVlJaUHFXWWsweThLZ1pxQUVtbVA0WGl1aXNQSEZqVGZGbkg?oc=5",
+      "published": "2026-09-14T07:00:00.000Z",
+      "titleZh": "展示Erling Haaland的时刻已经成为真正的男性领导者"
+    },
+    {
       "id": "Laurie Whitwell:CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -26164,21 +26176,9 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXFvd0tyM1NQMVhJd1ZFcENmZV9TOC1Fcy1QNDEzbUVjdFJRVGZaMFJILUlURWg1Mkg4aEdyOEJRWFV6ekJIZ0Fia3FmZ3dYMnpSYmNjSEI2X1czbF90TGhzaHhLV2lLQnNlMmZCRmJwenBoV3RjV2h2ZmVFVWc5UkE3QVpENjUtcjdndWFB?oc=5",
       "published": "2026-09-14T01:04:00.000Z",
       "titleZh": "曼联球迷团体在德比前抗议季票制裁- The Athletic"
-    },
-    {
-      "id": "David Ornstein:CBMi0gFBVV95cUxNTVp2M1JpcDJYMUxvcHhGdndiMFJmMlc5LXNtU2tLOWY2WktNVS05VGk0UE1PNTJ2SGVoRWpzdGU0Q3hmMDdXaXFhZFBkdFh1NEZPN0doNGZnelQ1VldzQ2NndEl4SGJkdVp3cHlzLWgtSDdMZ2xmVnVycy1RU3RBQVoyUjVWYVlTWVA5T19HazZTUEZ2SGtwekh3MW9rTmxyUTlmbmZUSTc0QTF0ZVZGTU13RmFhS1RoY2ZUa3dDdjNlMUVjUXNXelZDejlMZTlwSWc",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "LiveScore",
-      "tier": 1,
-      "title": "“No breakthrough” – David Ornstein issues worrying Man United transfer update",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTVp2M1JpcDJYMUxvcHhGdndiMFJmMlc5LXNtU2tLOWY2WktNVS05VGk0UE1PNTJ2SGVoRWpzdGU0Q3hmMDdXaXFhZFBkdFh1NEZPN0doNGZnelQ1VldzQ2NndEl4SGJkdVp3cHlzLWgtSDdMZ2xmVnVycy1RU3RBQVoyUjVWYVlTWVA5T19HazZTUEZ2SGtwekh3MW9rTmxyUTlmbmZUSTc0QTF0ZVZGTU13RmFhS1RoY2ZUa3dDdjNlMUVjUXNXelZDejlMZTlwSWc?oc=5",
-      "published": "2026-09-13T20:22:03.000Z",
-      "titleZh": "“没有突破” – David Ornstein发布了令人担忧的曼联转会更新"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-18T16:19:52.987Z",
+  "journalistsUpdatedAt": "2026-09-18T19:05:21.619Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

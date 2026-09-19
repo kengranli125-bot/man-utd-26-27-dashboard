@@ -25890,16 +25890,16 @@
   ],
   "journalists": [
     {
-      "id": "Andy Mitten:CBMikwFBVV95cUxPRWkyZVRyWG16NEtYcVpZTjBBbEU4MHJnZlZkU3VKTzFVZmZ2M1ZqdlN2TGpjNV96NE9INTMzLVpxNDVORE0xWW5zT2Z3TzBEakdsZ3FUd28xVjc5bHdRTlBma1N5MXBZTm5uUXozTEEyc0Z1R0lNSnlicDJEOENsclFKWkg3WnBtd0RvQWlid05YTnc",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
+      "id": "Chris Wheeler:CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "PressReader",
       "tier": 2,
-      "title": "The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWkyZVRyWG16NEtYcVpZTjBBbEU4MHJnZlZkU3VKTzFVZmZ2M1ZqdlN2TGpjNV96NE9INTMzLVpxNDVORE0xWW5zT2Z3TzBEakdsZ3FUd28xVjc5bHdRTlBma1N5MXBZTm5uUXozTEEyc0Z1R0lNSnlicDJEOENsclFKWkg3WnBtd0RvQWlid05YTnc?oc=5",
-      "published": "2026-09-19T04:12:19.000Z",
-      "titleZh": "曼联球迷的心情扑面而来。INEOS蜜月期已经结束"
+      "title": "It is RIDICULOUS to question my United future, says Carrick",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1?oc=5",
+      "published": "2026-09-19T05:03:22.000Z",
+      "titleZh": "质疑我的联合未来是荒谬的，卡里克说"
     },
     {
       "id": "Chris Wheeler:CBMidEFVX3lxTE50WFFyTEhuR3BsRENKVUlESkJTcmZteFZvaWtNVXRqa29jTHU4RGJPOHUyXzQ2eTRWZE5tNUlCV0NBb2ZBNmczZ3hCcE9peXIwNGt2RXkzWTE3UUVKdFJjYUh6MTRQcVVIYlN6dGZ4TmJKcjFy",
@@ -25950,10 +25950,10 @@
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）正处于下一个曼联厄运螺旋的风口浪尖"
     },
     {
-      "id": "David Ornstein:CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
+      "id": "Laurie Whitwell:CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
       "title": "JJ Gabriel: Why Real Madrid target may not return to Man Utd – and what happens next? - The Athletic",
@@ -25962,11 +25962,23 @@
       "titleZh": "JJ Gabriel ：为什么皇家马德里目标可能不会回到曼联–接下来会发生什么？ - The Athletic"
     },
     {
+      "id": "Simon Stone:CBMia0FVX3lxTE16Mk9CTUhBUFVYQ092d3FuZlM4N1BTTDRFMGdJYURsLWNqWVk5LXBXU1ZjOHNWS1FnQU9MTWEwUHZIWnRvLVhVa29iaHZpUWlUNl9OWk9JMXNyZm9RcERwNEtNcV9xbTBYbm44",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Analysis - Michael Carrick needs players to step up",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Mk9CTUhBUFVYQ092d3FuZlM4N1BTTDRFMGdJYURsLWNqWVk5LXBXU1ZjOHNWS1FnQU9MTWEwUHZIWnRvLVhVa29iaHZpUWlUNl9OWk9JMXNyZm9RcERwNEtNcV9xbTBYbm44?oc=5",
+      "published": "2026-09-17T10:42:09.000Z",
+      "titleZh": "曼联新闻：分析-迈克尔·卡里克需要球员加强"
+    },
+    {
       "id": "Simon Stone:CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "JJ Gabriel: Man Utd's 15-year-old interests Real Madrid",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0?oc=5",
@@ -26022,28 +26034,16 @@
       "titleZh": "曼联新闻：为什么JJ Gabriel可以离开"
     },
     {
-      "id": "Fabrizio Romano:CBMihwFBVV95cUxQMlpBV1NJdURqVFBaWUp3M1FtZUpLbWF6UVVfN1ZwTmc1TE5JRkl6ODRVUy12Ri1VN0JVd09mYTdLaXJUUzh5ZVU0Rk0wajhzZ0s3RW5pQ1lSaVExVnRmdWVlYlN2Ny1UTDI2OEhRUVpQXzR3amF0bHkzMm5qbTQ1QjRwNGxXck0",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo",
+      "id": "David Ornstein:CBMi3AFBVV95cUxNMDZra0c3bDQ5Y29LVmNPVjl4VTU0NHlGdFFydjFCWkFJdGZNWUZlNDJoWXU2V195TlpyV3dCTHpMQzVOQklBdFJkRjZFR3JlaTBwMUFoMklBM2JqU25QaDVTdnRIMjVfcjIzVkY0cWg1TmhVWldhSHgwWFFubDBVQ2FldW82ZmI1NjRvREZnOXpNajhaYU53ZHp0T1g0OFJtY01fWWp2LWJabzlZa3JaWVdWbGN3S0pKUS1tdnVSUFoyc1dXS1BSbWUzZkhuODNWbHU3eDA5ZkRDUFNC",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "aftv.co.uk",
       "tier": 1,
-      "title": "Just in: Real Madrid favourites to sign Manchester United prodigy also wanted by Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlpBV1NJdURqVFBaWUp3M1FtZUpLbWF6UVVfN1ZwTmc1TE5JRkl6ODRVUy12Ri1VN0JVd09mYTdLaXJUUzh5ZVU0Rk0wajhzZ0s3RW5pQ1lSaVExVnRmdWVlYlN2Ny1UTDI2OEhRUVpQXzR3amF0bHkzMm5qbTQ1QjRwNGxXck0?oc=5",
-      "published": "2026-09-16T17:20:00.000Z",
-      "titleZh": "就在：皇家马德里最受欢迎的签约曼联神童球员，也是巴塞罗那想要的球员"
-    },
-    {
-      "id": "Chris Wheeler:CBMiuAFBVV95cUxNX3F5VkhUaEZYaUVPdS1JeGYyc0k0OXRtSko4V1JIMDhRMUlVamlrMUpLenZKSWc2MTFoSndJQjJzZmVHZlU2aHB0bHFOWmRFc010UWdTVHE5MUJOeGVMLWdlNm1SWndCbll0d24xaWotQU0wUndCUHlWSlJQY0R3U0dZZXlQM3ZSdHY4NW1LenlOM25ab09XN2tWbUtfeFFLYTZWZnBHd19vbWJhcXdlRFVWeU1ocld4",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Dailysports",
-      "tier": 2,
-      "title": "The end of an era at Old Trafford! Manchester United veteran preparing to leave the club",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3F5VkhUaEZYaUVPdS1JeGYyc0k0OXRtSko4V1JIMDhRMUlVamlrMUpLenZKSWc2MTFoSndJQjJzZmVHZlU2aHB0bHFOWmRFc010UWdTVHE5MUJOeGVMLWdlNm1SWndCbll0d24xaWotQU0wUndCUHlWSlJQY0R3U0dZZXlQM3ZSdHY4NW1LenlOM25ab09XN2tWbUtfeFFLYTZWZnBHd19vbWJhcXdlRFVWeU1ocld4?oc=5",
-      "published": "2026-09-16T12:32:51.000Z",
-      "titleZh": "老特拉福德时代的终结！曼联老将准备离开俱乐部"
+      "title": "David Ornstein reveals Michael Carrick wanted Arsenal star before Man Utd's 'sudden' Carlos Baleba U-Turn",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMDZra0c3bDQ5Y29LVmNPVjl4VTU0NHlGdFFydjFCWkFJdGZNWUZlNDJoWXU2V195TlpyV3dCTHpMQzVOQklBdFJkRjZFR3JlaTBwMUFoMklBM2JqU25QaDVTdnRIMjVfcjIzVkY0cWg1TmhVWldhSHgwWFFubDBVQ2FldW82ZmI1NjRvREZnOXpNajhaYU53ZHp0T1g0OFJtY01fWWp2LWJabzlZa3JaWVdWbGN3S0pKUS1tdnVSUFoyc1dXS1BSbWUzZkhuODNWbHU3eDA5ZkRDUFNC?oc=5",
+      "published": "2026-09-16T14:40:00.000Z",
+      "titleZh": "大卫·奥恩斯坦（ David Ornstein ）透露，在曼联“突然”卡洛斯·巴莱巴（ Carlos Baleba ）掉头之前，迈克尔·卡里"
     },
     {
       "id": "David Ornstein:CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE",
@@ -26142,43 +26142,43 @@
       "titleZh": "曼联对Wantaway Wonderkid JJ Gabriel的转会恐惧"
     },
     {
-      "id": "Simon Stone:CBMia0FVX3lxTFByRTZ6VEdYcFNNV1gyQjg0RzB4WWxuSEdwc3ZRQXN2b1VoV2FUN3htajI1ek1QNVdlbWRrWnppRmY2Zlp4M0o1ZGRHdXF2MXFUdWsxcUg3Vmp3V0ZNX3FqUm56dHlLZHAtbG5R",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "id": "David Ornstein:CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
       "tier": 1,
-      "title": "Man Utd news: Have Manchester United got their recruitment right?",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByRTZ6VEdYcFNNV1gyQjg0RzB4WWxuSEdwc3ZRQXN2b1VoV2FUN3htajI1ek1QNVdlbWRrWnppRmY2Zlp4M0o1ZGRHdXF2MXFUdWsxcUg3Vmp3V0ZNX3FqUm56dHlLZHAtbG5R?oc=5",
-      "published": "2026-09-15T07:27:01.000Z",
-      "titleZh": "曼联新闻：曼联的招聘是否正确？"
+      "title": "David Ornstein’s The Athletic FC Q&A: Carrick scrutiny? Lampard’s start? Arsenal interest in Ngumoha?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVI0T1cwWGJsQ29Dc0pqYVQ4RU00NFlBMi1mbmJPemxSbnVpaVZabEpGU2FYY2wyU0dfRnhQb1pTemdmcHlndUduTHpIdDdReTdrVHJibTZlRXE0SDhuUWZFbGVBbkdDYkdZZDFDWWY4SVBQV1pkWkg0VWZQRWlKbmZBckI3UEttR1kxUlFoZWlDLVU5bmc?oc=5",
+      "published": "2026-09-15T16:12:43.000Z",
+      "titleZh": "David Ornstein的The Athletic FC问答： Carrick审查？兰帕德的起步？阿森纳对恩古莫哈的兴趣？"
     },
     {
-      "id": "Samuel Luckhurst:CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
+      "id": "Andy Mitten:CBMi1wFBVV95cUxNT1RFUWFDMXR1aFZyMTF4cUp3TzRIVTB4RWVWTUs4aHBURHF3S1lNNlQ2UG10ZmpjWUpKYTl5S2Ixa2RNb1FKallNZ2dzemY5VlhsSE9EWDdWQ19wRW0yR0h5SlBfSE5mTnhpUU9PZHVYMEpYclpNbDlZTEhienNQRGMweWZNbGdkN0tweENfNFh0Z28xY19YQXB2eDBuMXpyQ1QtSDhRdHFDSTJvb0ZGVjdsNFFrQnpMZzN1LV9sLTJWc3VBQjk0alpUd21hNXVFUE5YVE5fTQ",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "thenationalnews.com",
       "tier": 2,
-      "title": "Ratcliffe sneaked into Old Trafford through back door for City game amid protest",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc?oc=5",
-      "published": "2026-09-14T14:12:39.000Z",
-      "titleZh": "在抗议活动中，拉特克利夫从后门潜入老特拉福德参加城市比赛"
+      "title": "Michael Carrick channels derby frustration as Manchester United target League Cup",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT1RFUWFDMXR1aFZyMTF4cUp3TzRIVTB4RWVWTUs4aHBURHF3S1lNNlQ2UG10ZmpjWUpKYTl5S2Ixa2RNb1FKallNZ2dzemY5VlhsSE9EWDdWQ19wRW0yR0h5SlBfSE5mTnhpUU9PZHVYMEpYclpNbDlZTEhienNQRGMweWZNbGdkN0tweENfNFh0Z28xY19YQXB2eDBuMXpyQ1QtSDhRdHFDSTJvb0ZGVjdsNFFrQnpMZzN1LV9sLTJWc3VBQjk0alpUd21hNXVFUE5YVE5fTQ?oc=5",
+      "published": "2026-09-15T12:49:05.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）在曼联目标联赛杯上表现出对德比的沮丧"
     },
     {
-      "id": "James Ducker:CBMi3AFBVV95cUxPbEgzOTBHMUgzU0RRMlRfSk1zbTRqSW9ScWM1VklLWXliNlluMzJUM3R4SjFmbDRlUG5xR2llLVFwR0htbVNOZnRmQkVVVTE2ZGdYanlNSFA3cW94VnNlQURGMUdaWnR0RTdOcGZXaXMxN2FaNld0RzNxV1Vjb3c4U25uTmE0WmhybVQ4UDJydVpiZnVoQ2lpTFE4NWh0alRuQzBmU3BnVi1pcXRIZHRvamV5VGxYUnhyaGctajFwOUVBeEwyLVpyTGo0Z3B2dTRPM09EempscWVhZ1Y3",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "Irish Independent",
+      "id": "Fabrizio Romano:CBMikgFBVV95cUxONHJxQVk0cFR4cUNhOTBjLWpCSG9vRXV5Qm9HYV9Ta3plMUotZllkRjBQdmFtbTBQY04xYmxvb2EwUnhCUFBsWTlITlFSUFp3U1RQd3BHeExXWjZVVjdNWUZId2czT0JRWW9xdEREaEd0UUhRLTJuNTRtc2RIcEY3MU0tMDgtV3JBd25fNUlaWGdEQQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Yahoo Sports",
       "tier": 1,
-      "title": "Youri Tielemans disappointed in Manchester United’s derby day performance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbEgzOTBHMUgzU0RRMlRfSk1zbTRqSW9ScWM1VklLWXliNlluMzJUM3R4SjFmbDRlUG5xR2llLVFwR0htbVNOZnRmQkVVVTE2ZGdYanlNSFA3cW94VnNlQURGMUdaWnR0RTdOcGZXaXMxN2FaNld0RzNxV1Vjb3c4U25uTmE0WmhybVQ4UDJydVpiZnVoQ2lpTFE4NWh0alRuQzBmU3BnVi1pcXRIZHRvamV5VGxYUnhyaGctajFwOUVBeEwyLVpyTGo0Z3B2dTRPM09EempscWVhZ1Y3?oc=5",
-      "published": "2026-09-14T09:20:00.000Z",
-      "titleZh": "Youri Tielemans对曼联的德比日表现感到失望"
+      "title": "Bruno Fernandes: Fabrizio Romano reveals what’s causing Man United contract deadlock",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONHJxQVk0cFR4cUNhOTBjLWpCSG9vRXV5Qm9HYV9Ta3plMUotZllkRjBQdmFtbTBQY04xYmxvb2EwUnhCUFBsWTlITlFSUFp3U1RQd3BHeExXWjZVVjdNWUZId2czT0JRWW9xdEREaEd0UUhRLTJuNTRtc2RIcEY3MU0tMDgtV3JBd25fNUlaWGdEQQ?oc=5",
+      "published": "2026-09-15T10:05:00.000Z",
+      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ） ：法布里齐奥·罗马诺（ Fabrizio Romano ）揭示了"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-19T06:42:24.257Z",
+  "journalistsUpdatedAt": "2026-09-19T11:38:01.708Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

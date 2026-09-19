@@ -25890,6 +25890,18 @@
   ],
   "journalists": [
     {
+      "id": "Andy Mitten:CBMi5gFBVV95cUxOMDVHU2x4dXRWUnJoTFJ5cHM5Nk14NTJUYkpub3h4MkZJSUE3RENRUmc3MktBMFVNbEEtRjk5NUVKdzVCaFF3LXZNb0VrLXg4bmR6TTdHR210N2tvYUhNdFI5RHNyXzlaZ3Bxc2cxcjAtRDJyTWNOMlR0M0NVV1h6N2x2M28zQmI2d3FEOWxpZUFGdUFQaE9QVmt6TmlGbE8xYWVxQXFDZ3ljTEd2Y0pFSW1KM1Qwd1Z4eDd3ZmVUWUEwY1R4STRlbEU3b3Bic2o2UUVJMW1yMl9IamNDVE1Ca3h6azI1QQ",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "facebook.com",
+      "tier": 2,
+      "title": "Manchester United's Muslim Supporters Club have issued a scathing statement of no confidence in co-owner Sir Jim Ratcliffe following a recent interview concerning the 'decline of the United Kingdom. ' During the discussion, the United minority owner shared",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMDVHU2x4dXRWUnJoTFJ5cHM5Nk14NTJUYkpub3h4MkZJSUE3RENRUmc3MktBMFVNbEEtRjk5NUVKdzVCaFF3LXZNb0VrLXg4bmR6TTdHR210N2tvYUhNdFI5RHNyXzlaZ3Bxc2cxcjAtRDJyTWNOMlR0M0NVV1h6N2x2M28zQmI2d3FEOWxpZUFGdUFQaE9QVmt6TmlGbE8xYWVxQXFDZ3ljTEd2Y0pFSW1KM1Qwd1Z4eDd3ZmVUWUEwY1R4STRlbEU3b3Bic2o2UUVJMW1yMl9IamNDVE1Ca3h6azI1QQ?oc=5",
+      "published": "2026-09-19T18:02:12.000Z",
+      "titleZh": "在最近一次关于“英国衰落”的采访之后，曼联的穆斯林支持者俱乐部发表了一份严厉的声明，对共同所有者吉姆·拉特克利夫爵士不信任。“在讨论过程中，美联航少数股东分享了"
+    },
+    {
       "id": "Chris Wheeler:CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -25950,11 +25962,23 @@
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）正处于下一个曼联厄运螺旋的风口浪尖"
     },
     {
+      "id": "Laurie Whitwell:CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "JJ Gabriel: Why Real Madrid target may not return to Man Utd – and what happens next? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ?oc=5",
+      "published": "2026-09-17T11:05:24.000Z",
+      "titleZh": "JJ Gabriel ：为什么皇家马德里目标可能不会回到曼联–接下来会发生什么？ - The Athletic"
+    },
+    {
       "id": "Simon Stone:CBMia0FVX3lxTE16Mk9CTUhBUFVYQ092d3FuZlM4N1BTTDRFMGdJYURsLWNqWVk5LXBXU1ZjOHNWS1FnQU9MTWEwUHZIWnRvLVhVa29iaHZpUWlUNl9OWk9JMXNyZm9RcERwNEtNcV9xbTBYbm44",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "tier": 1,
       "title": "Man Utd news: Analysis - Michael Carrick needs players to step up",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Mk9CTUhBUFVYQ092d3FuZlM4N1BTTDRFMGdJYURsLWNqWVk5LXBXU1ZjOHNWS1FnQU9MTWEwUHZIWnRvLVhVa29iaHZpUWlUNl9OWk9JMXNyZm9RcERwNEtNcV9xbTBYbm44?oc=5",
@@ -25966,7 +25990,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "source": "bbc.co.uk",
       "tier": 1,
       "title": "JJ Gabriel: Man Utd's 15-year-old interests Real Madrid",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0?oc=5",
@@ -26014,24 +26038,12 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.com",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Why JJ Gabriel could leave",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWw3YUVNZXVtanpMSEtkQmcyN2tSckV4VmRDTnNIeG81YTJ6ZlhBM0FLN1UyZUliaGQ2bnRkSjFHSWk3TW41RWx0a3NuZHR2YmVEX09rS2oxMzB5WVhRSU9kQkxqbmlnS2doa2h4NjVLdC1TdWx0RUdzWkRwREpzM21sTnBUa0JEbmRkQ2YtWU1HMFBZN1BUSE1UR1lFMG9qSkNnbzBoWklaTE9QREg0Wk03X1hhWXlxUS1pVndTQTlpbFo0UHRpLVhkaXZQeXFUVlFWQzNqMGRLMUR0aDdKWDVJZU1nT3ZCVmd2eldIWkRJdw?oc=5",
       "published": "2026-09-16T17:39:20.000Z",
       "titleZh": "曼联新闻：为什么JJ Gabriel可以离开"
-    },
-    {
-      "id": "Fabrizio Romano:CBMihwFBVV95cUxQMlpBV1NJdURqVFBaWUp3M1FtZUpLbWF6UVVfN1ZwTmc1TE5JRkl6ODRVUy12Ri1VN0JVd09mYTdLaXJUUzh5ZVU0Rk0wajhzZ0s3RW5pQ1lSaVExVnRmdWVlYlN2Ny1UTDI2OEhRUVpQXzR3amF0bHkzMm5qbTQ1QjRwNGxXck0",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo",
-      "tier": 1,
-      "title": "Just in: Real Madrid favourites to sign Manchester United prodigy also wanted by Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlpBV1NJdURqVFBaWUp3M1FtZUpLbWF6UVVfN1ZwTmc1TE5JRkl6ODRVUy12Ri1VN0JVd09mYTdLaXJUUzh5ZVU0Rk0wajhzZ0s3RW5pQ1lSaVExVnRmdWVlYlN2Ny1UTDI2OEhRUVpQXzR3amF0bHkzMm5qbTQ1QjRwNGxXck0?oc=5",
-      "published": "2026-09-16T17:20:00.000Z",
-      "titleZh": "就在：皇家马德里最受欢迎的签约曼联神童球员，也是巴塞罗那想要的球员"
     },
     {
       "id": "David Ornstein:CBMi3AFBVV95cUxNMDZra0c3bDQ5Y29LVmNPVjl4VTU0NHlGdFFydjFCWkFJdGZNWUZlNDJoWXU2V195TlpyV3dCTHpMQzVOQklBdFJkRjZFR3JlaTBwMUFoMklBM2JqU25QaDVTdnRIMjVfcjIzVkY0cWg1TmhVWldhSHgwWFFubDBVQ2FldW82ZmI1NjRvREZnOXpNajhaYU53ZHp0T1g0OFJtY01fWWp2LWJabzlZa3JaWVdWbGN3S0pKUS1tdnVSUFoyc1dXS1BSbWUzZkhuODNWbHU3eDA5ZkRDUFNC",
@@ -26082,16 +26094,16 @@
       "titleZh": "失去JJ加布里埃尔将成为曼联的噩梦"
     },
     {
-      "id": "Fabrizio Romano:CBMitwFBVV95cUxOYnFCalQ3M0IzV05rd1RjVktfRDRHeks2QzZtb3Y5WlhFOFFobmVIUDJXd1NKamlCYXVVUzBwdjV2M0Y0eEFZOHo1RXIyUHdLbXk5M0IxR1lRNEUwbFBxVkxEbWktcEJoVzVnOUZwSC1WUGoyQ1pJb182RGZMRll6Y2NHYzdLTHZpaG1nSXFMOXpGUU1lVGRXdVk4endwUklicEtjVXlaTGRXcmhmZlFfSE45Z05ocEE",
+      "id": "Fabrizio Romano:CBMi3AFBVV95cUxQbnZxZ1d0ODJ2RTVBSHhsejI4ZUFFdDEzSzBETTJWbDh3Z3g1WDJrYktFd0MtZVRSQ0JvX1J2RUo1SDNWaXVwS3NvMEltRXY1RVp1bmJNb3Q3Z1hsZGlXWWZBMUt6NWNUdnRUSHFyT0I1elZicnhrR0NHQUFIN2VXTDlnZzhqbEQ0SzFDVDVUUEcwdU9QWWcyQ3MzM3hMa0tNVXBsT29FeHJhRExnZzBxWkZBR0lLWk55RE1fTl9IZ25aaDRhS3hrTnBlNEpQX1hXbTJGeXE5OUdNYmEy0gHiAUFVX3lxTE5ITS1oaGZJcWthMmV4RmRaZlBsOVVmVW9KcDJfUjJSNTNHV0hIanRfZkJYWmpYdWtqR2lORUctZnpyanpRNlI0dXVBb3l1Rm5uMFYtVXg2MjZERDZwYjVRODNvT2NMYkQzeWhraWoyQTk0aWV6TWpDSWhfaHdRdV9FUndFNEF2QXpfbUFZbFVQenNKeDlyTloxZDh3a21tbkVDNHZNNWJUaW44SzF6Vzh0RlJrLUEyVHo3M1hFaGtQcGxyc1p5amdEeFBJZzdrVzI2OE15RGZRdDlZZ1BvQ2V5cWc",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "ESPN",
+      "source": "theweek.in",
       "tier": 1,
-      "title": "Transfer rumors, news: Balde to leave Barcelona in January?",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnFCalQ3M0IzV05rd1RjVktfRDRHeks2QzZtb3Y5WlhFOFFobmVIUDJXd1NKamlCYXVVUzBwdjV2M0Y0eEFZOHo1RXIyUHdLbXk5M0IxR1lRNEUwbFBxVkxEbWktcEJoVzVnOUZwSC1WUGoyQ1pJb182RGZMRll6Y2NHYzdLTHZpaG1nSXFMOXpGUU1lVGRXdVk4endwUklicEtjVXlaTGRXcmhmZlFfSE45Z05ocEE?oc=5",
-      "published": "2026-09-15T20:45:00.000Z",
-      "titleZh": "转移谣言，新闻： Balde将于1月离开巴塞罗那？"
+      "title": "Will Manchester United lose JJ Gabriel to Chelsea? Fabrizio Romano picks Real Madrid, Barcelona!",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbnZxZ1d0ODJ2RTVBSHhsejI4ZUFFdDEzSzBETTJWbDh3Z3g1WDJrYktFd0MtZVRSQ0JvX1J2RUo1SDNWaXVwS3NvMEltRXY1RVp1bmJNb3Q3Z1hsZGlXWWZBMUt6NWNUdnRUSHFyT0I1elZicnhrR0NHQUFIN2VXTDlnZzhqbEQ0SzFDVDVUUEcwdU9QWWcyQ3MzM3hMa0tNVXBsT29FeHJhRExnZzBxWkZBR0lLWk55RE1fTl9IZ25aaDRhS3hrTnBlNEpQX1hXbTJGeXE5OUdNYmEy0gHiAUFVX3lxTE5ITS1oaGZJcWthMmV4RmRaZlBsOVVmVW9KcDJfUjJSNTNHV0hIanRfZkJYWmpYdWtqR2lORUctZnpyanpRNlI0dXVBb3l1Rm5uMFYtVXg2MjZERDZwYjVRODNvT2NMYkQzeWhraWoyQTk0aWV6TWpDSWhfaHdRdV9FUndFNEF2QXpfbUFZbFVQenNKeDlyTloxZDh3a21tbkVDNHZNNWJUaW44SzF6Vzh0RlJrLUEyVHo3M1hFaGtQcGxyc1p5amdEeFBJZzdrVzI2OE15RGZRdDlZZ1BvQ2V5cWc?oc=5",
+      "published": "2026-09-16T05:27:23.000Z",
+      "titleZh": "曼联会把JJ加布里埃尔输给切尔西吗？ Fabrizio Romano选择皇家马德里、巴塞罗那！"
     },
     {
       "id": "Fabrizio Romano:CBMikAFBVV95cUxOVllGVmVZVTJ2UzZreGU1TmNLbWVPVVVlWGVJcnF3Q0N6OU1vVHJDWWNxeEpNY1FlVlNhZEdHME1nTUR4cndkTngyaXRtaE1McFc2Vjk1UllJcDlHd0dvU1h0eUQ1Sko0QUd2d2l4aElGTFRuNFhDanVnQS1xblJaVWtyYVZ4LVBpZVpLNDBsd3Q",
@@ -26164,21 +26176,9 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdy1heGI5Q3RoTDlnNXJfTmZ2MEVTbW0yVVlKanl1UWRhZkhEOEdlWjhzOHBkdnhjbzVyTV9ISW1CUFlJYVBzajBvRjRpWXN6blhfeHhsdXV6TlVQVmpUOGROSzBmQW9zS1RoZVRGc3lJT3BuU1ZmN0pMVGZQOFM3U0tNUWM0WUVseEQ4Y2FhcjYwVmwtZm5ScWlaRGZVVmNDMHRWNHJB?oc=5",
       "published": "2026-09-15T07:20:00.000Z",
       "titleZh": "“结束的开始” ：曼联球迷担心他们在老特拉福德的位置"
-    },
-    {
-      "id": "Samuel Luckhurst:CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "The Irish Sun",
-      "tier": 2,
-      "title": "Ratcliffe sneaked into Old Trafford through back door for City game amid protest",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtYzRnSk1HbW43ckFUOVc2d1VHT0FkX2JKU3ZNMllRRXQ5UFZkSGw3eG03YXpzVGpMNGFwRkt3RjVWSUVFVndZOXZsbXFGNmJJZHFRcTZkRUhqVHpjbm94ZV9MRHVTUXgxZTRiNGFNQWRlUXBCZmo2Tm9WeEc?oc=5",
-      "published": "2026-09-14T14:12:39.000Z",
-      "titleZh": "在抗议活动中，拉特克利夫从后门潜入老特拉福德参加城市比赛"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-19T17:37:58.194Z",
+  "journalistsUpdatedAt": "2026-09-19T19:37:07.758Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

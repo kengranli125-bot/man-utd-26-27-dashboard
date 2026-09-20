@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T16:00:45.025Z",
+  "updatedAt": "2026-09-20T16:04:33.194Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -25778,6 +25778,20 @@
   ],
   "news": [
     {
+      "title": "Fulham vs Man United LIVE: Premier League updates from Craven Cottage",
+      "published": "2026-09-20T16:02:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49988033/fulham-vs-man-united-premier-league-commentary-updates-blog-score-live-score",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719497_1296x729_16-9.jpg",
+      "titleZh": "富勒姆vs曼联现场直播： Craven Cottage的英超联赛最新动态"
+    },
+    {
+      "title": "European soccer live updates: Manchester United visit Fulham",
+      "published": "2026-09-20T15:30:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719464_1296x729_16-9.jpg",
+      "titleZh": "欧洲足球现场更新：曼联访问富勒姆"
+    },
+    {
       "title": "Michael Carrick: Man United cannot let VAR error have 'impact' on rest of season",
       "published": "2026-09-20T07:03:00Z",
       "url": "https://www.espn.com/soccer/story/_/id/49987262/michael-carrick-man-united-cannot-let-var-error-impact-rest-season",
@@ -25846,20 +25860,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49962955/had-great-week-happens-next",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Carrick_We_havent_had_a_great_week_but_its_about_what_happens_next/dm_260917_Carrick_We_havent_had_a_great_week_but_its_about_what_happens_next.jpg",
       "titleZh": "Carrick ：我们没有度过美好的一周，但这是关于接下来会发生什么"
-    },
-    {
-      "title": "Man United will be 'careful' with Gabriel future, Carrick says",
-      "published": "2026-09-17T07:35:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49960828/man-united-careful-gabriel-future",
-      "image": "https://a.espncdn.com/photo/2026/0915/r1717007_1296x729_16-9.jpg",
-      "titleZh": "卡里克说，曼联将“谨慎”对待加布里埃尔的未来"
-    },
-    {
-      "title": "Man United's collapse puts Carrick under pressure for first time",
-      "published": "2026-09-17T08:51:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49960829/manchester-united-collapse-puts-michael-carrick-pressure-first",
-      "image": "https://a.espncdn.com/photo/2026/0916/r1717818_1296x729_16-9.jpg",
-      "titleZh": "曼联的崩溃首次给卡里克带来压力"
     }
   ],
   "transfers": [],

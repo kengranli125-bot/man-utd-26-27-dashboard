@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:44:13.242Z",
+  "updatedAt": "2026-09-20T20:47:43.418Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -26945,8 +26945,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
       "goals": 3,
       "assists": 1,
-      "appearances": 4,
-      "minutes": 360
+      "appearances": 5,
+      "minutes": 450
     },
     {
       "id": "271170",
@@ -26955,8 +26955,18 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
       "goals": 2,
       "assists": 0,
-      "appearances": 4,
-      "minutes": 360
+      "appearances": 5,
+      "minutes": 450
+    },
+    {
+      "id": "259902",
+      "name": "Matheus Cunha",
+      "nameZh": "马特乌斯·库尼亚",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+      "goals": 1,
+      "assists": 1,
+      "appearances": 5,
+      "minutes": 410
     },
     {
       "id": "289155",
@@ -26969,14 +26979,24 @@
       "minutes": 284
     },
     {
-      "id": "259902",
-      "name": "Matheus Cunha",
-      "nameZh": "马特乌斯·库尼亚",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+      "id": "233937",
+      "name": "Lisandro Martínez",
+      "nameZh": "利桑德罗·马丁内斯",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
+      "goals": 1,
+      "assists": 0,
+      "appearances": 4,
+      "minutes": 360
+    },
+    {
+      "id": "366781",
+      "name": "Patrick Dorgu",
+      "nameZh": "帕特里克·多尔古",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 4,
-      "minutes": 320
+      "appearances": 5,
+      "minutes": 369
     },
     {
       "id": "328466",
@@ -26985,8 +27005,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 4,
-      "minutes": 321
+      "appearances": 5,
+      "minutes": 401
     },
     {
       "id": "167127",
@@ -26995,24 +27015,73 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 3,
-      "minutes": 1064
+      "appearances": 4,
+      "minutes": 1148
     }
   ],
   "news": [
     {
-      "title": "Fulham vs Man United LIVE: Premier League updates from Craven Cottage",
-      "published": "2026-09-20T16:02:54Z",
+      "title": "Carrick encouraged by Man United's late draw vs. Fulham",
+      "published": "2026-09-20T19:32:44Z",
+      "url": "https://www.espn.com/video/clip/_/id/49991430/carrick-encouraged-man-united-late-draw-vs-fulham",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL.jpg",
+      "titleZh": "曼联对富勒姆的晚平让卡里克备受鼓舞"
+    },
+    {
+      "title": "Carrick squashes notion Manchester United are out of shape",
+      "published": "2026-09-20T19:26:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49991106/carrick-squashes-notion-manchester-united-shape",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719613_1296x729_16-9.jpg",
+      "titleZh": "卡里克（ Carrick ）压扁了曼联（ Manchester United ）的想法"
+    },
+    {
+      "title": "Michael Carrick keen to find Man United positives, but there aren't many right now",
+      "published": "2026-09-20T19:42:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49991048/michael-carrick-keen-find-man-united-positives-there-many-right-now",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719563_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）热衷于寻找曼联的积极因素，但目前并不多"
+    },
+    {
+      "title": "European soccer recap: Man City win a thriller, Man United draw Fulham, more",
+      "published": "2026-09-20T19:15:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719418_1296x729_16-9.jpg",
+      "titleZh": "欧洲足球现场更新：曼联访问富勒姆"
+    },
+    {
+      "title": "Leboeuf: Man United can't be happy with a point vs. Fulham",
+      "published": "2026-09-20T18:42:32Z",
+      "url": "https://www.espn.com/video/clip/_/id/49990954/man-united-happy-point-vs-fulham",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Leboeuf3A_Man_United_canE28099t_be_happy_with_a_point_vs_Fulham_GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Leboeuf3A_Man_United_canE28099t_be_happy_with_a_point_vs_Fulham_GLOBAL_2026-09-20.jpg",
+      "titleZh": "Leboeuf ：曼联对阵富勒姆的比赛一分都不满意"
+    },
+    {
+      "title": "Premier League VAR review: Why no Man United penalty at Fulham?",
+      "published": "2026-09-20T18:44:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719560_1296x729_16-9.jpg",
+      "titleZh": "英超联赛VAR回顾：为什么富勒姆没有曼联罚款？"
+    },
+    {
+      "title": "Gary Neville explains 'worst 15 minutes' Manchester United claim",
+      "published": "2026-09-20T18:47:19Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49990867/gary-neville-explains-worst-15-minutes-manchester-united-claim",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719490_1296x729_16-9.jpg",
+      "titleZh": "加里·内维尔（ Gary Neville ）解释了曼联“最糟糕的15分钟”主张"
+    },
+    {
+      "title": "Fulham 1-1 Man United result: Matheus Cunha saves visitors' blushes after bizarre Lisandro Martinez own goal - as it happened",
+      "published": "2026-09-20T17:53:05Z",
       "url": "https://www.espn.com/soccer/story/_/id/49988033/fulham-vs-man-united-premier-league-commentary-updates-blog-score-live-score",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719497_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719541_1296x729_16-9.jpg",
       "titleZh": "富勒姆vs曼联现场直播： Craven Cottage的英超联赛最新动态"
     },
     {
-      "title": "European soccer live updates: Manchester United visit Fulham",
-      "published": "2026-09-20T15:30:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719464_1296x729_16-9.jpg",
-      "titleZh": "欧洲足球现场更新：曼联访问富勒姆"
+      "title": "Man United rescue draw at Fulham after own goal shocker",
+      "published": "2026-09-20T17:37:44Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878777",
+      "image": "https://a.espncdn.com/photo/2026/0920/r1719540_1296x729_16-9.jpg",
+      "titleZh": "曼联在自己的进球冲击后在富勒姆进行救援抽签"
     },
     {
       "title": "Michael Carrick: Man United cannot let VAR error have 'impact' on rest of season",
@@ -27034,55 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49972741/michael-carrick-ridiculous-think-pressure-man-united",
       "image": "https://a.espncdn.com/photo/2026/0822/r1705243_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ） ： “想到'我在曼联承受着压力'真是太荒谬了"
-    },
-    {
-      "title": "Why Man United's wantaway 15-year-old wonderkid, JJ Gabriel, is so highly rated",
-      "published": "2026-09-18T09:29:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49970964/why-man-united-wantaway-15-year-old-wonderkid-jj-gabriel-highly-rated",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-      "titleZh": "为什么曼联15岁的神奇小子JJ Gabriel如此备受好评"
-    },
-    {
-      "title": "First-month grades for all 20 Premier League teams: A+ to F",
-      "published": "2026-09-18T07:44:49Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49961881/first-month-grades-all-20-premier-league-teams-a+-f-2026-27",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718350_1296x729_16-9.jpg",
-      "titleZh": "所有20支英超球队的第一个月成绩： A +至F"
-    },
-    {
-      "title": "Phil Jones: Old Trafford has a 'massive effect' on the players",
-      "published": "2026-09-17T21:46:30Z",
-      "url": "https://www.espn.com/video/clip/_/id/49967931/old-trafford-massive-effect-players",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_analysis_Phil_Jones_Old_Trafford_has_a_massive_effect_on_the_players_20260917_GLOBAL/dm_260917_COM_SOC_analysis_Phil_Jones_Old_Trafford_has_a_massive_effect_on_the_players_20260917_GLOBAL.jpg",
-      "titleZh": "菲尔·琼斯：老特拉福德对球员产生了“巨大影响”"
-    },
-    {
-      "title": "Still at zero: Viral Man United fan's haircut challenge nears two years",
-      "published": "2026-09-17T15:10:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49964446/still-zero-viral-man-united-fan-haircut-challenge-nears-two-years",
-      "image": "https://a.espncdn.com/photo/2026/0210/r1613205_2_1296x729_16-9.jpg",
-      "titleZh": "仍然为零： Viral Man United球迷的发型挑战接近两年"
-    },
-    {
-      "title": "Moreno: Carrick is taking a 'loser's approach' in the media",
-      "published": "2026-09-17T08:58:58Z",
-      "url": "https://www.espn.com/video/clip/_/id/49962958/carrick-taking-loser-approach-media",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_Analysis_Moreno3A_Carrick_is_taking_a_E28098losers_approach_in_the_media_GLOBAL_2026-09-17/dm_260917_COM_SOC_Analysis_Moreno3A_Carrick_is_taking_a_E28098losers_approach_in_the_media_GLOBAL_2026-09-17.jpg",
-      "titleZh": "莫雷诺：卡里克在媒体上采取了“失败者的方法”"
-    },
-    {
-      "title": "Ogden: Carrick probably isn't good enough to manage Man United",
-      "published": "2026-09-17T08:58:20Z",
-      "url": "https://www.espn.com/video/clip/_/id/49962956/carrick-probably-good-enough-manage-man-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_COM_SOC_Analysis_Ogden3A_Carrick_probably_isnE28099t_good_enough_to_manage_Man_United_GLOBAL_2026-09-17/dm_260917_COM_SOC_Analysis_Ogden3A_Carrick_probably_isnE28099t_good_enough_to_manage_Man_United_GLOBAL_2026-09-17.jpg",
-      "titleZh": "奥格登：卡里克可能不足以管理曼联"
-    },
-    {
-      "title": "Carrick: We haven't had a great week, but it's about what happens next",
-      "published": "2026-09-17T08:49:32Z",
-      "url": "https://www.espn.com/video/clip/_/id/49962955/had-great-week-happens-next",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0917/dm_260917_Carrick_We_havent_had_a_great_week_but_its_about_what_happens_next/dm_260917_Carrick_We_havent_had_a_great_week_but_its_about_what_happens_next.jpg",
-      "titleZh": "Carrick ：我们没有度过美好的一周，但这是关于接下来会发生什么"
     }
   ],
   "transfers": [],
@@ -27909,7 +27929,7 @@
     "league": {
       "formation": "4-3-3",
       "title": "英超预测首发",
-      "summary": "以最近一场英超对曼城的已确认首发为基线，并优先排除官方伤缺球员。",
+      "summary": "以最近一场英超对富勒姆的已确认首发为基线，并优先排除官方伤缺球员。",
       "players": [
         {
           "id": "301425",
@@ -27969,18 +27989,18 @@
           "role": "中后卫"
         },
         {
-          "id": "366781",
-          "name": "Patrick Dorgu",
-          "nameZh": "帕特里克·多尔古",
-          "shortName": "P. Dorgu",
-          "shortNameZh": "多尔古",
-          "jersey": "13",
+          "id": "167127",
+          "name": "Luke Shaw",
+          "nameZh": "卢克·肖",
+          "shortName": "L. Shaw",
+          "shortNameZh": "卢克·肖",
+          "jersey": "23",
           "position": "Defender",
-          "age": 21,
-          "nationality": "Denmark",
-          "nationalityZh": "丹麦",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+          "age": 31,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28026,25 +28046,6 @@
           "role": "前腰"
         },
         {
-          "id": "328466",
-          "name": "Kobbie Mainoo",
-          "nameZh": "科比·梅努",
-          "shortName": "K. Mainoo",
-          "shortNameZh": "梅努",
-          "jersey": "37",
-          "position": "Midfielder",
-          "age": 21,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "DM",
-          "role": "中场"
-        },
-        {
           "id": "193297",
           "name": "Youri Tielemans",
           "nameZh": "尤里·蒂勒曼斯",
@@ -28057,6 +28058,25 @@
           "nationalityZh": "比利时",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "328466",
+          "name": "Kobbie Mainoo",
+          "nameZh": "科比·梅努",
+          "shortName": "K. Mainoo",
+          "shortNameZh": "梅努",
+          "jersey": "37",
+          "position": "Midfielder",
+          "age": 21,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28128,7 +28148,7 @@
         },
         {
           "label": "经验值",
-          "value": 83
+          "value": 86
         },
         {
           "label": "攻守平衡",

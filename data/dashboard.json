@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:46:08.487Z",
+  "updatedAt": "2026-09-21T21:57:40.530Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,20 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
+      "published": "2026-09-21T21:34:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻： Mesloub取代曼联的Gabriel ？"
+    },
+    {
+      "title": "Harry Maguire: Man United didn't take chances against Fulham, paid the price",
+      "published": "2026-09-21T14:47:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49998485/man-united-harry-maguire-fulham-michael-carrick-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720012_1296x729_16-9.jpg",
+      "titleZh": "哈里·马奎尔：曼联没有冒险对阵富勒姆，付出了代价"
+    },
+    {
       "title": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
       "published": "2026-09-21T11:06:46Z",
       "url": "https://www.espn.com/soccer/story/_/id/49997530/matheus-cunha-urges-calm-disproving-man-united-go-championship-fear",
@@ -27043,7 +27057,7 @@
     },
     {
       "title": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
-      "published": "2026-09-21T08:59:38Z",
+      "published": "2026-09-21T17:28:08Z",
       "url": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
       "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
       "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）担心本杰明·塞斯科（ Benjamin S"
@@ -27089,23 +27103,19 @@
       "url": "https://www.espn.com/video/clip/_/id/49990954/man-united-happy-point-vs-fulham",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Analysis_Leboeuf3A_Man_United_canE28099t_be_happy_with_a_point_vs_Fulham_GLOBAL_2026-09-20/dm_260920_COM_SOC_Analysis_Leboeuf3A_Man_United_canE28099t_be_happy_with_a_point_vs_Fulham_GLOBAL_2026-09-20.jpg",
       "titleZh": "Leboeuf ：曼联对阵富勒姆的比赛一分都不满意"
-    },
-    {
-      "title": "Premier League VAR review: Why no Man United penalty at Fulham?",
-      "published": "2026-09-20T18:44:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719560_1296x729_16-9.jpg",
-      "titleZh": "英超联赛VAR回顾：为什么富勒姆没有曼联罚款？"
-    },
-    {
-      "title": "Gary Neville explains 'worst 15 minutes' Manchester United claim",
-      "published": "2026-09-20T18:47:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49990867/gary-neville-explains-worst-15-minutes-manchester-united-claim",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719490_1296x729_16-9.jpg",
-      "titleZh": "加里·内维尔（ Gary Neville ）解释了曼联“最糟糕的15分钟”主张"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
+      "published": "2026-09-21T21:34:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
+      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻： Mesloub取代曼联的Gabriel ？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Carrick has an impossible job at Man United after transfer failures",
       "published": "2026-09-21T12:27:13Z",

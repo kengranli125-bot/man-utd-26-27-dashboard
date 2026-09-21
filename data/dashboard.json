@@ -27657,6 +27657,18 @@
   ],
   "journalists": [
     {
+      "id": "Samuel Luckhurst:CBMikwFBVV95cUxPSWdYS3IyS05DMmFZcE9ZOGtfMEFrb25LTnhxN1hLVTdfVU9mV1dLN0JLeno5Qkd2X2R0Y29NcGVvcHE5M2tOMDNtYWtxaXJDdGk4bzlaaTBDNUFnQ2NvSXctakRNdGJ0MTh3M1BSRnhsTmJZV25vdldxejhDLUYxOFlSWkZfNEJhTDFYODhXc0dPYUk",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Man Utd to block Benjamin Sesko from joining Slovenia on international duty over shin injury",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWdYS3IyS05DMmFZcE9ZOGtfMEFrb25LTnhxN1hLVTdfVU9mV1dLN0JLeno5Qkd2X2R0Y29NcGVvcHE5M2tOMDNtYWtxaXJDdGk4bzlaaTBDNUFnQ2NvSXctakRNdGJ0MTh3M1BSRnhsTmJZV25vdldxejhDLUYxOFlSWkZfNEJhTDFYODhXc0dPYUk?oc=5",
+      "published": "2026-09-21T15:11:14.000Z",
+      "titleZh": "曼联阻止本杰明·塞斯科（ Benjamin Sesko ）因胫骨受伤而加入斯洛文尼亚担任国际职务"
+    },
+    {
       "id": "Andy Mitten:CBMinAFBVV95cUxPUWY5a1BBR1RnN0U4WlRISmw4blhyNE51eTZ0NFc4aWpOaDY2VGhrVThrS3NxVk1PY3QtOUs1SHBsdVRuZ0phUGJmZWtNeWRoTTVtaTZnUG5UYTh6eEJ5cFB1T2xaTVdkd0xvNFBlWnkwYmFzTkdyWmxaVkhmdmtpRVI0TXBFbnlJVWJDWDkwR3hNSTNoUG9tQUpNMno",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -27681,23 +27693,11 @@
       "titleZh": "迈克尔·卡里克在曼联的位置目前是安全的，但像每个人一样，他正在接受审查"
     },
     {
-      "id": "Laurie Whitwell:CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "JJ Gabriel: Why Real Madrid target may not return to Man Utd – and what happens next? - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ?oc=5",
-      "published": "2026-09-20T21:17:00.000Z",
-      "titleZh": "JJ Gabriel ：为什么皇家马德里目标可能不会回到曼联–接下来会发生什么？ - The Athletic"
-    },
-    {
       "id": "Rob Dawson:CBMimwFBVV95cUxNUUo4dHgzWC1wcUtVM1NVNF95QmlUSFIyejRsdHB3Y0o3NUFEY0hTUDZIUGxIQ0V5RndUMFozT2JSZkl0MnBTTW5wUFBEQXFSNUd6NkNFNzdDTGJJNzNoaGFxQ0EyeFhxWGR4cDludjkzaG1KaFlockhSeWdvTUpmVXp3anRTbEw0WkZFQ0V3TXRnNUk0V2hoa2s3VQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "espn.com",
       "tier": 1,
       "title": "Carrick quashes notion Manchester United are out of shape",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUo4dHgzWC1wcUtVM1NVNF95QmlUSFIyejRsdHB3Y0o3NUFEY0hTUDZIUGxIQ0V5RndUMFozT2JSZkl0MnBTTW5wUFBEQXFSNUd6NkNFNzdDTGJJNzNoaGFxQ0EyeFhxWGR4cDludjkzaG1KaFlockhSeWdvTUpmVXp3anRTbEw0WkZFQ0V3TXRnNUk0V2hoa2s3VQ?oc=5",
@@ -27717,16 +27717,16 @@
       "titleZh": "为您的比赛玩家投票"
     },
     {
-      "id": "Fabrizio Romano:CBMi-wFBVV95cUxOWTY1cDNNeXpQU0U4cGZqWnVfdVEtZEE2QzRBWmhPT2pCSTVtZGh6cnRlT21mTlVGOGFnN2VzQU1Xa00tN0phRkowRTBsN1NuNlE1dVIxRkdSTFU1Z0k0eFN2c0V4bzVPcUdidjRhZ3NMSnRzWE9TSVNVWjRWTkRxUm1IOXRIVWpPY0dCakY0Z1JmWFhRSWpBdmpwb2dETVl2UlQ1dEpVaXZjbWhLR0RIWG14VmdndnRRZW13ci0wbmlCT0w5YVdRaXdlaVBQN0NhY3Z3eXlPbUdPS3lYZGV6T3M1djZxMVVaYUZ0T0tXZ3laNVItYjBJcjY1SQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "LiveScore",
+      "id": "Laurie Whitwell:CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
       "tier": 1,
-      "title": "Aston Villa eye £55m double swoop as Fabrizio Romano confirms verbal agreement for Man Utd target",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWTY1cDNNeXpQU0U4cGZqWnVfdVEtZEE2QzRBWmhPT2pCSTVtZGh6cnRlT21mTlVGOGFnN2VzQU1Xa00tN0phRkowRTBsN1NuNlE1dVIxRkdSTFU1Z0k0eFN2c0V4bzVPcUdidjRhZ3NMSnRzWE9TSVNVWjRWTkRxUm1IOXRIVWpPY0dCakY0Z1JmWFhRSWpBdmpwb2dETVl2UlQ1dEpVaXZjbWhLR0RIWG14VmdndnRRZW13ci0wbmlCT0w5YVdRaXdlaVBQN0NhY3Z3eXlPbUdPS3lYZGV6T3M1djZxMVVaYUZ0T0tXZ3laNVItYjBJcjY1SQ?oc=5",
-      "published": "2026-09-20T06:09:09.000Z",
-      "titleZh": "阿斯顿维拉EYE £ 5500万双飞，法布里奇奥·罗马诺确认口头同意曼联的目标"
+      "title": "JJ Gabriel: Why Real Madrid target may not return to Man Utd – and what happens next? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ?oc=5",
+      "published": "2026-09-20T07:00:00.000Z",
+      "titleZh": "JJ Gabriel ：为什么皇家马德里目标可能不会回到曼联–接下来会发生什么？ - The Athletic"
     },
     {
       "id": "Chris Wheeler:CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1",
@@ -27825,18 +27825,6 @@
       "titleZh": "JJ Gabriel ：曼联15年来对皇家马德里的兴趣"
     },
     {
-      "id": "Samuel Luckhurst:CBMiigFBVV95cUxOSWxMWkNTVTllQk9ISU0yYzh2V01EeGlJa0xrbTB0ZXRSREFjUElBd0wwQktEQWZzTG9DakxpNDZpMUtrOUlGR3dIbEVpSENxOWNLY1JzTldlRlFENVMwNkpfUDdZcGR0Z0FveGZLd2NnaWhGaGZSMjB5eFdBWXBkQVB2Vm1ObHpSSEE",
-      "reporter": "Samuel Luckhurst",
-      "reporterZh": "塞缪尔·勒克赫斯特",
-      "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
-      "tier": 2,
-      "title": "Carrick insists he does not feel under pressure at Man United amid crisis",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWxMWkNTVTllQk9ISU0yYzh2V01EeGlJa0xrbTB0ZXRSREFjUElBd0wwQktEQWZzTG9DakxpNDZpMUtrOUlGR3dIbEVpSENxOWNLY1JzTldlRlFENVMwNkpfUDdZcGR0Z0FveGZLd2NnaWhGaGZSMjB5eFdBWXBkQVB2Vm1ObHpSSEE?oc=5",
-      "published": "2026-09-17T07:18:23.000Z",
-      "titleZh": "卡里克坚持认为，在危机中，他在曼联没有感到压力"
-    },
-    {
       "id": "Andy Mitten:CBMiwAFBVV95cUxQMmlSeXVERjNsRTF5WFh1VjB0UGtla0RXNDNXbFVlWXBHTTk1a3k1SVJVZ3gzZ01jb3Y2VTFjMEQ5OGhycU9RM25YT0ZSR1B6RVpwSG1LR2ExVWZqWWVuaGZETnhHWlF1YlZScVN2WVdiQXIxSmZRb1hIYW5aTENvVkNLQjNUa3RpdWZtN3JZOG15Q3dRQnhja3VPMHFPS2MyVVNOd0NKeVNRQWV6UThnblZLTERtME0zeVlTd1N4Slo",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -27877,7 +27865,7 @@
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
-      "source": "thesun.ie",
+      "source": "The Irish Sun",
       "tier": 2,
       "title": "Man Utd 2 Brighton 3: 42-year record blown as hosts throw away half-time lead",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelJWNEs4U3Qxd3VBXzZXRU9vckNsTThfWllnZTZ3Z0dWck9pMUVmNWhGa1JUVlFiYldpX0xWZzhOQzNOLUFCWFNlN05ncVB1eGFsUXpoODZsM2ZFWUlaQ2JiMmpLbkFWUUJmaVF4ckE2dnlrOFY3Y2ZJRF9TRGx6VnFtOWl2WEhqeXByOE03WQ?oc=5",
@@ -27937,15 +27925,27 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "strettynews.com",
+      "source": "Stretty News",
       "tier": 1,
       "title": "JJ Gabriel exit request leaves Manchester United facing a fight",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZVg1MnNRMV95bTM2RkRfdVZoRkN0WU93bWFPYVB3cVJ6ZEJ6Y0ZxVWlWb0k2OEJrRmNURVBYa1BmVW82bnVLcElpWGlndFVyUzJ3M1JSU3dUR1VGc3J3SDBWVzdJVUFiWlA00gFwQVVfeXFMT2RMQlZ4b3pUSDBqVzFKZWF0cXVKUzY3NEo1QVhMTndGTmdTN3pKUlNRbmRSQllxeG5Zam5uMFBxUi1samJFc3h4R2NZTlhwRUhOcVRWOUZ1cTVpMVlJZlVVUkNYSlNvZGEwb1A3X3dQWQ?oc=5",
       "published": "2026-09-16T09:00:00.000Z",
       "titleZh": "JJ加布里埃尔的退出请求让曼联面临一场战斗"
+    },
+    {
+      "id": "James Ducker:CBMiqgFBVV95cUxOaFBWVjlKR2JNd1hLSHViX0tuWHBxejhNcUg2d24zTXFvUTlDSlF1V0VNTkV5MHNSQ2NCN3B4RkRwX1RNQUQzQkRmb3h4T0V0c0dQbzdNbkx1X2lpaC1OLUtjbUhGcWVkTk1MaUtSMTc5Zm1Zc216cjlVUXE1MjhhaHRKenh2QlJoaktXb2ZjUmZHWl9EemNwTXEyb1J1ZGhEYWpTNk5XUlRfQQ",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Losing JJ Gabriel would be the stuff of nightmares for Manchester United",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFBWVjlKR2JNd1hLSHViX0tuWHBxejhNcUg2d24zTXFvUTlDSlF1V0VNTkV5MHNSQ2NCN3B4RkRwX1RNQUQzQkRmb3h4T0V0c0dQbzdNbkx1X2lpaC1OLUtjbUhGcWVkTk1MaUtSMTc5Zm1Zc216cjlVUXE1MjhhaHRKenh2QlJoaktXb2ZjUmZHWl9EemNwTXEyb1J1ZGhEYWpTNk5XUlRfQQ?oc=5",
+      "published": "2026-09-16T07:08:00.000Z",
+      "titleZh": "失去JJ加布里埃尔将成为曼联的噩梦"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-21T19:37:50.967Z",
+  "journalistsUpdatedAt": "2026-09-21T22:51:28.697Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

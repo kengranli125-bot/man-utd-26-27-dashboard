@@ -27636,16 +27636,28 @@
   ],
   "journalists": [
     {
-      "id": "Rob Dawson:CBMioAFBVV95cUxPT20zdFdtZWhNN0d0Yzl0cUJKM3JuZUJaNzdnYUN1N2o1a1E5NkthQktBMklZR1lhWDI0VFVLdXFxa1d6SmtJeHlMYzZWdW1GdEhIclBuMHdJTnhyOUExRC05NHNEV3M4ZUUzdENhdGNON2M3UXh0SFhmSnFaMmRhSUg1Mm9ORl9GbUl1RnJEVnNiRHdDWFVQWDctRnNMOVZP",
+      "id": "Rob Dawson:CBMinAFBVV95cUxQOFBZbFNFUk50SnJjWmROdGZjeXlLb0xHS2RZOEg2VXMzMFEyM1VwS2F2WjVleW5rM0NXdXhzWS1jZEdqOHV3Skc1enRmWkg4Y19uN0pKMUtISUYtNGJkc1JnY0ZxS3hoOXJRT2xXTVA4WFB6VzBLSExCRXBzOGpINkx6dHNBTjRrdDhXcHZpLXVCS2JxRUFiZmUtOHI",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "ESPN Philippines",
       "tier": 1,
       "title": "Carrick squashes notion Manchester United are out of shape",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT20zdFdtZWhNN0d0Yzl0cUJKM3JuZUJaNzdnYUN1N2o1a1E5NkthQktBMklZR1lhWDI0VFVLdXFxa1d6SmtJeHlMYzZWdW1GdEhIclBuMHdJTnhyOUExRC05NHNEV3M4ZUUzdENhdGNON2M3UXh0SFhmSnFaMmRhSUg1Mm9ORl9GbUl1RnJEVnNiRHdDWFVQWDctRnNMOVZP?oc=5",
-      "published": "2026-09-20T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFBZbFNFUk50SnJjWmROdGZjeXlLb0xHS2RZOEg2VXMzMFEyM1VwS2F2WjVleW5rM0NXdXhzWS1jZEdqOHV3Skc1enRmWkg4Y19uN0pKMUtISUYtNGJkc1JnY0ZxS3hoOXJRT2xXTVA4WFB6VzBLSExCRXBzOGpINkx6dHNBTjRrdDhXcHZpLXVCS2JxRUFiZmUtOHI?oc=5",
+      "published": "2026-09-20T19:44:47.000Z",
       "titleZh": "卡里克（ Carrick ）压扁了曼联（ Manchester United ）的想法"
+    },
+    {
+      "id": "Simon Stone:CBMia0FVX3lxTE85RlQzV0ZyRUd1d2NCWnVicnBjbjYtMmI5UndPVW9iNW9qOGxaMlVEb2JiMHd5NmRmcU9qUUNJYVU5X185SmRDakJnaHhCaUxHUlhITklzRVpBTTN1TmlfYWZUSzdzZUk4TUtF",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd: Michael Carrick defends players after Gary Neville comments",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85RlQzV0ZyRUd1d2NCWnVicnBjbjYtMmI5UndPVW9iNW9qOGxaMlVEb2JiMHd5NmRmcU9qUUNJYVU5X185SmRDakJnaHhCaUxHUlhITklzRVpBTTN1TmlfYWZUSzdzZUk4TUtF?oc=5",
+      "published": "2026-09-20T19:44:15.000Z",
+      "titleZh": "曼联：迈克尔·卡里克在加里·内维尔发表评论后为球员辩护"
     },
     {
       "id": "Fabrizio Romano:CBMi-wFBVV95cUxOWTY1cDNNeXpQU0U4cGZqWnVfdVEtZEE2QzRBWmhPT2pCSTVtZGh6cnRlT21mTlVGOGFnN2VzQU1Xa00tN0phRkowRTBsN1NuNlE1dVIxRkdSTFU1Z0k0eFN2c0V4bzVPcUdidjRhZ3NMSnRzWE9TSVNVWjRWTkRxUm1IOXRIVWpPY0dCakY0Z1JmWFhRSWpBdmpwb2dETVl2UlQ1dEpVaXZjbWhLR0RIWG14VmdndnRRZW13ci0wbmlCT0w5YVdRaXdlaVBQN0NhY3Z3eXlPbUdPS3lYZGV6T3M1djZxMVVaYUZ0T0tXZ3laNVItYjBJcjY1SQ",
@@ -27664,7 +27676,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "pressreader.com",
+      "source": "PressReader",
       "tier": 2,
       "title": "It is RIDICULOUS to question my United future, says Carrick",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1?oc=5",
@@ -27672,23 +27684,11 @@
       "titleZh": "质疑我的联合未来是荒谬的，卡里克说"
     },
     {
-      "id": "Andy Mitten:CBMikwFBVV95cUxPRWkyZVRyWG16NEtYcVpZTjBBbEU4MHJnZlZkU3VKTzFVZmZ2M1ZqdlN2TGpjNV96NE9INTMzLVpxNDVORE0xWW5zT2Z3TzBEakdsZ3FUd28xVjc5bHdRTlBma1N5MXBZTm5uUXozTEEyc0Z1R0lNSnlicDJEOENsclFKWkg3WnBtd0RvQWlid05YTnc",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWkyZVRyWG16NEtYcVpZTjBBbEU4MHJnZlZkU3VKTzFVZmZ2M1ZqdlN2TGpjNV96NE9INTMzLVpxNDVORE0xWW5zT2Z3TzBEakdsZ3FUd28xVjc5bHdRTlBma1N5MXBZTm5uUXozTEEyc0Z1R0lNSnlicDJEOENsclFKWkg3WnBtd0RvQWlid05YTnc?oc=5",
-      "published": "2026-09-19T04:12:00.000Z",
-      "titleZh": "曼联球迷的心情扑面而来。INEOS蜜月期已经结束"
-    },
-    {
       "id": "Chris Wheeler:CBMidEFVX3lxTE50WFFyTEhuR3BsRENKVUlESkJTcmZteFZvaWtNVXRqa29jTHU4RGJPOHUyXzQ2eTRWZE5tNUlCV0NBb2ZBNmczZ3hCcE9peXIwNGt2RXkzWTE3UUVKdFJjYUh6MTRQcVVIYlN6dGZ4TmJKcjFy",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "pressreader.com",
+      "source": "PressReader",
       "tier": 2,
       "title": "United wonderkid flies to Barcelona for talks",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50WFFyTEhuR3BsRENKVUlESkJTcmZteFZvaWtNVXRqa29jTHU4RGJPOHUyXzQ2eTRWZE5tNUlCV0NBb2ZBNmczZ3hCcE9peXIwNGt2RXkzWTE3UUVKdFJjYUh6MTRQcVVIYlN6dGZ4TmJKcjFy?oc=5",
@@ -27706,6 +27706,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnY1Ql9GaENkSFFvdFJ1WDlxQ25YSkZTcThMbWNzeDFIQjZENi16ck9jekg5MjB5ZUtaazRiRUY4bnNpWGluSTU2dWFud196a2VvTG9xUW92Ul83eUJGRjBaOWZRNXoyQnc1dDY2TjB2Z3htSEpGV25EZDAzTHh1ZjZBYjFkZzVrdTFRSVJRVnEtVFY2TGVxZ3oyM2szdHdtM1ZKMWotYUtXYXpP?oc=5",
       "published": "2026-09-18T16:06:00.000Z",
       "titleZh": "J · J ·加布里埃尔（ JJ Gabriel ）前往西班牙，助长了对下一步行动的猜测"
+    },
+    {
+      "id": "Andy Mitten:CBMikwFBVV95cUxOY0JUY1RSN2FrSGp6bEp2X0NGb0dMLVJrSjM0a2haYk1ZbTdSUl82eEFMUlNYSmRVRkw2T3RPY1o5SVFiTXhhYTJHVVdCRjFneDJzZ0xybUY3Njg3ckhwZVdnQVhHYzZhdl9DeEVtaUIyalpUZllrdmtjZ2E1WnlaVGtIWmVCM2NSMlo4M1hxTjY2THM",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "JJ Gabriel by those who have worked with him: ‘A maverick’, a ‘nice kid’ and ‘a generational talent’",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0JUY1RSN2FrSGp6bEp2X0NGb0dMLVJrSjM0a2haYk1ZbTdSUl82eEFMUlNYSmRVRkw2T3RPY1o5SVFiTXhhYTJHVVdCRjFneDJzZ0xybUY3Njg3ckhwZVdnQVhHYzZhdl9DeEVtaUIyalpUZllrdmtjZ2E1WnlaVGtIWmVCM2NSMlo4M1hxTjY2THM?oc=5",
+      "published": "2026-09-18T11:00:42.000Z",
+      "titleZh": "JJ Gabriel ：与他一起工作的人： “一个特立独行的人”、“一个好孩子”和“一个世代相传的天才”"
     },
     {
       "id": "Laurie Whitwell:CBMilwFBVV95cUxQeHlxb0Z4dE9hcldXcHJmYTN0SW5Iak4waGhyYW5YanBySF9iZndSdU9mN2FGYm9aZEhBNUNVNHhOT1MwXzVoWjZPaTBhdFpobm50UmdocXZCM2V3WVFNZmtlTm1CcmF6MURVTWVJRDU2dHNIdUxxTWR5VW15WGtZQlJVZG9GVVJfWUYtSXNiOVRndUF4Q3FB",
@@ -27772,7 +27784,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "JJ Gabriel: Man Utd's 15-year-old interests Real Madrid",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0?oc=5",
@@ -27796,7 +27808,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "pressreader.com",
+      "source": "PressReader",
       "tier": 2,
       "title": "It’s Gross negligence as shambolic United let two-goal lead slip",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUTU5kS1RYQWI5eFZ3aU81aFJSeWVMWXBEQm13dDQtYksxaW5nRi1XMFI2QzE5eEVjVVNIcGJVNlgzN285SEgzMXdhZjd6UGNkcUNsTENxUGFKd1RuVzhtM2tKQzhDcnN2TmxnbzVwVTNCVlY4?oc=5",
@@ -27838,18 +27850,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWw3YUVNZXVtanpMSEtkQmcyN2tSckV4VmRDTnNIeG81YTJ6ZlhBM0FLN1UyZUliaGQ2bnRkSjFHSWk3TW41RWx0a3NuZHR2YmVEX09rS2oxMzB5WVhRSU9kQkxqbmlnS2doa2h4NjVLdC1TdWx0RUdzWkRwREpzM21sTnBUa0JEbmRkQ2YtWU1HMFBZN1BUSE1UR1lFMG9qSkNnbzBoWklaTE9QREg0Wk03X1hhWXlxUS1pVndTQTlpbFo0UHRpLVhkaXZQeXFUVlFWQzNqMGRLMUR0aDdKWDVJZU1nT3ZCVmd2eldIWkRJdw?oc=5",
       "published": "2026-09-16T17:39:20.000Z",
       "titleZh": "曼联新闻：为什么JJ Gabriel可以离开"
-    },
-    {
-      "id": "Simon Stone:CBMia0FVX3lxTE8yTW5aaGlhb1RjUFJVdzQwS1l2NmhTY1lmdXJ2QjFQWTdiMjI3U3VCRlI4d0l6emY1SzgyTVVHa0p0cGhYVk9SNEEzaTVKSW9WcWRmZ3djWUV0U3dlMHlOU1JiM2ljV0dKZUVZ",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
-      "tier": 1,
-      "title": "Man Utd news: Plunkett gets professional deal and Jamaica citizenship",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yTW5aaGlhb1RjUFJVdzQwS1l2NmhTY1lmdXJ2QjFQWTdiMjI3U3VCRlI4d0l6emY1SzgyTVVHa0p0cGhYVk9SNEEzaTVKSW9WcWRmZ3djWUV0U3dlMHlOU1JiM2ljV0dKZUVZ?oc=5",
-      "published": "2026-09-16T16:16:05.000Z",
-      "titleZh": "曼联新闻： Plunkett获得专业交易和牙买加公民身份"
     },
     {
       "id": "David Ornstein:CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE",
@@ -27916,7 +27916,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "espn.com",
+      "source": "ESPN",
       "tier": 1,
       "title": "Man United need wins after bad week of JJ Gabriel unrest, protests and derby drama",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSkJoOTBlY1VKS1M3MXpiUDhVOGNpMDhkTEFEWXpPaXBDRlVvZlJQZDA2QW5INWI5LTgtaDhoaVd5dXp6T1F2MWZUNmFoSFZXd3k4Y2VuU3gtSkJxYVJsMFQyNHRLQjlNSkV1LVlJXzRSR0VjWWxyeUZHRWFLRHQtVk9ubTVvS1dPQWliZnlnZnA5SkVrMU9rVVYyTThSbWpKMEROZlhVQzZJbGhnYVdWRVFYaVU1ZHFrakhRYmkzaThTSXhnblAzSEFYTE8wVVZ5UmE2bWpfOTBBdw?oc=5",
@@ -27924,7 +27924,7 @@
       "titleZh": "曼联需要在JJ加布里埃尔骚乱，抗议和德比戏剧的糟糕一周后获胜"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-20T23:29:07.397Z",
+  "journalistsUpdatedAt": "2026-09-21T01:36:33.495Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

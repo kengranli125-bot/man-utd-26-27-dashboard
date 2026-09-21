@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:47:43.418Z",
+  "updatedAt": "2026-09-21T04:53:52.521Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,13 @@
   ],
   "news": [
     {
+      "title": "United stumble again at Fulham",
+      "published": "2026-09-21T01:09:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/49995197/united-stumble-again-fulham",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS.jpg",
+      "titleZh": "United stumble again at Fulham"
+    },
+    {
       "title": "Carrick encouraged by Man United's late draw vs. Fulham",
       "published": "2026-09-20T19:32:44Z",
       "url": "https://www.espn.com/video/clip/_/id/49991430/carrick-encouraged-man-united-late-draw-vs-fulham",
@@ -27036,7 +27043,7 @@
     },
     {
       "title": "Michael Carrick keen to find Man United positives, but there aren't many right now",
-      "published": "2026-09-20T19:42:42Z",
+      "published": "2026-09-21T01:28:50Z",
       "url": "https://www.espn.com/soccer/story/_/id/49991048/michael-carrick-keen-find-man-united-positives-there-many-right-now",
       "image": "https://a.espncdn.com/photo/2026/0920/r1719563_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）热衷于寻找曼联的积极因素，但目前并不多"
@@ -27096,13 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49980346/man-united-muslim-supporters-club-call-sir-jim-ratcliffe-leave-club",
       "image": "https://a.espncdn.com/photo/2024/0617/r1346900_1296x729_16-9.jpg",
       "titleZh": "曼联穆斯林支持者俱乐部呼吁吉姆·拉特克利夫爵士离开俱乐部"
-    },
-    {
-      "title": "Michael Carrick: 'Ridiculous to think' I'm under pressure at Man United",
-      "published": "2026-09-18T13:40:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49972741/michael-carrick-ridiculous-think-pressure-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0822/r1705243_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ） ： “想到'我在曼联承受着压力'真是太荒谬了"
     }
   ],
   "transfers": [],

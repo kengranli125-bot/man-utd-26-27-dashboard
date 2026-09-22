@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:53:58.698Z",
+  "updatedAt": "2026-09-22T11:36:13.871Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,27 @@
   ],
   "news": [
     {
+      "title": "Man United-linked Lewis Hall: 'No-brainer' to stay at Newcastle",
+      "published": "2026-09-22T10:48:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50004227/man-united-linked-lewis-hall-no-brainer-stay-newcastle-united-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720332_1296x729_16-9.jpg",
+      "titleZh": "与曼联有联系的刘易斯·霍尔（ Lewis Hall ） ：留在纽卡斯尔的“明智之举”"
+    },
+    {
+      "title": "Wayne Rooney: 'Disappointing' if 'top player' JJ Gabriel leaves Man United",
+      "published": "2026-09-22T10:19:57Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50004082/wayne-rooney-disappointing-top-player-jj-gabriel-leaves-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
+      "titleZh": "韦恩·鲁尼：如果“顶级球员” JJ加布里埃尔离开曼联， “令人失望”"
+    },
+    {
+      "title": "Soccer's wildest warmup kits of 2026-27: The good, the bad and the ugly",
+      "published": "2026-09-22T08:01:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717453_1296x729_16-9.jpg",
+      "titleZh": "2026-27年足球最狂野的热身套装：好、坏、丑"
+    },
+    {
       "title": "Hislop: Manchester United's criticism isn't unwarranted",
       "published": "2026-09-21T22:30:35Z",
       "url": "https://www.espn.com/video/clip/_/id/50001083/manchester-united-criticism-unwarranted",
@@ -27082,27 +27103,6 @@
       "url": "https://www.espn.com/video/clip/_/id/49991430/carrick-encouraged-man-united-late-draw-vs-fulham",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL/dm_260920_COM_SOC_Presser_Carrick_encouraged_by_Man_Uniteds_late_draw_vs_Fulham__20260920_GLOBAL.jpg",
       "titleZh": "曼联对富勒姆的晚平让卡里克备受鼓舞"
-    },
-    {
-      "title": "Carrick quashes notion Manchester United are out of shape",
-      "published": "2026-09-21T06:55:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49991106/carrick-squashes-notion-manchester-united-shape",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719613_1296x729_16-9.jpg",
-      "titleZh": "卡里克（ Carrick ）压扁了曼联（ Manchester United ）的想法"
-    },
-    {
-      "title": "Michael Carrick keen to find Man United positives, but there aren't many right now",
-      "published": "2026-09-21T01:28:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49991048/michael-carrick-keen-find-man-united-positives-there-many-right-now",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719563_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）热衷于寻找曼联的积极因素，但目前并不多"
-    },
-    {
-      "title": "European soccer recap: Man City win a thriller, Man United draw Fulham, more",
-      "published": "2026-09-20T19:15:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49945948/european-soccer-live-updates-liverpool-manchester-city-atletico-madrid-real-madrid-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/0920/r1719418_1296x729_16-9.jpg",
-      "titleZh": "欧洲足球现场更新：曼联访问富勒姆"
     }
   ],
   "transfers": [
@@ -27340,7 +27340,7 @@
       "shortNameZh": "赫文",
       "jersey": "26",
       "position": "Defender",
-      "age": 19,
+      "age": 20,
       "nationality": "England",
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
@@ -28553,7 +28553,7 @@
           "shortNameZh": "赫文",
           "jersey": "26",
           "position": "Defender",
-          "age": 19,
+          "age": 20,
           "nationality": "England",
           "nationalityZh": "英格兰",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",

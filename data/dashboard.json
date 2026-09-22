@@ -27657,18 +27657,6 @@
   ],
   "journalists": [
     {
-      "id": "Laurie Whitwell:CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c?oc=5",
-      "published": "2026-09-21T16:42:12.000Z",
-      "titleZh": "曼联球员本杰明·塞斯科（ Benjamin Sesko ）退出斯洛文尼亚队后将“接受测试”"
-    },
-    {
       "id": "Samuel Luckhurst:CBMikwFBVV95cUxPSWdYS3IyS05DMmFZcE9ZOGtfMEFrb25LTnhxN1hLVTdfVU9mV1dLN0JLeno5Qkd2X2R0Y29NcGVvcHE5M2tOMDNtYWtxaXJDdGk4bzlaaTBDNUFnQ2NvSXctakRNdGJ0MTh3M1BSRnhsTmJZV25vdldxejhDLUYxOFlSWkZfNEJhTDFYODhXc0dPYUk",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
@@ -27745,7 +27733,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "PressReader",
+      "source": "pressreader.com",
       "tier": 2,
       "title": "It is RIDICULOUS to question my United future, says Carrick",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1?oc=5",
@@ -27757,7 +27745,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "PressReader",
+      "source": "pressreader.com",
       "tier": 2,
       "title": "United wonderkid flies to Barcelona for talks",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50WFFyTEhuR3BsRENKVUlESkJTcmZteFZvaWtNVXRqa29jTHU4RGJPOHUyXzQ2eTRWZE5tNUlCV0NBb2ZBNmczZ3hCcE9peXIwNGt2RXkzWTE3UUVKdFJjYUh6MTRQcVVIYlN6dGZ4TmJKcjFy?oc=5",
@@ -27841,7 +27829,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "JJ Gabriel: Man Utd's 15-year-old interests Real Madrid",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZldMemZKbWF5bXh4X0FWSzZjdjBSZ05nNThBZzhaek9EWHZzQ3Z0ZlRySmtZU3NydVF2NFRWa3ltMnBZZ3ZJeHRrVjdKNXRVQ3dUOG5QNmFCVWcyTHFtdFVNOEVzWEN6WWQ0?oc=5",
@@ -27865,7 +27853,7 @@
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
-      "source": "PressReader",
+      "source": "pressreader.com",
       "tier": 2,
       "title": "It’s Gross negligence as shambolic United let two-goal lead slip",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUTU5kS1RYQWI5eFZ3aU81aFJSeWVMWXBEQm13dDQtYksxaW5nRi1XMFI2QzE5eEVjVVNIcGJVNlgzN285SEgzMXdhZjd6UGNkcUNsTENxUGFKd1RuVzhtM2tKQzhDcnN2TmxnbzVwVTNCVlY4?oc=5",
@@ -27913,7 +27901,7 @@
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "tier": 1,
       "title": "Man Utd news: Plunkett gets professional deal and Jamaica citizenship",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yTW5aaGlhb1RjUFJVdzQwS1l2NmhTY1lmdXJ2QjFQWTdiMjI3U3VCRlI4d0l6emY1SzgyTVVHa0p0cGhYVk9SNEEzaTVKSW9WcWRmZ3djWUV0U3dlMHlOU1JiM2ljV0dKZUVZ?oc=5",
@@ -27943,9 +27931,21 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE?oc=5",
       "published": "2026-09-16T09:28:24.000Z",
       "titleZh": "奥恩斯坦透露，卡里克希望曼联“第一”优先签约£ 7000万明星"
+    },
+    {
+      "id": "Laurie Whitwell:CBMia0FVX3lxTE1UZVg1MnNRMV95bTM2RkRfdVZoRkN0WU93bWFPYVB3cVJ6ZEJ6Y0ZxVWlWb0k2OEJrRmNURVBYa1BmVW82bnVLcElpWGlndFVyUzJ3M1JSU3dUR1VGc3J3SDBWVzdJVUFiWlA00gFwQVVfeXFMT2RMQlZ4b3pUSDBqVzFKZWF0cXVKUzY3NEo1QVhMTndGTmdTN3pKUlNRbmRSQllxeG5Zam5uMFBxUi1samJFc3h4R2NZTlhwRUhOcVRWOUZ1cTVpMVlJZlVVUkNYSlNvZGEwb1A3X3dQWQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Stretty News",
+      "tier": 1,
+      "title": "JJ Gabriel exit request leaves Manchester United facing a fight",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UZVg1MnNRMV95bTM2RkRfdVZoRkN0WU93bWFPYVB3cVJ6ZEJ6Y0ZxVWlWb0k2OEJrRmNURVBYa1BmVW82bnVLcElpWGlndFVyUzJ3M1JSU3dUR1VGc3J3SDBWVzdJVUFiWlA00gFwQVVfeXFMT2RMQlZ4b3pUSDBqVzFKZWF0cXVKUzY3NEo1QVhMTndGTmdTN3pKUlNRbmRSQllxeG5Zam5uMFBxUi1samJFc3h4R2NZTlhwRUhOcVRWOUZ1cTVpMVlJZlVVUkNYSlNvZGEwb1A3X3dQWQ?oc=5",
+      "published": "2026-09-16T09:00:00.000Z",
+      "titleZh": "JJ加布里埃尔的退出请求让曼联面临一场战斗"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-22T01:23:32.970Z",
+  "journalistsUpdatedAt": "2026-09-22T06:45:36.512Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

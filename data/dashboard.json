@@ -27667,11 +27667,23 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMidEFVX3lxTE1ad3QyN1l2bnZ5dGZoN09wUXNqN2MtM2tTZUpJTzA4QWdNLWVNVkJIRlFodW16ajAxbWhYQ252VjdURTZ4bmNMUTcxTS1ObWg5REZkNjgzLUx2MlRlbDhlM2RLTm9DR0hHcUJ0YWJQU2diemll",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "PressReader",
+      "tier": 2,
+      "title": "United have two weeks to sway JJ",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ad3QyN1l2bnZ5dGZoN09wUXNqN2MtM2tTZUpJTzA4QWdNLWVNVkJIRlFodW16ajAxbWhYQ252VjdURTZ4bmNMUTcxTS1ObWg5REZkNjgzLUx2MlRlbDhlM2RLTm9DR0hHcUJ0YWJQU2diemll?oc=5",
+      "published": "2026-09-23T03:07:26.000Z",
+      "titleZh": "曼联有两周的时间动摇JJ"
+    },
+    {
       "id": "David Ornstein:CBMinwFBVV95cUxNcTZDdlJVNml3Ym9sdUVtaDR4ZHhuNmFKVlFjcXpsWUxBMWUwekxod3FWSE5WcXdrTWpqZEVBaF9mZ3p0VlNRdUxMb0xVT2ZyRTZTLWM5aS10NVA5dGg3Z002TzBRX09XY2EtcHRxYU9DRnlrcjZfeXJfYmRRSk8tRG00cE8tcGtYcEc3RUY4STNZa1RDX3hhTmQ5UEZzeEE",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 1,
       "title": "David Ornstein’s The Athletic FC Q&A: Brentford blueprint? Spurs’ January plans? Pressure on Man Utd hierarchy?",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTZDdlJVNml3Ym9sdUVtaDR4ZHhuNmFKVlFjcXpsWUxBMWUwekxod3FWSE5WcXdrTWpqZEVBaF9mZ3p0VlNRdUxMb0xVT2ZyRTZTLWM5aS10NVA5dGg3Z002TzBRX09XY2EtcHRxYU9DRnlrcjZfeXJfYmRRSk8tRG00cE8tcGtYcEc3RUY4STNZa1RDX3hhTmQ5UEZzeEE?oc=5",
@@ -27683,7 +27695,7 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "At Man United, belief is battered and magic is missing. It goes beyond a poor run of form",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWVGWDI4aE5GdlBnMDgtTDNvak5ubGVtZDY0elRXeU05eFJNdjY5SVYwblhjc1kzeUdnMThxR0hvdnNMMEt0Ynp1b3lTdEdWdHZlNFRILXBDUktzZWc0eEIyaVR0S1JuYXVZbE1Sa3NNRW9iQzNaM2UybDdoUUNmVXpNdFpGVkFveWRZSEJqTXJ6NDdkZW0ydQ?oc=5",
@@ -27695,7 +27707,7 @@
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "source": "africa.espn.com",
       "tier": 1,
       "title": "FC Twente Scores, Stats and Highlights",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nWUZrV3NBTmt4U0dDXzZNNVNBSHpVV3RTY1pZeTVKZXhQUjJHUEFYMGJGWDlMdTZhYjJMU1dxamMyQXBfQko1UU9rTkt6eE1Mc2hSbnZqZVhyMHdwdVJNYTBYQ1JhUHVCNFE?oc=5",
@@ -27713,18 +27725,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkJ6bk1USUtxN3NCR2kxVGtVWnNDNGhTUmJxdl82cGZ4VlF5R2Z6Zmk1aUE1NWlrV3RQVzIxSFpfTG9NRFBTakE4ZHRWZGhPUS13dmtHSnJLc0M0MGtKY0syZ0JKb3NwSE01RzRqc2NLblhXYTNtb0ZYUldwckVYeExrZ2s?oc=5",
       "published": "2026-09-21T21:34:25.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）犯下的十个错误可能会让他在曼联的工作付出代价，包括拉什福德（ Rashford ）和库尼亚（ C"
-    },
-    {
-      "id": "Laurie Whitwell:CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c?oc=5",
-      "published": "2026-09-21T16:37:00.000Z",
-      "titleZh": "曼联的本杰明·塞斯科（ Benjamin Sesko ）退出斯洛文尼亚队后将“接受测试” -体育"
     },
     {
       "id": "Samuel Luckhurst:CBMikwFBVV95cUxPSWdYS3IyS05DMmFZcE9ZOGtfMEFrb25LTnhxN1hLVTdfVU9mV1dLN0JLeno5Qkd2X2R0Y29NcGVvcHE5M2tOMDNtYWtxaXJDdGk4bzlaaTBDNUFnQ2NvSXctakRNdGJ0MTh3M1BSRnhsTmJZV25vdldxejhDLUYxOFlSWkZfNEJhTDFYODhXc0dPYUk",
@@ -27779,12 +27779,24 @@
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
       "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "Ask Andy Mitten your Manchester United questions",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWY5a1BBR1RnN0U4WlRISmw4blhyNE51eTZ0NFc4aWpOaDY2VGhrVThrS3NxVk1PY3QtOUs1SHBsdVRuZ0phUGJmZWtNeWRoTTVtaTZnUG5UYTh6eEJ5cFB1T2xaTVdkd0xvNFBlWnkwYmFzTkdyWmxaVkhmdmtpRVI0TXBFbnlJVWJDWDkwR3hNSTNoUG9tQUpNMno?oc=5",
       "published": "2026-09-21T09:00:35.000Z",
       "titleZh": "向Andy Mitten询问您的曼联问题"
+    },
+    {
+      "id": "Fabrizio Romano:CBMixAFBVV95cUxOSG92TjFuYVJTOHhFUllQZXp0bk1JVDN0c2tpU0ttNmpzMzF1VUNMbXJTQk1WcWlaY1VrYlRRQk9LVTkwTF9WMTJpT2JpZUlwLWJEV2dFcFZCak5PTXRKNkFzeU5YZjdZT3NjR1BhTExYNkNmNE9XR2ptYVJ3dUhnbUR4V29UdmVNanZnTUxnRGxLaFYyc3g5RHFfVmZYUk55endWaS0xWHJvRUhzOWZoY2QyOVU0MGdmbVNKVzZqU1dVcnBs",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "FotMob",
+      "tier": 1,
+      "title": "Transfer Rumors: Arsenal Track New Havertz; Man Utd Eye Gabriel Replacement",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSG92TjFuYVJTOHhFUllQZXp0bk1JVDN0c2tpU0ttNmpzMzF1VUNMbXJTQk1WcWlaY1VrYlRRQk9LVTkwTF9WMTJpT2JpZUlwLWJEV2dFcFZCak5PTXRKNkFzeU5YZjdZT3NjR1BhTExYNkNmNE9XR2ptYVJ3dUhnbUR4V29UdmVNanZnTUxnRGxLaFYyc3g5RHFfVmZYUk55endWaS0xWHJvRUhzOWZoY2QyOVU0MGdmbVNKVzZqU1dVcnBs?oc=5",
+      "published": "2026-09-20T23:05:00.000Z",
+      "titleZh": "转会传闻：阿森纳赛道New Havertz ；曼联Eye Gabriel Replacement"
     },
     {
       "id": "Rob Dawson:CBMimwFBVV95cUxNUUo4dHgzWC1wcUtVM1NVNF95QmlUSFIyejRsdHB3Y0o3NUFEY0hTUDZIUGxIQ0V5RndUMFozT2JSZkl0MnBTTW5wUFBEQXFSNUd6NkNFNzdDTGJJNzNoaGFxQ0EyeFhxWGR4cDludjkzaG1KaFlockhSeWdvTUpmVXp3anRTbEw0WkZFQ0V3TXRnNUk0V2hoa2s3VQ",
@@ -27803,7 +27815,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 1,
       "title": "JJ Gabriel: Why Real Madrid target may not return to Man Utd – and what happens next? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1PRlJQY3RybkJGLWJuZnhPczhuR05udFhCVmV5ZHNxdWl4Y3F4bjhRdUl3TFFSQ3Q4NW9zam1xb0dsbURtczhVUGktOVFFdW9vWUxWMmpqX00xZ1hZdVhscWppVWh6X0hlbUd5dUVEdVdlNzFOOFVMYkhOZHBYOTVwb3VNTGI4T2NfZ0lyalQwZmpyMHRabERPSUVDWTQ?oc=5",
@@ -27815,7 +27827,7 @@
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 1,
       "title": "Michael Carrick’s position at Man Utd is secure for now, but like everyone, he’s under scrutiny",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHlxb0Z4dE9hcldXcHJmYTN0SW5Iak4waGhyYW5YanBySF9iZndSdU9mN2FGYm9aZEhBNUNVNHhOT1MwXzVoWjZPaTBhdFpobm50UmdocXZCM2V3WVFNZmtlTm1CcmF6MURVTWVJRDU2dHNIdUxxTWR5VW15WGtZQlJVZG9GVVJfWUYtSXNiOVRndUF4Q3FB?oc=5",
@@ -27833,6 +27845,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVzVFSXRNS0JiYy1pWkFKSTFKTjdhTG1FdGZBX0l0U0gtRmJTd2tKRVpoY3dNdlNjOExFWmlLY2V3NFp0YlNoMHVrR2JneGplRHVISG1tTkxERGZLbzBBS2hZVEUwQjFU?oc=5",
       "published": "2026-09-19T21:30:56.000Z",
       "titleZh": "曼联：迈克尔·卡里克（ Michael Carrick ）对VAR充满信心，尽管德比"
+    },
+    {
+      "id": "Fabrizio Romano:CBMingFBVV95cUxNYUcyRzZtTDhoS25IY21ZdFFZeUZQekRyeXp1M2RNVEtmZUNxc1pOX1l1cmJHWkd1bWp2RlFwQ1YzeDBzdVZpQTY5UFQ3SEhpdGFCVzdjQi1lMzR2MDBJRHFqcjRkbUc2djN0SXNqWWFiakJZZWpCcGhBbWF5Wll0bnRlbmdzeVlSdGdITmpDLVpRMDRHOC1YcFZiMnBPQQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Fabrizio Romano debunks JJ Gabriel, Man Utd claims in lengthy update",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUcyRzZtTDhoS25IY21ZdFFZeUZQekRyeXp1M2RNVEtmZUNxc1pOX1l1cmJHWkd1bWp2RlFwQ1YzeDBzdVZpQTY5UFQ3SEhpdGFCVzdjQi1lMzR2MDBJRHFqcjRkbUc2djN0SXNqWWFiakJZZWpCcGhBbWF5Wll0bnRlbmdzeVlSdGdITmpDLVpRMDRHOC1YcFZiMnBPQQ?oc=5",
+      "published": "2026-09-19T19:32:51.000Z",
+      "titleZh": "Fabrizio Romano揭穿JJ Gabriel ， Man Utd在冗长的更新中声称"
     },
     {
       "id": "Chris Wheeler:CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1",
@@ -27895,11 +27919,23 @@
       "titleZh": "“不是灾难” -卡里克解雇曼联工作恐惧"
     },
     {
+      "id": "Laurie Whitwell:CBMilgFBVV95cUxQcEMyMVRjVGdHaHlXU0p1TlVTX2NQTHJ4aFFhcUNuTENKQy00akY0WUlDRFozanB6Y25wNUtfR1N0ZjhrSDctcVNBTnpBaVlwb05nTW93YzV2bmkybk1JS1BGUmJWVmtoQS1DdjBZdzlETkQ2S1pXMGo3X2lKcS1yZW9hRGJtcEdSYjJ3c0tqQktjT1RUY3c",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd reach decision on sacking Michael Carrick amid deeper concern than just results",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcEMyMVRjVGdHaHlXU0p1TlVTX2NQTHJ4aFFhcUNuTENKQy00akY0WUlDRFozanB6Y25wNUtfR1N0ZjhrSDctcVNBTnpBaVlwb05nTW93YzV2bmkybk1JS1BGUmJWVmtoQS1DdjBZdzlETkQ2S1pXMGo3X2lKcS1yZW9hRGJtcEdSYjJ3c0tqQktjT1RUY3c?oc=5",
+      "published": "2026-09-18T12:07:26.000Z",
+      "titleZh": "曼联决定解雇迈克尔·卡里克（ Michael Carrick ） ，其担忧不仅仅是结果"
+    },
+    {
       "id": "Carl Anka:CBMiwgFBVV95cUxOdlVmS0pGbnczODN4dGZnRUdtZXpqaDJDNS1ITV93bTVrRlpOQW40bWFYX0xJUGptNmJsakJ3cXI0cXV2dkdEUlpWNFczeUhUaTJwT3EtbDRoNkZqWXo0MHlmWHFDNXQ4blRycm5TVG95RUdzX2M0N0lhVzFOOXFyV1BEMDMxMWlub1VJQi1BZ1dsVTV6MUNqRXd0bDkydF9VTzBCLTJYTGFpS1dMdGhSMmthZ3VfRDNLZEV1dzdNV3luQQ",
       "reporter": "Carl Anka",
       "reporterZh": "卡尔·安卡",
       "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "tier": 2,
       "title": "The Premier League has descended into playground football – and it’s great",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlVmS0pGbnczODN4dGZnRUdtZXpqaDJDNS1ITV93bTVrRlpOQW40bWFYX0xJUGptNmJsakJ3cXI0cXV2dkdEUlpWNFczeUhUaTJwT3EtbDRoNkZqWXo0MHlmWHFDNXQ4blRycm5TVG95RUdzX2M0N0lhVzFOOXFyV1BEMDMxMWlub1VJQi1BZ1dsVTV6MUNqRXd0bDkydF9VTzBCLTJYTGFpS1dMdGhSMmthZ3VfRDNLZEV1dzdNV3luQQ?oc=5",
@@ -27917,45 +27953,9 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWhpZTlVZjRwRzdIRG83MFNoaGtBcGlnaUN1OGQ1YVgxRHVoeW1yTVh6NWt4R3FBZDRKcGpZSUl0blh6S0dydTFLSm53Z2ZUaWFJZ01sUktwR2NQc1FrU0pjZnVYSWxOWUVaNzZ4dVd2ZnRRaFlsYVJsM19PYUt5WFFOVQ?oc=5",
       "published": "2026-09-18T06:38:47.000Z",
       "titleZh": "Romano向曼联透露了JJ Gabriel未来作为“最有可能的目的地”的最新消息"
-    },
-    {
-      "id": "Chris Wheeler:CBMirwFBVV95cUxNNEduLVRMVGdnUkFTTEwxaFBFQ2dxdjU4cWpwekJWazlqWC00T2NSVTJJd2V3NF9vTFhZRi1YZW81RE1fT1JpX19aY2VEbzJydl9ROXVmSFIxWFBaY3VwU3JRQnZ0Q2ZISlNMLUNTaUpwVDRfcm4tMlQ4Z2c1UFVPUXJCc2ppeFlWT1Y5ajhlTkR2Mmt1bi1xNF9tV25UTlBpcHYwbVJMMndkWHdzeE5z",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Why Carrick's post-Brighton demeanour should alarm United fans",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNEduLVRMVGdnUkFTTEwxaFBFQ2dxdjU4cWpwekJWazlqWC00T2NSVTJJd2V3NF9vTFhZRi1YZW81RE1fT1JpX19aY2VEbzJydl9ROXVmSFIxWFBaY3VwU3JRQnZ0Q2ZISlNMLUNTaUpwVDRfcm4tMlQ4Z2c1UFVPUXJCc2ppeFlWT1Y5ajhlTkR2Mmt1bi1xNF9tV25UTlBpcHYwbVJMMndkWHdzeE5z?oc=5",
-      "published": "2026-09-17T16:00:13.000Z",
-      "titleZh": "Why Carrick's post-Brighton demeanour should alarm United fans"
-    },
-    {
-      "id": "James Ducker:CBMinAFBVV95cUxOUVBzNFZINHVwYXJoazN0TGJnam5EWFU4enpPdUZBRUJyanl4TXE5QVZYU0hNTnMxN3RwZ1JWdnlwU0o3RFNhWHVlNEd5eERScHBLdjdyWjBhQTBmR3g5SUFLSC1QaWs5bENyVF9hblZjd1U4VzVpSkhWX2hkdFJIOHhsY0pwT1FOMkdKajBYd0lNVHhVN01zZFZFSFg",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Michael Carrick is on the cusp of the next Manchester United doom spiral",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVBzNFZINHVwYXJoazN0TGJnam5EWFU4enpPdUZBRUJyanl4TXE5QVZYU0hNTnMxN3RwZ1JWdnlwU0o3RFNhWHVlNEd5eERScHBLdjdyWjBhQTBmR3g5SUFLSC1QaWs5bENyVF9hblZjd1U4VzVpSkhWX2hkdFJIOHhsY0pwT1FOMkdKajBYd0lNVHhVN01zZFZFSFg?oc=5",
-      "published": "2026-09-17T15:01:00.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）正处于下一个曼联厄运螺旋的风口浪尖"
-    },
-    {
-      "id": "Fabrizio Romano:CBMimwFBVV95cUxOUzRRWUZ2LWxhTXhkS1llWTBxSmhxZlk1MXFUd2RXRGFXZkFoVEhvUnVvTlA4a21ldERpUjlIZzloQjMxdjREQ0pCQzZDakEyWkM3ekRkSG9uSTJwLTd2UjA0SVN3VGZkZElmSE4zQ3pVbkg5a1pjS2Q0WU11bnJZY2gxQWQwSGdXY1pFdTF2aGlJV3Q4d1JIcmsxVQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano names club ‘most likely’ to sign JJ Gabriel from Man Utd",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzRRWUZ2LWxhTXhkS1llWTBxSmhxZlk1MXFUd2RXRGFXZkFoVEhvUnVvTlA4a21ldERpUjlIZzloQjMxdjREQ0pCQzZDakEyWkM3ekRkSG9uSTJwLTd2UjA0SVN3VGZkZElmSE4zQ3pVbkg5a1pjS2Q0WU11bnJZY2gxQWQwSGdXY1pFdTF2aGlJV3Q4d1JIcmsxVQ?oc=5",
-      "published": "2026-09-17T10:18:28.000Z",
-      "titleZh": "Fabrizio Romano names club ‘most likely’ to sign JJ Gabriel from Man Utd"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-23T01:26:51.415Z",
+  "journalistsUpdatedAt": "2026-09-23T06:37:17.033Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -27667,16 +27667,28 @@
   ],
   "journalists": [
     {
-      "id": "James Ducker:CBMilwFBVV95cUxPZmxULUJTZVRIOFlQLXhGU0MwNjd4T0hodk55NUk0SmVtVXozOWxQTGJuVVRCWjM2LVlCQ2xTMEpfMllIdW11YU9fREI2emFxZGR4TkVNS0xNS3VoNHhSN1ZXMWNXU2pVT3NBNkJVanF4aFI4b2xicFZnSU5qRWtqX2pjWElyaDI5UzJJTG1iWnNMUmR3RE8w",
+      "id": "Simon Stone:CBMia0FVX3lxTE5lQXhkT3lXN3RlV1RTbE5BVmQwUGJ0Snpka1JUSU05X3dwcGtQaDdjOGxXVEIycmVteEZMbjl4dVVOcFpjdWlXdk9xRklQZjdtMDBRbVJsZUZtQXJ3QXV1V0M5ZS1va1BQdXdz",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd still £1bn in debt with £63.5m spent on new stadium",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lQXhkT3lXN3RlV1RTbE5BVmQwUGJ0Snpka1JUSU05X3dwcGtQaDdjOGxXVEIycmVteEZMbjl4dVVOcFpjdWlXdk9xRklQZjdtMDBRbVJsZUZtQXJ3QXV1V0M5ZS1va1BQdXdz?oc=5",
+      "published": "2026-09-23T14:10:21.000Z",
+      "titleZh": "曼联仍有10亿英镑的债务，其中6350万英镑用于新体育场"
+    },
+    {
+      "id": "James Ducker:CBMiogFBVV95cUxPU0ZpbXV6ek1HeWk1Q0JPSzNYNEhNQnJJcDYzcWo4aWJuNzJ2ZXBPWllVMTBWdjU2bnZpSkIwMl9JQTFHNTNhUFZIUVcwN1hHazlGNGFFYUladnFINnYxNXlmX0FrOGJFVFJHXzZNWnJDbDJUbGRRWDF6ZTlwMVZtTWhkT0E4clRRSFRTaVhfb2EzQnliOFVzR2VuV3NzdnR3NWc",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
       "source": "The Telegraph",
       "tier": 1,
-      "title": "Eric Cantona: I would never have signed for Man Utd under Sir Jim Ratcliffe",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmxULUJTZVRIOFlQLXhGU0MwNjd4T0hodk55NUk0SmVtVXozOWxQTGJuVVRCWjM2LVlCQ2xTMEpfMllIdW11YU9fREI2emFxZGR4TkVNS0xNS3VoNHhSN1ZXMWNXU2pVT3NBNkJVanF4aFI4b2xicFZnSU5qRWtqX2pjWElyaDI5UzJJTG1iWnNMUmR3RE8w?oc=5",
-      "published": "2026-09-23T11:35:00.000Z",
-      "titleZh": "埃里克·坎通纳：在吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）的领导下，我永远不会"
+      "title": "Manchester United selling grass for £125 after another year of losses",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0ZpbXV6ek1HeWk1Q0JPSzNYNEhNQnJJcDYzcWo4aWJuNzJ2ZXBPWllVMTBWdjU2bnZpSkIwMl9JQTFHNTNhUFZIUVcwN1hHazlGNGFFYUladnFINnYxNXlmX0FrOGJFVFJHXzZNWnJDbDJUbGRRWDF6ZTlwMVZtTWhkT0E4clRRSFRTaVhfb2EzQnliOFVzR2VuV3NzdnR3NWc?oc=5",
+      "published": "2026-09-23T13:51:00.000Z",
+      "titleZh": "经历了一年的亏损后，曼联以125 £的价格出售草地"
     },
     {
       "id": "Simon Stone:CBMikwFBVV95cUxPMGU2eVktUkhTc052WHBkOVdfMW1NZ05haVZUU2V4ckhSRkwyNXRkWnF5M0g1aWduZW9iekxlemRZdTdwU0NmNFdlUGQ1SXBjbEdKWDAyRDJoSGhFTFd0UjZrc0pWbmtEYWxqOVNEQnRnSm1aOVZ5WTFoWnZlOTVpWWhURklBeUl0VFhMMHJqQlB0Zm8",
@@ -27689,6 +27701,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGU2eVktUkhTc052WHBkOVdfMW1NZ05haVZUU2V4ckhSRkwyNXRkWnF5M0g1aWduZW9iekxlemRZdTdwU0NmNFdlUGQ1SXBjbEdKWDAyRDJoSGhFTFd0UjZrc0pWbmtEYWxqOVNEQnRnSm1aOVZ5WTFoWnZlOTVpWWhURklBeUl0VFhMMHJqQlB0Zm8?oc=5",
       "published": "2026-09-23T10:28:38.000Z",
       "titleZh": "伊布拉吉莫夫在俄罗斯高级征召后蓬勃发展"
+    },
+    {
+      "id": "Laurie Whitwell:CBMid0FVX3lxTE5yWWpDaFVPQ2xiWlBoN3B1SHdZRGwtQXpXdEVtaXBsVl9TaDQxVGg1UzhFMVV6bjIxaWQ2aGJrY3JhN2tuWTFzcGtUbUV3YjVPbmVXODgyemwzTUhsR1l4MGFJU0ppUFRmZnJuLThSdU1pOGJpY01V0gF8QVVfeXFMT09HSWNPWW95Z2djTkJNUVNZcDl4c01XSzI1YUJYbHhHeExtZEtYN1BvN0JkMTdzNnNPZ2VHZUs0UFpnUV9BQ0oybi1wNVhBc2llXzB1SnpKdVJGT1Nrb0lGaVliZ24xUXRiXzNudFhHRGltZTBQRW02OWd2ag",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "Stretty News",
+      "tier": 1,
+      "title": "Sesko misses Slovenia duty after recurring shin injury",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yWWpDaFVPQ2xiWlBoN3B1SHdZRGwtQXpXdEVtaXBsVl9TaDQxVGg1UzhFMVV6bjIxaWQ2aGJrY3JhN2tuWTFzcGtUbUV3YjVPbmVXODgyemwzTUhsR1l4MGFJU0ppUFRmZnJuLThSdU1pOGJpY01V0gF8QVVfeXFMT09HSWNPWW95Z2djTkJNUVNZcDl4c01XSzI1YUJYbHhHeExtZEtYN1BvN0JkMTdzNnNPZ2VHZUs0UFpnUV9BQ0oybi1wNVhBc2llXzB1SnpKdVJGT1Nrb0lGaVliZ24xUXRiXzNudFhHRGltZTBQRW02OWd2ag?oc=5",
+      "published": "2026-09-23T09:00:00.000Z",
+      "titleZh": "Sesko在复发性胫骨损伤后错过了斯洛文尼亚的职责"
     },
     {
       "id": "Chris Wheeler:CBMidEFVX3lxTE1ad3QyN1l2bnZ5dGZoN09wUXNqN2MtM2tTZUpJTzA4QWdNLWVNVkJIRlFodW16ajAxbWhYQ252VjdURTZ4bmNMUTcxTS1ObWg5REZkNjgzLUx2MlRlbDhlM2RLTm9DR0hHcUJ0YWJQU2diemll",
@@ -27713,30 +27737,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTZDdlJVNml3Ym9sdUVtaDR4ZHhuNmFKVlFjcXpsWUxBMWUwekxod3FWSE5WcXdrTWpqZEVBaF9mZ3p0VlNRdUxMb0xVT2ZyRTZTLWM5aS10NVA5dGg3Z002TzBRX09XY2EtcHRxYU9DRnlrcjZfeXJfYmRRSk8tRG00cE8tcGtYcEc3RUY4STNZa1RDX3hhTmQ5UEZzeEE?oc=5",
       "published": "2026-09-22T15:48:41.000Z",
       "titleZh": "David Ornstein的The Athletic FC问答：布伦特福德蓝图？马刺1月份的计划？对曼联等级制度的压力？"
-    },
-    {
-      "id": "Andy Mitten:CBMimAFBVV95cUxQeWVGWDI4aE5GdlBnMDgtTDNvak5ubGVtZDY0elRXeU05eFJNdjY5SVYwblhjc1kzeUdnMThxR0hvdnNMMEt0Ynp1b3lTdEdWdHZlNFRILXBDUktzZWc0eEIyaVR0S1JuYXVZbE1Sa3NNRW9iQzNaM2UybDdoUUNmVXpNdFpGVkFveWRZSEJqTXJ6NDdkZW0ydQ",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "At Man United, belief is battered and magic is missing. It goes beyond a poor run of form",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWVGWDI4aE5GdlBnMDgtTDNvak5ubGVtZDY0elRXeU05eFJNdjY5SVYwblhjc1kzeUdnMThxR0hvdnNMMEt0Ynp1b3lTdEdWdHZlNFRILXBDUktzZWc0eEIyaVR0S1JuYXVZbE1Sa3NNRW9iQzNaM2UybDdoUUNmVXpNdFpGVkFveWRZSEJqTXJ6NDdkZW0ydQ?oc=5",
-      "published": "2026-09-22T11:55:05.000Z",
-      "titleZh": "在曼联，信仰受到重创，魔法缺失。它超越了糟糕的形式"
-    },
-    {
-      "id": "Laurie Whitwell:CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c?oc=5",
-      "published": "2026-09-22T09:49:00.000Z",
-      "titleZh": "曼联的本杰明·塞斯科（ Benjamin Sesko ）退出斯洛文尼亚队后将“接受测试” -体育"
     },
     {
       "id": "Rob Dawson:CBMiakFVX3lxTE1nWUZrV3NBTmt4U0dDXzZNNVNBSHpVV3RTY1pZeTVKZXhQUjJHUEFYMGJGWDlMdTZhYjJMU1dxamMyQXBfQko1UU9rTkt6eE1Mc2hSbnZqZVhyMHdwdVJNYTBYQ1JhUHVCNFE",
@@ -27787,16 +27787,16 @@
       "titleZh": "'We need to be a little bit more calm' - Cunha expects Man Utd improvement"
     },
     {
-      "id": "Andy Mitten:CBMizAFBVV95cUxQYllXdDEzbjA0ckxSM2lKSUlNdUhkdVd4YWE4N0hoUHdmNEJjR3RVWW9KMjBJeXlvdVJlRUZzQ2Y4RTRJdWFyZUlWbkc1clBEb1czXzVhcHVVbFBwbXMyQzFIUW9fLUJfa0s4TFExRXBKRk1IbFVVVWhiSGtsZTB6azREMEtNM05UMTc4RjkyTE1TUUhaZFE2WFNqdnVpSi1icHlVV1V4TmRIdHVWMWQtZU84ejc2TWlqQktsYnI1aFlXQXR2bWpaRzluUm8",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "thenationalnews.com",
-      "tier": 2,
-      "title": "Matheus Cunha looks forward to 'big month' for Manchester United in October",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYllXdDEzbjA0ckxSM2lKSUlNdUhkdVd4YWE4N0hoUHdmNEJjR3RVWW9KMjBJeXlvdVJlRUZzQ2Y4RTRJdWFyZUlWbkc1clBEb1czXzVhcHVVbFBwbXMyQzFIUW9fLUJfa0s4TFExRXBKRk1IbFVVVWhiSGtsZTB6azREMEtNM05UMTc4RjkyTE1TUUhaZFE2WFNqdnVpSi1icHlVV1V4TmRIdHVWMWQtZU84ejc2TWlqQktsYnI1aFlXQXR2bWpaRzluUm8?oc=5",
-      "published": "2026-09-21T11:12:26.000Z",
-      "titleZh": "Matheus Cunha期待10月曼联的“重要月份”"
+      "id": "David Ornstein:CBMihwFBVV95cUxNY0xlblgtT2dOM2tUaDllelJyV1ZJd2ZCT1cxUk1QV3JKbjJqN0lfWFpOZ3VCakN2aEs3bEd6bHUwOXJzVXFvYWFud2g5VWc3c1JWenRCYkFaeUxlUzlsM0JCcDJncGd2UldiNURMaS1CZ1FqamZsY0MxcWtabEpvQ3BBY01PckHSAYwBQVVfeXFMTW5JZzJTNnI4d1ZCVmdfVTlCaW9tVm1KOFVldnJTSC1pWTVHRXg3aEZSazJvekdob3lFY0dCQWhIQUJTMEJzUnQyQml1M0Z6ZkpRNTBuQWkxQXhNOWVZZWMxdEl3SnVhaHg3LVUzNl94QlJDUkVXeWx6aGdVbXkzR3M4UzV1ak1lSWdzZWs",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "utdreport.co.uk",
+      "tier": 1,
+      "title": "Not only Rashford – Ornstein reveals Man Utd’s ‘best player’ picked up a knock at Fulham",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0xlblgtT2dOM2tUaDllelJyV1ZJd2ZCT1cxUk1QV3JKbjJqN0lfWFpOZ3VCakN2aEs3bEd6bHUwOXJzVXFvYWFud2g5VWc3c1JWenRCYkFaeUxlUzlsM0JCcDJncGd2UldiNURMaS1CZ1FqamZsY0MxcWtabEpvQ3BBY01PckHSAYwBQVVfeXFMTW5JZzJTNnI4d1ZCVmdfVTlCaW9tVm1KOFVldnJTSC1pWTVHRXg3aEZSazJvekdob3lFY0dCQWhIQUJTMEJzUnQyQml1M0Z6ZkpRNTBuQWkxQXhNOWVZZWMxdEl3SnVhaHg3LVUzNl94QlJDUkVXeWx6aGdVbXkzR3M4UzV1ak1lSWdzZWs?oc=5",
+      "published": "2026-09-21T09:21:05.000Z",
+      "titleZh": "不仅仅是拉什福德–奥恩斯坦透露曼联的“最佳球员”在富勒姆受到了打击"
     },
     {
       "id": "Andy Mitten:CBMinAFBVV95cUxPUWY5a1BBR1RnN0U4WlRISmw4blhyNE51eTZ0NFc4aWpOaDY2VGhrVThrS3NxVk1PY3QtOUs1SHBsdVRuZ0phUGJmZWtNeWRoTTVtaTZnUG5UYTh6eEJ5cFB1T2xaTVdkd0xvNFBlWnkwYmFzTkdyWmxaVkhmdmtpRVI0TXBFbnlJVWJDWDkwR3hNSTNoUG9tQUpNMno",
@@ -27823,16 +27823,16 @@
       "titleZh": "奥恩斯坦命名切尔西，曼联明星退出英格兰队，替补透露"
     },
     {
-      "id": "Fabrizio Romano:CBMixAFBVV95cUxOSG92TjFuYVJTOHhFUllQZXp0bk1JVDN0c2tpU0ttNmpzMzF1VUNMbXJTQk1WcWlaY1VrYlRRQk9LVTkwTF9WMTJpT2JpZUlwLWJEV2dFcFZCak5PTXRKNkFzeU5YZjdZT3NjR1BhTExYNkNmNE9XR2ptYVJ3dUhnbUR4V29UdmVNanZnTUxnRGxLaFYyc3g5RHFfVmZYUk55endWaS0xWHJvRUhzOWZoY2QyOVU0MGdmbVNKVzZqU1dVcnBs",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "FotMob",
-      "tier": 1,
-      "title": "Transfer Rumors: Arsenal Track New Havertz; Man Utd Eye Gabriel Replacement",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSG92TjFuYVJTOHhFUllQZXp0bk1JVDN0c2tpU0ttNmpzMzF1VUNMbXJTQk1WcWlaY1VrYlRRQk9LVTkwTF9WMTJpT2JpZUlwLWJEV2dFcFZCak5PTXRKNkFzeU5YZjdZT3NjR1BhTExYNkNmNE9XR2ptYVJ3dUhnbUR4V29UdmVNanZnTUxnRGxLaFYyc3g5RHFfVmZYUk55endWaS0xWHJvRUhzOWZoY2QyOVU0MGdmbVNKVzZqU1dVcnBs?oc=5",
-      "published": "2026-09-20T23:05:00.000Z",
-      "titleZh": "转会传闻：阿森纳赛道New Havertz ；曼联Eye Gabriel Replacement"
+      "id": "Andy Mitten:CBMickFVX3lxTE9aQlBKNmNFSERsdHlzV2FIUjEtdUl0Y1ZhczZDcmVxM2U1cndoV1N0LVd4aGdLWnR3NUZ4c1hGWmFsbTRvVERtNVNqV1dlRzVxQUlyX2p2WUNYcVVuaEhmQzYwcnVyb0hsOTFJZ1k3VU05UQ",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "Manchester United Website",
+      "tier": 2,
+      "title": "Vote for your Player of the Match",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aQlBKNmNFSERsdHlzV2FIUjEtdUl0Y1ZhczZDcmVxM2U1cndoV1N0LVd4aGdLWnR3NUZ4c1hGWmFsbTRvVERtNVNqV1dlRzVxQUlyX2p2WUNYcVVuaEhmQzYwcnVyb0hsOTFJZ1k3VU05UQ?oc=5",
+      "published": "2026-09-20T20:15:22.000Z",
+      "titleZh": "为您的比赛玩家投票"
     },
     {
       "id": "Rob Dawson:CBMimwFBVV95cUxNUUo4dHgzWC1wcUtVM1NVNF95QmlUSFIyejRsdHB3Y0o3NUFEY0hTUDZIUGxIQ0V5RndUMFozT2JSZkl0MnBTTW5wUFBEQXFSNUd6NkNFNzdDTGJJNzNoaGFxQ0EyeFhxWGR4cDludjkzaG1KaFlockhSeWdvTUpmVXp3anRTbEw0WkZFQ0V3TXRnNUk0V2hoa2s3VQ",
@@ -27871,6 +27871,18 @@
       "titleZh": "迈克尔·卡里克在曼联的位置目前是安全的，但像每个人一样，他正在接受审查"
     },
     {
+      "id": "Andy Mitten:CBMikwFBVV95cUxPRWkyZVRyWG16NEtYcVpZTjBBbEU4MHJnZlZkU3VKTzFVZmZ2M1ZqdlN2TGpjNV96NE9INTMzLVpxNDVORE0xWW5zT2Z3TzBEakdsZ3FUd28xVjc5bHdRTlBma1N5MXBZTm5uUXozTEEyc0Z1R0lNSnlicDJEOENsclFKWkg3WnBtd0RvQWlid05YTnc",
+      "reporter": "Andy Mitten",
+      "reporterZh": "安迪·米滕",
+      "reporterOutlet": "曼联资深记者",
+      "source": "The New York Times",
+      "tier": 2,
+      "title": "The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWkyZVRyWG16NEtYcVpZTjBBbEU4MHJnZlZkU3VKTzFVZmZ2M1ZqdlN2TGpjNV96NE9INTMzLVpxNDVORE0xWW5zT2Z3TzBEakdsZ3FUd28xVjc5bHdRTlBma1N5MXBZTm5uUXozTEEyc0Z1R0lNSnlicDJEOENsclFKWkg3WnBtd0RvQWlid05YTnc?oc=5",
+      "published": "2026-09-20T07:00:00.000Z",
+      "titleZh": "曼联球迷的心情扑面而来。INEOS蜜月期已经结束"
+    },
+    {
       "id": "Fabrizio Romano:CBMingFBVV95cUxNYUcyRzZtTDhoS25IY21ZdFFZeUZQekRyeXp1M2RNVEtmZUNxc1pOX1l1cmJHWkd1bWp2RlFwQ1YzeDBzdVZpQTY5UFQ3SEhpdGFCVzdjQi1lMzR2MDBJRHFqcjRkbUc2djN0SXNqWWFiakJZZWpCcGhBbWF5Wll0bnRlbmdzeVlSdGdITmpDLVpRMDRHOC1YcFZiMnBPQQ",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -27895,6 +27907,18 @@
       "titleZh": "Floyd Samba ：爸爸从公园睡觉到英超联赛，他非常鼓舞人心"
     },
     {
+      "id": "Chris Wheeler:CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "PressReader",
+      "tier": 2,
+      "title": "It is RIDICULOUS to question my United future, says Carrick",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hTHhfRl92MVpQWjFGRWc0b2xuTEVNLTJTQ19KNnBkcDhCZGNvekYycGFkMkl4bUJrUGpZcmJWTzdJTXdoS0FfekI3LWZkSmUxOVJwYkN0dmRUdzNlTUtWVEdKUW5uMTdES25OQlA1M3h3Wmh1?oc=5",
+      "published": "2026-09-19T05:03:22.000Z",
+      "titleZh": "质疑我的联合未来是荒谬的，卡里克说"
+    },
+    {
       "id": "Chris Wheeler:CBMidEFVX3lxTE50WFFyTEhuR3BsRENKVUlESkJTcmZteFZvaWtNVXRqa29jTHU4RGJPOHUyXzQ2eTRWZE5tNUlCV0NBb2ZBNmczZ3hCcE9peXIwNGt2RXkzWTE3UUVKdFJjYUh6MTRQcVVIYlN6dGZ4TmJKcjFy",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -27905,18 +27929,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50WFFyTEhuR3BsRENKVUlESkJTcmZteFZvaWtNVXRqa29jTHU4RGJPOHUyXzQ2eTRWZE5tNUlCV0NBb2ZBNmczZ3hCcE9peXIwNGt2RXkzWTE3UUVKdFJjYUh6MTRQcVVIYlN6dGZ4TmJKcjFy?oc=5",
       "published": "2026-09-19T02:39:31.000Z",
       "titleZh": "美联航神奇小子飞往巴塞罗那参加会谈"
-    },
-    {
-      "id": "Simon Stone:CBMiiAFBVV95cUxQSFdwQnQ4RnhOeGVZYUxaZkVUdUtiV3JsTEVSdmlXQ3kzcXlVWTRIVnhQY05GQjVyZk01OEFGV0RGZDRTVFZIWlJudDdMZjNmc3dBSkJNeTg0bTAwclE3TnJhSUs1UXNHRFc4ckJ1eXJ1TGxpeS05bW9wcFBKZmlBWGJVcFcwdWtO",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Carrick detaches himself from Man Utd media frenzy",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFdwQnQ4RnhOeGVZYUxaZkVUdUtiV3JsTEVSdmlXQ3kzcXlVWTRIVnhQY05GQjVyZk01OEFGV0RGZDRTVFZIWlJudDdMZjNmc3dBSkJNeTg0bTAwclE3TnJhSUs1UXNHRFc4ckJ1eXJ1TGxpeS05bW9wcFBKZmlBWGJVcFcwdWtO?oc=5",
-      "published": "2026-09-18T16:22:29.000Z",
-      "titleZh": "Carrick detaches himself from Man Utd media frenzy"
     },
     {
       "id": "James Ducker:CBMirAFBVV95cUxOUnY1Ql9GaENkSFFvdFJ1WDlxQ25YSkZTcThMbWNzeDFIQjZENi16ck9jekg5MjB5ZUtaazRiRUY4bnNpWGluSTU2dWFud196a2VvTG9xUW92Ul83eUJGRjBaOWZRNXoyQnc1dDY2TjB2Z3htSEpGV25EZDAzTHh1ZjZBYjFkZzVrdTFRSVJRVnEtVFY2TGVxZ3oyM2szdHdtM1ZKMWotYUtXYXpP",
@@ -27931,18 +27943,6 @@
       "titleZh": "J · J ·加布里埃尔（ JJ Gabriel ）前往西班牙，助长了对下一步行动的猜测"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE9SNVlUMUticDMyZU5uS29RY1R2MEFzWUxaMWFhR3drNHlyNms2SDNhT3pmalk4QnBxY3JNeWJaeFl2NXRtbkdTMlg0REFpcm5sTHBhc2RzZ0tQQXZIUlFwUmVDa05MV0VQ",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "'Not a catastrophe' - Carrick dismisses Man Utd job fears",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SNVlUMUticDMyZU5uS29RY1R2MEFzWUxaMWFhR3drNHlyNms2SDNhT3pmalk4QnBxY3JNeWJaeFl2NXRtbkdTMlg0REFpcm5sTHBhc2RzZ0tQQXZIUlFwUmVDa05MV0VQ?oc=5",
-      "published": "2026-09-18T14:09:37.000Z",
-      "titleZh": "“不是灾难” -卡里克解雇曼联工作恐惧"
-    },
-    {
       "id": "Laurie Whitwell:CBMilgFBVV95cUxQcEMyMVRjVGdHaHlXU0p1TlVTX2NQTHJ4aFFhcUNuTENKQy00akY0WUlDRFozanB6Y25wNUtfR1N0ZjhrSDctcVNBTnpBaVlwb05nTW93YzV2bmkybk1JS1BGUmJWVmtoQS1DdjBZdzlETkQ2S1pXMGo3X2lKcS1yZW9hRGJtcEdSYjJ3c0tqQktjT1RUY3c",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -27955,7 +27955,7 @@
       "titleZh": "曼联决定解雇迈克尔·卡里克（ Michael Carrick ） ，其担忧不仅仅是结果"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-23T12:19:53.976Z",
+  "journalistsUpdatedAt": "2026-09-23T17:19:00.343Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

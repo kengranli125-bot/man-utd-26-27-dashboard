@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:34:11.678Z",
+  "updatedAt": "2026-09-23T16:56:31.114Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,20 @@
   ],
   "news": [
     {
+      "title": "Man United selling chunks of Old Trafford pitch",
+      "published": "2026-09-23T16:35:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50013903/man-united-old-trafford-selling-pitch-pieces",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720872_1296x729_16-9.jpg",
+      "titleZh": "曼联出售大块的老特拉福德球场"
+    },
+    {
+      "title": "Man United transfer strategy 'financial sustainable' as losses increase - CEO",
+      "published": "2026-09-23T13:57:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50012381/man-united-transfer-strategy-financial-sustainable-losses-increase-ceo",
+      "image": "https://a.espncdn.com/photo/2024/0903/r1381409_1296x729_16-9.jpg",
+      "titleZh": "随着亏损增加，曼联转移策略“财务可持续” -首席执行官"
+    },
+    {
       "title": "Transfer rumors, news: Man United want Guirassy as potential Zirkzee replacement",
       "published": "2026-09-22T22:18:45Z",
       "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
@@ -27089,23 +27103,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49997462/ruben-amorim-cant-repeat-my-mistakes-man-united",
       "image": "https://a.espncdn.com/photo/2026/0828/r1708048_1296x729_16-9.jpg",
       "titleZh": "鲁本·阿莫林（ Ruben Amorim ） ：在曼联之后， “我不能重复我的错误”"
-    },
-    {
-      "title": "Carrick has an impossible job at Man United after transfer failures",
-      "published": "2026-09-21T12:27:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49997321/michael-carrick-impossible-job-man-united-transfer-failures",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719923_1296x729_16-9.jpg",
-      "titleZh": "在转会失败后，卡里克在曼联有一份不可能的工作"
-    },
-    {
-      "title": "Man United's Michael Carrick concerned about Benjamin Sesko's latest injury",
-      "published": "2026-09-21T17:28:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
-      "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）担心本杰明·塞斯科（ Benjamin S"
     }
   ],
   "transfers": [
+    {
+      "title": "Man United transfer strategy 'financial sustainable' as losses increase - CEO",
+      "published": "2026-09-23T13:57:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50012381/man-united-transfer-strategy-financial-sustainable-losses-increase-ceo",
+      "image": "https://a.espncdn.com/photo/2024/0903/r1381409_1296x729_16-9.jpg",
+      "titleZh": "随着亏损增加，曼联转移策略“财务可持续” -首席执行官",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Man United want Guirassy as potential Zirkzee replacement",
       "published": "2026-09-22T22:18:45Z",
@@ -27122,16 +27132,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
       "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻： Mesloub取代曼联的Gabriel ？",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Carrick has an impossible job at Man United after transfer failures",
-      "published": "2026-09-21T12:27:13Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49997321/michael-carrick-impossible-job-man-united-transfer-failures",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719923_1296x729_16-9.jpg",
-      "titleZh": "在转会失败后，卡里克在曼联有一份不可能的工作",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

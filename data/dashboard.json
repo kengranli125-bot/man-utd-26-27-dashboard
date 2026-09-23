@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:17:21.632Z",
+  "updatedAt": "2026-09-23T04:43:41.069Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,13 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United want Guirassy as potential Zirkzee replacement",
+      "published": "2026-09-22T22:18:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720600_1296x729_16-9.jpg",
+      "titleZh": "转移谣言、新闻：曼联希望Guirassy成为Zirkzee的潜在替代品"
+    },
+    {
       "title": "Benjamin Šeško vows to 'fully dedicate' himself to recovery after Man United injury setback",
       "published": "2026-09-22T13:19:00Z",
       "url": "https://www.espn.com/soccer/story/_/id/50004798/benjamin-šeško-vows-fully-dedicate-recovery-man-united-injury-setback",
@@ -27096,16 +27103,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49997130/man-united-michael-carrick-concerned-benjamin-sesko-latest-injury",
       "image": "https://a.espncdn.com/photo/2026/0921/r1719927_1296x729_16-9.jpg",
       "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）担心本杰明·塞斯科（ Benjamin S"
-    },
-    {
-      "title": "United stumble again at Fulham",
-      "published": "2026-09-21T01:09:42Z",
-      "url": "https://www.espn.com/video/clip/_/id/49995197/united-stumble-again-fulham",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0920/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS/dm_260920_Soccer_HIGHLIGHT_United_stumble_again_at_Fulham_20260921_AUS.jpg",
-      "titleZh": "曼联在富勒姆再次绊倒"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United want Guirassy as potential Zirkzee replacement",
+      "published": "2026-09-22T22:18:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720600_1296x729_16-9.jpg",
+      "titleZh": "转移谣言、新闻：曼联希望Guirassy成为Zirkzee的潜在替代品",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
       "published": "2026-09-21T23:40:29Z",
@@ -27571,9 +27581,9 @@
       "nationalityZh": "荷兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/950830.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
     },
     {
       "id": "291630",
@@ -28183,18 +28193,18 @@
       "summary": "更重视转换防守与后场速度，使用机动性更强的右路组合，应对高强度淘汰赛节奏。",
       "players": [
         {
-          "id": "276327",
-          "name": "Joshua Zirkzee",
-          "nameZh": "约书亚·齐尔克泽",
-          "shortName": "J. Zirkzee",
-          "shortNameZh": "齐尔克泽",
-          "jersey": "11",
+          "id": "230945",
+          "name": "Marcus Rashford",
+          "nameZh": "马库斯·拉什福德",
+          "shortName": "M. Rashford",
+          "shortNameZh": "拉什福德",
+          "jersey": "9",
           "position": "Forward",
-          "age": 25,
-          "nationality": "Netherlands",
-          "nationalityZh": "荷兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/950830.png",
+          "age": 28,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/696365.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28413,18 +28423,18 @@
       "summary": "以考察新援和年轻球员为主，同时保留部分一线队骨干维持阵型结构与比赛节奏。",
       "players": [
         {
-          "id": "276327",
-          "name": "Joshua Zirkzee",
-          "nameZh": "约书亚·齐尔克泽",
-          "shortName": "J. Zirkzee",
-          "shortNameZh": "齐尔克泽",
-          "jersey": "11",
+          "id": "230945",
+          "name": "Marcus Rashford",
+          "nameZh": "马库斯·拉什福德",
+          "shortName": "M. Rashford",
+          "shortNameZh": "拉什福德",
+          "jersey": "9",
           "position": "Forward",
-          "age": 25,
-          "nationality": "Netherlands",
-          "nationalityZh": "荷兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/950830.png",
+          "age": 28,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/696365.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28629,7 +28639,7 @@
         },
         {
           "label": "经验值",
-          "value": 75
+          "value": 76
         },
         {
           "label": "攻守平衡",

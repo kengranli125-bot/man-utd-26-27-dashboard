@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:09:19.859Z",
+  "updatedAt": "2026-09-24T21:30:08.751Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,13 @@
   ],
   "news": [
     {
+      "title": "Man United's Leny Yoro handed surprise France call-up after Ibrahima Konaté injury",
+      "published": "2026-09-24T18:15:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50018535/leny-yoro-ibrahima-konate-france-nations-league-zinedine-zidane",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him.jpg",
+      "titleZh": "曼联的莱尼·约罗（ Leny Yoro ）在易卜拉希马·科纳特（ Ibrahima Konaté ）受伤后突然"
+    },
+    {
       "title": "Transfer rumors, news: Could Man United replace Shaw with Mitchell?",
       "published": "2026-09-24T01:49:20Z",
       "url": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
@@ -27096,13 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
       "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻： Mesloub取代曼联的Gabriel ？"
-    },
-    {
-      "title": "Harry Maguire: Man United didn't take chances against Fulham, paid the price",
-      "published": "2026-09-21T14:47:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49998485/man-united-harry-maguire-fulham-michael-carrick-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720012_1296x729_16-9.jpg",
-      "titleZh": "哈里·马奎尔：曼联没有冒险对阵富勒姆，付出了代价"
     }
   ],
   "transfers": [
@@ -27331,9 +27331,9 @@
       "nationalityZh": "法国",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
     },
     {
       "id": "167127",
@@ -27348,9 +27348,9 @@
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
     },
     {
       "id": "356044",
@@ -28030,25 +28030,6 @@
           "role": "中后卫"
         },
         {
-          "id": "167127",
-          "name": "Luke Shaw",
-          "nameZh": "卢克·肖",
-          "shortName": "L. Shaw",
-          "shortNameZh": "卢克·肖",
-          "jersey": "23",
-          "position": "Defender",
-          "age": 31,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "D",
-          "role": "左后卫"
-        },
-        {
           "id": "238902",
           "name": "Diogo Dalot",
           "nameZh": "迪奥戈·达洛特",
@@ -28061,6 +28042,25 @@
           "nationalityZh": "葡萄牙",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "左后卫"
+        },
+        {
+          "id": "239350",
+          "name": "Noussair Mazraoui",
+          "nameZh": "努赛尔·马兹拉维",
+          "shortName": "N. Mazraoui",
+          "shortNameZh": "马兹拉维",
+          "jersey": "3",
+          "position": "Defender",
+          "age": 28,
+          "nationality": "Morocco",
+          "nationalityZh": "摩洛哥",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28189,7 +28189,7 @@
         },
         {
           "label": "经验值",
-          "value": 86
+          "value": 85
         },
         {
           "label": "攻守平衡",
@@ -28355,18 +28355,18 @@
           "role": "中后卫"
         },
         {
-          "id": "340206",
-          "name": "Leny Yoro",
-          "nameZh": "莱尼·约罗",
-          "shortName": "L. Yoro",
-          "shortNameZh": "约罗",
-          "jersey": "15",
+          "id": "239349",
+          "name": "Matthijs de Ligt",
+          "nameZh": "马泰斯·德利赫特",
+          "shortName": "M. de Ligt",
+          "shortNameZh": "德利赫特",
+          "jersey": "4",
           "position": "Defender",
-          "age": 20,
-          "nationality": "France",
-          "nationalityZh": "法国",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
+          "age": 27,
+          "nationality": "Netherlands",
+          "nationalityZh": "荷兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28419,7 +28419,7 @@
         },
         {
           "label": "经验值",
-          "value": 78
+          "value": 80
         },
         {
           "label": "攻守平衡",
@@ -28585,18 +28585,18 @@
           "role": "中后卫"
         },
         {
-          "id": "340206",
-          "name": "Leny Yoro",
-          "nameZh": "莱尼·约罗",
-          "shortName": "L. Yoro",
-          "shortNameZh": "约罗",
-          "jersey": "15",
+          "id": "239349",
+          "name": "Matthijs de Ligt",
+          "nameZh": "马泰斯·德利赫特",
+          "shortName": "M. de Ligt",
+          "shortNameZh": "德利赫特",
+          "jersey": "4",
           "position": "Defender",
-          "age": 20,
-          "nationality": "France",
-          "nationalityZh": "法国",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
+          "age": 27,
+          "nationality": "Netherlands",
+          "nationalityZh": "荷兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28649,7 +28649,7 @@
         },
         {
           "label": "经验值",
-          "value": 76
+          "value": 78
         },
         {
           "label": "攻守平衡",

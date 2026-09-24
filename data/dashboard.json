@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:29:08.818Z",
+  "updatedAt": "2026-09-24T04:48:32.288Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,20 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Could Man United replace Shaw with Mitchell?",
+      "published": "2026-09-24T01:49:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721031_1296x729_16-9.jpg",
+      "titleZh": "转移谣言、新闻：曼联能用米切尔取代肖吗？"
+    },
+    {
+      "title": "Eric Cantona 'wouldn't have joined' Man United if Jim Ratcliffe had been in charge in the 1990s",
+      "published": "2026-09-23T22:50:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50015330/eric-cantona-jim-ratcliffe-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721017_1296x729_16-9.jpg",
+      "titleZh": "如果吉姆·拉特克利夫（ Jim Ratcliffe ）在20世纪90年代掌权，埃里克·坎通纳（ Eric Cantona ） “不会加入”"
+    },
+    {
       "title": "Man United selling chunks of Old Trafford pitch",
       "published": "2026-09-23T16:35:56Z",
       "url": "https://www.espn.com/soccer/story/_/id/50013903/man-united-old-trafford-selling-pitch-pieces",
@@ -27089,23 +27103,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/49998485/man-united-harry-maguire-fulham-michael-carrick-premier-league",
       "image": "https://a.espncdn.com/photo/2026/0921/r1720012_1296x729_16-9.jpg",
       "titleZh": "哈里·马奎尔：曼联没有冒险对阵富勒姆，付出了代价"
-    },
-    {
-      "title": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
-      "published": "2026-09-21T11:06:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49997530/matheus-cunha-urges-calm-disproving-man-united-go-championship-fear",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1719949_1296x729_16-9.jpg",
-      "titleZh": "Matheus Cunha在反驳“曼联将参加锦标赛”的恐惧后敦促冷静"
-    },
-    {
-      "title": "Ruben Amorim: 'I can't repeat my mistakes' after Man United",
-      "published": "2026-09-21T11:09:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49997462/ruben-amorim-cant-repeat-my-mistakes-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0828/r1708048_1296x729_16-9.jpg",
-      "titleZh": "鲁本·阿莫林（ Ruben Amorim ） ：在曼联之后， “我不能重复我的错误”"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Could Man United replace Shaw with Mitchell?",
+      "published": "2026-09-24T01:49:20Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1721031_1296x729_16-9.jpg",
+      "titleZh": "转移谣言、新闻：曼联能用米切尔取代肖吗？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Man United transfer strategy 'financial sustainable' as losses increase - CEO",
       "published": "2026-09-23T13:57:35Z",

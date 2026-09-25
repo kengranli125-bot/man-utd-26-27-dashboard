@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:56:12.821Z",
+  "updatedAt": "2026-09-25T11:49:22.995Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,10 +27021,24 @@
   ],
   "news": [
     {
+      "title": "Barcelona sporting director: No interest in Man United's JJ Gabriel",
+      "published": "2026-09-25T09:36:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50026079/jj-gabriel-barcelona-deco-man-united",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721604_1296x729_16-9.jpg",
+      "titleZh": "巴塞罗那体育总监：对曼联的JJ Gabriel没有兴趣"
+    },
+    {
+      "title": "United Strand fan: Ruben Amorim told me 'sorry about that'",
+      "published": "2026-09-25T09:18:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50025973/united-stran-fan-ruben-amorim-told-sorry-that",
+      "image": "https://a.espncdn.com/photo/2026/0925/r1721603_861x484_16-9.png",
+      "titleZh": "United Strand粉丝： Ruben Amorim告诉我“很抱歉”"
+    },
+    {
       "title": "Man United's Leny Yoro handed surprise France call-up after Ibrahima Konaté injury",
-      "published": "2026-09-24T18:15:49Z",
+      "published": "2026-09-25T07:53:09Z",
       "url": "https://www.espn.com/soccer/story/_/id/50018535/leny-yoro-ibrahima-konate-france-nations-league-zinedine-zidane",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0922/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him/dm_260922_Lacroix_We_watched_Zidane_on_TV_now_we_can_train_with_him.jpg",
+      "image": "https://a.espncdn.com/photo/2026/0924/r1721174_1296x729_16-9.jpg",
       "titleZh": "曼联的莱尼·约罗（ Leny Yoro ）在易卜拉希马·科纳特（ Ibrahima Konaté ）受伤后突然"
     },
     {
@@ -27089,20 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49953407/soccer-wildest-warmup-kits-2026-27-good-bad-ugly",
       "image": "https://a.espncdn.com/photo/2026/0916/r1717453_1296x729_16-9.jpg",
       "titleZh": "2026-27年足球最狂野的热身套装：好、坏、丑"
-    },
-    {
-      "title": "Hislop: Manchester United's criticism isn't unwarranted",
-      "published": "2026-09-21T22:30:35Z",
-      "url": "https://www.espn.com/video/clip/_/id/50001083/manchester-united-criticism-unwarranted",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/dm_260921_Hislop_Manchester_Uniteds_criticism_isnt_unwarranted/dm_260921_Hislop_Manchester_Uniteds_criticism_isnt_unwarranted.jpg",
-      "titleZh": "希斯洛普：曼联的批评并非毫无道理"
-    },
-    {
-      "title": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
-      "published": "2026-09-21T23:40:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻： Mesloub取代曼联的Gabriel ？"
     }
   ],
   "transfers": [
@@ -27132,16 +27132,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50003301/transfer-rumors-news-liverpool-arsenal-man-city-race-feyenoord-defender",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720600_1296x729_16-9.jpg",
       "titleZh": "转移谣言、新闻：曼联希望Guirassy成为Zirkzee的潜在替代品",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Mesloub to replace Gabriel at Man United?",
-      "published": "2026-09-21T23:40:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49996901/transfer-rumors-news-arsenal-eye-versatile-dortmund-forward-beier",
-      "image": "https://a.espncdn.com/photo/2026/0921/r1720167_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻： Mesloub取代曼联的Gabriel ？",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

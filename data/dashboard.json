@@ -27667,15 +27667,63 @@
   ],
   "journalists": [
     {
-      "id": "Samuel Luckhurst:CBMidkFVX3lxTE4wRUV2RU5kdWM1Ry1mM2c0VDlWcjJZQzFIclJ6Wk9heWxGVXpiNWVXMU85U2daaS1QWTBUYzVlRFZoMWgzYjJidVlZd3JkTDNVSmJzSGNPRmNONFotQThkREhSRFlpQk9Fc1BKVlF1ZURQQzVlckE",
+      "id": "Samuel Luckhurst:CBMimgFBVV95cUxNVzloLURSMl9MMzlkYnZQZXFwUV9iTFI3WE1ncVNNNDFuRng5NC1pWVBaZGM1Y0RyNjhjdVRTODZpQVFJVVRrYTg5Qm81TGNqbUFaYTJreS1RSFJEZEg5WHRwbFBKaXZETzJDYjZMSU5LWHRYUm50RzVwZHhxQlp1TFNiVml5bFZseXh5U0ZBRHdJWnlVTUQtYXpn",
+      "reporter": "Samuel Luckhurst",
+      "reporterZh": "塞缪尔·勒克赫斯特",
+      "reporterOutlet": "曼彻斯特晚报",
+      "source": "The Irish Sun",
+      "tier": 2,
+      "title": "Player stance on Carrick revealed and Liverpool's demands for academy star",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVzloLURSMl9MMzlkYnZQZXFwUV9iTFI3WE1ncVNNNDFuRng5NC1pWVBaZGM1Y0RyNjhjdVRTODZpQVFJVVRrYTg5Qm81TGNqbUFaYTJreS1RSFJEZEg5WHRwbFBKaXZETzJDYjZMSU5LWHRYUm50RzVwZHhxQlp1TFNiVml5bFZseXh5U0ZBRHdJWnlVTUQtYXpn?oc=5",
+      "published": "2026-09-25T15:53:36.000Z",
+      "titleZh": "球员对卡里克的立场和利物浦对青训明星的要求"
+    },
+    {
+      "id": "David Ornstein:CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester City found guilty on almost all Premier League charges relating to financial breaches - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUxLdVdlNk9kWGVQRC1sVEZiUjJjM0pUa0tZTk9VU0ZwS0YwUzRkdmlDd3FscDBYeFNlTTZRaE82WVNHR0NyajhabjdOeHZPb3RaU3B6RTBlOE53dk55Q3dheUI1MWJNbm80SDgwQ2RnOTMyTk5leks4WEJTOVRnc19ZdEFhY0hQem5jSFNfczcyQVpBNHVSakM3Z2x5eTZp?oc=5",
+      "published": "2026-09-25T15:47:36.000Z",
+      "titleZh": "曼城被判犯有几乎所有与财务违规有关的英超指控- The Athletic"
+    },
+    {
+      "id": "David Ornstein:CBMisAFBVV95cUxQS0NLeXFIRFlQejF4aEYyMERrSnY4eWJpU09GTk1HTk1vM3Mwb0FNbVVldVZNSzdOUFJQaW5kVUxrQkxxUVMzNUN4ZldlVjcxeDRRSndiQXp0bmF5RmF4TmUtVk1PMG5GTU9GRXVMaXZVMjhDQTJRdUZMOWFFWlVIYjF1R1ptM21sVHprWXQxZFpHTnFSbVp5WG9qVGcwRjVQdWwtQkJ0aTNLa1pNR0hKMg",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man City FFP: Ornstein reveals bombshell verdict with next steps - 'guilty on almost all charges'",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0NLeXFIRFlQejF4aEYyMERrSnY4eWJpU09GTk1HTk1vM3Mwb0FNbVVldVZNSzdOUFJQaW5kVUxrQkxxUVMzNUN4ZldlVjcxeDRRSndiQXp0bmF5RmF4TmUtVk1PMG5GTU9GRXVMaXZVMjhDQTJRdUZMOWFFWlVIYjF1R1ptM21sVHprWXQxZFpHTnFSbVp5WG9qVGcwRjVQdWwtQkJ0aTNLa1pNR0hKMg?oc=5",
+      "published": "2026-09-25T15:34:56.000Z",
+      "titleZh": "曼城FFP ： Ornstein在接下来的步骤中揭示了重磅炸弹判决- “几乎所有指控都有罪”"
+    },
+    {
+      "id": "David Ornstein:CBMijAFBVV95cUxOQzVGU042NzZIMUgtQVZOdzRFR2s0emc4bGxCMnVhTjhtdmdCblpMUm1ibXR4V2JwRzlxSE56X09raE0tcEQ4UTU5Wk5mRVRvbG9URHl5RF8zTUJFSDVWN0lfOWVzclFpRU9VNVA2SURyLWR4aWhfNG9sMjNSVVVOQkFIVm1lU0NoREZpRw",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "Report: Manchester City found guilty on 114 charges",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzVGU042NzZIMUgtQVZOdzRFR2s0emc4bGxCMnVhTjhtdmdCblpMUm1ibXR4V2JwRzlxSE56X09raE0tcEQ4UTU5Wk5mRVRvbG9URHl5RF8zTUJFSDVWN0lfOWVzclFpRU9VNVA2SURyLWR4aWhfNG9sMjNSVVVOQkFIVm1lU0NoREZpRw?oc=5",
+      "published": "2026-09-25T14:10:00.000Z",
+      "titleZh": "报告：曼城因114项指控被判有罪"
+    },
+    {
+      "id": "Samuel Luckhurst:CBMidEFVX3lxTE0zMGliaGxZcW1tNG1OVVlnNDhPZ3hFUHlXU01ETmtDajZDT2dCZzZYR2hmcmZ1WlVWazZOajl3VlhzUElvYU5VcXNiTjUxVVZ6T2w0OFBMYVVNc0x6Q24tcE9kSnlyYUJoTzlMVDR3MnhRVFdK",
       "reporter": "Samuel Luckhurst",
       "reporterZh": "塞缪尔·勒克赫斯特",
       "reporterOutlet": "曼彻斯特晚报",
       "source": "The Irish Sun",
       "tier": 2,
       "title": "Man Utd may be forced to rip up transfer policy with planned defensive rebuild next summer",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wRUV2RU5kdWM1Ry1mM2c0VDlWcjJZQzFIclJ6Wk9heWxGVXpiNWVXMU85U2daaS1QWTBUYzVlRFZoMWgzYjJidVlZd3JkTDNVSmJzSGNPRmNONFotQThkREhSRFlpQk9Fc1BKVlF1ZURQQzVlckE?oc=5",
-      "published": "2026-09-25T11:38:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zMGliaGxZcW1tNG1OVVlnNDhPZ3hFUHlXU01ETmtDajZDT2dCZzZYR2hmcmZ1WlVWazZOajl3VlhzUElvYU5VcXNiTjUxVVZ6T2w0OFBMYVVNc0x6Q24tcE9kSnlyYUJoTzlMVDR3MnhRVFdK?oc=5",
+      "published": "2026-09-25T11:38:31.000Z",
       "titleZh": "曼联可能被迫取消转会政策，计划明年夏天进行防御性重建"
     },
     {
@@ -27683,7 +27731,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "The Empire of The Kop",
+      "source": "empireofthekop.com",
       "tier": 1,
       "title": "Manchester United set to officially confirm rare Liverpool transfer blow",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUhVWU9SU3lzV1VldTYtaVBnMHlQQ3Nvazh3SkhBZ1dMajlvbjkyXzZqV0VncDFLaDE0azU1bFdqNHpNdU5uWFd1U1NiMkxXbmhhbDBmeTdyOGtLLUZ5TTZfVmI0dkFUYkZLVE9QbDlBOE5aMDBNbnhpSVFqVGhhLWE1dHJzeDE1bnNieWtTd0NVYzA3a3hBT1pxSm1QMXV3YUVPeFNaRFBTUWs1ZVdMa056Mk5lQdIBuwFBVV95cUxQU0YwVXlXYUVCVUtJekpXVFREUHZ3Tm5tNWVEQWdfc0lWWVNPbVlEQ1haX3J4NHZ2R3JKZDlTbXY2UWloV3I0QmlrMmp4SHdvTHZuNHlyQ1hBMTlfeHdBZHp3b25ZNlR4M3NIRlNJR1VjV3dFRnNUZXFHVE5MZzNpZFBZZC1zTVhqbDVyRjlORWNkRWpqRjNlMzR2ZmJXRWd5M294bVRmMHM4TXdmRDZBZURWWXgtMnhaN2NB?oc=5",
@@ -27727,18 +27775,6 @@
       "titleZh": "喀麦隆对象牙海岸方框得分- 2026年10月3日-田径"
     },
     {
-      "id": "Simon Stone:CBMia0FVX3lxTFBtWWlhSTkydjVBWkM3REtkQzAxUTNZa29tWjB3MFFuSjc0SkpPTE9XRWNkOW9ldUtpWFI0b0Q1QkNaYjlrdTFpR1l2ZXRjQzY2VGVkZVlKN1RuNDI5eEVFWVJpa2pOendMNFdr",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd borrow another £90m to take debt to more than £1.1bn",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtWWlhSTkydjVBWkM3REtkQzAxUTNZa29tWjB3MFFuSjc0SkpPTE9XRWNkOW9ldUtpWFI0b0Q1QkNaYjlrdTFpR1l2ZXRjQzY2VGVkZVlKN1RuNDI5eEVFWVJpa2pOendMNFdr?oc=5",
-      "published": "2026-09-24T22:22:43.000Z",
-      "titleZh": "曼联再借入9000万£ ，债务超过11亿£"
-    },
-    {
       "id": "Andy Mitten:CBMiigFBVV95cUxQNDdWYktQX0dEc3pSR3FPTVRnWHdydzI2M0RyemVhQ3lkNnhOY19JSmRnZ29sOUNvWngta0VXU3J6N3pFUklxQjN5VzNjN3BRWHg3SjlQdmZsNmtncWlueXI1bDZkNzVfQ1ZwZm9tWmZoVjVMOTdPaTVlLUJRb1RWcVNoU2diRXJOWkE",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -27747,8 +27783,20 @@
       "tier": 2,
       "title": "Man Utd have just signed the new Wilfried Zaha",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDdWYktQX0dEc3pSR3FPTVRnWHdydzI2M0RyemVhQ3lkNnhOY19JSmRnZ29sOUNvWngta0VXU3J6N3pFUklxQjN5VzNjN3BRWHg3SjlQdmZsNmtncWlueXI1bDZkNzVfQ1ZwZm9tWmZoVjVMOTdPaTVlLUJRb1RWcVNoU2diRXJOWkE?oc=5",
-      "published": "2026-09-24T20:22:13.000Z",
+      "published": "2026-09-25T00:06:06.000Z",
       "titleZh": "曼联刚刚签下了新的威尔弗里德·扎哈"
+    },
+    {
+      "id": "James Ducker:CBMilwFBVV95cUxNWi1GbG15M2VPQmVuMWpyRkQtRWdnQzhrQkk3cEMwRlBxbk5YcXNVSXJnaXdTZVpjSllVV19MbFBmTHA5M1hTbjNhWkEyQThHVER4QkdSS2FaN3hTamQ1Vk13QXlCWW13SjhBcmpRMzRNaWpWem4tUjY4NWUyeE43WlJ5ZFQ3QVNqNktMNXNBcy1jWFVHNlZN",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Barcelona ‘not interested’ in JJ Gabriel move",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWi1GbG15M2VPQmVuMWpyRkQtRWdnQzhrQkk3cEMwRlBxbk5YcXNVSXJnaXdTZVpjSllVV19MbFBmTHA5M1hTbjNhWkEyQThHVER4QkdSS2FaN3hTamQ1Vk13QXlCWW13SjhBcmpRMzRNaWpWem4tUjY4NWUyeE43WlJ5ZFQ3QVNqNktMNXNBcy1jWFVHNlZN?oc=5",
+      "published": "2026-09-24T20:00:00.000Z",
+      "titleZh": "巴塞罗那对JJ Gabriel的举动“不感兴趣”"
     },
     {
       "id": "Laurie Whitwell:CBMimwFBVV95cUxQeksyM3dRN2Y1MndydVMwLVNMYklXVTlnZkpoRldnamt0VWRCWUlMR0FSdVQzVi1LQWhXQzJUanRJUGZ5M1VFaFpILWlKMXV2UFlGeDBmLVYxWk83SmVUWFFkRC1keGItY0lheVhjenljcWI4RWp3YmlfVjhfWDZaNmZma0RndkxkTnZHZDloZUppQ1FuckJ4WXNiVQ",
@@ -27785,6 +27833,18 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0ZpbXV6ek1HeWk1Q0JPSzNYNEhNQnJJcDYzcWo4aWJuNzJ2ZXBPWllVMTBWdjU2bnZpSkIwMl9JQTFHNTNhUFZIUVcwN1hHazlGNGFFYUladnFINnYxNXlmX0FrOGJFVFJHXzZNWnJDbDJUbGRRWDF6ZTlwMVZtTWhkT0E4clRRSFRTaVhfb2EzQnliOFVzR2VuV3NzdnR3NWc?oc=5",
       "published": "2026-09-23T13:51:00.000Z",
       "titleZh": "经历了一年的亏损后，曼联以125 £的价格出售草地"
+    },
+    {
+      "id": "Chris Wheeler:CBMif0FVX3lxTE1PVXpxVDZrTWVxOG9hYnpJd0Q4Y3dUQ1Nhdmxvd3JjQkxlY2NNd05EZVVVTndUZVFJdkVBcHFTSzY0MnRwM2dENVhXNTB6cHZzMVFidVZPclZDakh6d1NoNGllcWozeGk1Z0o0YmVfYlcyMEdkUnN0Vmh5bGp3NlnSAYQBQVVfeXFMUEFLOU5FdC16dkg4R2xtRlZ4VUI1aHZ2TjVjYzRvZGpfLWlSaEdocDh6dm5pOGtoX0RfZGF4VURJTVRuYTBZeTdzbVNXNGRvM1BGWXV1TW44T0hObnpBSjd5a1o3ZHZVZFRVN2tJTVR6RmI3a0VDMkZ3a0lOcm1MSEg0YVR0",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "utdreport.co.uk",
+      "tier": 2,
+      "title": "Man Utd star seeking new agent after failed summer transfer – January exit inevitable?",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PVXpxVDZrTWVxOG9hYnpJd0Q4Y3dUQ1Nhdmxvd3JjQkxlY2NNd05EZVVVTndUZVFJdkVBcHFTSzY0MnRwM2dENVhXNTB6cHZzMVFidVZPclZDakh6d1NoNGllcWozeGk1Z0o0YmVfYlcyMEdkUnN0Vmh5bGp3NlnSAYQBQVVfeXFMUEFLOU5FdC16dkg4R2xtRlZ4VUI1aHZ2TjVjYzRvZGpfLWlSaEdocDh6dm5pOGtoX0RfZGF4VURJTVRuYTBZeTdzbVNXNGRvM1BGWXV1TW44T0hObnpBSjd5a1o3ZHZVZFRVN2tJTVR6RmI3a0VDMkZ3a0lOcm1MSEg0YVR0?oc=5",
+      "published": "2026-09-23T12:38:42.000Z",
+      "titleZh": "曼联球星在夏季转会失败后寻找新经纪人– 1月退出是不可避免的？"
     },
     {
       "id": "Rob Dawson:CBMiugFBVV95cUxPWExWZi1mZG1vdzFaVU8xelJRWVU4QjFEbkRyX3gxX2I5Y291aWVfanlRNllEN0RubkVVY3hqQ2JwT2tldHBGcWJ0d2ptbTYwa2VFLVpXVDBZS3o1VVQ2UHE5Sk1JYXRCdXRMVkxPTFVhbnVnWkR4Rk05MGN5M0ZoOVQtX1ozSmxTOUt5Ujlib0FIVGFaZWpBZlNlV3RQVUctUDNrTEFMSUx5andKeWpmcF9JNENtUWFBTGc",
@@ -27893,69 +27953,9 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWdYS3IyS05DMmFZcE9ZOGtfMEFrb25LTnhxN1hLVTdfVU9mV1dLN0JLeno5Qkd2X2R0Y29NcGVvcHE5M2tOMDNtYWtxaXJDdGk4bzlaaTBDNUFnQ2NvSXctakRNdGJ0MTh3M1BSRnhsTmJZV25vdldxejhDLUYxOFlSWkZfNEJhTDFYODhXc0dPYUk?oc=5",
       "published": "2026-09-21T15:11:14.000Z",
       "titleZh": "Man Utd to block Benjamin Sesko from joining Slovenia on international duty over shin injury"
-    },
-    {
-      "id": "Andy Mitten:CBMizAFBVV95cUxQYllXdDEzbjA0ckxSM2lKSUlNdUhkdVd4YWE4N0hoUHdmNEJjR3RVWW9KMjBJeXlvdVJlRUZzQ2Y4RTRJdWFyZUlWbkc1clBEb1czXzVhcHVVbFBwbXMyQzFIUW9fLUJfa0s4TFExRXBKRk1IbFVVVWhiSGtsZTB6azREMEtNM05UMTc4RjkyTE1TUUhaZFE2WFNqdnVpSi1icHlVV1V4TmRIdHVWMWQtZU84ejc2TWlqQktsYnI1aFlXQXR2bWpaRzluUm8",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "thenationalnews.com",
-      "tier": 2,
-      "title": "Matheus Cunha looks forward to 'big month' for Manchester United in October",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYllXdDEzbjA0ckxSM2lKSUlNdUhkdVd4YWE4N0hoUHdmNEJjR3RVWW9KMjBJeXlvdVJlRUZzQ2Y4RTRJdWFyZUlWbkc1clBEb1czXzVhcHVVbFBwbXMyQzFIUW9fLUJfa0s4TFExRXBKRk1IbFVVVWhiSGtsZTB6azREMEtNM05UMTc4RjkyTE1TUUhaZFE2WFNqdnVpSi1icHlVV1V4TmRIdHVWMWQtZU84ejc2TWlqQktsYnI1aFlXQXR2bWpaRzluUm8?oc=5",
-      "published": "2026-09-21T11:12:26.000Z",
-      "titleZh": "Matheus Cunha looks forward to 'big month' for Manchester United in October"
-    },
-    {
-      "id": "Rob Dawson:CBMitgFBVV95cUxNRS0yNWxya1lxZXJqT1ZjdFFjWlBXMmJ3NVVOQ1lhUFhTTHVpSW4zZjItSW1JTGpaeVY3V0RHUGxQWHV5V1I2bDcxZ2VNQ21hNDllUXNpbEhjOWt2UDhYTjBiU1pjR1dGTVFSMllNZzJqVy1uT2N2QXF4bkM3d1hnT2gyTDd1dVQ5SnpXOENqaG5VWkZ2RS1sWGdaV2dMTGZMeC0zbHJnSXVDOEdlcGFXRFdXRlBEdw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRS0yNWxya1lxZXJqT1ZjdFFjWlBXMmJ3NVVOQ1lhUFhTTHVpSW4zZjItSW1JTGpaeVY3V0RHUGxQWHV5V1I2bDcxZ2VNQ21hNDllUXNpbEhjOWt2UDhYTjBiU1pjR1dGTVFSMllNZzJqVy1uT2N2QXF4bkM3d1hnT2gyTDd1dVQ5SnpXOENqaG5VWkZ2RS1sWGdaV2dMTGZMeC0zbHJnSXVDOEdlcGFXRFdXRlBEdw?oc=5",
-      "published": "2026-09-21T10:51:00.000Z",
-      "titleZh": "Matheus Cunha在反驳“曼联将参加锦标赛”的恐惧后敦促冷静"
-    },
-    {
-      "id": "David Ornstein:CBMi5wFBVV95cUxQeUZsYVllM1FFeW5PbnRsa1FDS2w3QmpJOENQN3F6Z1lNVVp2X0RCLWMtLXRteFFUbXBhWENuMlZHU29uY21IME9lMDdjX1R4NFYzTm1Ta0hUaUstTk9MWWpZRS1TMHdsQXJfSnFtRjNSZHhxV0VhSGZ4cnVNSDZHSTFnd0p4OXRSMkppeG42TWhWM2hCRVpQZFVjVjJ0d2g3a0NwOU1JWnpPYU1ocnB4ZkFUUnF4ZzktUU45ajdBNnNiRjR3eE1yRmpVM1dTSW1UQ3JYa2lDZ0theFBpM0VuSTN2ZUwxQXM",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "LiveScore",
-      "tier": 1,
-      "title": "Not only Rashford – Ornstein reveals Man Utd’s ‘best player’ picked up a knock at Fulham",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeUZsYVllM1FFeW5PbnRsa1FDS2w3QmpJOENQN3F6Z1lNVVp2X0RCLWMtLXRteFFUbXBhWENuMlZHU29uY21IME9lMDdjX1R4NFYzTm1Ta0hUaUstTk9MWWpZRS1TMHdsQXJfSnFtRjNSZHhxV0VhSGZ4cnVNSDZHSTFnd0p4OXRSMkppeG42TWhWM2hCRVpQZFVjVjJ0d2g3a0NwOU1JWnpPYU1ocnB4ZkFUUnF4ZzktUU45ajdBNnNiRjR3eE1yRmpVM1dTSW1UQ3JYa2lDZ0theFBpM0VuSTN2ZUwxQXM?oc=5",
-      "published": "2026-09-21T09:28:31.000Z",
-      "titleZh": "不仅仅是拉什福德–奥恩斯坦透露曼联的“最佳球员”在富勒姆受到了打击"
-    },
-    {
-      "id": "Andy Mitten:CBMinAFBVV95cUxPUWY5a1BBR1RnN0U4WlRISmw4blhyNE51eTZ0NFc4aWpOaDY2VGhrVThrS3NxVk1PY3QtOUs1SHBsdVRuZ0phUGJmZWtNeWRoTTVtaTZnUG5UYTh6eEJ5cFB1T2xaTVdkd0xvNFBlWnkwYmFzTkdyWmxaVkhmdmtpRVI0TXBFbnlJVWJDWDkwR3hNSTNoUG9tQUpNMno",
-      "reporter": "Andy Mitten",
-      "reporterZh": "安迪·米滕",
-      "reporterOutlet": "曼联资深记者",
-      "source": "The New York Times",
-      "tier": 2,
-      "title": "Ask Andy Mitten your Manchester United questions",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWY5a1BBR1RnN0U4WlRISmw4blhyNE51eTZ0NFc4aWpOaDY2VGhrVThrS3NxVk1PY3QtOUs1SHBsdVRuZ0phUGJmZWtNeWRoTTVtaTZnUG5UYTh6eEJ5cFB1T2xaTVdkd0xvNFBlWnkwYmFzTkdyWmxaVkhmdmtpRVI0TXBFbnlJVWJDWDkwR3hNSTNoUG9tQUpNMno?oc=5",
-      "published": "2026-09-21T09:00:35.000Z",
-      "titleZh": "向Andy Mitten询问您的曼联问题"
-    },
-    {
-      "id": "David Ornstein:CBMimgFBVV95cUxQRjkyRGxPSlJXT0JvX2NyS09fN3Y5WGZwbWJ5NTJheC1lelFfdlRfaTlkdTl3VEF4ZWpFQldqa0NKY1RmVXNTdWhoNmpNUFo1aXdGSzY3Z0I1c3oxTW54NmYyZjBGYmNOUFJNYmRDRDRLMEpCTk1EdXEyV2JybmtrdkJQUGJob0hndUJZZ3FBb2hhNE0wZDZqY3RR",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Ornstein names Chelsea, Man Utd stars to withdraw from England squad, replacement revealed",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjkyRGxPSlJXT0JvX2NyS09fN3Y5WGZwbWJ5NTJheC1lelFfdlRfaTlkdTl3VEF4ZWpFQldqa0NKY1RmVXNTdWhoNmpNUFo1aXdGSzY3Z0I1c3oxTW54NmYyZjBGYmNOUFJNYmRDRDRLMEpCTk1EdXEyV2JybmtrdkJQUGJob0hndUJZZ3FBb2hhNE0wZDZqY3RR?oc=5",
-      "published": "2026-09-21T07:38:07.000Z",
-      "titleZh": "奥恩斯坦命名切尔西，曼联明星退出英格兰队，替补透露"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-25T13:01:53.647Z",
+  "journalistsUpdatedAt": "2026-09-25T17:55:43.878Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -19,7 +19,8 @@ globalThis.fetch = async url => {
     item('Man Utd legend David de Gea reacts to Man City FFP guilty verdict', 'LiveScore', 'mention'),
     item('Manchester United transfer update', 'The New York Times', 'original'),
     item('Ornstein reveals Manchester United transfer plan', 'Football365', 'credited'),
-    item('David Ornstein profile: Manchester United fan reaction', 'Football365', 'profile')
+    item('David Ornstein profile: Manchester United fan reaction', 'Football365', 'profile'),
+    item('Further Manchester United update', 'The Athletic', 'after-four')
   ] : name.includes('Fabrizio Romano') ? [
     item('Man Utd target: Romano confirms talks', 'Football365', 'romano-credit'),
     item('Fabrizio Romano at Manchester United event', 'LiveScore', 'romano-mention')
@@ -31,7 +32,7 @@ globalThis.fetch = async url => {
   assert.equal(run.status, 0, run.stderr);
   const { journalists } = JSON.parse(await readFile(join(root, 'data/dashboard.json'), 'utf8'));
   assert.deepEqual(journalists.map(({ id }) => id).sort(), [
-    'David Ornstein:original', 'David Ornstein:credited', 'Fabrizio Romano:romano-credit'
+    'David Ornstein:original', 'David Ornstein:credited', 'David Ornstein:after-four', 'Fabrizio Romano:romano-credit'
   ].sort());
   console.log('Journalist attribution check passed.');
 } finally {

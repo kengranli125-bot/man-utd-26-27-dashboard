@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:52:11.243Z",
+  "updatedAt": "2026-09-28T23:15:14.365Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,13 @@
   ],
   "news": [
     {
+      "title": "Patrick Dorgu returns to Man United after suspected hamstring injury with Denmark",
+      "published": "2026-09-28T13:59:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50051711/patrick-dorgu-man-united-hamstring-injury-denmark",
+      "image": "https://a.espncdn.com/photo/2026/0928/r1722854_1296x729_16-9.jpg",
+      "titleZh": "帕特里克·多古（ Patrick Dorgu ）在丹麦怀疑腿筋受伤后返回曼联"
+    },
+    {
       "title": "JJ Gabriel and the 'nightmare' battle for Premier League academy talent",
       "published": "2026-09-27T11:33:54Z",
       "url": "https://www.espn.com/soccer/story/_/id/50006976/jj-gabriel-nightmare-battle-premier-league-academy-talent",
@@ -27096,13 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50004798/benjamin-šeško-vows-fully-dedicate-recovery-man-united-injury-setback",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720362_1296x729_16-9.jpg",
       "titleZh": "本杰明·舍什科（ Benjamin Šeško ）誓言在曼联受伤挫折后“全身心投入”康复"
-    },
-    {
-      "title": "Man United-linked Lewis Hall: 'No-brainer' to stay at Newcastle",
-      "published": "2026-09-22T10:48:58Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50004227/man-united-linked-lewis-hall-no-brainer-stay-newcastle-united-transfer",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720332_1296x729_16-9.jpg",
-      "titleZh": "与曼联有联系的刘易斯·霍尔（ Lewis Hall ） ：留在纽卡斯尔的“明智之举”"
     }
   ],
   "transfers": [
@@ -27314,9 +27314,9 @@
       "nationalityZh": "丹麦",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
     },
     {
       "id": "340206",
@@ -28317,18 +28317,18 @@
           "role": "中场"
         },
         {
-          "id": "366781",
-          "name": "Patrick Dorgu",
-          "nameZh": "帕特里克·多尔古",
-          "shortName": "P. Dorgu",
-          "shortNameZh": "多尔古",
-          "jersey": "13",
+          "id": "238902",
+          "name": "Diogo Dalot",
+          "nameZh": "迪奥戈·达洛特",
+          "shortName": "D. Dalot",
+          "shortNameZh": "达洛特",
+          "jersey": "2",
           "position": "Defender",
-          "age": 21,
-          "nationality": "Denmark",
-          "nationalityZh": "丹麦",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+          "age": 27,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28419,7 +28419,7 @@
         },
         {
           "label": "经验值",
-          "value": 80
+          "value": 82
         },
         {
           "label": "攻守平衡",

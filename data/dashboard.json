@@ -27677,15 +27677,39 @@
   ],
   "journalists": [
     {
-      "id": "Fabrizio Romano:CBMi3wFBVV95cUxQdnV5YmYyZG9wU0lxWG42NzZ2MzE2VGRwX3MzbS1tNGNXYXN1SnBGdnd6SFhCNVFoa1hGbzNnbElmWF9wdDhLQ0ZQRFhOMFowZDBTSDZna0YtS3J4MkZGNDZ1STlOTzJRZXRTRVc4QjVPR0k3UWVLNFVHQUhmTGplZTVlYTVkMzNqWTVFYVhHTEJtWjloLTc4em9VRFl0aVppZ0pva0oyYWIzdzc2TG5nS2pJUXBDZWpySlZ0V25sMUpOdXBxbmVLUFF4cFZ6dl9sajg4cWxlOG5oMHZmaVVZ",
+      "id": "Rob Dawson:CBMingFBVV95cUxNSUhWSkJJOExLS2xXYnQtV3JRQ3daVTN3cjRIMFB2RzRudXpBVDdoOGRfdGNlNTNCVVRxS21GSFBGRTVYMzM2VjBrUjNtNm1YRVd6dVVDMDgxVlRQSDVfbUxqaUwwUmR4Z1BFZDl3ZE9aZUJOODBHdXI4LTVaYW5ZRWViaTRCTjFiVkVQSFJJUXNxTTZvTjY0TWxvNlU5QQ",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Patrick Dorgu returns to Man United after suspected hamstring injury with Denmark",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUhWSkJJOExLS2xXYnQtV3JRQ3daVTN3cjRIMFB2RzRudXpBVDdoOGRfdGNlNTNCVVRxS21GSFBGRTVYMzM2VjBrUjNtNm1YRVd6dVVDMDgxVlRQSDVfbUxqaUwwUmR4Z1BFZDl3ZE9aZUJOODBHdXI4LTVaYW5ZRWViaTRCTjFiVkVQSFJJUXNxTTZvTjY0TWxvNlU5QQ?oc=5",
+      "published": "2026-09-28T13:59:00.000Z",
+      "titleZh": "帕特里克·多古（ Patrick Dorgu ）在丹麦怀疑腿筋受伤后返回曼联"
+    },
+    {
+      "id": "Fabrizio Romano:CBMinAFBVV95cUxQYWRHSF8tWnFWTHQ2R2tDVGhHSjNod2NBckw4Y3BqRFlYSTJ6WXM5QUVBQlZrRVRYcmUxQ2NoQ1g1RUx2bHlCeEg5aHNYNm02dHd5M1AyaE9yamxsdFY2d2JqSTNHT3BjVS1NdlVkaGdZejdPaDVuUDJfQkdxMXVPMXZiTTFvOVFfQUlKWHFZb3VGTFhJbkpJTlRuTUk",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "LiveScore",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd reach verdict on paying £8.8m to sack Carrick as Romano reveals internal feelings on head coach",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWRHSF8tWnFWTHQ2R2tDVGhHSjNod2NBckw4Y3BqRFlYSTJ6WXM5QUVBQlZrRVRYcmUxQ2NoQ1g1RUx2bHlCeEg5aHNYNm02dHd5M1AyaE9yamxsdFY2d2JqSTNHT3BjVS1NdlVkaGdZejdPaDVuUDJfQkdxMXVPMXZiTTFvOVFfQUlKWHFZb3VGTFhJbkpJTlRuTUk?oc=5",
+      "published": "2026-09-28T09:07:43.000Z",
+      "titleZh": "曼联裁定支付880万美元解雇卡里克（ £ 880万） ，因为罗马诺透露了主教练的内心感受"
+    },
+    {
+      "id": "Fabrizio Romano:CBMirAFBVV95cUxNeWNOTnRlYmZtblpjbGRUTHFLaDZYcGdpTzhTS1N6cDJUaE9rMGptU2JQY09ZREtYb0RncUx0TG41Q3Q0NTQ5V1JHNzd4TVZtTGpRUC1PZjFtWWljdHk1dTIzWVRLdGdiNElXVzBweHFUb3BpUHNuaHJjRmV4ZkxjVGFkRTJSNVRoS2Z3bklTSzZCYzNFY2NBSF9MY1FXMDRXRjZPMWRqUTRzUTY2",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
       "tier": 1,
       "title": "Fabrizio Romano reveals whether Man Utd players want Michael Carrick sacked",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdnV5YmYyZG9wU0lxWG42NzZ2MzE2VGRwX3MzbS1tNGNXYXN1SnBGdnd6SFhCNVFoa1hGbzNnbElmWF9wdDhLQ0ZQRFhOMFowZDBTSDZna0YtS3J4MkZGNDZ1STlOTzJRZXRTRVc4QjVPR0k3UWVLNFVHQUhmTGplZTVlYTVkMzNqWTVFYVhHTEJtWjloLTc4em9VRFl0aVppZ0pva0oyYWIzdzc2TG5nS2pJUXBDZWpySlZ0V25sMUpOdXBxbmVLUFF4cFZ6dl9sajg4cWxlOG5oMHZmaVVZ?oc=5",
-      "published": "2026-09-28T07:18:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWNOTnRlYmZtblpjbGRUTHFLaDZYcGdpTzhTS1N6cDJUaE9rMGptU2JQY09ZREtYb0RncUx0TG41Q3Q0NTQ5V1JHNzd4TVZtTGpRUC1PZjFtWWljdHk1dTIzWVRLdGdiNElXVzBweHFUb3BpUHNuaHJjRmV4ZkxjVGFkRTJSNVRoS2Z3bklTSzZCYzNFY2NBSF9MY1FXMDRXRjZPMWRqUTRzUTY2?oc=5",
+      "published": "2026-09-28T06:47:32.000Z",
       "titleZh": "法布里奇奥·罗马诺揭示曼联球员是否希望解雇迈克尔·卡里克"
     },
     {
@@ -27723,18 +27747,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVJ2QmFhZ1poTGoxTTE2T0UtU2gxZXJZX3dsNzlER1hKSE93UUhuWEhoLXRjRFFPLXk0bFplSzZwTkRoTXZYaXRrc0xqR25iV09pTXBsNUdjcE9YZFdQQXRUbVk1MHlzemJldVJRbzFlbVR4SzZXTF91VENDQVZoak9RVzJPOUlIejhmVWZNSUxwV0xSS0pZX3JxZ1hJZw?oc=5",
       "published": "2026-09-26T21:45:00.000Z",
       "titleZh": "17岁的卡里姆·卡西姆（ Karim Cassim ）完成了曼联从曼城的转会-体育"
-    },
-    {
-      "id": "Laurie Whitwell:CBMikgFBVV95cUxNQmhSbUtzem5lTUN5YlZIUjJwT0hiMnN6d09uTmtIenRKajhwV01VUm9ISHEzT1hFYjhzYWZxZ21tM25YdXc1S3VQbWxWd2dmZGxzTEsxbVRhYmV1eUpHRHhpaTZWMjVBWllpdUdlMDBIRHZjbGlRNGJfbFA2OVhSQ0lHSUhTbFVpSXJ6ZktrQ3hxQQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Cameroon vs Ivory Coast Box Score - October 03, 2026 - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQmhSbUtzem5lTUN5YlZIUjJwT0hiMnN6d09uTmtIenRKajhwV01VUm9ISHEzT1hFYjhzYWZxZ21tM25YdXc1S3VQbWxWd2dmZGxzTEsxbVRhYmV1eUpHRHhpaTZWMjVBWllpdUdlMDBIRHZjbGlRNGJfbFA2OVhSQ0lHSUhTbFVpSXJ6ZktrQ3hxQQ?oc=5",
-      "published": "2026-09-26T13:50:24.000Z",
-      "titleZh": "喀麦隆对象牙海岸方框得分- 2026年10月3日-田径"
     },
     {
       "id": "David Ornstein:CBMilAFBVV95cUxNYmVIeWZJN3ZiWVo5endhc0JUbThDeXE5RW9ibjdEeWNsX2ZHeDBSSko1a3JWNjNYUWE3YzNXOHZhaWphaldwSlVNVHh4MWRlU092VGpPMG9HWlNGenVlM1EtSkpJVFpUa0FuOW1TckN4aVJQWmQ3QndzY3pIR2lyRG9oZkFBeS1GZEVyc2FsTUVoa2xY",
@@ -27777,7 +27789,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Manchester United have cut 322 jobs under Sir Jim Ratcliffe",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtTMFlUT1lGMHZ2NjFEVFBzMng4R0xNdkpSY1NqblZaVnZuQzQ3bTUtUTB3UlMxdkxDX0Nvd091UERVMnNaLW5oaW1QaWRLRkNLd291YnJDVVFGeFZvdzVfc1BHX0dxZk9yVFozT2lVRG1iOG9LamVJbnF3NzF6WnZMUGNDNGRqUHJZX3pPYzNQYzdsWXBQanNYWUM2R210T3YtbEdnaw?oc=5",
@@ -27797,11 +27809,23 @@
       "titleZh": "曼联“提供” 1月份的巴塞罗那球星，因为罗马诺确认新签约“将宣布”"
     },
     {
+      "id": "Simon Stone:CBMiaEFVX3lxTE1SQ3ExWFVEM0w3YUtBNlBscURfbHNSX0ZVbGFIQUd6V2Uxd1YydC1CZzVqbFFtZjlDRFZ2S01iSENuTzBTRWVnNnM4bVpjSUdsT2l1aEhNQ2RsbklDUWZ3aDJtLUowazIy",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd borrow another £90m to take debt to more than £1.1bn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SQ3ExWFVEM0w3YUtBNlBscURfbHNSX0ZVbGFIQUd6V2Uxd1YydC1CZzVqbFFtZjlDRFZ2S01iSENuTzBTRWVnNnM4bVpjSUdsT2l1aEhNQ2RsbklDUWZ3aDJtLUowazIy?oc=5",
+      "published": "2026-09-24T22:22:43.000Z",
+      "titleZh": "Man Utd再借入9000万£ ，以承担超过11亿£的债务"
+    },
+    {
       "id": "James Ducker:CBMilwFBVV95cUxNWi1GbG15M2VPQmVuMWpyRkQtRWdnQzhrQkk3cEMwRlBxbk5YcXNVSXJnaXdTZVpjSllVV19MbFBmTHA5M1hTbjNhWkEyQThHVER4QkdSS2FaN3hTamQ1Vk13QXlCWW13SjhBcmpRMzRNaWpWem4tUjY4NWUyeE43WlJ5ZFQ3QVNqNktMNXNBcy1jWFVHNlZN",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Barcelona ‘not interested’ in JJ Gabriel move",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWi1GbG15M2VPQmVuMWpyRkQtRWdnQzhrQkk3cEMwRlBxbk5YcXNVSXJnaXdTZVpjSllVV19MbFBmTHA5M1hTbjNhWkEyQThHVER4QkdSS2FaN3hTamQ1Vk13QXlCWW13SjhBcmpRMzRNaWpWem4tUjY4NWUyeE43WlJ5ZFQ3QVNqNktMNXNBcy1jWFVHNlZN?oc=5",
@@ -27841,7 +27865,7 @@
       "tier": 1,
       "title": "Could Manchester United have spent more in the summer transfer window? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeksyM3dRN2Y1MndydVMwLVNMYklXVTlnZkpoRldnamt0VWRCWUlMR0FSdVQzVi1LQWhXQzJUanRJUGZ5M1VFaFpILWlKMXV2UFlGeDBmLVYxWk83SmVUWFFkRC1keGItY0lheVhjenljcWI4RWp3YmlfVjhfWDZaNmZma0RndkxkTnZHZDloZUppQ1FuckJ4WXNiVQ?oc=5",
-      "published": "2026-09-24T07:49:42.000Z",
+      "published": "2026-09-24T05:42:44.000Z",
       "titleZh": "曼联能否在夏季转会窗口花更多的钱？ - The Athletic"
     },
     {
@@ -27849,24 +27873,12 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Manchester United selling grass for £125 after another year of losses",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0ZpbXV6ek1HeWk1Q0JPSzNYNEhNQnJJcDYzcWo4aWJuNzJ2ZXBPWllVMTBWdjU2bnZpSkIwMl9JQTFHNTNhUFZIUVcwN1hHazlGNGFFYUladnFINnYxNXlmX0FrOGJFVFJHXzZNWnJDbDJUbGRRWDF6ZTlwMVZtTWhkT0E4clRRSFRTaVhfb2EzQnliOFVzR2VuV3NzdnR3NWc?oc=5",
       "published": "2026-09-23T13:51:00.000Z",
       "titleZh": "经历了一年的亏损后，曼联以125 £的价格出售草地"
-    },
-    {
-      "id": "Fabrizio Romano:CBMinwFBVV95cUxOQkI3RkxyNlRTZU5nVEZkcEg1ay1vdHpsa0JsbUx6MGdzZEVFSmZBRk84TzQ1Rm1Wcnp6RDFBZE1JVnB3VU1KdC1xWDRWVVZHeGl1Mm0xVklGU0t6cmcwc1RSbG1vY0VWRVVLVmtKbjVLNHlWZU0tU2pOak9BZTZBWk8tcW9kbWRaRWxyT0Z5X2RjSU41aElta3JIMldqVjQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Romano reveals three players Arsenal are targeting in January amid ‘next priority’ claim",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkI3RkxyNlRTZU5nVEZkcEg1ay1vdHpsa0JsbUx6MGdzZEVFSmZBRk84TzQ1Rm1Wcnp6RDFBZE1JVnB3VU1KdC1xWDRWVVZHeGl1Mm0xVklGU0t6cmcwc1RSbG1vY0VWRVVLVmtKbjVLNHlWZU0tU2pOak9BZTZBWk8tcW9kbWRaRWxyT0Z5X2RjSU41aElta3JIMldqVjQ?oc=5",
-      "published": "2026-09-23T12:39:50.000Z",
-      "titleZh": "罗马诺透露，阿森纳将在1月份瞄准三名球员，因为他们声称“下一个优先事项”"
     },
     {
       "id": "Rob Dawson:CBMiugFBVV95cUxPWExWZi1mZG1vdzFaVU8xelJRWVU4QjFEbkRyX3gxX2I5Y291aWVfanlRNllEN0RubkVVY3hqQ2JwT2tldHBGcWJ0d2ptbTYwa2VFLVpXVDBZS3o1VVQ2UHE5Sk1JYXRCdXRMVkxPTFVhbnVnWkR4Rk05MGN5M0ZoOVQtX1ozSmxTOUt5Ujlib0FIVGFaZWpBZlNlV3RQVUctUDNrTEFMSUx5andKeWpmcF9JNENtUWFBTGc",
@@ -27885,12 +27897,24 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Eric Cantona: I would never have signed for Man Utd under Sir Jim Ratcliffe",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmxULUJTZVRIOFlQLXhGU0MwNjd4T0hodk55NUk0SmVtVXozOWxQTGJuVVRCWjM2LVlCQ2xTMEpfMllIdW11YU9fREI2emFxZGR4TkVNS0xNS3VoNHhSN1ZXMWNXU2pVT3NBNkJVanF4aFI4b2xicFZnSU5qRWtqX2pjWElyaDI5UzJJTG1iWnNMUmR3RE8w?oc=5",
       "published": "2026-09-23T11:35:00.000Z",
       "titleZh": "埃里克·坎通纳：在吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）的领导下，我永远不会"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE5mcnh6alBnWDBvNktOWUdsWEdGdThaLU9vdVhScU92M2tKeEpQd3UzR1R2TXFpS1RkVjItVmtlY0UweXB0ZDB4aGFudnlBdEFDR0ZSZnV2VmRaOXlPMEpTNmYwWWpvZFNy",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Amir Ibragimov gets Russia call-up",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcnh6alBnWDBvNktOWUdsWEdGdThaLU9vdVhScU92M2tKeEpQd3UzR1R2TXFpS1RkVjItVmtlY0UweXB0ZDB4aGFudnlBdEFDR0ZSZnV2VmRaOXlPMEpTNmYwWWpvZFNy?oc=5",
+      "published": "2026-09-23T10:28:34.000Z",
+      "titleZh": "曼联新闻：阿米尔·伊布拉吉莫夫（ Amir Ibragimov ）接到俄罗斯"
     },
     {
       "id": "Chris Wheeler:CBMiswJBVV95cUxNdElwb0c0OG9YU0xwTnQzSEVtWlZlQkJxNnNvWXlTeTF0YkZTek9xUDRiTV9ENlZkTXV0WGZIbktlcEtvekQ4aHJaZ0ZIa1RGSzc4aS0wQU1kYlRvSl9PTWFwX2k5YTJGUGR2QVdodURMeHdLMDVhdUhzeUs4UGJaci1GOFhVUWhiNGdOaDBYc3JsX3hJNWQyUm9YU3NsdFVwZHc1Y0QzRFNVbVM5WmExM24xTF9OaFBIa1ctTFJaei1TbXk3cWlvZTVwSjd4blZ4X3Y0aEFzTEJQQ28wRHhVM2NFUkRMdUpMNFZiY1M0eFhDcFFBZS0ybXVMQm5wVW93SmlwVDVSUy0yOE9YeDRYVzJ2WjVGNHlLM0dXZ2ZhR0pwM3VMVjhwRzg3d2VralJXUXVR",
@@ -27927,33 +27951,9 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFRRdGdCWEtsNkN4TUd0aktJcTkxZWFUTXRJR3Rnd0lCcWY2eDEzNUNzTTFwMklodVd2SHdLd1libjVTWGRYU19Ea3BKTUh3dDVCcFlUNE5TdXFHblJtMHpDeEUxaEhmSXU1bkpHTTJYemdfTngyRWxmSk5SY0tKVmNwSnFSTzN2NFprSno3Z2FRU0haYTBTQ0E2VGhLbXZFQ2ZrMkJqRDhLaWNtTWtEY1I2T2x4UdIBuwFBVV95cUxOdE50a3dvc3RaWkg2aUtXRGUwM2xPbjdQTXNaR3lnMXZlSDU2YWVfVUk2VmdQeWtabVRxWDQtVnMydnlqanN2a2lrZnV0QWI2NDBnNjZjc09nU1FMYjhIY19zdmJ6cWEyYVA5Y1A4d2Jpdi1BTUxOdm85S2t3V3BXc1IzVEJzWU4wbzRlUFc2cXlaVlEzRld1cTRKMHBBYlpxcFV6SlpBeWlORlBBM3hjTHV1R1cyVWJNRnBJ?oc=5",
       "published": "2026-09-21T17:36:26.000Z",
       "titleZh": "在Kobbie Mainoo和Marcus Rashford退出Thomas Tuchel的阵容后， Benjamin Sesko成为曼联的最新明星，退出国际职位"
-    },
-    {
-      "id": "Laurie Whitwell:CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnYwcWktNkhLYnFGTlhXZ09KWGdiM2FHXzdyR3p4aElzSVozRWZTUjVvbjNISTBKd2lvcXV2YXNqalFJempYZjdMZDgyY2ZjczdqbU5nZWhWalBHMlFKYWIyZ2JJREdGMGhRTkJnS3J4cW04RlRVdDlaSXNEZVVWem5Cd0NXa1BGalluM3Jrei1YUmwwU3c?oc=5",
-      "published": "2026-09-21T16:42:38.000Z",
-      "titleZh": "曼联的本杰明·塞斯科（ Benjamin Sesko ）退出斯洛文尼亚队后将“接受测试” -体育"
-    },
-    {
-      "id": "Rob Dawson:CBMitgFBVV95cUxNRS0yNWxya1lxZXJqT1ZjdFFjWlBXMmJ3NVVOQ1lhUFhTTHVpSW4zZjItSW1JTGpaeVY3V0RHUGxQWHV5V1I2bDcxZ2VNQ21hNDllUXNpbEhjOWt2UDhYTjBiU1pjR1dGTVFSMllNZzJqVy1uT2N2QXF4bkM3d1hnT2gyTDd1dVQ5SnpXOENqaG5VWkZ2RS1sWGdaV2dMTGZMeC0zbHJnSXVDOEdlcGFXRFdXRlBEdw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Matheus Cunha urges calm after disproving 'Man United will go to Championship' fear",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRS0yNWxya1lxZXJqT1ZjdFFjWlBXMmJ3NVVOQ1lhUFhTTHVpSW4zZjItSW1JTGpaeVY3V0RHUGxQWHV5V1I2bDcxZ2VNQ21hNDllUXNpbEhjOWt2UDhYTjBiU1pjR1dGTVFSMllNZzJqVy1uT2N2QXF4bkM3d1hnT2gyTDd1dVQ5SnpXOENqaG5VWkZ2RS1sWGdaV2dMTGZMeC0zbHJnSXVDOEdlcGFXRFdXRlBEdw?oc=5",
-      "published": "2026-09-21T10:51:00.000Z",
-      "titleZh": "Matheus Cunha在反驳“曼联将参加锦标赛”的恐惧后敦促冷静"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-28T08:37:53.335Z",
+  "journalistsUpdatedAt": "2026-09-28T17:03:43.437Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -1,157 +1,105 @@
 <!doctype html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="theme-color" content="#0b0d0f" />
-    <meta name="description" content="曼联 2026/27 赛季赛程、积分、阵容与球队动态中心" />
-    <title>UNITED 26/27 | 曼联赛季中心</title>
-    <link rel="stylesheet" href="./styles.css?v=20260918-utf8-entry-fix" />
-  </head>
-  <body>
-    <div id="top"></div>
-    <div class="app-shell" id="dashboard">
-      <aside class="sidebar" aria-label="主导航">
-        <a class="brand" href="#overview" aria-label="United 26/27 首页">
-          <img src="https://a.espncdn.com/i/teamlogos/soccer/500/360.png" alt="曼联队徽" />
-          <span><strong>UNITED</strong><small>26 / 27</small></span>
-        </a>
-        <nav class="nav-list">
-          <button class="nav-item active" data-view="overview" aria-label="概览"><span class="nav-icon">⌂</span><span>概览</span></button>
-          <button class="nav-item" data-view="fixtures" aria-label="赛程"><span class="nav-icon">▦</span><span>赛程</span></button>
-          <button class="nav-item" data-view="squad" aria-label="阵容"><span class="nav-icon">11</span><span>阵容</span></button>
-          <button class="nav-item" data-view="standings" aria-label="积分榜"><span class="nav-icon">≡</span><span>积分榜</span></button>
-          <button class="nav-item" data-view="news" aria-label="动态"><span class="nav-icon">◫</span><span>动态</span></button>
-        </nav>
-        <div class="sidebar-foot"><span class="pulse-dot"></span><span>每日自动更新</span></div>
-      </aside>
-      <nav class="mobile-nav" aria-label="移动端主导航">
-        <button class="mobile-nav-item active" data-view="overview" aria-label="概览"><span class="nav-icon">⌂</span><span>概览</span></button>
-        <button class="mobile-nav-item" data-view="fixtures" aria-label="赛程"><span class="nav-icon">▦</span><span>赛程</span></button>
-        <button class="mobile-nav-item" data-view="squad" aria-label="阵容"><span class="nav-icon">11</span><span>阵容</span></button>
-        <button class="mobile-nav-item" data-view="standings" aria-label="积分榜"><span class="nav-icon">≡</span><span>积分榜</span></button>
-        <button class="mobile-nav-item" data-view="news" aria-label="动态"><span class="nav-icon">◫</span><span>动态</span></button>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f4f0e8" />
+  <meta name="description" content="UNITED 26/27 · 曼联赛季杂志与实时看板" />
+  <title>UNITED 26/27 | 红色赛季</title>
+  <link rel="stylesheet" href="./styles.css?v=magazine-1" />
+</head>
+<body>
+  <div class="edition-ribbon"><span>曼彻斯特 · 2026/27 赛季</span><span>独立球迷赛季刊 / 数据持续更新</span></div>
+  <div class="site" id="dashboard">
+    <header class="masthead">
+      <a class="brand" href="#overview" data-view-link="overview" aria-label="回到赛季概览">
+        <img src="https://a.espncdn.com/i/teamlogos/soccer/500/360.png" alt="" />
+        <span><strong>UNITED</strong><small>THE RED ISSUE <i>26 / 27</i></small></span>
+      </a>
+      <div class="masthead-note"><span class="live-mark"></span>赛季进行中 <span class="masthead-separator">/</span> <time id="updatedAt">正在载入</time></div>
+      <nav class="main-nav" aria-label="主导航">
+        <button class="nav-item active" data-view="overview">封面 <span>01</span></button>
+        <button class="nav-item" data-view="fixtures">比赛 <span>02</span></button>
+        <button class="nav-item" data-view="squad">人物 <span>03</span></button>
+        <button class="nav-item" data-view="standings">排名 <span>04</span></button>
+        <button class="nav-item" data-view="news">报道 <span>05</span></button>
       </nav>
-
-      <main>
-        <header class="topbar">
-          <div class="topbar-heading"><p class="eyebrow">UNITED 26/27 · LIVE DASHBOARD</p><h1 id="pageTitle">赛季概览</h1></div>
-          <div class="topbar-actions"><a class="heritage-link" href="#heritageWorld">传奇旅程 <span aria-hidden="true">↗</span></a><div class="update-badge"><span class="pulse-dot"></span><span>更新于 <time id="updatedAt">--</time></span></div></div>
-        </header>
-
-        <section class="view active" id="overview-view">
-          <div class="season-hero">
-            <div class="hero-copy">
-              <p class="eyebrow">OLD TRAFFORD · THE THEATRE OF DREAMS</p>
-              <h2>曼彻斯特联</h2>
-              <p class="hero-tagline">英超、欧冠与全赛事赛季中心</p>
-              <div class="hero-actions"><button data-jump="fixtures">查看赛程 <span>→</span></button><button data-jump="squad">预测阵容 <span>→</span></button></div>
-              <p class="hero-note" id="seasonStatus">正在读取最新赛季数据</p>
-            </div>
-            <div class="hero-crest" role="img" aria-label="曼联队徽背景水印"></div>
-            <div class="hero-player" role="img" aria-label="穿红色球衣的Q版足球员">
-              <span class="player-hair"></span>
-              <span class="player-head"></span>
-              <span class="player-body"><i>7</i></span>
-              <span class="player-arm left"></span><span class="player-arm right"></span>
-              <span class="player-leg left"></span><span class="player-leg right"></span>
-              <span class="player-ball">◆</span>
-            </div>
-            <div class="hero-season-mark" aria-hidden="true"><strong>26</strong><span>PREMIER<br />LEAGUE</span><strong>27</strong></div>
-            <div class="hero-stripe" aria-hidden="true"></div>
+    </header>
+    <main id="mainContent">
+      <section class="view active" id="overview-view" aria-label="赛季概览">
+        <div class="cover">
+          <div class="cover-image" role="img" aria-label="老特拉福德球场"></div>
+          <div class="cover-topline"><span>THE MANCHESTER UNITED SEASON REVIEW</span><span>ISSUE NO. 26—27</span></div>
+          <div class="cover-copy">
+            <p class="cover-kicker">老特拉福德 / 新赛季</p>
+            <h1>红色<br /><em>未完待续。</em></h1>
+            <p>每一场比赛，每一位球员，每一个值得记录的瞬间。</p>
+            <button class="cover-cta" data-jump="fixtures">走进本赛季 <span aria-hidden="true">↗</span></button>
           </div>
-
+          <div class="cover-bottom"><span>UNITED 26/27</span><span>SCROLL TO EXPLORE ↓</span></div>
+        </div>
+        <div class="status-strip"><span class="live-mark"></span><span id="seasonStatus">正在读取最新赛季数据</span><span class="status-issue">THE SEASON, AS IT HAPPENS</span></div>
+        <section class="edition-section">
+          <div class="section-heading"><div><p class="kicker">01 / THE STATE OF PLAY</p><h2>此刻的曼联<span class="red-period">.</span></h2></div><p>一眼读懂赛季走势<br />数字来自最新公开数据</p></div>
           <div class="stat-grid" id="statGrid"></div>
-
-          <section class="transfer-band">
-            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> TRANSFER REPORTS</p><h3>转会相关报道</h3></div><button class="text-button" data-jump="news">全部动态 <span>→</span></button></div>
-            <div class="transfer-feed" id="transferPreview"></div>
-          </section>
-
-          <section class="journalist-band">
-            <div class="panel-head"><div><p class="eyebrow"><span class="pulse-dot"></span> REPORTS & SOURCES</p><h3>媒体与记者动态</h3></div><span class="journalist-updated"><time id="journalistsUpdatedAt">等待首次同步</time></span></div>
-            <div class="journalist-feed" id="journalistFeed"></div>
-            <div class="source-legend" aria-label="消息来源说明"><span><i class="legend-chip tier-one"></i>T1：高可信媒体报道</span><span><i class="legend-chip tier-two"></i>T2：补充参考</span><span><i class="legend-chip source-note"></i>匹配记者名，不等同作者确认</span></div>
-            <p class="source-disclaimer">计划每 15 分钟检查一次公开报道；GitHub 托管任务可能延迟。T1/T2 是站内来源评级，不代表俱乐部官宣或事实确认。</p>
-          </section>
-
-          <div class="overview-grid">
-            <section class="panel next-panel">
-              <div class="panel-head"><div><p class="eyebrow">NEXT MATCH</p><h3>下一场比赛</h3></div><button class="text-button" data-jump="fixtures">全部赛程 <span>→</span></button></div>
-              <div id="nextMatch" class="next-match"></div>
-            </section>
-            <section class="panel form-panel">
-              <div class="panel-head"><div><p class="eyebrow">RECENT FORM</p><h3>近期状态</h3></div><span class="board-rule">全赛事 · 最近 5 场</span></div>
-              <div id="recentForm" class="form-list"></div>
-            </section>
-          </div>
-
-          <section class="performance-grid">
-            <div class="panel champions-board">
-              <div class="panel-head"><div><p class="eyebrow">CHAMPIONS LEAGUE</p><h3>欧冠联赛阶段积分榜</h3></div><span class="board-rule">前 8 直通 · 9–24 附加赛</span></div>
-              <div id="championsBoard"></div>
-            </div>
-            <div class="panel scorers-board">
-              <div class="panel-head"><div><p class="eyebrow">TOP SCORERS</p><h3>曼联射手榜</h3></div><span class="board-rule">26/27 英超</span></div>
-              <div id="scorersBoard"></div>
-            </div>
-          </section>
-
-          <section class="news-band">
-            <div class="panel-head"><div><p class="eyebrow">LATEST</p><h3>球队动态</h3></div><button class="text-button" data-jump="news">查看更多 <span>→</span></button></div>
-            <div class="news-grid" id="newsPreview"></div>
-          </section>
         </section>
-
-        <section class="view" id="fixtures-view">
-          <div class="section-intro"><div><p class="eyebrow">MATCH CENTRE</p><h2>全赛事赛程</h2><p>曼联 2026/27 赛季正式比赛与季前赛</p></div></div>
-          <div class="fixture-filter-bar">
-            <div class="segmented competition-filters" role="group" aria-label="按赛事筛选"><button class="active" data-competition="all">全部赛事</button><button data-competition="league">英超</button><button data-competition="europe">欧冠</button><button data-competition="cup">国内杯赛</button><button data-competition="friendly">季前赛</button></div>
-            <div class="segmented" role="group" aria-label="按状态筛选"><button class="active" data-filter="all">全部</button><button data-filter="upcoming">未赛</button><button data-filter="completed">完场</button></div>
+        <section class="edition-section lead-story">
+          <div class="section-heading"><div><p class="kicker">02 / THE NEXT CHAPTER</p><h2>下一场，<em>继续前行。</em></h2></div><button class="editorial-link" data-jump="fixtures">完整赛程 <span>↗</span></button></div>
+          <div class="lead-grid">
+            <div class="next-panel"><p class="small-label">NEXT MATCH / 下一场</p><div id="nextMatch"></div></div>
+            <div class="form-panel"><p class="small-label">LAST FIVE / 近期战绩</p><div id="recentForm"></div></div>
           </div>
+        </section>
+        <section class="edition-section report-section">
+          <div class="section-heading"><div><p class="kicker">03 / THE CONVERSATION</p><h2>场外，<em>同样精彩。</em></h2></div><button class="editorial-link" data-jump="news">更多报道 <span>↗</span></button></div>
+          <div class="story-columns">
+            <div class="story-column"><div class="column-heading"><span>转会风向</span><span>TRANSFER DESK</span></div><div class="transfer-feed" id="transferPreview"></div></div>
+            <div class="story-column"><div class="column-heading"><span>记者与来源</span><time id="journalistsUpdatedAt">等待首次同步</time></div><div class="journalist-feed" id="journalistFeed"></div><p class="source-disclaimer">记者名搜索匹配不等同署名核实；T1/T2 为站内来源评级，不代表俱乐部官宣。</p></div>
+          </div>
+        </section>
+        <section class="edition-section numbers-section">
+          <div class="section-heading"><div><p class="kicker">04 / THE NUMBERS</p><h2>成绩有迹可循<span class="red-period">.</span></h2></div><p>积分与进球<br />持续记录</p></div>
+          <div class="performance-grid">
+            <div class="panel"><div class="panel-head"><p class="small-label">CHAMPIONS LEAGUE / 欧冠</p><h3>联赛阶段</h3></div><div id="championsBoard"></div></div>
+            <div class="panel"><div class="panel-head"><p class="small-label">GOALSCORERS / 射手</p><h3>射手榜</h3></div><div id="scorersBoard"></div></div>
+          </div>
+        </section>
+        <section class="edition-section latest-section"><div class="section-heading"><div><p class="kicker">05 / LATEST STORIES</p><h2>来自球队的消息<span class="red-period">.</span></h2></div><button class="editorial-link" data-jump="news">全部动态 <span>↗</span></button></div><div class="news-grid" id="newsPreview"></div></section>
+      </section>
+
+      <section class="view interior-view" id="fixtures-view" aria-label="比赛赛程">
+        <div class="page-cover fixtures-cover"><p class="kicker">02 / MATCH DIARY</p><h1>每一场<br /><em>都算数。</em></h1><p>英超、欧冠、杯赛与季前赛。按时间翻阅曼联的 26/27 赛季。</p></div>
+        <div class="content-wrap">
+          <div class="section-heading"><div><p class="kicker">THE FIXTURE BOOK</p><h2>比赛日历<span class="red-period">.</span></h2></div><span class="section-aside">赛程与比赛详情持续同步</span></div>
+          <div class="fixture-filter-bar"><div class="segmented competition-filters" role="group" aria-label="按赛事筛选"><button class="active" data-competition="all">全部赛事</button><button data-competition="league">英超</button><button data-competition="europe">欧冠</button><button data-competition="cup">国内杯赛</button><button data-competition="friendly">季前赛</button></div><div class="segmented" role="group" aria-label="按状态筛选"><button class="active" data-filter="all">全部</button><button data-filter="upcoming">未赛</button><button data-filter="completed">完场</button></div></div>
           <div class="fixture-list" id="fixtureList"></div>
-        </section>
+        </div>
+      </section>
 
-        <section class="view" id="standings-view">
-          <div class="section-intro"><div><p class="eyebrow">LEAGUE TABLE</p><h2>英超积分榜</h2><p>排名与赛季表现</p></div><div class="legend"><span><i class="ucl"></i>欧冠区</span><span><i class="relegation"></i>降级区</span></div></div>
-          <div class="table-wrap"><table><thead><tr><th>排名</th><th class="club-col">球队</th><th>场</th><th>胜</th><th>平</th><th>负</th><th>净胜</th><th>积分</th></tr></thead><tbody id="standingsBody"></tbody></table></div>
-        </section>
+      <section class="view interior-view" id="squad-view" aria-label="球队阵容">
+        <div class="page-cover squad-cover"><p class="kicker">03 / PEOPLE OF UNITED</p><h1>组成红魔的<br /><em>每个人。</em></h1><p>球员、教练与那些尚未书写的首发故事。</p></div>
+        <div class="content-wrap">
+          <div class="section-heading"><div><p class="kicker">THE LINEUP LAB</p><h2>预测首发<span class="red-period">.</span></h2></div><span class="model-note">阵容模型预测 · 非官方名单</span></div>
+          <div class="lineup-toolbar"><div class="segmented lineup-tabs" role="group" aria-label="选择预测赛事"><button class="active" data-lineup="league">英超首发</button><button data-lineup="champions">欧冠首发</button><button data-lineup="preseason">季前赛首发</button></div><div class="formation-label">阵型 <strong id="formationLabel">4-2-3-1</strong></div></div>
+          <section class="lineup-layout"><div class="pitch" id="lineupPitch" aria-label="预测首发阵型"></div><aside class="lineup-analysis"><p class="small-label">MODEL NOTES</p><h3 id="lineupTitle">英超预测首发</h3><p id="lineupSummary"></p><div id="lineupMetrics" class="metric-list"></div><p class="prediction-disclaimer">依据公开阵容与伤病状态评估；实际名单以俱乐部赛前公布为准。</p></aside></section>
+          <section class="roster-section"><div class="section-heading"><div><p class="kicker">THE FIRST TEAM</p><h2>一线队<span class="red-period">.</span></h2></div></div><div class="segmented roster-filters" role="group" aria-label="按位置筛选球员"><button class="active" data-position="all">所有位置</button><button data-position="Goalkeeper">门将</button><button data-position="Defender">后卫</button><button data-position="Midfielder">中场</button><button data-position="Forward">前锋</button></div><div class="roster-grid" id="rosterGrid"></div><p class="assessment-note">状态评分反映公开可用性与近期新闻，并非竞技能力或医疗判断。</p></section>
+          <section class="staff-section"><div class="section-heading"><div><p class="kicker">BEHIND THE TEAM</p><h2>教练团队<span class="red-period">.</span></h2></div><span class="section-aside">公开资料快照</span></div><div class="staff-grid" id="staffGrid"></div></section>
+        </div>
+      </section>
 
-        <section class="view" id="squad-view">
-          <div class="section-intro squad-intro"><div><p class="eyebrow">SQUAD LAB</p><h2>一线队与首发预测</h2><p>号码、位置与公开状态每日同步</p></div><div class="model-note"><strong>阵容模型</strong><span>预测内容 · 非官方名单</span></div></div>
-          <div class="lineup-toolbar">
-            <div class="segmented lineup-tabs" role="group" aria-label="选择预测赛事"><button class="active" data-lineup="league">英超首发</button><button data-lineup="champions">欧冠首发</button><button data-lineup="preseason">季前赛首发</button></div>
-            <div class="formation-label"><span>阵型</span><strong id="formationLabel">4-2-3-1</strong></div>
-          </div>
-          <section class="lineup-layout">
-            <div class="pitch" id="lineupPitch" aria-label="预测首发阵型"></div>
-            <aside class="lineup-analysis"><p class="eyebrow">MODEL NOTES</p><h3 id="lineupTitle">英超预测首发</h3><p id="lineupSummary"></p><div id="lineupMetrics" class="metric-list"></div><div class="prediction-disclaimer">依据公开阵容、伤病状态与近期新闻评估。季前赛预测会提高新援、年轻球员和轮换球员的选择权重；实际首发受赛前训练、对手和教练安排影响。</div></aside>
-          </section>
+      <section class="view interior-view" id="standings-view" aria-label="英超积分榜">
+        <div class="page-cover standings-cover"><p class="kicker">04 / THE LEAGUE TABLE</p><h1>排名，记录<br /><em>每一步。</em></h1><p>每一分背后，都有九十分钟。</p></div>
+        <div class="content-wrap"><div class="section-heading"><div><p class="kicker">PREMIER LEAGUE</p><h2>英超积分榜<span class="red-period">.</span></h2></div><div class="legend"><span><i class="ucl"></i>欧冠区</span><span><i class="relegation"></i>降级区</span></div></div><div class="table-wrap"><table><thead><tr><th>排名</th><th class="club-col">球队</th><th>场</th><th>胜</th><th>平</th><th>负</th><th>净胜</th><th>积分</th></tr></thead><tbody id="standingsBody"></tbody></table></div></div>
+      </section>
 
-          <section class="staff-section">
-            <div class="panel-head"><div><p class="eyebrow">COACHING STAFF</p><h3>教练组</h3></div><span class="source-label">公开资料快照</span></div>
-            <div class="staff-grid" id="staffGrid"></div>
-          </section>
-
-          <section class="roster-section">
-            <div class="panel-head roster-head"><div><p class="eyebrow">FIRST TEAM</p><h3>一线队名单</h3></div><div class="segmented roster-filters" role="group" aria-label="按位置筛选球员"><button class="active" data-position="all">全部</button><button data-position="Goalkeeper">门将</button><button data-position="Defender">后卫</button><button data-position="Midfielder">中场</button><button data-position="Forward">前锋</button></div></div>
-            <div class="roster-grid" id="rosterGrid"></div>
-            <p class="assessment-note">状态评分反映公开可用性与近期伤病新闻，不是竞技能力评分或医疗判断。</p>
-          </section>
-        </section>
-
-        <section class="view" id="news-view">
-          <div class="section-intro"><div><p class="eyebrow">CLUB FEED</p><h2>球队动态</h2><p>围绕曼联的一线队最新消息</p></div></div>
-          <section class="news-transfer-section"><div class="panel-head"><div><p class="eyebrow">TRANSFER REPORTS</p><h3>转会相关报道</h3></div><span class="source-label">基于公开新闻 · 每日自动同步</span></div><div class="transfer-feed expanded" id="allTransfers"></div></section>
-          <div class="all-news-grid" id="allNews"></div>
-        </section>
-
-        <footer><span>UNITED 26/27</span><span>球场与 2026/27 主场球衣图片来自 Manchester United 官网 · 奖杯柜来自 Wikimedia Commons · 队徽/数据来自 ESPN · 球员头像来自 FotMob · 非官方产品</span></footer>
-      </main>
-    </div>
-    <section id="heritageWorld" aria-label="曼联传奇沉浸式旅程"></section>
-    <script src="./scripts/scroll-world.js?v=20260918-utf8-entry-fix"></script>
-    <script src="./scripts/heritage-world.js?v=20260918-utf8-entry-fix"></script>
-    <script type="module" src="./app.js?v=20260918-utf8-entry-fix"></script>
-  </body>
+      <section class="view interior-view" id="news-view" aria-label="球队动态">
+        <div class="page-cover news-cover"><p class="kicker">05 / FROM THE NEWSROOM</p><h1>故事，<br /><em>仍在发生。</em></h1><p>报道、声音和赛季里的每一个新动向。</p></div>
+        <div class="content-wrap"><section class="news-transfer-section"><div class="section-heading"><div><p class="kicker">TRANSFER DESK</p><h2>转会观察<span class="red-period">.</span></h2></div><span class="section-aside">公开媒体报道 · 非俱乐部官宣</span></div><div class="transfer-feed expanded" id="allTransfers"></div></section><section class="news-all-section"><div class="section-heading"><div><p class="kicker">THE LATEST</p><h2>球队动态<span class="red-period">.</span></h2></div></div><div class="all-news-grid" id="allNews"></div></section></div>
+      </section>
+      <footer class="site-footer"><strong>UNITED <span>26/27</span></strong><p>独立球迷赛季刊 · 非俱乐部官方产品。图片来自 Manchester United 官网及注明来源的公开资料；队徽与数据来自 ESPN，球员头像来自 FotMob。</p><button data-jump="overview">回到封面 ↑</button></footer>
+    </main>
+    <nav class="mobile-nav" aria-label="移动端主导航"><button class="mobile-nav-item active" data-view="overview">封面</button><button class="mobile-nav-item" data-view="fixtures">比赛</button><button class="mobile-nav-item" data-view="squad">人物</button><button class="mobile-nav-item" data-view="standings">排名</button><button class="mobile-nav-item" data-view="news">报道</button></nav>
+  </div>
+  <script type="module" src="./app.js?v=magazine-1"></script>
+</body>
 </html>

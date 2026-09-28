@@ -26,25 +26,15 @@ function sourceFromUrl(url) {
 }
 const itemSource = item => item.source || sourceFromUrl(item.url);
 
-function openDashboardRoute() {
-  const heritageRoute = window.location.hash === '#heritageWorld' || window.location.hash === '#top';
-  document.body.classList.toggle('dashboard-reached', !heritageRoute);
-  const target = heritageRoute ? $('#heritageWorld') : $('#dashboard');
-  requestAnimationFrame(() => target?.scrollIntoView({ block: 'start', behavior: 'auto' }));
-}
-
-function setView(view) {
+function setView(view, updateHash = true) {
+  if (!['overview', 'fixtures', 'squad', 'standings', 'news'].includes(view)) return;
   state.view = view;
   $$('.view').forEach(el => el.classList.toggle('active', el.id === `${view}-view`));
   $$('.nav-item, .mobile-nav-item').forEach(el => el.classList.toggle('active', el.dataset.view === view));
-  const titles = { overview: '赛季概览', fixtures: '全赛事赛程', squad: '阵容实验室', standings: '积分榜', news: '球队动态' };
-  $('#pageTitle').textContent = titles[view];
-  $('.sidebar').classList.remove('open');
-  const root = document.documentElement;
-  const previousScrollBehavior = root.style.scrollBehavior;
-  root.style.scrollBehavior = 'auto';
-  $('#dashboard').scrollIntoView({ block: 'start' });
-  root.style.scrollBehavior = previousScrollBehavior;
+  const titles = { overview: '封面', fixtures: '比赛', squad: '人物', standings: '排名', news: '报道' };
+  document.title = `${titles[view]} | UNITED 26/27`;
+  if (updateHash) history.replaceState(null, '', `#${view}`);
+  window.scrollTo({ top: 0, behavior: 'instant' });
 }
 
 function renderStats() {
@@ -208,14 +198,15 @@ async function loadLatestData({ initial = false } = {}) {
 
 async function init() {
   await loadLatestData({ initial: true });
-  openDashboardRoute();
+  setView(window.location.hash.slice(1) || 'overview', false);
   $$('.nav-item, .mobile-nav-item').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
+  $$('[data-view-link]').forEach(link => link.addEventListener('click', event => { event.preventDefault(); setView(link.dataset.viewLink); }));
   $$('[data-jump]').forEach(button => button.addEventListener('click', () => setView(button.dataset.jump)));
   $$('[data-filter]').forEach(button => button.addEventListener('click', () => { state.filter = button.dataset.filter; $$('[data-filter]').forEach(b => b.classList.toggle('active', b === button)); renderFixtures(); }));
   $$('[data-competition]').forEach(button => button.addEventListener('click', () => { state.competition = button.dataset.competition; $$('[data-competition]').forEach(b => b.classList.toggle('active', b === button)); renderFixtures(); }));
   $$('.lineup-tabs button').forEach(button => button.addEventListener('click', () => { state.lineup = button.dataset.lineup; $$('.lineup-tabs button').forEach(b => b.classList.toggle('active', b === button)); renderLineup(); }));
   $$('.roster-filters button').forEach(button => button.addEventListener('click', () => { state.position = button.dataset.position; $$('.roster-filters button').forEach(b => b.classList.toggle('active', b === button)); renderRoster(); }));
-  window.addEventListener('hashchange', openDashboardRoute);
+  window.addEventListener('hashchange', () => setView(window.location.hash.slice(1), false));
   setInterval(loadLatestData, REFRESH_INTERVAL_MS);
   document.addEventListener('visibilitychange', () => { if (!document.hidden) loadLatestData(); });
 }

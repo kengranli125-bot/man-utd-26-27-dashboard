@@ -14,6 +14,28 @@ const REPORTERS = [
   { name: 'Samuel Luckhurst', nameZh: '塞缪尔·勒克赫斯特', outlet: '曼彻斯特晚报', tier: 2 }
 ];
 
+const REPORTER_SOURCES = {
+  'Fabrizio Romano': ['Fabrizio Romano'],
+  'David Ornstein': ['The Athletic', 'The New York Times'],
+  'Laurie Whitwell': ['The Athletic', 'The New York Times'],
+  'Simon Stone': ['BBC', 'BBC Sport'],
+  'James Ducker': ['The Telegraph', 'telegraph.co.uk'],
+  'Rob Dawson': ['ESPN'],
+  'Carl Anka': ['The Athletic', 'The New York Times'],
+  'Andy Mitten': ['United We Stand', 'The Athletic'],
+  'Chris Wheeler': ['Daily Mail', 'MailOnline'],
+  'Samuel Luckhurst': ['Manchester Evening News', 'Manchester Evening News (MEN)']
+};
+
+function attributedToReporter(reporter, title, source) {
+  if (REPORTER_SOURCES[reporter.name].some(outlet => outlet.toLowerCase() === source.toLowerCase())) return true;
+  // For syndicated pieces, require an explicit reporting credit in the headline.
+  // A search hit or a name mentioned in a headline does not establish authorship.
+  const surname = reporter.name.split(' ').at(-1);
+  const name = ['Romano', 'Ornstein'].includes(surname) ? `(?:${reporter.name}|${surname})` : reporter.name;
+  return new RegExp(`\\b${name}\\b(?:'s)?\\s+(?:reports?|reveals?|confirms?|claims?|says|writes?|understands?)\\b|\\b(?:according to|per|reported by)\\s+${name}\\b`, 'i').test(title);
+}
+
 const decodeXml = value => String(value || '')
   .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
   .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
@@ -29,7 +51,7 @@ async function fetchReporter(reporter) {
   const response = await fetch(url, { headers: { 'user-agent': 'United-26-27-dashboard/1.0' }, signal: AbortSignal.timeout(20_000) });
   if (!response.ok) throw new Error(`${response.status} ${reporter.name}`);
   const xml = await response.text();
-  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].slice(0, 4).map(([, block]) => {
+  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map(([, block]) => {
     const rawTitle = tag(block, 'title');
     const source = tag(block, 'source') || rawTitle.split(' - ').at(-1) || reporter.outlet;
     const title = rawTitle.endsWith(` - ${source}`) ? rawTitle.slice(0, -(source.length + 3)) : rawTitle;
@@ -38,7 +60,8 @@ async function fetchReporter(reporter) {
       reporter: reporter.name, reporterZh: reporter.nameZh, reporterOutlet: reporter.outlet,
       source, tier: reporter.tier, title, url: tag(block, 'link'), published: new Date(tag(block, 'pubDate')).toISOString()
     };
-  }).filter(item => item.title && item.url && Number.isFinite(new Date(item.published).getTime()));
+  }).filter(item => item.title && item.url && Number.isFinite(new Date(item.published).getTime())
+    && attributedToReporter(reporter, item.title, item.source)).slice(0, 4);
 }
 
 async function translate(title) {

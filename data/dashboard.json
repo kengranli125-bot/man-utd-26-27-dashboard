@@ -27705,12 +27705,36 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
+      "source": "telegraph.co.uk",
       "tier": 1,
       "title": "Sir Jim Ratcliffe unhappy with being included in Reform video",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2dRV2ZDVGh5aTlpREoteUhwanlWLXBjcklZMkFoSEF3MjBFUnNybTNoazRzTXJBZ3FtcnhwNDY4RHY0bnljdE1SVGxnUG95cjVHakx5a3Rpdmc1bE9sQkt5SHgxT2pmVF9zR096d0ZDTnVlNUItRmkyMUpaUi0yYnp0c1ZZczdzc2xsUzFqb1lkaWNCTDdpUW93b3hGSkJJbHNJLUFtdlJTY28?oc=5",
       "published": "2026-09-28T18:48:00.000Z",
       "titleZh": "吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）对被纳入改革视频感到不满"
+    },
+    {
+      "id": "Rob Dawson:CBMiowFBVV95cUxQTzRQQUhUTDRjYm9TNkMxc1MtT3FJTzVZNEFaQ0hiQjBjRWNpamtsZUg2dFdFM0g5Sy1xY1o2aVoyX1lnTFY0WVFuQmdfbU5VR3hGWnFPbzRKQTdQSXlMVHRKeU9ESkFhY1JCNkZ5QjhlZDhjcnJIdjhObFBDVi01NzlhZzltRzhCeGpfOC1MTmNXN2pRbmJKVEgyZTlLdVQzRExV",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Patrick Dorgu returns to Man United after suspected hamstring injury with Denmark",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzRQQUhUTDRjYm9TNkMxc1MtT3FJTzVZNEFaQ0hiQjBjRWNpamtsZUg2dFdFM0g5Sy1xY1o2aVoyX1lnTFY0WVFuQmdfbU5VR3hGWnFPbzRKQTdQSXlMVHRKeU9ESkFhY1JCNkZ5QjhlZDhjcnJIdjhObFBDVi01NzlhZzltRzhCeGpfOC1MTmNXN2pRbmJKVEgyZTlLdVQzRExV?oc=5",
+      "published": "2026-09-28T13:59:00.000Z",
+      "titleZh": "帕特里克·多古（ Patrick Dorgu ）在丹麦怀疑腿筋受伤后返回曼联"
+    },
+    {
+      "id": "David Ornstein:CBMikAFBVV95cUxNVDR2SGNEbi03Zld0TV9iblhQWFlxdGRBNzlzQ2VqNHpQWVZmOXBCNmpiNGdvVmpvLTlqVWxRQzNKVXE3cVJfWldGUFowcUotR21iWExYTFB5c2RkNjJ1SnBqMzlyM1BPOFdmeThQN3R4dzJtQVBWWDg5WW1keDBSSE5UalU2RXFZOXF3VGlWdkU",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "The Athletic FC: Ask David Ornstein your questions",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDR2SGNEbi03Zld0TV9iblhQWFlxdGRBNzlzQ2VqNHpQWVZmOXBCNmpiNGdvVmpvLTlqVWxRQzNKVXE3cVJfWldGUFowcUotR21iWExYTFB5c2RkNjJ1SnBqMzlyM1BPOFdmeThQN3R4dzJtQVBWWDg5WW1keDBSSE5UalU2RXFZOXF3VGlWdkU?oc=5",
+      "published": "2026-09-28T13:00:01.000Z",
+      "titleZh": "体育俱乐部：向David Ornstein提问"
     },
     {
       "id": "Fabrizio Romano:CBMinAFBVV95cUxQYWRHSF8tWnFWTHQ2R2tDVGhHSjNod2NBckw4Y3BqRFlYSTJ6WXM5QUVBQlZrRVRYcmUxQ2NoQ1g1RUx2bHlCeEg5aHNYNm02dHd5M1AyaE9yamxsdFY2d2JqSTNHT3BjVS1NdlVkaGdZejdPaDVuUDJfQkdxMXVPMXZiTTFvOVFfQUlKWHFZb3VGTFhJbkpJTlRuTUk",
@@ -27813,7 +27837,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
+      "source": "telegraph.co.uk",
       "tier": 1,
       "title": "Manchester United have cut 322 jobs under Sir Jim Ratcliffe",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtTMFlUT1lGMHZ2NjFEVFBzMng4R0xNdkpSY1NqblZaVnZuQzQ3bTUtUTB3UlMxdkxDX0Nvd091UERVMnNaLW5oaW1QaWRLRkNLd291YnJDVVFGeFZvdzVfc1BHX0dxZk9yVFozT2lVRG1iOG9LamVJbnF3NzF6WnZMUGNDNGRqUHJZX3pPYzNQYzdsWXBQanNYWUM2R210T3YtbEdnaw?oc=5",
@@ -27869,18 +27893,6 @@
       "titleZh": "曼城足总青年杯赢得青少年轰动，英格兰U17球星被对手曼联挖走"
     },
     {
-      "id": "David Ornstein:CBMiqAFBVV95cUxPcEpLb2RaTGVSNE5vOVRBc3lpWlRPdVlDcXhrZS0tU2Z0V0puNVMtMjF2bFg5aXF2NVM5RWtxTFlxQ2htZzBBSDNFM19MQ2Qya0pYQWhLRjA0QzRJR0JaaVdWb3BoM3ljTGJMNS1mX0c3cVNIUU9peGVNRWFCR0w2c2U2OGI1V240NWlyY1R6djM3cmlxOFdhZ0FUWF9OcG9IS0FKdmZnQk4",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "To The Lane And Back",
-      "tier": 1,
-      "title": "David Ornstein reveals Tottenham’s winter plans as club aims to make moves in the transfer window",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEpLb2RaTGVSNE5vOVRBc3lpWlRPdVlDcXhrZS0tU2Z0V0puNVMtMjF2bFg5aXF2NVM5RWtxTFlxQ2htZzBBSDNFM19MQ2Qya0pYQWhLRjA0QzRJR0JaaVdWb3BoM3ljTGJMNS1mX0c3cVNIUU9peGVNRWFCR0w2c2U2OGI1V240NWlyY1R6djM3cmlxOFdhZ0FUWF9OcG9IS0FKdmZnQk4?oc=5",
-      "published": "2026-09-24T12:50:41.000Z",
-      "titleZh": "大卫·奥恩斯坦（ David Ornstein ）透露了托特纳姆热刺的冬季计划，因为俱乐部的目标是在转会窗口进行转会"
-    },
-    {
       "id": "Simon Stone:CBMiZ0FVX3lxTE9CRWU2YTR0UXhLdDRWTUdlTmo4LUd3T3BVVzJTVTV4MzdRNjhkMm01SmYxOHUtbFYyYWVUVkR0dEw5ODIteG1MWkxPQmFsSkRmV0czRFZzUFZtSEFiYm5neHZNY3Q0QzA",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -27921,24 +27933,12 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
+      "source": "telegraph.co.uk",
       "tier": 1,
       "title": "Manchester United selling grass for £125 after another year of losses",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0ZpbXV6ek1HeWk1Q0JPSzNYNEhNQnJJcDYzcWo4aWJuNzJ2ZXBPWllVMTBWdjU2bnZpSkIwMl9JQTFHNTNhUFZIUVcwN1hHazlGNGFFYUladnFINnYxNXlmX0FrOGJFVFJHXzZNWnJDbDJUbGRRWDF6ZTlwMVZtTWhkT0E4clRRSFRTaVhfb2EzQnliOFVzR2VuV3NzdnR3NWc?oc=5",
       "published": "2026-09-23T13:51:00.000Z",
       "titleZh": "经历了一年的亏损后，曼联以125 £的价格出售草地"
-    },
-    {
-      "id": "Rob Dawson:CBMiugFBVV95cUxPWExWZi1mZG1vdzFaVU8xelJRWVU4QjFEbkRyX3gxX2I5Y291aWVfanlRNllEN0RubkVVY3hqQ2JwT2tldHBGcWJ0d2ptbTYwa2VFLVpXVDBZS3o1VVQ2UHE5Sk1JYXRCdXRMVkxPTFVhbnVnWkR4Rk05MGN5M0ZoOVQtX1ozSmxTOUt5Ujlib0FIVGFaZWpBZlNlV3RQVUctUDNrTEFMSUx5andKeWpmcF9JNENtUWFBTGc",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United transfer strategy 'financial sustainable' as losses increase - CEO",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWExWZi1mZG1vdzFaVU8xelJRWVU4QjFEbkRyX3gxX2I5Y291aWVfanlRNllEN0RubkVVY3hqQ2JwT2tldHBGcWJ0d2ptbTYwa2VFLVpXVDBZS3o1VVQ2UHE5Sk1JYXRCdXRMVkxPTFVhbnVnWkR4Rk05MGN5M0ZoOVQtX1ozSmxTOUt5Ujlib0FIVGFaZWpBZlNlV3RQVUctUDNrTEFMSUx5andKeWpmcF9JNENtUWFBTGc?oc=5",
-      "published": "2026-09-23T12:29:00.000Z",
-      "titleZh": "随着亏损增加，曼联转移策略“财务可持续” -首席执行官"
     },
     {
       "id": "Chris Wheeler:CBMi5AFBVV95cUxNX0lRem1sNDE3QktFMWZHYXBFY1p4MnZuenhIRDFDV2RCNEgzU3RSUWV3M2hGQ0RWeVA0QnlBX3JjUHRoZmctZ2FLLUxzVEtnVmhVczdoMGhUTTJmbkFDTkFzRE9EZktrcVo1MjVVWHd3OV9BQUJhWkRYSVQ4anNGY0lzRS1sTU9zb3RwWWFCQzhYMXJoZUNBRHVXX3MyVHUxZDBlR05IMG9ORFFXQ01qNk1tRlJWNVlkMVU5c0kzbWFHUVlHalpvSjB5VUtqTXhIOVROQTJNalhmRXBvbFAzVDROTi3SAeoBQVVfeXFMTnc5YnZORlhySFRTQ01ZS3pFTS1wOGRiS19kc1RXRWJBQzBxck9BQzBEdlY2MHIxV1U3RUtoZjdSOTFtaThEVktGaUJ2WE9lcmNuOUNEUFBWakhNMWxQZ3FGTTdINmFPVkJZeV9FZnUwbk8wSkhSbF9hMHNlcm1aSUYtX2RfeXJzZkZMaWkwbG1xVHI4ODlndkRNZ19wdXc1RjlOaUU1YkdpTlBNaFliYndmd3k2VWZ0d3p4bm9WWFFhQm1pZ1pka1Nrb3JUSlVOTDRLRDZTa1ZyYVhQR1V6Rlo5a0hZNHd6VWhB",
@@ -27957,7 +27957,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
+      "source": "telegraph.co.uk",
       "tier": 1,
       "title": "Eric Cantona: I would never have signed for Man Utd under Sir Jim Ratcliffe",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmxULUJTZVRIOFlQLXhGU0MwNjd4T0hodk55NUk0SmVtVXozOWxQTGJuVVRCWjM2LVlCQ2xTMEpfMllIdW11YU9fREI2emFxZGR4TkVNS0xNS3VoNHhSN1ZXMWNXU2pVT3NBNkJVanF4aFI4b2xicFZnSU5qRWtqX2pjWElyaDI5UzJJTG1iWnNMUmR3RE8w?oc=5",
@@ -27965,7 +27965,7 @@
       "titleZh": "埃里克·坎通纳：在吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）的领导下，我永远不会"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-29T20:02:36.761Z",
+  "journalistsUpdatedAt": "2026-09-29T23:39:46.695Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

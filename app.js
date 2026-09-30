@@ -151,12 +151,17 @@ function renderTransfers() {
 function renderJournalists() {
   const items = state.data.journalists || [];
   const updated = state.data.journalistsUpdatedAt;
-  $('#journalistsUpdatedAt').textContent = updated ? `最新内容同步 ${fmtDate(updated, true)}` : '等待首次同步';
+  $('#journalistsUpdatedAt').textContent = updated ? `列表更新 ${fmtDate(updated, true)}` : '等待首次同步';
   if (!items.length) {
-    $('#journalistFeed').innerHTML = empty('记者动态正在接入', '首次抓取完成后将展示罗马诺、奥恩斯坦及曼联权威跟队记者的公开报道。');
+    $('#journalistFeed').innerHTML = empty('暂无符合归因规则的条目', '仅展示标题明确引用记者的媒体文章；本人署名尚未核实。');
     return;
   }
-  $('#journalistFeed').innerHTML = items.slice(0, 8).map(item => `<a class="journalist-item" href="${safe(item.url)}" target="_blank" rel="noreferrer"><div class="reporter-mark">${safe((item.reporterZh || item.reporter).slice(0,1))}</div><div class="journalist-copy"><div><strong>${safe(item.reporterZh || item.reporter)}</strong><span>匹配：${safe(item.reporterOutlet || '公开记者')}</span><i class="tier tier-${safe(item.tier)}" title="站内来源评级，不代表官方确认">T${safe(item.tier)} 报道</i></div><p>${safe(item.titleZh || item.title)}</p><small>来源标注：${safe(item.source || '未标注')} · 入口：${safe(sourceFromUrl(item.url))} · ${fmtDate(item.published, true)}</small></div><b aria-hidden="true">→</b></a>`).join('');
+  $('#journalistFeed').innerHTML = items.slice(0, 8).map(item => {
+    const credits = item.attributionType === 'headline-credit' ? item.reporterCredits || [] : [];
+    const names = credits.length ? credits.map(reporter => reporter.nameZh || reporter.name).join(' / ') : item.reporterZh || item.reporter || '未标注记者';
+    const label = credits.length ? '标题引用' : '搜索匹配（未核实归因）';
+    return `<a class="journalist-item" href="${safe(item.url)}" target="_blank" rel="noreferrer"><div class="reporter-mark">${safe(names.slice(0,1))}</div><div class="journalist-copy"><div><strong>${label}：${safe(names)}</strong><span>未核实署名</span><i class="tier tier-${safe(item.tier)}" title="站内记者来源评级，不代表署名核实或官方确认">T${safe(item.tier)} 来源评级</i></div><p>${safe(item.titleZh || item.title)}</p><small>发布媒体：${safe(item.source || '未标注')} · 入口：${safe(sourceFromUrl(item.url))} · ${fmtDate(item.published, true)}</small></div><b aria-hidden="true">→</b></a>`;
+  }).join('');
 }
 
 function renderStaff() {

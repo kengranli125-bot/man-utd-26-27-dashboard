@@ -27,7 +27,10 @@ function sourceFromUrl(url) {
 const itemSource = item => item.source || sourceFromUrl(item.url);
 
 function setView(view, updateHash = true) {
-  if (!['overview', 'fixtures', 'squad', 'standings', 'news'].includes(view)) return;
+  if (!['overview', 'fixtures', 'squad', 'standings', 'news'].includes(view)) {
+    view = 'overview';
+    updateHash = true;
+  }
   state.view = view;
   $$('.view').forEach(el => el.classList.toggle('active', el.id === `${view}-view`));
   $$('.nav-item, .mobile-nav-item').forEach(el => el.classList.toggle('active', el.dataset.view === view));
@@ -198,7 +201,7 @@ async function loadLatestData({ initial = false } = {}) {
 
 async function init() {
   await loadLatestData({ initial: true });
-  setView(window.location.hash.slice(1) || 'overview', false);
+  setView(window.location.hash.slice(1), false);
   $$('.nav-item, .mobile-nav-item').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
   $$('[data-view-link]').forEach(link => link.addEventListener('click', event => { event.preventDefault(); setView(link.dataset.viewLink); }));
   $$('[data-jump]').forEach(button => button.addEventListener('click', () => setView(button.dataset.jump)));

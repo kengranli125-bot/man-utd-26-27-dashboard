@@ -27705,7 +27705,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Sir Jim Ratcliffe unhappy with being included in Reform video",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2dRV2ZDVGh5aTlpREoteUhwanlWLXBjcklZMkFoSEF3MjBFUnNybTNoazRzTXJBZ3FtcnhwNDY4RHY0bnljdE1SVGxnUG95cjVHakx5a3Rpdmc1bE9sQkt5SHgxT2pmVF9zR096d0ZDTnVlNUItRmkyMUpaUi0yYnp0c1ZZczdzc2xsUzFqb1lkaWNCTDdpUW93b3hGSkJJbHNJLUFtdlJTY28?oc=5",
@@ -27837,7 +27837,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Manchester United have cut 322 jobs under Sir Jim Ratcliffe",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtTMFlUT1lGMHZ2NjFEVFBzMng4R0xNdkpSY1NqblZaVnZuQzQ3bTUtUTB3UlMxdkxDX0Nvd091UERVMnNaLW5oaW1QaWRLRkNLd291YnJDVVFGeFZvdzVfc1BHX0dxZk9yVFozT2lVRG1iOG9LamVJbnF3NzF6WnZMUGNDNGRqUHJZX3pPYzNQYzdsWXBQanNYWUM2R210T3YtbEdnaw?oc=5",
@@ -27893,18 +27893,6 @@
       "titleZh": "曼城足总青年杯赢得青少年轰动，英格兰U17球星被对手曼联挖走"
     },
     {
-      "id": "Simon Stone:CBMiZ0FVX3lxTE9CRWU2YTR0UXhLdDRWTUdlTmo4LUd3T3BVVzJTVTV4MzdRNjhkMm01SmYxOHUtbFYyYWVUVkR0dEw5ODIteG1MWkxPQmFsSkRmV0czRFZzUFZtSEFiYm5neHZNY3Q0QzA",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Will Red Devils be a frontrunner to sign Eduardo Conceicao?",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRWU2YTR0UXhLdDRWTUdlTmo4LUd3T3BVVzJTVTV4MzdRNjhkMm01SmYxOHUtbFYyYWVUVkR0dEw5ODIteG1MWkxPQmFsSkRmV0czRFZzUFZtSEFiYm5neHZNY3Q0QzA?oc=5",
-      "published": "2026-09-24T11:01:12.000Z",
-      "titleZh": "曼联新闻： Red Devils会成为签下Eduardo Conceicao的领跑者吗？"
-    },
-    {
       "id": "Laurie Whitwell:CBMimwFBVV95cUxQeksyM3dRN2Y1MndydVMwLVNMYklXVTlnZkpoRldnamt0VWRCWUlMR0FSdVQzVi1LQWhXQzJUanRJUGZ5M1VFaFpILWlKMXV2UFlGeDBmLVYxWk83SmVUWFFkRC1keGItY0lheVhjenljcWI4RWp3YmlfVjhfWDZaNmZma0RndkxkTnZHZDloZUppQ1FuckJ4WXNiVQ",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -27933,12 +27921,24 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Manchester United selling grass for £125 after another year of losses",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0ZpbXV6ek1HeWk1Q0JPSzNYNEhNQnJJcDYzcWo4aWJuNzJ2ZXBPWllVMTBWdjU2bnZpSkIwMl9JQTFHNTNhUFZIUVcwN1hHazlGNGFFYUladnFINnYxNXlmX0FrOGJFVFJHXzZNWnJDbDJUbGRRWDF6ZTlwMVZtTWhkT0E4clRRSFRTaVhfb2EzQnliOFVzR2VuV3NzdnR3NWc?oc=5",
       "published": "2026-09-23T13:51:00.000Z",
       "titleZh": "经历了一年的亏损后，曼联以125 £的价格出售草地"
+    },
+    {
+      "id": "Rob Dawson:CBMiugFBVV95cUxPWExWZi1mZG1vdzFaVU8xelJRWVU4QjFEbkRyX3gxX2I5Y291aWVfanlRNllEN0RubkVVY3hqQ2JwT2tldHBGcWJ0d2ptbTYwa2VFLVpXVDBZS3o1VVQ2UHE5Sk1JYXRCdXRMVkxPTFVhbnVnWkR4Rk05MGN5M0ZoOVQtX1ozSmxTOUt5Ujlib0FIVGFaZWpBZlNlV3RQVUctUDNrTEFMSUx5andKeWpmcF9JNENtUWFBTGc",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United transfer strategy 'financial sustainable' as losses increase - CEO",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWExWZi1mZG1vdzFaVU8xelJRWVU4QjFEbkRyX3gxX2I5Y291aWVfanlRNllEN0RubkVVY3hqQ2JwT2tldHBGcWJ0d2ptbTYwa2VFLVpXVDBZS3o1VVQ2UHE5Sk1JYXRCdXRMVkxPTFVhbnVnWkR4Rk05MGN5M0ZoOVQtX1ozSmxTOUt5Ujlib0FIVGFaZWpBZlNlV3RQVUctUDNrTEFMSUx5andKeWpmcF9JNENtUWFBTGc?oc=5",
+      "published": "2026-09-23T12:29:00.000Z",
+      "titleZh": "随着亏损增加，曼联转移策略“财务可持续” -首席执行官"
     },
     {
       "id": "Chris Wheeler:CBMi5AFBVV95cUxNX0lRem1sNDE3QktFMWZHYXBFY1p4MnZuenhIRDFDV2RCNEgzU3RSUWV3M2hGQ0RWeVA0QnlBX3JjUHRoZmctZ2FLLUxzVEtnVmhVczdoMGhUTTJmbkFDTkFzRE9EZktrcVo1MjVVWHd3OV9BQUJhWkRYSVQ4anNGY0lzRS1sTU9zb3RwWWFCQzhYMXJoZUNBRHVXX3MyVHUxZDBlR05IMG9ORFFXQ01qNk1tRlJWNVlkMVU5c0kzbWFHUVlHalpvSjB5VUtqTXhIOVROQTJNalhmRXBvbFAzVDROTi3SAeoBQVVfeXFMTnc5YnZORlhySFRTQ01ZS3pFTS1wOGRiS19kc1RXRWJBQzBxck9BQzBEdlY2MHIxV1U3RUtoZjdSOTFtaThEVktGaUJ2WE9lcmNuOUNEUFBWakhNMWxQZ3FGTTdINmFPVkJZeV9FZnUwbk8wSkhSbF9hMHNlcm1aSUYtX2RfeXJzZkZMaWkwbG1xVHI4ODlndkRNZ19wdXc1RjlOaUU1YkdpTlBNaFliYndmd3k2VWZ0d3p4bm9WWFFhQm1pZ1pka1Nrb3JUSlVOTDRLRDZTa1ZyYVhQR1V6Rlo5a0hZNHd6VWhB",
@@ -27957,7 +27957,7 @@
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
-      "source": "telegraph.co.uk",
+      "source": "The Telegraph",
       "tier": 1,
       "title": "Eric Cantona: I would never have signed for Man Utd under Sir Jim Ratcliffe",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmxULUJTZVRIOFlQLXhGU0MwNjd4T0hodk55NUk0SmVtVXozOWxQTGJuVVRCWjM2LVlCQ2xTMEpfMllIdW11YU9fREI2emFxZGR4TkVNS0xNS3VoNHhSN1ZXMWNXU2pVT3NBNkJVanF4aFI4b2xicFZnSU5qRWtqX2pjWElyaDI5UzJJTG1iWnNMUmR3RE8w?oc=5",
@@ -27965,7 +27965,7 @@
       "titleZh": "埃里克·坎通纳：在吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）的领导下，我永远不会"
     }
   ],
-  "journalistsUpdatedAt": "2026-09-29T23:39:46.695Z",
+  "journalistsUpdatedAt": "2026-09-30T02:28:41.807Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

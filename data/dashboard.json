@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:50:44.557Z",
+  "updatedAt": "2026-10-01T13:11:32.533Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,8 +27021,22 @@
   ],
   "news": [
     {
+      "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
+      "published": "2026-10-01T11:14:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
+      "titleZh": "葡萄牙、曼联、皇家马德里：克里斯蒂亚诺·罗纳尔多的悠久历史"
+    },
+    {
+      "title": "Premier League depth charts for most popular teams: Who is key?",
+      "published": "2026-10-01T07:05:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50012221/premier-league-depth-chart-arsenal-man-united-man-city-liverpool-chelsea-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/0929/r1723309_1296x729_16-9.jpg",
+      "titleZh": "最受欢迎球队的英超联赛深度图：谁是关键？"
+    },
+    {
       "title": "FA charges Fulham boss Álvaro Arbeloa with misconduct for comments after Man United draw",
-      "published": "2026-09-30T14:16:13Z",
+      "published": "2026-10-01T04:28:32Z",
       "url": "https://www.espn.com/soccer/story/_/id/50067385/fa-charges-fulham-boss-alvaro-arbeloa-misconduct-comments-man-united-draw",
       "image": "https://a.espncdn.com/photo/2026/0930/r1723891_1296x729_16-9.jpg",
       "titleZh": "英足总指控富勒姆老板Álvaro Arbeloa在曼联平局后发表不当行为"
@@ -27089,20 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
       "image": "https://a.espncdn.com/photo/2026/0923/r1721031_1296x729_16-9.jpg",
       "titleZh": "转移谣言、新闻：曼联能用米切尔取代肖吗？"
-    },
-    {
-      "title": "Eric Cantona 'wouldn't have joined' Man United if Jim Ratcliffe had been in charge in the 1990s",
-      "published": "2026-09-23T22:50:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50015330/eric-cantona-jim-ratcliffe-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1721017_1296x729_16-9.jpg",
-      "titleZh": "如果吉姆·拉特克利夫（ Jim Ratcliffe ）在20世纪90年代掌权，埃里克·坎通纳（ Eric Cantona ） “不会加入”"
-    },
-    {
-      "title": "Man United selling chunks of Old Trafford pitch",
-      "published": "2026-09-23T16:35:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50013903/man-united-old-trafford-selling-pitch-pieces",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1720872_1296x729_16-9.jpg",
-      "titleZh": "曼联出售大块的老特拉福德球场"
     }
   ],
   "transfers": [

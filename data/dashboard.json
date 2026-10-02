@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:35:10.107Z",
+  "updatedAt": "2026-10-02T12:32:34.099Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,27 @@
   ],
   "news": [
     {
+      "title": "Sir Alex Ferguson on David Beckham's Preston loan: 'He thought I wanted him gone but that's not true'",
+      "published": "2026-10-02T10:01:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50083480/sir-alex-david-beckham-thought-wanted-gone-not-true",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724858_1296x729_16-9.jpg",
+      "titleZh": "亚历克斯·弗格森爵士对大卫·贝克汉姆（ David Beckham ）的普雷斯顿（ Preston ）贷款： “他以为我想让他离开，但事实并非如此"
+    },
+    {
+      "title": "Sir Alex Ferguson was 'terrified' about Old Trafford return after brain surgery",
+      "published": "2026-10-02T08:55:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50083305/sir-alex-ferguson-man-united-old-trafford-return",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724845_1296x729_16-9.jpg",
+      "titleZh": "亚历克斯·弗格森爵士对脑部手术后老特拉福德的回归感到“恐惧”"
+    },
+    {
+      "title": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
+      "published": "2026-10-02T07:33:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
+      "titleZh": "转会谣言，新闻：曼联，切尔西监控本菲卡后卫"
+    },
+    {
       "title": "Transfer rumors, news: Several Premier League clubs eye Koundé move",
       "published": "2026-10-01T20:46:16Z",
       "url": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
@@ -27082,30 +27103,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50025646/bayern-eye-barcelona-world-cup-winner-olmo",
       "image": "https://a.espncdn.com/photo/2026/0925/r1721832_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：曼联眼动布鲁日后卫赛斯"
-    },
-    {
-      "title": "Barcelona sporting director: No interest in Man United's JJ Gabriel",
-      "published": "2026-09-25T09:36:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50026079/jj-gabriel-barcelona-deco-man-united",
-      "image": "https://a.espncdn.com/photo/2026/0925/r1721604_1296x729_16-9.jpg",
-      "titleZh": "巴塞罗那体育总监：对曼联的JJ Gabriel没有兴趣"
-    },
-    {
-      "title": "United Strand fan: Ruben Amorim told me 'sorry about that'",
-      "published": "2026-09-25T09:18:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50025973/united-stran-fan-ruben-amorim-told-sorry-that",
-      "image": "https://a.espncdn.com/photo/2026/0925/r1721603_861x484_16-9.png",
-      "titleZh": "United Strand粉丝： Ruben Amorim告诉我“很抱歉”"
-    },
-    {
-      "title": "Man United's Leny Yoro handed surprise France call-up after Ibrahima Konaté injury",
-      "published": "2026-09-25T07:53:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50018535/leny-yoro-ibrahima-konate-france-nations-league-zinedine-zidane",
-      "image": "https://a.espncdn.com/photo/2026/0924/r1721174_1296x729_16-9.jpg",
-      "titleZh": "曼联的莱尼·约罗（ Leny Yoro ）在易卜拉希马·科纳特（ Ibrahima Konaté ）受伤后突然"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
+      "published": "2026-10-02T07:33:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
+      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
+      "titleZh": "转会谣言，新闻：曼联，切尔西监控本菲卡后卫",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Patrick Vieira reveals Manchester United, Sir Alex Ferguson talks during Arsenal stint",
       "published": "2026-09-29T08:33:45Z",
@@ -27311,9 +27321,9 @@
       "nationalityZh": "法国",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
-      "statusType": "out",
-      "statusLabel": "伤缺/观察",
-      "availabilityScore": 38
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
     },
     {
       "id": "167127",
@@ -28287,18 +28297,18 @@
           "role": "中后卫"
         },
         {
-          "id": "239349",
-          "name": "Matthijs de Ligt",
-          "nameZh": "马泰斯·德利赫特",
-          "shortName": "M. de Ligt",
-          "shortNameZh": "德利赫特",
-          "jersey": "4",
+          "id": "340206",
+          "name": "Leny Yoro",
+          "nameZh": "莱尼·约罗",
+          "shortName": "L. Yoro",
+          "shortNameZh": "约罗",
+          "jersey": "15",
           "position": "Defender",
-          "age": 27,
-          "nationality": "Netherlands",
-          "nationalityZh": "荷兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
+          "age": 20,
+          "nationality": "France",
+          "nationalityZh": "法国",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28351,7 +28361,7 @@
         },
         {
           "label": "经验值",
-          "value": 82
+          "value": 80
         },
         {
           "label": "攻守平衡",
@@ -28517,18 +28527,18 @@
           "role": "中后卫"
         },
         {
-          "id": "239349",
-          "name": "Matthijs de Ligt",
-          "nameZh": "马泰斯·德利赫特",
-          "shortName": "M. de Ligt",
-          "shortNameZh": "德利赫特",
-          "jersey": "4",
+          "id": "340206",
+          "name": "Leny Yoro",
+          "nameZh": "莱尼·约罗",
+          "shortName": "L. Yoro",
+          "shortNameZh": "约罗",
+          "jersey": "15",
           "position": "Defender",
-          "age": 27,
-          "nationality": "Netherlands",
-          "nationalityZh": "荷兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
+          "age": 20,
+          "nationality": "France",
+          "nationalityZh": "法国",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28581,7 +28591,7 @@
         },
         {
           "label": "经验值",
-          "value": 76
+          "value": 74
         },
         {
           "label": "攻守平衡",

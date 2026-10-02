@@ -63,6 +63,10 @@ async function fetchReporter(reporter) {
   const response = await fetch(url, { headers: { 'user-agent': 'United-26-27-dashboard/1.0' }, signal: AbortSignal.timeout(20_000) });
   if (!response.ok) throw new Error(`${response.status} ${reporter.name}`);
   const xml = await response.text();
+  // An error page or incomplete RSS is a fetch failure, not an empty result.
+  if (!/<rss\b[^>]*>[\s\S]*<channel\b[^>]*>[\s\S]*<\/channel>\s*<\/rss>\s*$/i.test(xml)) {
+    throw new Error(`Invalid RSS ${reporter.name}`);
+  }
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map(([, block]) => {
     const rawTitle = tag(block, 'title');
     const source = tag(block, 'source') || (rawTitle.includes(' - ') ? rawTitle.split(' - ').at(-1) : '') || '来源未标注';

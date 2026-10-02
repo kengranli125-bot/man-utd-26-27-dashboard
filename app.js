@@ -27,7 +27,10 @@ function sourceFromUrl(url) {
 const itemSource = item => item.source || sourceFromUrl(item.url);
 
 function setView(view, updateHash = true) {
-  if (!['overview', 'fixtures', 'squad', 'standings', 'news'].includes(view)) return;
+  if (!['overview', 'fixtures', 'squad', 'standings', 'news'].includes(view)) {
+    view = 'overview';
+    updateHash = true;
+  }
   state.view = view;
   $$('.view').forEach(el => el.classList.toggle('active', el.id === `${view}-view`));
   $$('.nav-item, .mobile-nav-item').forEach(el => el.classList.toggle('active', el.dataset.view === view));
@@ -157,7 +160,8 @@ function renderJournalists() {
     return;
   }
   $('#journalistFeed').innerHTML = items.slice(0, 8).map(item => {
-    const credits = item.attributionType === 'headline-credit' ? item.reporterCredits || [] : [];
+    const credits = item.attributionType === 'headline-credit' && Array.isArray(item.reporterCredits)
+      ? item.reporterCredits.filter(reporter => reporter && (typeof reporter.nameZh === 'string' && reporter.nameZh || typeof reporter.name === 'string' && reporter.name)) : [];
     const names = credits.length ? credits.map(reporter => reporter.nameZh || reporter.name).join(' / ') : item.reporterZh || item.reporter || '未标注记者';
     const label = credits.length ? '标题引用' : '搜索匹配（未核实归因）';
     return `<a class="journalist-item" href="${safe(item.url)}" target="_blank" rel="noreferrer"><div class="reporter-mark">${safe(names.slice(0,1))}</div><div class="journalist-copy"><div><strong>${label}：${safe(names)}</strong><span>未核实署名</span><i class="tier tier-${safe(item.tier)}" title="站内记者来源评级，不代表署名核实或官方确认">T${safe(item.tier)} 来源评级</i></div><p>${safe(item.titleZh || item.title)}</p><small>发布媒体：${safe(item.source || '未标注')} · 入口：${safe(sourceFromUrl(item.url))} · ${fmtDate(item.published, true)}</small></div><b aria-hidden="true">→</b></a>`;
@@ -203,7 +207,7 @@ async function loadLatestData({ initial = false } = {}) {
 
 async function init() {
   await loadLatestData({ initial: true });
-  setView(window.location.hash.slice(1) || 'overview', false);
+  setView(window.location.hash.slice(1), false);
   $$('.nav-item, .mobile-nav-item').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
   $$('[data-view-link]').forEach(link => link.addEventListener('click', event => { event.preventDefault(); setView(link.dataset.viewLink); }));
   $$('[data-jump]').forEach(button => button.addEventListener('click', () => setView(button.dataset.jump)));

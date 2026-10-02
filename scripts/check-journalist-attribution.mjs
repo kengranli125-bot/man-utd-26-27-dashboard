@@ -16,21 +16,22 @@ const legacy = (entry, reporter = 'David Ornstein') => ({
 
 // Run the production script unchanged in an isolated directory. Only network
 // responses are replaced; its parsing, attribution, caching and writes are real.
-async function runFeed(feeds, { previous = [], fail = [], repeat = false } = {}) {
+async function runFeed(feeds, { previous = [], fail = [], repeat = false, dashboard = {}, invalidRss = [] } = {}) {
   const root = await mkdtemp(join(tmpdir(), 'journalist-feed-'));
   try {
     await mkdir(join(root, 'scripts')); await mkdir(join(root, 'data'));
     await cp(new URL('./update-journalists.mjs', import.meta.url), join(root, 'scripts/update-journalists.mjs'));
-    await writeFile(join(root, 'data/dashboard.json'), JSON.stringify({ journalists: previous, journalistsUpdatedAt: 'old', sentinel: 'keep' }));
+    await writeFile(join(root, 'data/dashboard.json'), JSON.stringify({ ...dashboard, journalists: previous, journalistsUpdatedAt: 'old', sentinel: 'keep' }));
     await writeFile(join(root, 'mock.mjs'), `
-const feeds = ${JSON.stringify(feeds)}, fail = ${JSON.stringify(fail)};
+const feeds = ${JSON.stringify(feeds)}, fail = ${JSON.stringify(fail)}, invalidRss = ${JSON.stringify(invalidRss)};
 const xml = value => String(value || '').replace(/&/g, '&amp;').replace(/</g, '&lt;');
 const item = i => '<item><title>' + xml(i.title + (i.source ? ' - ' + i.source : '')) + '</title>' + (i.source ? '<source>' + xml(i.source) + '</source>' : '') + '<guid>' + i.id + '</guid><link>https://example.com/' + i.id + '</link><pubDate>' + i.published + '</pubDate></item>';
 globalThis.fetch = async url => {
   if (url.includes('mymemory')) return { ok: true, json: async () => ({ responseData: { translatedText: '译文' } }) };
   const name = new URL(url).searchParams.get('q').match(/^"([^"]+)"/)[1];
+  if (invalidRss.includes(name)) return { ok: true, text: async () => '<html>RSS unavailable</html>' };
   if (fail.includes('*') || fail.includes(name)) throw new Error('RSS unavailable');
-  return { ok: true, text: async () => '<rss>' + (feeds[name] || []).map(item).join('') + '</rss>' };
+  return { ok: true, text: async () => '<rss><channel>' + (feeds[name] || []).map(item).join('') + '</channel></rss>' };
 };
 `);
     const result = spawnSync(process.execPath, ['--import', join(root, 'mock.mjs'), join(root, 'scripts/update-journalists.mjs')], { encoding: 'utf8' });
@@ -153,4 +154,50 @@ test('front end labels references and unverified legacy matches without implying
   assert.ok(feed.innerHTML.includes('标题引用：大卫·奥恩斯坦 / 劳里·惠特韦尔'));
   assert.ok(feed.innerHTML.includes('未核实署名'));
   assert.ok(feed.innerHTML.includes('搜索匹配（未核实归因）'));
+});
+
+test('successful empty results clear even previously eligible cache', async () => {
+  const data = await runFeed({}, { previous: [legacy(credit)] });
+  assert.deepEqual(data.journalists, []);
+});
+
+test('fresh results supersede revalidated fallback with the same URL', async () => {
+  const old = legacy(credit); old.source = 'Old publisher';
+  const data = await runFeed({ 'Laurie Whitwell': [credit] }, { previous: [old], fail: ['David Ornstein'] });
+  assert.equal(data.journalists.length, 1);
+  assert.equal(data.journalists[0].source, 'Football365');
+});
+
+test('changed headlines do not reuse the old translation for the same URL', async () => {
+  const changed = { ...credit, title: 'Ornstein confirms a different Manchester United plan' };
+  const data = await runFeed({ 'David Ornstein': [changed] }, { previous: [legacy(credit)] });
+  assert.equal(data.journalists[0].titleZh, '译文');
+});
+
+test('current main snapshot survives legacy cache migration outside the reporter fields', async () => {
+  const dashboard = JSON.parse(await readFile(new URL('../data/dashboard.json', import.meta.url), 'utf8'));
+  const data = await runFeed({}, { dashboard, previous: dashboard.journalists, fail: ['*'], repeat: true });
+  for (const [key, value] of Object.entries(dashboard)) {
+    if (!['journalists', 'journalistsUpdatedAt'].includes(key)) assert.deepEqual(data[key], value, key);
+  }
+  assert.ok(data.journalists.every(entry => entry.attributionType === 'headline-credit' && entry.reporterCredits.length));
+});
+
+test('front end tolerates missing or malformed reporterCredits during schema migration', async () => {
+  const app = (await readFile(new URL('../app.js', import.meta.url), 'utf8')).replace(/\ninit\(\);\s*$/, '');
+  const feed = { innerHTML: '' }, updated = { textContent: '' };
+  const context = vm.createContext({ Intl, Date, URL, document: { querySelector: selector => selector === '#journalistFeed' ? feed : updated } });
+  vm.runInContext(app, context);
+  for (const reporterCredits of [undefined, {}, 'legacy', [null, {}, { name: 'David Ornstein', nameZh: '大卫·奥恩斯坦' }]]) {
+    context.entries = [{ ...legacy(credit), attributionType: 'headline-credit', reporterCredits }];
+    vm.runInContext('state.data = { journalists: entries }; renderJournalists();', context);
+    assert.ok(feed.innerHTML.includes('未核实署名'));
+    assert.ok(!feed.innerHTML.includes('undefined'));
+  }
+});
+
+test('an HTTP 200 non-RSS response is a failure, not a successful empty search', async () => {
+  const data = await runFeed({}, { previous: [legacy(credit)], invalidRss: ['David Ornstein'] });
+  assert.deepEqual(data.journalists.map(entry => entry.url), ['https://example.com/credit']);
+  assert.equal(data.journalists[0].attributionType, 'headline-credit');
 });

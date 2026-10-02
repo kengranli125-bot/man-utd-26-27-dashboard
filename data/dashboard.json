@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T22:40:04.760Z",
+  "updatedAt": "2026-10-02T05:35:10.107Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,13 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Several Premier League clubs eye Koundé move",
+      "published": "2026-10-01T20:46:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724622_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：几个英超联赛俱乐部关注昆德的举动"
+    },
+    {
       "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
       "published": "2026-10-01T11:14:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
@@ -27096,13 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50018535/leny-yoro-ibrahima-konate-france-nations-league-zinedine-zidane",
       "image": "https://a.espncdn.com/photo/2026/0924/r1721174_1296x729_16-9.jpg",
       "titleZh": "曼联的莱尼·约罗（ Leny Yoro ）在易卜拉希马·科纳特（ Ibrahima Konaté ）受伤后突然"
-    },
-    {
-      "title": "Transfer rumors, news: Could Man United replace Shaw with Mitchell?",
-      "published": "2026-09-24T01:49:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1721031_1296x729_16-9.jpg",
-      "titleZh": "转移谣言、新闻：曼联能用米切尔取代肖吗？"
     }
   ],
   "transfers": [
@@ -27122,16 +27122,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50025646/bayern-eye-barcelona-world-cup-winner-olmo",
       "image": "https://a.espncdn.com/photo/2026/0925/r1721832_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：曼联眼动布鲁日后卫赛斯",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Could Man United replace Shaw with Mitchell?",
-      "published": "2026-09-24T01:49:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50011570/transfer-rumors-news-bayern-munich-sign-erling-haaland-replace-harry-kane",
-      "image": "https://a.espncdn.com/photo/2026/0923/r1721031_1296x729_16-9.jpg",
-      "titleZh": "转移谣言、新闻：曼联能用米切尔取代肖吗？",
       "player": "",
       "status": "推进中",
       "statusType": "progress"
@@ -27338,9 +27328,9 @@
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
-      "statusType": "out",
-      "statusLabel": "伤缺/观察",
-      "availabilityScore": 38
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
     },
     {
       "id": "356044",
@@ -27948,6 +27938,25 @@
           "role": "中后卫"
         },
         {
+          "id": "167127",
+          "name": "Luke Shaw",
+          "nameZh": "卢克·肖",
+          "shortName": "L. Shaw",
+          "shortNameZh": "卢克·肖",
+          "jersey": "23",
+          "position": "Defender",
+          "age": 31,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "左后卫"
+        },
+        {
           "id": "238902",
           "name": "Diogo Dalot",
           "nameZh": "迪奥戈·达洛特",
@@ -27960,25 +27969,6 @@
           "nationalityZh": "葡萄牙",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "D",
-          "role": "左后卫"
-        },
-        {
-          "id": "239350",
-          "name": "Noussair Mazraoui",
-          "nameZh": "努赛尔·马兹拉维",
-          "shortName": "N. Mazraoui",
-          "shortNameZh": "马兹拉维",
-          "jersey": "3",
-          "position": "Defender",
-          "age": 28,
-          "nationality": "Morocco",
-          "nationalityZh": "摩洛哥",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28107,7 +28097,7 @@
         },
         {
           "label": "经验值",
-          "value": 85
+          "value": 86
         },
         {
           "label": "攻守平衡",
@@ -28235,18 +28225,18 @@
           "role": "中场"
         },
         {
-          "id": "238902",
-          "name": "Diogo Dalot",
-          "nameZh": "迪奥戈·达洛特",
-          "shortName": "D. Dalot",
-          "shortNameZh": "达洛特",
-          "jersey": "2",
+          "id": "167127",
+          "name": "Luke Shaw",
+          "nameZh": "卢克·肖",
+          "shortName": "L. Shaw",
+          "shortNameZh": "卢克·肖",
+          "jersey": "23",
           "position": "Defender",
-          "age": 27,
-          "nationality": "Portugal",
-          "nationalityZh": "葡萄牙",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
+          "age": 31,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28337,7 +28327,7 @@
         },
         {
           "label": "经验值",
-          "value": 81
+          "value": 82
         },
         {
           "label": "攻守平衡",

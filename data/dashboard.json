@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:12:49.165Z",
+  "updatedAt": "2026-10-03T05:17:07.119Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27035,13 +27035,6 @@
       "titleZh": "埃里克·滕·哈格（ Erik ten Hag ）与曼联队-弗雷德（ Fred ） “真是垃圾”"
     },
     {
-      "title": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
-      "published": "2026-10-02T13:17:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
-      "titleZh": "转会谣言，新闻：曼联，切尔西监控本菲卡后卫"
-    },
-    {
       "title": "Sir Alex Ferguson on David Beckham's Preston loan: 'He thought I wanted him gone but that's not true'",
       "published": "2026-10-02T10:01:51Z",
       "url": "https://www.espn.com/soccer/story/_/id/50083480/sir-alex-david-beckham-thought-wanted-gone-not-true",
@@ -27103,6 +27096,13 @@
       "url": "https://www.espn.com/soccer/story/_/id/50051711/patrick-dorgu-man-united-hamstring-injury-denmark",
       "image": "https://a.espncdn.com/photo/2026/0928/r1722854_1296x729_16-9.jpg",
       "titleZh": "帕特里克·多古（ Patrick Dorgu ）在丹麦怀疑腿筋受伤后返回曼联"
+    },
+    {
+      "title": "JJ Gabriel and the 'nightmare' battle for Premier League academy talent",
+      "published": "2026-09-27T11:33:54Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50006976/jj-gabriel-nightmare-battle-premier-league-academy-talent",
+      "image": "https://a.espncdn.com/photo/2026/0923/r1720886_1296x729_16-9.jpg",
+      "titleZh": "JJ加布里埃尔和英超联赛学院人才的“噩梦”之战"
     }
   ],
   "transfers": [
@@ -27115,16 +27115,6 @@
       "player": "",
       "status": "已完成",
       "statusType": "done"
-    },
-    {
-      "title": "Transfer rumors, news: Man United, Chelsea monitoring Benfica defender",
-      "published": "2026-10-02T13:17:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50082951/transfer-rumors-news-man-united-chelsea-monitoring-benfica-defender",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1724835_1296x729_16-9.jpg",
-      "titleZh": "转会谣言，新闻：曼联，切尔西监控本菲卡后卫",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
     },
     {
       "title": "Patrick Vieira reveals Manchester United, Sir Alex Ferguson talks during Arsenal stint",

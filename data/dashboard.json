@@ -27657,18 +27657,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMi8gFBVV95cUxOUVNQcTlMZU8yMlRYTFNqc3lBcm5CanJsb3FUZHRWZEdBcDJ5X0pHcFh5RWtGcGsxbW1nMVRJa1RqX3loNWhpYW1MV3N2WnZLOHcwT0U4bjV4X2JEcEtOU285ckF1eHZmUk1ZMHFwbGhZeXlvd0lpYnZjbHR4VE01cGdGZ1JZaE5QMUVqWFpTWDZxQU01X3RoUFhUV1kzd3REWWpNT2VUbHhLYzVYMzJWWERJejNhOENNUXBFODB1bExVc1BQQkRVd09YR1VFSzkxdHFqY2ttbUJoTV9RaW5qRmx0djdQdW9sVkluVXh2MTBRdw",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Carlos Baleba: Midfielder makes first Man Utd appearance in behind-closed-doors match",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVNQcTlMZU8yMlRYTFNqc3lBcm5CanJsb3FUZHRWZEdBcDJ5X0pHcFh5RWtGcGsxbW1nMVRJa1RqX3loNWhpYW1MV3N2WnZLOHcwT0U4bjV4X2JEcEtOU285ckF1eHZmUk1ZMHFwbGhZeXlvd0lpYnZjbHR4VE01cGdGZ1JZaE5QMUVqWFpTWDZxQU01X3RoUFhUV1kzd3REWWpNT2VUbHhLYzVYMzJWWERJejNhOENNUXBFODB1bExVc1BQQkRVd09YR1VFSzkxdHFqY2ttbUJoTV9RaW5qRmx0djdQdW9sVkluVXh2MTBRdw?oc=5",
-      "published": "2026-10-02T16:57:01.000Z",
-      "titleZh": "卡洛斯·巴莱巴（ Carlos Baleba ） ：中场在闭门比赛中首次出现在曼联"
-    },
-    {
       "id": "Laurie Whitwell:CBMiqAFBVV95cUxQMmMyVjBSYzVIenVhaXAzWG1ZSVV2c0pxUmFmc2x0SkFFNEE1dDBUTm9tZEhMUjdrb0VZME9XTllJbWpkWktHTVRRRUwzMFJST25MM1RBMktSdkN1QWZvS3A0dFQ3UUp3c3pqWWp5aUdQMWthbjNUYUVCcnpqQk53bEJvV0l0bldBb2ROVEktSDJfa2VURGJFbTJEYl9mSk40OHZ4eWdQY2s",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -27829,7 +27817,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 1,
       "title": "Man Utd reach verdict on paying £8.8m to sack Carrick as Romano reveals internal feelings on head coach",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWRHSF8tWnFWTHQ2R2tDVGhHSjNod2NBckw4Y3BqRFlYSTJ6WXM5QUVBQlZrRVRYcmUxQ2NoQ1g1RUx2bHlCeEg5aHNYNm02dHd5M1AyaE9yamxsdFY2d2JqSTNHT3BjVS1NdlVkaGdZejdPaDVuUDJfQkdxMXVPMXZiTTFvOVFfQUlKWHFZb3VGTFhJbkpJTlRuTUk?oc=5",
@@ -27853,7 +27841,7 @@
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "source": "football365.com",
       "tier": 1,
       "title": "Fabrizio Romano reveals whether Man Utd players want Michael Carrick sacked",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWNOTnRlYmZtblpjbGRUTHFLaDZYcGdpTzhTS1N6cDJUaE9rMGptU2JQY09ZREtYb0RncUx0TG41Q3Q0NTQ5V1JHNzd4TVZtTGpRUC1PZjFtWWljdHk1dTIzWVRLdGdiNElXVzBweHFUb3BpUHNuaHJjRmV4ZkxjVGFkRTJSNVRoS2Z3bklTSzZCYzNFY2NBSF9MY1FXMDRXRjZPMWRqUTRzUTY2?oc=5",
@@ -27861,7 +27849,7 @@
       "titleZh": "法布里奇奥·罗马诺揭示曼联球员是否希望解雇迈克尔·卡里克"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-04T18:20:58.117Z",
+  "journalistsUpdatedAt": "2026-10-05T00:14:37.513Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

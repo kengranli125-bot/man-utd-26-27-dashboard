@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T06:18:41.253Z",
+  "updatedAt": "2026-10-06T18:20:51.842Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,27 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
+      "published": "2026-10-06T10:31:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
+      "titleZh": "转会谣言、新闻：曼联、阿森纳、切尔西争夺弗莱堡前锋"
+    },
+    {
+      "title": "Man City mock draft: How Premier League teams could pick in hypothetical punishment",
+      "published": "2026-10-06T10:29:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726637_1296x729_16-9.jpg",
+      "titleZh": "曼城模拟选秀：英超球队如何选择假设的惩罚"
+    },
+    {
+      "title": "How top Premier League clubs view Man City's guilty verdict",
+      "published": "2026-10-06T13:08:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
+      "image": "https://a.espncdn.com/photo/2021/0609/r865143_1296x729_16-9.jpg",
+      "titleZh": "顶级英超俱乐部如何看待曼城的有罪判决"
+    },
+    {
       "title": "JJ Gabriel representatives demanded game time at Manchester United - sources",
       "published": "2026-10-05T16:53:23Z",
       "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources",
@@ -27082,30 +27103,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50067385/fa-charges-fulham-boss-alvaro-arbeloa-misconduct-comments-man-united-draw",
       "image": "https://a.espncdn.com/photo/2026/0930/r1723891_1296x729_16-9.jpg",
       "titleZh": "英足总指控富勒姆老板Álvaro Arbeloa在曼联平局后发表不当行为"
-    },
-    {
-      "title": "Wayne Rooney wouldn't 'feel comfortable' accepting Premier League medal if Man City stripped of titles",
-      "published": "2026-09-29T10:01:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057375/wayne-rooney-wouldnt-feel-comfortable-accepting-premier-league-medal-man-city-stripped-titles",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723317_1296x729_16-9.jpg",
-      "titleZh": "如果曼城被剥夺冠军头衔，韦恩·鲁尼不会“感到舒服”接受英超联赛奖牌"
-    },
-    {
-      "title": "Patrick Vieira reveals Manchester United, Sir Alex Ferguson talks during Arsenal stint",
-      "published": "2026-09-29T08:33:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057110/patrick-vieira-reveals-manchester-united-sir-alex-ferguson-talks-arsenal-stint",
-      "image": "https://a.espncdn.com/photo/2026/0114/r1600453_1296x729_16-9.jpg",
-      "titleZh": "帕特里克·维埃拉（ Patrick Vieira ）透露曼联，亚历克斯·弗格森爵士（ Sir Alex Ferguson ）在阿森纳期间"
-    },
-    {
-      "title": "Patrick Dorgu returns to Man United after suspected hamstring injury with Denmark",
-      "published": "2026-09-28T13:59:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50051711/patrick-dorgu-man-united-hamstring-injury-denmark",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722854_1296x729_16-9.jpg",
-      "titleZh": "帕特里克·多古（ Patrick Dorgu ）在丹麦怀疑腿筋受伤后返回曼联"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United, Arsenal, Chelsea battle for Freiburg striker",
+      "published": "2026-10-06T10:31:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50115213/transfer-rumors-news-man-united-arsenal-chelsea-battle-freiburg-striker",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726728_1296x729_16-9.jpg",
+      "titleZh": "转会谣言、新闻：曼联、阿森纳、切尔西争夺弗莱堡前锋",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "New signing Carlos Baleba gets 1st Man United outing in friendly",
       "published": "2026-10-02T18:31:55Z",
@@ -27115,16 +27125,6 @@
       "player": "",
       "status": "已完成",
       "statusType": "done"
-    },
-    {
-      "title": "Patrick Vieira reveals Manchester United, Sir Alex Ferguson talks during Arsenal stint",
-      "published": "2026-09-29T08:33:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50057110/patrick-vieira-reveals-manchester-united-sir-alex-ferguson-talks-arsenal-stint",
-      "image": "https://a.espncdn.com/photo/2026/0114/r1600453_1296x729_16-9.jpg",
-      "titleZh": "帕特里克·维埃拉（ Patrick Vieira ）透露曼联，亚历克斯·弗格森爵士（ Sir Alex Ferguson ）在阿森纳期间",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
     }
   ],
   "roster": [
@@ -27294,9 +27294,9 @@
       "nationalityZh": "丹麦",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
-      "statusType": "out",
-      "statusLabel": "伤缺/观察",
-      "availabilityScore": 38
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
     },
     {
       "id": "340206",
@@ -28225,18 +28225,18 @@
           "role": "中场"
         },
         {
-          "id": "167127",
-          "name": "Luke Shaw",
-          "nameZh": "卢克·肖",
-          "shortName": "L. Shaw",
-          "shortNameZh": "卢克·肖",
-          "jersey": "23",
+          "id": "366781",
+          "name": "Patrick Dorgu",
+          "nameZh": "帕特里克·多尔古",
+          "shortName": "P. Dorgu",
+          "shortNameZh": "多尔古",
+          "jersey": "13",
           "position": "Defender",
-          "age": 31,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
+          "age": 21,
+          "nationality": "Denmark",
+          "nationalityZh": "丹麦",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -28327,7 +28327,7 @@
         },
         {
           "label": "经验值",
-          "value": 80
+          "value": 77
         },
         {
           "label": "攻守平衡",

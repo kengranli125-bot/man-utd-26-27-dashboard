@@ -27647,6 +27647,18 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMimwFBVV95cUxPUWtIblNPMHoxcmZMYjl5QjBZNW94X3NXa280R1NOa1o1amo3TjFRU2VvSXpkYmk3VmRyaXRWc3VGSGhFc2xZQ0NBbHJ1am1JUU5QZ19KcWNEN3Rwcm1BQVNnR2JUSm8yWWplRFM0bVRPNEdVODJKeW5BcTk0R3FDU0VjXzExdUdDSENZbEI0Q3VJMnZpTUJsai1zOA",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Why Ferran Soriano, Manchester City’s ‘Ice Man’, is fighting for his reputation after cheating scandal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWtIblNPMHoxcmZMYjl5QjBZNW94X3NXa280R1NOa1o1amo3TjFRU2VvSXpkYmk3VmRyaXRWc3VGSGhFc2xZQ0NBbHJ1am1JUU5QZ19KcWNEN3Rwcm1BQVNnR2JUSm8yWWplRFM0bVRPNEdVODJKeW5BcTk0R3FDU0VjXzExdUdDSENZbEI0Q3VJMnZpTUJsai1zOA?oc=5",
+      "published": "2026-10-07T04:13:55.000Z",
+      "titleZh": "为什么曼城的“冰人”费兰·索里亚诺（ Ferran Soriano ）在作弊丑闻后为自己的声誉而战"
+    },
+    {
       "id": "Fabrizio Romano:CBMitgFBVV95cUxNLXNoWC1HSEhDaHZXSk5wZWEwZ3VrOWxYX25aRWZMdHNCbG5LUFd1ZzAtbWROdW9XN1YtMVdjMnhDNWdRWjdSSmhMdTFCQVpZNlAyRXRidUhqMHFzWjhITmxZOHpua0lZY2wzS0w1RURQWVZuTnZBQkNPWV8xcWd6b2ZBNlJwYUV1LWpqTWhsWGlCSUw5ZW5OTGZRNU4xLXR4SkotUHNMc0NHaFp3Y3F0Mlg4VGdrQQ",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -27683,15 +27695,27 @@
       "titleZh": "“当然” – Romano确认Man Utd正在考虑免费提供40帽德国明星的举动"
     },
     {
-      "id": "Fabrizio Romano:CBMi-AFBVV95cUxPMDh4XzFxMXE2UFRWSGltMWR4cHVaR05sWHc5UExBRzItdndrTnBoY2xCSkZ6VTNrTkdFNHo3RDZvRTRMMXhPdWhVWkFvRXN0Wl9nTE02d0ZYTkltR1ZUUkctU094SkFUck9MRW5WdVEyZDJHVk5aMDVJS2RNcXMxbWlMVnFZcUlQdlhFallEdUtuT2NjakxxRE9NQU5UdUZ4Y2NmdGRtNHZnT2E0X3Z3eHR5NUtlNEFyODVJS0lqNmpqSFhsTi12V1VUM1A3a1JXOWpPTHFmaFJLVU9pTGw2UlJHSS1rcjVraFVOSk1DbHlXaXR0ekhUZw",
+      "id": "Fabrizio Romano:CBMi1AFBVV95cUxPZi1BZ2F0S2dxZlZnY0xUN2I5SldhSUJuZzBXazFDc0M2UFpnbWY3N2RVWnlwcl9qSHN0VEhZT2dZZUZLRTF2S2lscEcwZWJNMW95NXdqbERtYktXTkg2V2RDZTA4Nzd4YzJIaVJFWmZOXzI1SUFMa08yVHZ0SkFkc0daQ0hDSThpRVJSSzB1c2dHWXdrLV9qbzhHMm5Odk1JaC1ucHZqMjEzVXMxd0hsdEZYczdaX1ZmOHlFRF82XzloZzUtMzBuclVWRE5qdzdMNi1YRA",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
       "reporterOutlet": "国际转会记者",
-      "source": "LiveScore",
+      "source": "roundtable.io",
+      "tier": 1,
+      "title": "\"Still Looking\" – Fabrizio Romano Reveals Man Utd's David Raum Stance",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZi1BZ2F0S2dxZlZnY0xUN2I5SldhSUJuZzBXazFDc0M2UFpnbWY3N2RVWnlwcl9qSHN0VEhZT2dZZUZLRTF2S2lscEcwZWJNMW95NXdqbERtYktXTkg2V2RDZTA4Nzd4YzJIaVJFWmZOXzI1SUFMa08yVHZ0SkFkc0daQ0hDSThpRVJSSzB1c2dHWXdrLV9qbzhHMm5Odk1JaC1ucHZqMjEzVXMxd0hsdEZYczdaX1ZmOHlFRF82XzloZzUtMzBuclVWRE5qdzdMNi1YRA?oc=5",
+      "published": "2026-10-06T13:22:57.000Z",
+      "titleZh": "“仍在寻找” – Fabrizio Romano揭示曼联的David Raum立场"
+    },
+    {
+      "id": "Fabrizio Romano:CBMitAFBVV95cUxNWGl3WlJTeVR6QUZlUi1zejBscGRkbG1HeU52X0ZLM3JONnlJX1dkOE9lYjg3cjIwZDM3b3BUNlRIWjdJSXNweWVYaTVWWjBHc0hGZzF1enVzUG02dU1BVmdlRlpEMDRwazdFWHJ0Z0t5aEJSTmtScVFFS0d3SFlCTTRIQkpEcElmSWxNUnhQdzRvcnZrZlBYMGNoV3hSSXIzRGExSFZCRTZUeTNvbTBheHVpTnI",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
       "tier": 1,
       "title": "Fabrizio Romano reveals Man Utd plan about new Bruno Fernandes and Lisandro Martinez contracts",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMDh4XzFxMXE2UFRWSGltMWR4cHVaR05sWHc5UExBRzItdndrTnBoY2xCSkZ6VTNrTkdFNHo3RDZvRTRMMXhPdWhVWkFvRXN0Wl9nTE02d0ZYTkltR1ZUUkctU094SkFUck9MRW5WdVEyZDJHVk5aMDVJS2RNcXMxbWlMVnFZcUlQdlhFallEdUtuT2NjakxxRE9NQU5UdUZ4Y2NmdGRtNHZnT2E0X3Z3eHR5NUtlNEFyODVJS0lqNmpqSFhsTi12V1VUM1A3a1JXOWpPTHFmaFJLVU9pTGw2UlJHSS1rcjVraFVOSk1DbHlXaXR0ekhUZw?oc=5",
-      "published": "2026-10-05T22:28:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGl3WlJTeVR6QUZlUi1zejBscGRkbG1HeU52X0ZLM3JONnlJX1dkOE9lYjg3cjIwZDM3b3BUNlRIWjdJSXNweWVYaTVWWjBHc0hGZzF1enVzUG02dU1BVmdlRlpEMDRwazdFWHJ0Z0t5aEJSTmtScVFFS0d3SFlCTTRIQkpEcElmSWxNUnhQdzRvcnZrZlBYMGNoV3hSSXIzRGExSFZCRTZUeTNvbTBheHVpTnI?oc=5",
+      "published": "2026-10-06T02:36:46.000Z",
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）透露曼联关于布鲁诺·费尔南德斯（ Bruno Fernandes ）和利桑德罗·"
     },
     {
@@ -27755,30 +27779,6 @@
       "titleZh": "信任年轻人-曼联问答"
     },
     {
-      "id": "James Ducker:CBMiqAFBVV95cUxNM21sRTNDLU56eGwtc3c5NjY1eU1kd0NMYTVFTEczc1NwSFNOelVRb2x2N3k4OW92T1k0SkJRWU5hY1ZNOWt0OW1MY054dl9LQUYtWjd2Z21SMzdMSE9CTVphZ1o5c1I0SjNGZXp3SFNQck1HNnhzWmllTXJBMkpkSk83QUR4ODltaWlrSGJOQ3BRbVVXd3dNdEFNVGNWcmtkNkRsTmlHNnA",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Khaldoon Al Mubarak is the man trying to pull City back from brink of football oblivion",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21sRTNDLU56eGwtc3c5NjY1eU1kd0NMYTVFTEczc1NwSFNOelVRb2x2N3k4OW92T1k0SkJRWU5hY1ZNOWt0OW1MY054dl9LQUYtWjd2Z21SMzdMSE9CTVphZ1o5c1I0SjNGZXp3SFNQck1HNnhzWmllTXJBMkpkSk83QUR4ODltaWlrSGJOQ3BRbVVXd3dNdEFNVGNWcmtkNkRsTmlHNnA?oc=5",
-      "published": "2026-10-05T07:00:00.000Z",
-      "titleZh": "Khaldoon Al Mubarak试图将城市从足球遗忘的边缘拉回来"
-    },
-    {
-      "id": "Fabrizio Romano:CBMivgFBVV95cUxOVl9jRkdZZmFjeHp6eTZHb21icEVWTHpWbWl3TmhpMnNDMG9zWldVLXhfelFYQUZoYTE2QVRZaER6aHBsOFAzMmdOTVlfcEtOTzJlX2gyRnRQYi1ZeVphWWFuU3RkT1YyUXl2NXZJd21OZHRCUjdGVEcxamlzMHZWQTZkbDNsVF8wSHpuN0hOUWtQeWp3TkpGbzVZSlhZeFFYRDBfSlQ3SEJteTlTZEZpcXpWRTQ0SEVtZTBiVmR3",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "DaveOCKOP",
-      "tier": 1,
-      "title": "Fabrizio Romano confirms Manchester United scouting mission for Liverpool target",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVl9jRkdZZmFjeHp6eTZHb21icEVWTHpWbWl3TmhpMnNDMG9zWldVLXhfelFYQUZoYTE2QVRZaER6aHBsOFAzMmdOTVlfcEtOTzJlX2gyRnRQYi1ZeVphWWFuU3RkT1YyUXl2NXZJd21OZHRCUjdGVEcxamlzMHZWQTZkbDNsVF8wSHpuN0hOUWtQeWp3TkpGbzVZSlhZeFFYRDBfSlQ3SEJteTlTZEZpcXpWRTQ0SEVtZTBiVmR3?oc=5",
-      "published": "2026-10-04T17:31:20.000Z",
-      "titleZh": "法布里奇奥·罗马诺确认曼联对利物浦目标的侦察任务"
-    },
-    {
       "id": "David Ornstein:CBMikAFBVV95cUxPTmtzNGVlT1ZSc3VLajR1eG5kRmY3NTNnSkVPNU9vZGdLLUhTYTJhZ25qWFVjR3g1U0JQYkpDeFVQbWlYUW5Eb3JueldZOVlRNEhBRXJvRFZEN0taM1J1TVNSUXNDMjdtRktWMml0R0FPSFpxcldlMU1fR1p1S0RCNnV4Tk1yelJqdkVENHBQQ0U",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -27789,18 +27789,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmtzNGVlT1ZSc3VLajR1eG5kRmY3NTNnSkVPNU9vZGdLLUhTYTJhZ25qWFVjR3g1U0JQYkpDeFVQbWlYUW5Eb3JueldZOVlRNEhBRXJvRFZEN0taM1J1TVNSUXNDMjdtRktWMml0R0FPSFpxcldlMU1fR1p1S0RCNnV4Tk1yelJqdkVENHBQQ0U?oc=5",
       "published": "2026-10-03T07:00:00.000Z",
       "titleZh": "科尔·帕尔默（ Cole Palmer ）、德克兰·赖斯（ Declan Rice ）和马库斯·拉什福德（ Marcus Rashford ）在英格兰退出"
-    },
-    {
-      "id": "James Ducker:CBMiqwFBVV95cUxNWXVRU1E4dWVlY2tmdzlXSkVwdDdXaW43Yl85Rmd1WnJ1SE5Vd0NBdWI0cTdCSllCQVcyUUxKcUdVTVZ2cnJPUjNOOUhYYW94cGc3N2hGX0luelBlTjZXYnp1MTJNYWhpSkl5RmNucG5ia0xkRElPMTJUVXlqWnA2Zld6djdSNnBzenNYNGJjZE12alJRTGtOaEJhNTZKZ2d6RnNOYks0MXpQQVE",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Revealed: Damning evidence that undermines Man City’s defence",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXVRU1E4dWVlY2tmdzlXSkVwdDdXaW43Yl85Rmd1WnJ1SE5Vd0NBdWI0cTdCSllCQVcyUUxKcUdVTVZ2cnJPUjNOOUhYYW94cGc3N2hGX0luelBlTjZXYnp1MTJNYWhpSkl5RmNucG5ia0xkRElPMTJUVXlqWnA2Zld6djdSNnBzenNYNGJjZE12alJRTGtOaEJhNTZKZ2d6RnNOYks0MXpQQVE?oc=5",
-      "published": "2026-10-02T14:42:00.000Z",
-      "titleZh": "揭露：破坏曼城防御的诅咒证据"
     },
     {
       "id": "Laurie Whitwell:CBMiqAFBVV95cUxQMmMyVjBSYzVIenVhaXAzWG1ZSVV2c0pxUmFmc2x0SkFFNEE1dDBUTm9tZEhMUjdrb0VZME9XTllJbWpkWktHTVRRRUwzMFJST25MM1RBMktSdkN1QWZvS3A0dFQ3UUp3c3pqWWp5aUdQMWthbjNUYUVCcnpqQk53bEJvV0l0bldBb2ROVEktSDJfa2VURGJFbTJEYl9mSk40OHZ4eWdQY2s",
@@ -27827,6 +27815,30 @@
       "titleZh": "审计-曼联：表面下到底是怎么回事？"
     },
     {
+      "id": "James Ducker:CBMipgFBVV95cUxPRW0wNVY4Qzk0ZkNjOURmakFCLUVyb2wtel9ENXZDcDdmT3ZPWkZyazBUcUlEdWM4TzFkMndGSFU4WWt1dUdya0l6U0Y5d0FHMGhYS1QxYUhDdGR6MFFPRW9WV0MwZl9zNjFRckFVV1FBbjRYUXV3OEkzb2d3cmFVb2F4OUFkbWRuRDRJV1JGZ2lDZi0tVmdsNHh4WldRWTV3WkZXb0xR",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Man City’s defence: Abu Dhabi government paid sponsorship money, not owners",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRW0wNVY4Qzk0ZkNjOURmakFCLUVyb2wtel9ENXZDcDdmT3ZPWkZyazBUcUlEdWM4TzFkMndGSFU4WWt1dUdya0l6U0Y5d0FHMGhYS1QxYUhDdGR6MFFPRW9WV0MwZl9zNjFRckFVV1FBbjRYUXV3OEkzb2d3cmFVb2F4OUFkbWRuRDRJV1JGZ2lDZi0tVmdsNHh4WldRWTV3WkZXb0xR?oc=5",
+      "published": "2026-10-01T13:53:00.000Z",
+      "titleZh": "曼城的辩护：阿布扎比政府支付赞助资金，而不是业主"
+    },
+    {
+      "id": "James Ducker:CBMiqwFBVV95cUxOTXBYWGNFTE51LTJ6N1RTYWdlSVFsUFJMVUZ2RnhhbE5ULTRjWDhLZnRfSFdFSUExNmpaRVMxaGptOVp1c05NNFpST0xSLWdYcW5scDFOcnZwU1Z2RmtIb1J2MjRrd2w3QVU2dnlRMWpsMDRxTVYwNFM1aXFiTlZNaWZ1ZXBiaFNKbjJWXzluQjlHQWtPOGZCLVdta29oZ21QT2IweHFaWHkxakk",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Man City accused of avoiding £12m tax payments over Mancini contract",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXBYWGNFTE51LTJ6N1RTYWdlSVFsUFJMVUZ2RnhhbE5ULTRjWDhLZnRfSFdFSUExNmpaRVMxaGptOVp1c05NNFpST0xSLWdYcW5scDFOcnZwU1Z2RmtIb1J2MjRrd2w3QVU2dnlRMWpsMDRxTVYwNFM1aXFiTlZNaWZ1ZXBiaFNKbjJWXzluQjlHQWtPOGZCLVdta29oZ21QT2IweHFaWHkxakk?oc=5",
+      "published": "2026-10-01T12:00:00.000Z",
+      "titleZh": "曼城被指控因Mancini合同而避免缴纳£ 1200万元的税款"
+    },
+    {
       "id": "Simon Stone:CBMiaEFVX3lxTE81Y2ZJQ1g5MTJFd0J4UDVxTW5pUHpJc3BDME5VeWRFVFJIOEhBMnhpYmxtNTFqOU9hNFd3Q2l5TWU4b2k1SnJHZV9yd2wwRkFVZHlHTUZqSmlhWXBpUU9ORmFGcnVWc3VD",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -27851,43 +27863,19 @@
       "titleZh": "引发疑问的好奇赞助：曼城是否在2018年停止了不法行为？"
     },
     {
-      "id": "David Ornstein:CBMilgFBVV95cUxObmU3MFdjOEpJSGVXQ29yUVZoVzJCaGgyb2l4UUlrcjV6NXRMSXMwOXd6SjBxMVhpOEhvV0U5cUxBZDg5TlVkU0tWNDJGTGQxV05fWnI4REpJdFVONEtKcDJIOGs0b0lURWhramhQN05DY1lxcFBOU2JQLWI0RzZWS09xTDZ3U3Q3OTZJNzU3ZFVvLXpXY1HSAZsBQVVfeXFMUGR2SjNRcUgwNzFwbEZBZ2tnSk05U0lfZjZzQzZqOXhnZWx5TGNFanlvUU9Ja2tCU0ktQ0lDTGZwY3B4WWVKODF0RGlxQXo2dndNUDE5blZvZU1YS2ZVR3g2dUxYU3hFQUxsM0hVR19UVHByNWhCYTJiVzd2YlZmc0lPNTNna0toSWgza1lRZWczTjNFNlVNZkNKQXc",
+      "id": "David Ornstein:CBMipAFBVV95cUxOQ0VsZFJVdzhkWWc1cFZBV2NGcVhlRVBUVi1FYUs4NHFPQ3VXRGlPdDRORFVQeVdGZ3RFZkp4ZThac3UyOWs0amhOSGlXN0ZxelVwaEg2NEFvQUpUOHREWGNtNjI3UktxYzd3cDVOc2NreHI5cEw0MzhqVlNSSllWVmZrTDV6Xy1hRXpBSk9wYnYxMVZYc2Yza3NWWThVUWNLS01wdQ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
       "reporterOutlet": "The Athletic",
-      "source": "CaughtOffside",
+      "source": "The New York Times",
       "tier": 1,
-      "title": "David Ornstein reveals “abuse” from Manchester City fans after breaking charges story",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmU3MFdjOEpJSGVXQ29yUVZoVzJCaGgyb2l4UUlrcjV6NXRMSXMwOXd6SjBxMVhpOEhvV0U5cUxBZDg5TlVkU0tWNDJGTGQxV05fWnI4REpJdFVONEtKcDJIOGs0b0lURWhramhQN05DY1lxcFBOU2JQLWI0RzZWS09xTDZ3U3Q3OTZJNzU3ZFVvLXpXY1HSAZsBQVVfeXFMUGR2SjNRcUgwNzFwbEZBZ2tnSk05U0lfZjZzQzZqOXhnZWx5TGNFanlvUU9Ja2tCU0ktQ0lDTGZwY3B4WWVKODF0RGlxQXo2dndNUDE5blZvZU1YS2ZVR3g2dUxYU3hFQUxsM0hVR19UVHByNWhCYTJiVzd2YlZmc0lPNTNna0toSWgza1lRZWczTjNFNlVNZkNKQXc?oc=5",
-      "published": "2026-10-01T08:38:16.000Z",
-      "titleZh": "大卫·奥恩斯坦（ David Ornstein ）揭露了曼城球迷在打破指控故事后的“虐待”"
-    },
-    {
-      "id": "David Ornstein:CBMilAFBVV95cUxPZEJnU1VPRnQ1OTRNeS1laTlNdVFJSUI1ZUkta2dyMTNDNF90ZkNWbVQ1RVViSkFpVTNtendHMWY1Q0otLXpBNi1aZlc3VWM0T01BaUdjSVBwUGNPNTVjQzkwc3FSY3Y0el9oaU5rSXlwWFZ5anZYd2I0QTljS1laMElWMTVpOUdIeWRCMENzWlZDSTVD0gGaAUFVX3lxTE9LSjluRmI3RU45WHc5RHRmLW5WYXFqNmFNMnJSQlE0N1ZrVmIxMFppc1hfc0xDWGp2dnV6b0R6SzlxV2tlT21ZbjFZS0RFS0VnSVM1cWxVMFpkZkU1bHk0WXRmS2RHMW02TU8zTWd2ejhWM3ZYcldqemYta1pUd0sycHh2eTVQdWdmYjZHVEdBR1RwZ2w4T0FuUHc",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Tribuna.com",
-      "tier": 1,
-      "title": "'Light the beacons': David Ornstein reveals high-stakes scoop on Manchester City's guilty verdict",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZEJnU1VPRnQ1OTRNeS1laTlNdVFJSUI1ZUkta2dyMTNDNF90ZkNWbVQ1RVViSkFpVTNtendHMWY1Q0otLXpBNi1aZlc3VWM0T01BaUdjSVBwUGNPNTVjQzkwc3FSY3Y0el9oaU5rSXlwWFZ5anZYd2I0QTljS1laMElWMTVpOUdIeWRCMENzWlZDSTVD0gGaAUFVX3lxTE9LSjluRmI3RU45WHc5RHRmLW5WYXFqNmFNMnJSQlE0N1ZrVmIxMFppc1hfc0xDWGp2dnV6b0R6SzlxV2tlT21ZbjFZS0RFS0VnSVM1cWxVMFpkZkU1bHk0WXRmS2RHMW02TU8zTWd2ejhWM3ZYcldqemYta1pUd0sycHh2eTVQdWdmYjZHVEdBR1RwZ2w4T0FuUHc?oc=5",
-      "published": "2026-10-01T08:30:09.000Z",
-      "titleZh": "“点亮灯塔” ：大卫·奥恩斯坦揭示了曼城有罪判决的高风险独家新闻"
-    },
-    {
-      "id": "James Ducker:CBMilAFBVV95cUxPNE80Qm9rYThIWml2RkNfaFVZZGI2SE9BS1hHRmgzTUEyWFNRZ0VobnpaT0JUcncyQ29RY0J5bXFQMUlkZW5LNk5HeEY3SUdDTFc0MG5Uc0lOQVF4aXlIV2RRbEI2WW1JVVMyUThicW1wNmZCMl9pYWlGQk5sTjg4NU5vNDh1TWZyM3NMRExrdlkwemdv",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "The players Man City signed with their £830m illegal payments",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNE80Qm9rYThIWml2RkNfaFVZZGI2SE9BS1hHRmgzTUEyWFNRZ0VobnpaT0JUcncyQ29RY0J5bXFQMUlkZW5LNk5HeEY3SUdDTFc0MG5Uc0lOQVF4aXlIV2RRbEI2WW1JVVMyUThicW1wNmZCMl9pYWlGQk5sTjg4NU5vNDh1TWZyM3NMRExrdlkwemdv?oc=5",
-      "published": "2026-09-30T06:00:00.000Z",
-      "titleZh": "曼城球员以8.3亿英镑的非法支付签约"
+      "title": "Manchester City have become ‘Sham FC’. They deserve the heaviest punishment",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0VsZFJVdzhkWWc1cFZBV2NGcVhlRVBUVi1FYUs4NHFPQ3VXRGlPdDRORFVQeVdGZ3RFZkp4ZThac3UyOWs0amhOSGlXN0ZxelVwaEg2NEFvQUpUOHREWGNtNjI3UktxYzd3cDVOc2NreHI5cEw0MzhqVlNSSllWVmZrTDV6Xy1hRXpBSk9wYnYxMVZYc2Yza3NWWThVUWNLS01wdQ?oc=5",
+      "published": "2026-09-30T15:26:13.000Z",
+      "titleZh": "曼城已成为“虚假足球俱乐部”。他们应该受到最严厉的惩罚"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-07T00:37:50.581Z",
+  "journalistsUpdatedAt": "2026-10-07T06:36:40.184Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

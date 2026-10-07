@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T05:57:26.656Z",
+  "updatedAt": "2026-10-07T13:20:43.108Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27306,23 +27306,6 @@
       "availabilityScore": 90
     },
     {
-      "id": "167127",
-      "name": "Luke Shaw",
-      "nameZh": "卢克·肖",
-      "shortName": "L. Shaw",
-      "shortNameZh": "卢克·肖",
-      "jersey": "23",
-      "position": "Defender",
-      "age": 31,
-      "nationality": "England",
-      "nationalityZh": "英格兰",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
-    },
-    {
       "id": "356044",
       "name": "Ayden Heaven",
       "nameZh": "艾登·赫文",
@@ -27437,6 +27420,23 @@
       "nationalityZh": "喀麦隆",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
       "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "167127",
+      "name": "Luke Shaw",
+      "nameZh": "卢克·肖",
+      "shortName": "L. Shaw",
+      "shortNameZh": "卢克·肖",
+      "jersey": "23",
+      "position": "Midfielder",
+      "age": 30,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
       "statusType": "available",
       "statusLabel": "可用",
       "availabilityScore": 90
@@ -27946,8 +27946,8 @@
           "shortName": "L. Shaw",
           "shortNameZh": "卢克·肖",
           "jersey": "23",
-          "position": "Defender",
-          "age": 31,
+          "position": "Midfielder",
+          "age": 30,
           "nationality": "England",
           "nationalityZh": "英格兰",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
@@ -28099,7 +28099,7 @@
         },
         {
           "label": "经验值",
-          "value": 86
+          "value": 85
         },
         {
           "label": "攻守平衡",

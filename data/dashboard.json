@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:01:52.939Z",
+  "updatedAt": "2026-10-08T13:26:59.623Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,8 +27021,29 @@
   ],
   "news": [
     {
+      "title": "Ian Darke's early Premier League impressions for all 20 teams",
+      "published": "2026-10-08T08:04:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams",
+      "image": "https://a.espncdn.com/photo/2026/1001/r1724510_1296x729_16-9.jpg",
+      "titleZh": "伊恩·达克（ Ian Darke ）对所有20支球队的英超联赛早期印象"
+    },
+    {
+      "title": "Sir Alex Ferguson: Cristiano Ronaldo and Wayne Rooney were 'the best in Europe' at Man United",
+      "published": "2026-10-08T07:52:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50131187/alex-ferguson-cristiano-ronaldo-wayne-rooney-best-europe-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1008/r1727732_1296x729_16-9.jpg",
+      "titleZh": "亚历克斯·弗格森爵士：克里斯蒂亚诺·罗纳尔多和韦恩·鲁尼在曼联是“欧洲最好的”"
+    },
+    {
+      "title": "Which managers could fit Manchester United and Tottenham if needed this season?",
+      "published": "2026-10-08T07:33:13Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50116406/which-managers-fit-manchester-united-tottenham-hotspur-needed-season",
+      "image": "https://a.espncdn.com/photo/2026/1006/r1726792_1296x729_16-9.jpg",
+      "titleZh": "如果本赛季有需要，哪些经理可以适合曼联和托特纳姆？"
+    },
+    {
       "title": "Another bad Man United run has Carrick feeling the heat. Should he be?",
-      "published": "2026-10-07T16:40:33Z",
+      "published": "2026-10-08T07:38:54Z",
       "url": "https://www.espn.com/soccer/story/_/id/50110195/manchester-united-managerial-cycle-michael-carrick-feeling-heat-he",
       "image": "https://a.espncdn.com/photo/2026/1005/r1726386_1296x729_16-9.jpg",
       "titleZh": "另一场糟糕的曼联比赛让卡里克感受到了热度。他应该是吗？"
@@ -27082,27 +27103,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50083305/sir-alex-ferguson-man-united-old-trafford-return",
       "image": "https://a.espncdn.com/photo/2026/1002/r1724845_1296x729_16-9.jpg",
       "titleZh": "亚历克斯·弗格森爵士对脑部手术后老特拉福德的回归感到“恐惧”"
-    },
-    {
-      "title": "Transfer rumors, news: Several Premier League clubs eye Koundé move",
-      "published": "2026-10-01T20:46:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50075140/transfer-rumors-news-real-madrid-eye-former-liverpool-defender-quansah",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724622_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：几个英超联赛俱乐部关注昆德的举动"
-    },
-    {
-      "title": "Premier League depth charts for most popular teams: Who is key?",
-      "published": "2026-10-01T07:05:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50012221/premier-league-depth-chart-arsenal-man-united-man-city-liverpool-chelsea-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/0929/r1723309_1296x729_16-9.jpg",
-      "titleZh": "最受欢迎球队的英超联赛深度图：谁是关键？"
-    },
-    {
-      "title": "FA charges Fulham boss Álvaro Arbeloa with misconduct for comments after Man United draw",
-      "published": "2026-10-01T04:28:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50067385/fa-charges-fulham-boss-alvaro-arbeloa-misconduct-comments-man-united-draw",
-      "image": "https://a.espncdn.com/photo/2026/0930/r1723891_1296x729_16-9.jpg",
-      "titleZh": "英足总指控富勒姆老板Álvaro Arbeloa在曼联平局后发表不当行为"
     }
   ],
   "transfers": [
@@ -27143,7 +27143,7 @@
       "shortNameZh": "达洛",
       "jersey": "12",
       "position": "Goalkeeper",
-      "age": 35,
+      "age": 36,
       "nationality": "Wales",
       "nationalityZh": "威尔士",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
@@ -28528,7 +28528,7 @@
           "shortNameZh": "达洛",
           "jersey": "12",
           "position": "Goalkeeper",
-          "age": 35,
+          "age": 36,
           "nationality": "Wales",
           "nationalityZh": "威尔士",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
@@ -28547,7 +28547,7 @@
         },
         {
           "label": "经验值",
-          "value": 74
+          "value": 75
         },
         {
           "label": "攻守平衡",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T06:06:42.354Z",
+  "updatedAt": "2026-10-09T13:14:55.265Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,27 @@
   ],
   "news": [
     {
+      "title": "Premier League team news, injury updates after international break",
+      "published": "2026-10-09T12:38:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
+      "titleZh": "英超球队新闻，国际比赛后伤病更新"
+    },
+    {
+      "title": "Sir Alex Ferguson names Roy Keane's 'finest game for Man United'",
+      "published": "2026-10-09T11:55:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50138827/sir-alex-ferguson-roy-keane-man-united-champions-league-juventus-1999",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728152_1296x729_16-9.jpg",
+      "titleZh": "亚历克斯·弗格森爵士将罗伊·基恩的“曼联最佳比赛”命名为"
+    },
+    {
+      "title": "Premier League reranked: Have we found Arsenal's fatal flaw?",
+      "published": "2026-10-09T07:58:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50134447/premier-league-reranked-all-20-teams-arsenal-fatal-flaw-chelsea-bad",
+      "image": "https://a.espncdn.com/photo/2026/1009/r1728081_1296x729_16-9.jpg",
+      "titleZh": "英超联赛重新排名：我们是否发现了阿森纳的致命缺陷？"
+    },
+    {
       "title": "Moreno: Man Utd vs. Spurs a 'must not lose' for both sides",
       "published": "2026-10-08T21:15:29Z",
       "url": "https://www.espn.com/video/clip/_/id/50135294/man-utd-vs-spurs-not-lose-sides",
@@ -27036,7 +27057,7 @@
     },
     {
       "title": "Man City charges: What managers said about scandal ahead of Premier League return",
-      "published": "2026-10-08T16:08:00Z",
+      "published": "2026-10-09T10:09:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/50130966/man-city-charges-managers-said-scandal-ahead-premier-league-return",
       "image": "https://a.espncdn.com/photo/2018/0830/r423357_1296x729_16-9.jpg",
       "titleZh": "曼城指控：经理们在英超回归前对丑闻的看法"
@@ -27082,41 +27103,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/50113281/man-city-mock-draft-premier-league-team-picks-hypothetical-cheating-punishment",
       "image": "https://a.espncdn.com/photo/2026/1006/r1726637_1296x729_16-9.jpg",
       "titleZh": "曼城模拟选秀：英超球队如何选择假设的惩罚"
-    },
-    {
-      "title": "How top Premier League clubs view Man City's guilty verdict",
-      "published": "2026-10-06T13:08:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50109791/man-city-premier-league-guilty-verdict-legal-action-arsenal-liverpool-man-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2021/0609/r865143_1296x729_16-9.jpg",
-      "titleZh": "顶级英超俱乐部如何看待曼城的有罪判决"
-    },
-    {
-      "title": "JJ Gabriel representatives demanded game time at Manchester United - sources",
-      "published": "2026-10-05T16:53:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50110306/jj-gabriel-representatives-demanded-game-manchester-united-sources",
-      "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
-      "titleZh": "JJ Gabriel代表要求在曼联的比赛时间-消息来源"
-    },
-    {
-      "title": "New signing Carlos Baleba gets 1st Man United outing in friendly",
-      "published": "2026-10-02T18:31:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50085754/carlos-baleba-man-united-friendly-lausanne",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1725030_1296x729_16-9.jpg",
-      "titleZh": "新签约卡洛斯·巴莱巴（ Carlos Baleba ）在友谊赛中获得第一名"
     }
   ],
-  "transfers": [
-    {
-      "title": "New signing Carlos Baleba gets 1st Man United outing in friendly",
-      "published": "2026-10-02T18:31:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50085754/carlos-baleba-man-united-friendly-lausanne",
-      "image": "https://a.espncdn.com/photo/2026/1002/r1725030_1296x729_16-9.jpg",
-      "titleZh": "新签约卡洛斯·巴莱巴（ Carlos Baleba ）在友谊赛中获得第一名",
-      "player": "",
-      "status": "已完成",
-      "statusType": "done"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

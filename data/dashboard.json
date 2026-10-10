@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T05:50:40.222Z",
+  "updatedAt": "2026-10-10T12:29:48.347Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -27021,6 +27021,20 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+      "published": "2026-10-10T08:40:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+      "titleZh": "转会谣言，新闻：曼联年轻球员加布里埃尔与拜仁慕尼黑会谈"
+    },
+    {
+      "title": "Premier League team news, injury updates after international break",
+      "published": "2026-10-10T06:32:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
+      "titleZh": "英超球队新闻，国际比赛后伤病更新"
+    },
+    {
       "title": "Burley: Carrick faces added pressure against Spurs",
       "published": "2026-10-09T22:13:25Z",
       "url": "https://www.espn.com/video/clip/_/id/50143029/carrick-faces-added-pressure-spurs",
@@ -27056,13 +27070,6 @@
       "titleZh": "卡里克：对我们的进步保持冷静，但推动更多"
     },
     {
-      "title": "Premier League team news, injury updates after international break",
-      "published": "2026-10-09T17:48:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break",
-      "image": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
-      "titleZh": "英超球队新闻，国际比赛后伤病更新"
-    },
-    {
       "title": "Sir Alex Ferguson names Roy Keane's 'finest game for Man United'",
       "published": "2026-10-09T11:55:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/50138827/sir-alex-ferguson-roy-keane-man-united-champions-league-juventus-1999",
@@ -27096,16 +27103,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50134523/jose-mourinho-manchester-city-charges-punishment-case",
       "image": "https://a.espncdn.com/photo/2026/1008/r1727964_1296x729_16-9.jpg",
       "titleZh": "穆里尼奥开玩笑说，当曼城案件结束时，他仍然很幸运"
-    },
-    {
-      "title": "Ian Darke's early Premier League impressions for all 20 teams",
-      "published": "2026-10-08T08:04:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724510_1296x729_16-9.jpg",
-      "titleZh": "伊恩·达克（ Ian Darke ）对所有20支球队的英超联赛早期印象"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks",
+      "published": "2026-10-10T08:40:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks",
+      "image": "https://a.espncdn.com/photo/2026/0916/r1717440_1296x729_16-9.jpg",
+      "titleZh": "转会谣言，新闻：曼联年轻球员加布里埃尔与拜仁慕尼黑会谈",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "301425",

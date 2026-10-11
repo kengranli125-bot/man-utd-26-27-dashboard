@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T05:44:34.185Z",
+  "updatedAt": "2026-10-11T12:47:35.390Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -28747,6 +28747,20 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Man City, Man Utd, Spurs eye Atlético's Simeone",
+      "published": "2026-10-11T09:05:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50155123/transfer-rumors-news-manchester-city-tottenham-hotspur-eye-atletico-madrid-giuliano-simeone",
+      "image": "https://a.espncdn.com/photo/2026/1011/r1729094_2_1296x729_16-9.jpg",
+      "titleZh": "转会谣言、新闻：曼城、曼联、马刺眼竞技的西蒙尼"
+    },
+    {
+      "title": "Premier League team news, injury updates after international break",
+      "published": "2026-10-11T06:53:37Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50138142/premier-league-team-news-injury-updates-international-break",
+      "image": "https://a.espncdn.com/photo/2026/1005/r1726226_1296x729_16-9.jpg",
+      "titleZh": "英超球队新闻，国际比赛后伤病更新"
+    },
+    {
       "title": "Solanke rescues point for 10-man Spurs against United",
       "published": "2026-10-11T01:11:58Z",
       "url": "https://www.espn.com/video/clip/_/id/50152700/solanke-rescues-point-10-man-spurs-united",
@@ -28815,20 +28829,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50147983/man-united-tottenham-live-premier-league-latest-updates-commentary-score-result",
       "image": "https://a.espncdn.com/photo/2026/1010/r1728787_1296x729_16-9.jpg",
       "titleZh": "曼联1-1托特纳姆热刺：英超联赛的成绩、进球和反应-事实上"
-    },
-    {
-      "title": "Premier League recap: Man United, Spurs settle for draw in can't-lose matchup",
-      "published": "2026-10-10T18:27:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728786_1296x729_16-9.jpg",
-      "titleZh": "英超联赛回顾：曼联，马刺队满足于平局不能输的对决"
-    },
-    {
-      "title": "'51 years': Man United fans revive Man City 'trophy drought' banner after financial charges verdict",
-      "published": "2026-10-10T17:13:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50148766/man-united-fans-mock-man-city-trophy-banner-51-years-financial-charges-verdict-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1010/r1728751_1296x729_16-9.jpg",
-      "titleZh": "“51年” ：曼联球迷在财务费用判决后重振曼城“奖杯干旱”旗帜"
     }
   ],
   "transfers": [],
@@ -29021,23 +29021,6 @@
       "availabilityScore": 90
     },
     {
-      "id": "167127",
-      "name": "Luke Shaw",
-      "nameZh": "卢克·肖",
-      "shortName": "L. Shaw",
-      "shortNameZh": "卢克·肖",
-      "jersey": "23",
-      "position": "Defender",
-      "age": 31,
-      "nationality": "England",
-      "nationalityZh": "英格兰",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
-    },
-    {
       "id": "356044",
       "name": "Ayden Heaven",
       "nameZh": "艾登·赫文",
@@ -29152,6 +29135,23 @@
       "nationalityZh": "喀麦隆",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
       "headshot": "",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
+    },
+    {
+      "id": "167127",
+      "name": "Luke Shaw",
+      "nameZh": "卢克·肖",
+      "shortName": "L. Shaw",
+      "shortNameZh": "卢克·肖",
+      "jersey": "23",
+      "position": "Midfielder",
+      "age": 30,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
       "statusType": "available",
       "statusLabel": "可用",
       "availabilityScore": 90
@@ -29709,8 +29709,8 @@
           "shortName": "L. Shaw",
           "shortNameZh": "卢克·肖",
           "jersey": "23",
-          "position": "Defender",
-          "age": 31,
+          "position": "Midfielder",
+          "age": 30,
           "nationality": "England",
           "nationalityZh": "英格兰",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
@@ -29862,7 +29862,7 @@
         },
         {
           "label": "经验值",
-          "value": 83
+          "value": 82
         },
         {
           "label": "攻守平衡",

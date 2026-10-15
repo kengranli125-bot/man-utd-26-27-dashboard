@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T16:59:14.894Z",
+  "updatedAt": "2026-10-15T21:21:25.605Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -30713,6 +30713,13 @@
   ],
   "news": [
     {
+      "title": "Man United's Martínez issues apology for post-match outburst after meeting",
+      "published": "2026-10-15T19:16:08Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50188017/lisandro-martinez-man-united-comments-interview-michael-carrick-meeting",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731070_1296x729_16-9.jpg",
+      "titleZh": "曼联的马丁内斯在会后为赛后爆发道歉"
+    },
+    {
       "title": "UCL Matchday 2: Viking FK and PSG impress; Man United a mess",
       "published": "2026-10-15T14:57:12Z",
       "url": "https://www.espn.com/soccer/story/_/id/50188023/ucl-matchday-2-bayern-munich-man-united-psg-analysis-reaction-bill-connelly",
@@ -30725,13 +30732,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
       "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
       "titleZh": "利桑德罗·马丁内斯（ Lisandro Martínez ）咆哮中的曼联“马戏团” -罗伊·基恩"
-    },
-    {
-      "title": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
-      "published": "2026-10-15T09:55:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：马丁内斯在曼联的未来在破裂后受到质疑"
     },
     {
       "title": "UCL talking points, MD2: Who's to blame for Man United mess? Chaos bad for Madrid?",
@@ -30797,18 +30797,7 @@
       "titleZh": "利桑德罗·马丁内斯（ Lisandro Martínez ）抨击曼联的等级制度：球队而非冠军联赛"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
-      "published": "2026-10-15T09:55:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：马丁内斯在曼联的未来在破裂后受到质疑",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

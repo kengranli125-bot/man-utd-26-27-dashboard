@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:36:23.491Z",
+  "updatedAt": "2026-10-15T11:26:36.117Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -30500,8 +30500,8 @@
     },
     {
       "id": "510",
-      "name": "Viking FK",
-      "nameZh": "Viking FK",
+      "name": "VIKING FK",
+      "nameZh": "VIKING FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
       "position": 27,
       "played": 2,
@@ -30713,6 +30713,20 @@
   ],
   "news": [
     {
+      "title": "Man United 'a circus' amid Lisandro Martínez rant - Roy Keane",
+      "published": "2026-10-15T10:35:17Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
+      "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
+      "titleZh": "利桑德罗·马丁内斯（ Lisandro Martínez ）咆哮中的曼联“马戏团” -罗伊·基恩"
+    },
+    {
+      "title": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
+      "published": "2026-10-15T09:55:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：马丁内斯在曼联的未来在破裂后受到质疑"
+    },
+    {
       "title": "UCL talking points, MD2: Who's to blame for Man United mess? Chaos bad for Madrid?",
       "published": "2026-10-15T00:34:59Z",
       "url": "https://www.espn.com/soccer/story/_/id/50182353/ucl-talking-points-md2-man-united-barcelona-man-city-psg-real-madrid",
@@ -30781,23 +30795,20 @@
       "url": "https://www.espn.com/video/clip/_/id/50177274/lisandro-martinez-wrong-person-criticise-manchester-united-hierarchy",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_COM_SOC_Analysis_Moreno_Lisandro_Martinez_is_the_wrong_person_to_criticise_Manchester_United_hiera/dm_261013_COM_SOC_Analysis_Moreno_Lisandro_Martinez_is_the_wrong_person_to_criticise_Manchester_United_hiera.jpg",
       "titleZh": "莫雷诺：利桑德罗·马丁内斯是批评曼联等级制度的错误人选"
-    },
-    {
-      "title": "Pressure builds on Michael Carrick as 10-man Man United slip to 2-0 defeat to Atlético Madrid",
-      "published": "2026-10-13T22:08:07Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915412",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730306_1296x729_16-9.jpg",
-      "titleZh": "在迈克尔·卡里克的压力下， 10人曼联以2-0击败马德里竞技"
-    },
-    {
-      "title": "Champions League recap: Atleti beat Man United, Viking snatch point vs. Bayern",
-      "published": "2026-10-13T21:38:31Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50168897/uefa-champions-league-live-updates-manchester-united-atletico-madrid-barcelona-galatasaray",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730251_1296x729_16-9.jpg",
-      "titleZh": "欧洲冠军联赛回顾：马竞两次对阵曼联，维京抢夺点对阵拜仁"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Martínez's future at Man United in doubt after bust-up",
+      "published": "2026-10-15T09:55:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50187435/transfer-rumors-news-lisandro-martinez-future-man-united-doubt-bust-up",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731051_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：马丁内斯在曼联的未来在破裂后受到质疑",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "301425",

@@ -31345,6 +31345,18 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMingFBVV95cUxQUnByM1F1d3JERVZMcVhuaFFPNWc2enpxZV9nUkpsdzdScUFTV2U4bnJlTUNBeExlc3I1UnNYcEkwRVlWUnhxR0dzZ3dIa21FZU9iZm1xdWQxWXBGMkpNSG9PSUZQcW4zMC1zeVdvTWtFWW4zNlBmZkpDRnVwb2dBN0xUVHA3V19uUGNoa0NoVkpGeEJCdk9qZjY3R1Zkdw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Michael Carrick: Our dressing room is not divided",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnByM1F1d3JERVZMcVhuaFFPNWc2enpxZV9nUkpsdzdScUFTV2U4bnJlTUNBeExlc3I1UnNYcEkwRVlWUnhxR0dzZ3dIa21FZU9iZm1xdWQxWXBGMkpNSG9PSUZQcW4zMC1zeVdvTWtFWW4zNlBmZkpDRnVwb2dBN0xUVHA3V19uUGNoa0NoVkpGeEJCdk9qZjY3R1Zkdw?oc=5",
+      "published": "2026-10-16T15:17:00.000Z",
+      "titleZh": "迈克尔·卡里克：我们的更衣室没有分开"
+    },
+    {
       "id": "Rob Dawson:CBMiswFBVV95cUxNQmRPRGZNMnlSZFFNa3N4ZjBwNkttMGF4VG1LQzUzVjVZNlB2VjdwaE5rRGt5bDQ5SWxVQWVjMllxRm8tZENaeGxFWXZrdld1TmdnTWNiX1RJa0pTVGxHSnNiamdPd01DYUVKbEc3b1BpYXpPOHFELUFXQ3ZlUGlqQTNiWkstYlpOZkpTNC11Zll6YlplejFhUXA1YU11Q3lZalBVd2lwb0RSY2dMdkxEZTJtTQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -31619,21 +31631,9 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWt5Wjk4MEh0WDd1VXFQSFVuM01PeTI5RkE4Zkc3aF9XWDB4aVRqeXNwOUpKN3Q4c2U1VkVnX2hvNFFJVHNPNjF5WTFoOTZhRl91RmNwbUZUTGxJcnc0TFZLX3Vvcm9tRWVZRFR1MUtPN1d4RkI2YjBuOENJZUhFLWtKZUx2X01laFlBYUd1OUpXSXE4em5pNnBSeGU2dTFyYkZYblV1c1RjN1Nkc2swZUtnSThheUlEQVVz?oc=5",
       "published": "2026-10-10T20:25:00.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）受到嘘声的“伤害” ，因为曼联在40年来最糟糕的"
-    },
-    {
-      "id": "Rob Dawson:CBMi3wFBVV95cUxQUmJnVjJydWl5d3k4U1dRdDFzM0ZQRXFkY29lRnhoTmRwRE9oOFpKZVM0bjVhaHRVRXVucHQzOV9sblY5TGpRNnlOVk1CVVFEaGplbTRSWGltM3BfVGJGSzRmYWtDUEtuVGtvY3d5eDBFQWlnNHhKV05CQS1JM1picXpHeXhIT0xEMFZvT1dFSVFacDlXQ2U2bGhXMUZoWElZOW50MUsyV2FVamc0X2h6WW93a0FVREFfQ3dXRGZsVkk5NWZYUFhKbmJDSGpwMjlybUxOMHlPTWxFazJGVkhz",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United should've beaten Spurs. Not doing so shows how much trouble Carrick & Co. are in",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUmJnVjJydWl5d3k4U1dRdDFzM0ZQRXFkY29lRnhoTmRwRE9oOFpKZVM0bjVhaHRVRXVucHQzOV9sblY5TGpRNnlOVk1CVVFEaGplbTRSWGltM3BfVGJGSzRmYWtDUEtuVGtvY3d5eDBFQWlnNHhKV05CQS1JM1picXpHeXhIT0xEMFZvT1dFSVFacDlXQ2U2bGhXMUZoWElZOW50MUsyV2FVamc0X2h6WW93a0FVREFfQ3dXRGZsVkk5NWZYUFhKbmJDSGpwMjlybUxOMHlPTWxFazJGVkhz?oc=5",
-      "published": "2026-10-10T20:12:00.000Z",
-      "titleZh": "曼联应该击败马刺。不这样做表明Carrick & Co.陷入了多大的麻烦"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-16T18:27:26.378Z",
+  "journalistsUpdatedAt": "2026-10-16T21:39:44.383Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

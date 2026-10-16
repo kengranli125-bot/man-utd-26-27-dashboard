@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:30:07.906Z",
+  "updatedAt": "2026-10-16T11:21:34.425Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -30713,6 +30713,13 @@
   ],
   "news": [
     {
+      "title": "Premier League Top 50: Ranking the best players so far this season",
+      "published": "2026-10-16T07:29:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50191745/premier-league-top-50-ranked-best-players-2026-27-man-city-united-liverpool-arsenal-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731434_1296x729_16-9.jpg",
+      "titleZh": "英超50强：排名本赛季迄今为止最好的球员"
+    },
+    {
       "title": "Frank Leboeuf calls for Lisandro Martínez to leave Man Utd",
       "published": "2026-10-15T21:38:10Z",
       "url": "https://www.espn.com/video/clip/_/id/50191983/frank-leboeuf-calls-lisandro-martinez-leave-man-utd",
@@ -30788,13 +30795,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50178006/man-united-falter-ucl-loss-atletico",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1013/dm_261013_UCL_Highlight_Man_United_falter_in_UCL_loss_to_Atletico_20261014_AUS_ONLY/dm_261013_UCL_Highlight_Man_United_falter_in_UCL_loss_to_Atletico_20261014_AUS_ONLY.jpg",
       "titleZh": "曼联在UCL输给竞技的比赛中摇摇欲坠"
-    },
-    {
-      "title": "Martínez exposes Man United's harsh reality: Blame lies with top brass, not Carrick",
-      "published": "2026-10-14T00:12:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50176750/lisandro-martinez-man-united-harsh-reality-blame-lies-top-brass-not-carrick-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1013/r1730363_1296x729_16-9.jpg",
-      "titleZh": "马丁内斯揭露了曼联严酷的现实：责任在于高层，而不是卡里克"
     }
   ],
   "transfers": [],

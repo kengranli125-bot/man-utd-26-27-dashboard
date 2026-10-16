@@ -31345,6 +31345,18 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMiswFBVV95cUxNQmRPRGZNMnlSZFFNa3N4ZjBwNkttMGF4VG1LQzUzVjVZNlB2VjdwaE5rRGt5bDQ5SWxVQWVjMllxRm8tZENaeGxFWXZrdld1TmdnTWNiX1RJa0pTVGxHSnNiamdPd01DYUVKbEc3b1BpYXpPOHFELUFXQ3ZlUGlqQTNiWkstYlpOZkpTNC11Zll6YlplejFhUXA1YU11Q3lZalBVd2lwb0RSY2dMdkxEZTJtTQ",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Michael Carrick denies divisions within Man United squad after Lisandro Martínez outburst",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmRPRGZNMnlSZFFNa3N4ZjBwNkttMGF4VG1LQzUzVjVZNlB2VjdwaE5rRGt5bDQ5SWxVQWVjMllxRm8tZENaeGxFWXZrdld1TmdnTWNiX1RJa0pTVGxHSnNiamdPd01DYUVKbEc3b1BpYXpPOHFELUFXQ3ZlUGlqQTNiWkstYlpOZkpTNC11Zll6YlplejFhUXA1YU11Q3lZalBVd2lwb0RSY2dMdkxEZTJtTQ?oc=5",
+      "published": "2026-10-16T12:48:00.000Z",
+      "titleZh": "在利桑德罗·马丁内斯（ Lisandro Martínez ）爆发后，迈克尔·卡里克（ Michael Carrick ）否"
+    },
+    {
       "id": "Laurie Whitwell:CBMirAFBVV95cUxOZzBtSm1KMGlYcGppekd2aHhCZHBJWUpRZXZFdU9saGREdTEtYXBjajJuSEh3d2lOTWZtRUlGT0VaR3U2X3BxQnhHZFBWMERta21fWTUwYlBMb0xOVVBreVo2c1plS2xhRHlia29QMlhNZV82cmhJY05xbnlZUEx3eFp1bmZjczJSM09wenRZaXVrMjJ5U25GS0s1NDFOUXQwTmxYSk5ZSkg0aWVS",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -31391,18 +31403,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU9kdDdlMVVJMDB3VjVqb0JoZ0RVS1I3elN2VHFoZS1TT1JhN2hMQ1pVU3VCQ1QzZlgyb1htS3NwVjBIMUd5SWxoZnlLS3ZwWFJNbTMyVEpLR2ZDR19wWHhoTEhqSzhtTTFaUmE3dVY4UW9mNGZUVUkteFhWQThrak9QUHZ2dw?oc=5",
       "published": "2026-10-14T23:56:47.000Z",
       "titleZh": "Deyver Antonio Vega Álvarez"
-    },
-    {
-      "id": "Rob Dawson:CBMiowFBVV95cUxPUFJJTlZFXzZDODVlT0JuM1JwcnJUWTIxZjFyNlVneWVxSE9NR3g5UjdMWDhweFU3XzNBalJETDVBallmZm5NU1BJZDM5UFlOWkdqRjE5QUFCaFNERy1ZZHhuRGtSM09YZS1hY3I2dXc2X2hSTnpINGZBRWN5a2dxSU1uMldudGpORW9DbzJ5U0NZMHFmUmZfMWQ2U2lhVi1GTUdF",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Sources: Man United assessing Martínez comments as player releases statement",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFJJTlZFXzZDODVlT0JuM1JwcnJUWTIxZjFyNlVneWVxSE9NR3g5UjdMWDhweFU3XzNBalJETDVBallmZm5NU1BJZDM5UFlOWkdqRjE5QUFCaFNERy1ZZHhuRGtSM09YZS1hY3I2dXc2X2hSTnpINGZBRWN5a2dxSU1uMldudGpORW9DbzJ5U0NZMHFmUmZfMWQ2U2lhVi1GTUdF?oc=5",
-      "published": "2026-10-14T22:05:00.000Z",
-      "titleZh": "资料来源：曼联在球员发表声明时评估马丁内斯的评论"
     },
     {
       "id": "Fabrizio Romano:CBMi_wFBVV95cUxPSUp4RkFVc1hXcDEwREh0NzBmczlIcnlyQTFqSkNrYXVpVWZEbWpBbW9LS2lhQ2FvRnJmV0NXMENLYUtQdTh6MjNVdGFTTllhUk5Ncy14OGJJQVhzZW0tYkx3OWJOVnhuZVN0YnlGcE1CWk5aQXZjZlFjMHRBYTBPZ2NjTlU4LWEzdFgzQ21LT3p3bDNQUFdKSWQxbEx4bGZGeUtfbUc1NG5yRVMxQnNNV25CWDVfanF5RlpkbnREb3hFTk9xYzUweWlvUXhyWDh2bnplYVdnRWhqZ0tkWmphWXZodWVQeGo4dUpxekRNM2ttTnRJdjRDOG9NdmNnNWc",
@@ -31633,7 +31633,7 @@
       "titleZh": "曼联1-1热刺球员评分：现在有你的发言权"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-16T09:56:19.706Z",
+  "journalistsUpdatedAt": "2026-10-16T14:47:03.377Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

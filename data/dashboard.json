@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:23:16.170Z",
+  "updatedAt": "2026-10-17T10:41:43.156Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -30713,6 +30713,27 @@
   ],
   "news": [
     {
+      "title": "Is Martínez's outburst a sign of chaos to come for Man United and Carrick?",
+      "published": "2026-10-17T09:34:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196763/manchester-united-lisandro-martinez-chaos-sign-whats-come-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731730_1296x729_16-9.jpg",
+      "titleZh": "马丁内斯的爆发是曼联和卡里克混乱的迹象吗？"
+    },
+    {
+      "title": "Transfer rumors, news: JJ Gabriel move revealed soon amid Barcelona, Real Madrid talks",
+      "published": "2026-10-17T09:28:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50200287/transfer-rumors-news-jj-gabriel-move-revealed-soon-amid-barcelona-real-madrid-talks",
+      "image": "https://a.espncdn.com/photo/2026/0918/r1718455_1296x729_16-9.jpg",
+      "titleZh": "传闻，新闻： JJ加布里埃尔的举动很快在巴塞罗那，皇家马德里谈判中揭晓"
+    },
+    {
+      "title": "Man United's worst league starts ever: How does 2026-27 compare?",
+      "published": "2026-10-17T06:29:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50172424/manchester-united-worst-ever-starts-premier-league-first-division",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1731892_1296x729_16-9.jpg",
+      "titleZh": "曼联有史以来最糟糕的联赛开始了： 2026-27赛季相比如何？"
+    },
+    {
       "title": "Nicol slams Carrick for 'ridiculous' comments in press conference",
       "published": "2026-10-16T21:51:35Z",
       "url": "https://www.espn.com/video/clip/_/id/50198381/nicol-slams-carrick-ridiculous-comments-press-conference",
@@ -30774,30 +30795,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50187937/man-united-circus-amid-lisandro-martinez-rant-roy-keane",
       "image": "https://a.espncdn.com/photo/2024/0606/r1342361_1296x729_16-9.jpg",
       "titleZh": "利桑德罗·马丁内斯（ Lisandro Martínez ）咆哮中的曼联“马戏团” -罗伊·基恩"
-    },
-    {
-      "title": "UCL talking points, MD2: Who's to blame for Man United mess? Chaos bad for Madrid?",
-      "published": "2026-10-15T00:34:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50182353/ucl-talking-points-md2-man-united-barcelona-man-city-psg-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1730946_1296x729_16-9.jpg",
-      "titleZh": "UCL谈话要点， MD2 ：谁是曼联混乱的罪魁祸首？混乱对马德里不利？"
-    },
-    {
-      "title": "Was Martinez's Man United statement 'premeditated'?",
-      "published": "2026-10-14T22:46:55Z",
-      "url": "https://www.espn.com/video/clip/_/id/50185048/was-martinez-man-united-statement-premeditated",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1014/dm_261014_COM_SOC_Analysis_Was_MartinezE28099s_Man_United_statement_E28098premeditatedE280993F_GLOBAL_2026-10-14/dm_261014_COM_SOC_Analysis_Was_MartinezE28099s_Man_United_statement_E28098premeditatedE280993F_GLOBAL_2026-10-14.jpg",
-      "titleZh": "马丁内斯的Man United声明是“有预谋的”吗？"
-    },
-    {
-      "title": "Lisandro Martínez: I believe in 'everyone working to help' Man United 'move forward'",
-      "published": "2026-10-14T22:22:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50184699/lisandro-martinez-believe-everyone-working-help-man-united-move-forward",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730521_1296x729_16-9.jpg",
-      "titleZh": "利桑德罗·马丁内斯：我相信“每个人都在努力帮助'曼联'向前迈进”"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Is Martínez's outburst a sign of chaos to come for Man United and Carrick?",
+      "published": "2026-10-17T09:34:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50196763/manchester-united-lisandro-martinez-chaos-sign-whats-come-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/1016/r1731730_1296x729_16-9.jpg",
+      "titleZh": "马丁内斯的爆发是曼联和卡里克混乱的迹象吗？",
+      "player": "",
+      "status": "已完成",
+      "statusType": "done"
+    }
+  ],
   "roster": [
     {
       "id": "301425",

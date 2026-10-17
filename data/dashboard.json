@@ -31356,6 +31356,18 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMivgFBVV95cUxOLU54Zkt1dkhuTUZxRDkwZ3IwUkJiUW9fUmxkYy1xYXJOanZUbzZXLWlrWmowR2VWY2NUcjNPTWQ0dGFsRnNSVHMzQXIzdkNSbGd3RUtTMVp6dGlKM3QtRnZpRXdHUTFEWmgzMEYxU3QxWUxrLWhsT2tCdldXZFNDMUNGVUhhQ1otV1I1U2xSYmxQV19tbi0wMXNhTnpRODlNSzZYTkRSRDVmejFCcF9ENkRPWE0xMWFZNEE2MEFB",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Is Martínez's outburst a sign of chaos to come for Man United and Carrick?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLU54Zkt1dkhuTUZxRDkwZ3IwUkJiUW9fUmxkYy1xYXJOanZUbzZXLWlrWmowR2VWY2NUcjNPTWQ0dGFsRnNSVHMzQXIzdkNSbGd3RUtTMVp6dGlKM3QtRnZpRXdHUTFEWmgzMEYxU3QxWUxrLWhsT2tCdldXZFNDMUNGVUhhQ1otV1I1U2xSYmxQV19tbi0wMXNhTnpRODlNSzZYTkRSRDVmejFCcF9ENkRPWE0xMWFZNEE2MEFB?oc=5",
+      "published": "2026-10-17T09:34:00.000Z",
+      "titleZh": "马丁内斯的爆发是曼联和卡里克混乱的迹象吗？"
+    },
+    {
       "id": "James Ducker:CBMingFBVV95cUxQUnByM1F1d3JERVZMcVhuaFFPNWc2enpxZV9nUkpsdzdScUFTV2U4bnJlTUNBeExlc3I1UnNYcEkwRVlWUnhxR0dzZ3dIa21FZU9iZm1xdWQxWXBGMkpNSG9PSUZQcW4zMC1zeVdvTWtFWW4zNlBmZkpDRnVwb2dBN0xUVHA3V19uUGNoa0NoVkpGeEJCdk9qZjY3R1Zkdw",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -31366,6 +31378,30 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnByM1F1d3JERVZMcVhuaFFPNWc2enpxZV9nUkpsdzdScUFTV2U4bnJlTUNBeExlc3I1UnNYcEkwRVlWUnhxR0dzZ3dIa21FZU9iZm1xdWQxWXBGMkpNSG9PSUZQcW4zMC1zeVdvTWtFWW4zNlBmZkpDRnVwb2dBN0xUVHA3V19uUGNoa0NoVkpGeEJCdk9qZjY3R1Zkdw?oc=5",
       "published": "2026-10-16T15:17:00.000Z",
       "titleZh": "迈克尔·卡里克：我们的更衣室没有分开"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE5IYWRXamJBd05pUGRPcF9UTHpJaVhGdk82bzRtOF9pVXJkZUxSVDZ5cUxDbUd4eUpXVGpUa0dIVGQ5TW05N1VPV3kzWmhrTzZ5bTlkZ3Z6WWVBVHNxVWJjaDRPcDNRYUtu",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "'I am telling you the truth' - Carrick on Martinez fallout",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IYWRXamJBd05pUGRPcF9UTHpJaVhGdk82bzRtOF9pVXJkZUxSVDZ5cUxDbUd4eUpXVGpUa0dIVGQ5TW05N1VPV3kzWmhrTzZ5bTlkZ3Z6WWVBVHNxVWJjaDRPcDNRYUtu?oc=5",
+      "published": "2026-10-16T13:22:04.000Z",
+      "titleZh": "“我告诉你们真相” -卡里克谈论马丁内斯的影响"
+    },
+    {
+      "id": "Rob Dawson:CBMiswFBVV95cUxNQmRPRGZNMnlSZFFNa3N4ZjBwNkttMGF4VG1LQzUzVjVZNlB2VjdwaE5rRGt5bDQ5SWxVQWVjMllxRm8tZENaeGxFWXZrdld1TmdnTWNiX1RJa0pTVGxHSnNiamdPd01DYUVKbEc3b1BpYXpPOHFELUFXQ3ZlUGlqQTNiWkstYlpOZkpTNC11Zll6YlplejFhUXA1YU11Q3lZalBVd2lwb0RSY2dMdkxEZTJtTQ",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Michael Carrick denies divisions within Man United squad after Lisandro Martínez outburst",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmRPRGZNMnlSZFFNa3N4ZjBwNkttMGF4VG1LQzUzVjVZNlB2VjdwaE5rRGt5bDQ5SWxVQWVjMllxRm8tZENaeGxFWXZrdld1TmdnTWNiX1RJa0pTVGxHSnNiamdPd01DYUVKbEc3b1BpYXpPOHFELUFXQ3ZlUGlqQTNiWkstYlpOZkpTNC11Zll6YlplejFhUXA1YU11Q3lZalBVd2lwb0RSY2dMdkxEZTJtTQ?oc=5",
+      "published": "2026-10-16T12:48:00.000Z",
+      "titleZh": "在利桑德罗·马丁内斯（ Lisandro Martínez ）爆发后，迈克尔·卡里克（ Michael Carrick ）否"
     },
     {
       "id": "Fabrizio Romano:CBMijAFBVV95cUxQYkxBVElOVkYyOGFRWUNjU2N3eldVTXVoSTRIamRzNjl4ekRub0tMZzhkZ1MxSmxCNGduMmx4NmVZUTNfd2huT2g0OE13SXVxUXoxeWY3aWtGMjVnZkNaLXdnSzJjYnFHczBWYk1ZcjdBdXdWTndxeXlqcDdkVnFReUo5SDNucXExVlFSRA",
@@ -31524,6 +31560,18 @@
       "titleZh": "曼联决定卡里克解雇时间表，因为罗马诺在“协议”声明中揭示了孔蒂的“最大故事”"
     },
     {
+      "id": "Chris Wheeler:CBMijAJBVV95cUxOOGY0cEp1QnBqNHY1d290X2VGc1JyQ1pidXVXVmJoSnR6cjdmckIycC1FemN2UTlIZ3lTSVR1dTU2MlRDaUg3V196Snk0Znl2U2MzVmJEbmtrQmdUSXc2WTVyTXQ5TFJ6OGFWRDZpSFV0UDRHVHFMYU5HUktOeFJqY0hpVjRudk5Od0RMZEs4VmdwYmdqNUQ0OVQ1V0owRldhREFCLXlaQWQxVWloWUdwaldCc1lPR1lodWN2N01QQnhoX19RNDY2UVF1QlpqSDNQRzhST2JqRmF2bEN0RTRGSlhoWTRuZm5xYmhEWEdWdW0tN3AxdDFKS09rdHJJQ2I1WG45UlNfRFNNbGVW0gGSAkFVX3lxTE9qV2JvaTlPVmVFMjV1TVRQRVZ5YVlROTJTMlBjdlVNelJPU3paN2ozVUszMmxvSlEyZlNmT00tOVgxY3lQSkdiNWowS1VWcFUzZU1QZjdMUWZFWEVSWHBtSEhLX0hNRzk1bkdsNm1uWFBtalhBU3dOcWZkWW5vbGY1OE5NdkxsenhwRzlkemJGbGJzN1Q3WkNib0RJekZkS0VFNFNEU09oV2lHTW41Rm16UUxFemtmOUw5SlhNMnFCbnpkRmlYZDVncHE1THdsRzlUd3RNcm9qdHdJWlFfZGRSdDR0QTFvUXlhWEVybDN3MWdwMkh1MkhiZUtWdURZZzZnNzhxUzdJRFY5dmhaT0VCX3c",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Atletico Madrid vs Manchester United and Arsenal vs Lille - Champions League RECAP : Red Devils winless...",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOGY0cEp1QnBqNHY1d290X2VGc1JyQ1pidXVXVmJoSnR6cjdmckIycC1FemN2UTlIZ3lTSVR1dTU2MlRDaUg3V196Snk0Znl2U2MzVmJEbmtrQmdUSXc2WTVyTXQ5TFJ6OGFWRDZpSFV0UDRHVHFMYU5HUktOeFJqY0hpVjRudk5Od0RMZEs4VmdwYmdqNUQ0OVQ1V0owRldhREFCLXlaQWQxVWloWUdwaldCc1lPR1lodWN2N01QQnhoX19RNDY2UVF1QlpqSDNQRzhST2JqRmF2bEN0RTRGSlhoWTRuZm5xYmhEWEdWdW0tN3AxdDFKS09rdHJJQ2I1WG45UlNfRFNNbGVW0gGSAkFVX3lxTE9qV2JvaTlPVmVFMjV1TVRQRVZ5YVlROTJTMlBjdlVNelJPU3paN2ozVUszMmxvSlEyZlNmT00tOVgxY3lQSkdiNWowS1VWcFUzZU1QZjdMUWZFWEVSWHBtSEhLX0hNRzk1bkdsNm1uWFBtalhBU3dOcWZkWW5vbGY1OE5NdkxsenhwRzlkemJGbGJzN1Q3WkNib0RJekZkS0VFNFNEU09oV2lHTW41Rm16UUxFemtmOUw5SlhNMnFCbnpkRmlYZDVncHE1THdsRzlUd3RNcm9qdHdJWlFfZGRSdDR0QTFvUXlhWEVybDN3MWdwMkh1MkhiZUtWdURZZzZnNzhxUzdJRFY5dmhaT0VCX3c?oc=5",
+      "published": "2026-10-13T22:20:51.000Z",
+      "titleZh": "马德里竞技vs曼联，阿森纳vs里尔-冠军联赛回顾：红魔队无胜……"
+    },
+    {
       "id": "James Ducker:CBMiogFBVV95cUxQX1VNdlhydHJZaGw3RXo4bGtnX3pZY0hWb3M0YjJ5dHgta0FiemtjZHpoTGVwMi1nemxDSDRQd3dHOGMyZ05BRU1IVnlNR3V3bEJjcVpBUmo1akRVTkVvcU9ndWZzclFEZzVVdGljMEt5V2p6UlI0Y1o2dzB1X0dyRndPdkQ2YVplTnRrUUp2dEk2Y25OeDlUaE81TmZEeU0yM2c",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -31594,57 +31642,9 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWR4bFN1ekJhVGlBVXdURVFuMWw4Njh6TW5XVk54U2ZkRVMwXzZWMGVocDVqYnJOS0VqampwN0RSOTNLUTA3bHo2eFlOekgwYkMwSkJoSHpCUkhwOGZnLWg1TWtpNE1mczZ0UzkzQU5RTXNKNzhXTW9CVmRwNnVMaDJ0OGVJSUc0clhyZzRGNXRxNVhfM1RaMWdUb24?oc=5",
       "published": "2026-10-13T07:00:00.000Z",
       "titleZh": "曼联、迈克尔·卡里克和老特拉福德的黑暗情绪"
-    },
-    {
-      "id": "James Ducker:CBMirAFBVV95cUxPV01KMlBKckZWTWs2M3VKS3ZIMVVad0dSc2VUYTRTdHJ3alNDeWg1aGowQmJpX0JJRjJmbHpnV19GQXR2bkNiX1UxRDdkTUlBLUxreFI0SlRmc2N4LUdMOF9IYXBnZ1ZjWDRRNUNLUjBoaUtyYUtWa21UREEyMTZQTVFFajZsMnRrRVJ1eG9neV95aVhmS0JHOWdOWHNjNU5Rb21BZmlxUzlBLXpu",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Michael Carrick under pressure after Man Utd’s worst start for 40 years",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV01KMlBKckZWTWs2M3VKS3ZIMVVad0dSc2VUYTRTdHJ3alNDeWg1aGowQmJpX0JJRjJmbHpnV19GQXR2bkNiX1UxRDdkTUlBLUxreFI0SlRmc2N4LUdMOF9IYXBnZ1ZjWDRRNUNLUjBoaUtyYUtWa21UREEyMTZQTVFFajZsMnRrRVJ1eG9neV95aVhmS0JHOWdOWHNjNU5Rb21BZmlxUzlBLXpu?oc=5",
-      "published": "2026-10-13T07:00:00.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）在曼联40年来最糟糕的开局后承受"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTE04MDgyTVdCbGtJWFlwLTlkVGRDNFh6YU4tOXpCNDc1cXZuZXlWeldiclVHNmV6RFpIZTBhckVDbkxHVzdxUnBLVUNDbWU0cGlzLV9lVlhmV3R6MV91OVZBZkp1MmxJUGNR",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Kobbie Mainoo and Luke Shaw miss training",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MDgyTVdCbGtJWFlwLTlkVGRDNFh6YU4tOXpCNDc1cXZuZXlWeldiclVHNmV6RFpIZTBhckVDbkxHVzdxUnBLVUNDbWU0cGlzLV9lVlhmV3R6MV91OVZBZkp1MmxJUGNR?oc=5",
-      "published": "2026-10-12T10:58:17.000Z",
-      "titleZh": "曼联新闻： Kobbie Mainoo和Luke Shaw错过培训"
-    },
-    {
-      "id": "Chris Wheeler:CBMiogFBVV95cUxNYnpDdWNEbjNQUXJ4TUNjRHdUZWhEeW9SaXZuZTE1RkF2UTFsUXJvNVo5WUtOMjBpVm41MWhkU1ZkOWNxYzZCcEJqYjd5QnROYmJYR2JaTjhnRjl1azNKYWNtUjE2QVFPZGNQa2RSMHBvNXlxeUg0Ynhmd1ZuN1c0b3RhU29lSVc2dVloWExzSDhscmNjRDJ3M1lKSHgySFdLbVHSAacBQVVfeXFMTmJqQ3h0cjZHVEhvRTNjM3VrdWpXRU9NX0hQWGRYSWo2NDlaNlFqdFEycXZBbTFxb1ltYlp1QnpBb0J1cDMtOXVpb0NoZXYxQ0FsYmRSNkxXT2Q4TFFBZHM2dmJtZWNQZ0VIb0JoMHdUWXE2X3BWbGc2Yk5fVE94cV8tbFBuQ1Q2QXZzT1RFTGpBU25vSks0cUU4ZWRvanhxeVNra1VvQnM",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "It's time for Man United's undependable stars to show some backbone for Michael Carrick, writes CHRIS WHEELER - and why club chiefs will rue letting Casemiro go",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnpDdWNEbjNQUXJ4TUNjRHdUZWhEeW9SaXZuZTE1RkF2UTFsUXJvNVo5WUtOMjBpVm41MWhkU1ZkOWNxYzZCcEJqYjd5QnROYmJYR2JaTjhnRjl1azNKYWNtUjE2QVFPZGNQa2RSMHBvNXlxeUg0Ynhmd1ZuN1c0b3RhU29lSVc2dVloWExzSDhscmNjRDJ3M1lKSHgySFdLbVHSAacBQVVfeXFMTmJqQ3h0cjZHVEhvRTNjM3VrdWpXRU9NX0hQWGRYSWo2NDlaNlFqdFEycXZBbTFxb1ltYlp1QnpBb0J1cDMtOXVpb0NoZXYxQ0FsYmRSNkxXT2Q4TFFBZHM2dmJtZWNQZ0VIb0JoMHdUWXE2X3BWbGc2Yk5fVE94cV8tbFBuQ1Q2QXZzT1RFTGpBU25vSks0cUU4ZWRvanhxeVNra1VvQnM?oc=5",
-      "published": "2026-10-11T11:00:46.000Z",
-      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，现在是曼联不可靠的明星为迈克尔·卡里克（ Michael Carrick ）展示一些骨干力量的时候了，以及为什么俱乐部负责人会后悔让卡塞米罗（ Casemiro ）离开"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTE42bVdPaFFtYjVLdEUzRVZXb0VqZnVfNlpyRU9Ebjc0UUh4TVRBTWZ1c21mSEF4NUtibzRYZlhsTE9YdGdyZDh6b2dRZW56WnZvdlIyTURXMnJlcWNodjEtWkc3bGtKblFT",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United: Another failure to beat 10 men increases pressure on boss Carrick",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42bVdPaFFtYjVLdEUzRVZXb0VqZnVfNlpyRU9Ebjc0UUh4TVRBTWZ1c21mSEF4NUtibzRYZlhsTE9YdGdyZDh6b2dRZW56WnZvdlIyTURXMnJlcWNodjEtWkc3bGtKblFT?oc=5",
-      "published": "2026-10-10T20:54:46.000Z",
-      "titleZh": "曼联：又一次未能击败10名男子，增加了老板卡里克的压力"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-17T18:25:20.206Z",
+  "journalistsUpdatedAt": "2026-10-17T20:54:42.747Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

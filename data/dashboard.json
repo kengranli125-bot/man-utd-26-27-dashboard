@@ -33082,6 +33082,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMiaEFVX3lxTFBpb0w1akNXa2w4cjBjU1lhYjBHQ1NxUXhESUhLLUVMTFFiejdxQTNTVVplWkNwSDNHSWdwU0lWd3JrRTU4U2RQYXlZN25BUXZTMDdRZmdOVS1tUElzenNYbDRGUV9OV2Fi",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Can Michael Carrick and his headphones silence the noise around Man Utd?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpb0w1akNXa2w4cjBjU1lhYjBHQ1NxUXhESUhLLUVMTFFiejdxQTNTVVplWkNwSDNHSWdwU0lWd3JrRTU4U2RQYXlZN25BUXZTMDdRZmdOVS1tUElzenNYbDRGUV9OV2Fi?oc=5",
+      "published": "2026-10-18T17:24:45.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）和他的耳机能否消除曼联周围的噪音？"
+    },
+    {
       "id": "Chris Wheeler:CBMilAJBVV95cUxPTmlqbFZDdTZPNGl6dzB1cWVhcTBGS1ZQd3NvcDlsZkRDVkZ4T1UxYV84d1c4c3d1a3J0T01zd0lzV3AtQVdmS213bUpQZ1dfYWNGRjJnNHhzRnVGLW9hNW1VVUE0TVpDMFZ3MlJuclM1NEdwUGJ5Y2tkZkJadkMySlVseWdtX1dIZjNodmR5Y3FWTEM5cnRaWTNYZFk5SmJZSEF1TnlPc21sN092Yy1jb09Cc0lYckJvcnhJZHdrbS1mbTdEZ2pVcmQ0RGYtRDFTRHprajFSVmw4cTJmenlMdHZxS09zUk13TVJvbl9jeEFRWlVXZ1lLdV82UlM5WG00QnN4bDZEU2QtdVRZZE8yZTVWYWw",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -33262,18 +33274,6 @@
       "titleZh": "曼联： Ornstein透露Carrick Sack的更新，因为INEOS设置了“决定性的”最后通牒- “你会付出代价的”"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTFBkNmhiRjZmcGlQaFdCdllPR3FzajRRNy1aMnpFVEcyMXdtR1ZLT3B5WF9mYmw2NkhHZVg3ZGlnNFdyZWVkWUhJVkFSaGdVT25jQmZEWW9QMUM5dDFoU3h2RTZDVEFaRFlp",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Former players give their verdict on Lisandro Martinez comments",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkNmhiRjZmcGlQaFdCdllPR3FzajRRNy1aMnpFVEcyMXdtR1ZLT3B5WF9mYmw2NkhHZVg3ZGlnNFdyZWVkWUhJVkFSaGdVT25jQmZEWW9QMUM5dDFoU3h2RTZDVEFaRFlp?oc=5",
-      "published": "2026-10-14T08:03:55.000Z",
-      "titleZh": "曼联新闻：前球员对利桑德罗·马丁内斯的评论做出判决"
-    },
-    {
       "id": "Fabrizio Romano:CBMinwFBVV95cUxOaFJKU05qWmN0R29QcllZZVhRcWwzNEdnX1hpX2VFampJeVhBVUR3Njg4V3hBbVl2RlkzcHI5bGhUdnlSLU05c0lUcm1XTTZrYlZPUXlzZGM4XzZzcExuYXMyZHIzWG8tcXZ4YzJmSUZjb2lpT2g2MnJNQTY1V3BpNEMtVE1QQzFjZnZLNllQTGlfempIWGpYQWczU0pBSzQ",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -33358,19 +33358,19 @@
       "titleZh": "曼联机密：皇家马德里接近JJ加布里埃尔"
     },
     {
-      "id": "Laurie Whitwell:CBMinAFBVV95cUxPYWR4bFN1ekJhVGlBVXdURVFuMWw4Njh6TW5XVk54U2ZkRVMwXzZWMGVocDVqYnJOS0VqampwN0RSOTNLUTA3bHo2eFlOekgwYkMwSkJoSHpCUkhwOGZnLWg1TWtpNE1mczZ0UzkzQU5RTXNKNzhXTW9CVmRwNnVMaDJ0OGVJSUc0clhyZzRGNXRxNVhfM1RaMWdUb24",
+      "id": "Laurie Whitwell:CBMiqAFBVV95cUxQMmMyVjBSYzVIenVhaXAzWG1ZSVV2c0pxUmFmc2x0SkFFNEE1dDBUTm9tZEhMUjdrb0VZME9XTllJbWpkWktHTVRRRUwzMFJST25MM1RBMktSdkN1QWZvS3A0dFQ3UUp3c3pqWWp5aUdQMWthbjNUYUVCcnpqQk53bEJvV0l0bldBb2ROVEktSDJfa2VURGJFbTJEYl9mSk40OHZ4eWdQY2s",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
-      "title": "Manchester United, Michael Carrick and a darkening Old Trafford mood",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWR4bFN1ekJhVGlBVXdURVFuMWw4Njh6TW5XVk54U2ZkRVMwXzZWMGVocDVqYnJOS0VqampwN0RSOTNLUTA3bHo2eFlOekgwYkMwSkJoSHpCUkhwOGZnLWg1TWtpNE1mczZ0UzkzQU5RTXNKNzhXTW9CVmRwNnVMaDJ0OGVJSUc0clhyZzRGNXRxNVhfM1RaMWdUb24?oc=5",
+      "title": "How will Manchester United react to the Manchester City verdict? - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmMyVjBSYzVIenVhaXAzWG1ZSVV2c0pxUmFmc2x0SkFFNEE1dDBUTm9tZEhMUjdrb0VZME9XTllJbWpkWktHTVRRRUwzMFJST25MM1RBMktSdkN1QWZvS3A0dFQ3UUp3c3pqWWp5aUdQMWthbjNUYUVCcnpqQk53bEJvV0l0bldBb2ROVEktSDJfa2VURGJFbTJEYl9mSk40OHZ4eWdQY2s?oc=5",
       "published": "2026-10-13T07:00:00.000Z",
-      "titleZh": "曼联、迈克尔·卡里克和老特拉福德的黑暗情绪"
+      "titleZh": "曼联将如何应对曼城的判决？ - The Athletic"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-18T17:17:40.259Z",
+  "journalistsUpdatedAt": "2026-10-18T19:29:23.279Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

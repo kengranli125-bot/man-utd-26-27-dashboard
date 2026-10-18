@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:35:17.076Z",
+  "updatedAt": "2026-10-18T20:40:47.580Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -32226,8 +32226,8 @@
     },
     {
       "id": "510",
-      "name": "VIKING FK",
-      "nameZh": "VIKING FK",
+      "name": "Viking FK",
+      "nameZh": "Viking FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
       "position": 27,
       "played": 2,
@@ -32357,24 +32357,24 @@
   ],
   "scorers": [
     {
+      "id": "271170",
+      "name": "Bryan Mbeumo",
+      "nameZh": "布莱恩·姆伯莫",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
+      "goals": 4,
+      "assists": 0,
+      "appearances": 7,
+      "minutes": 630
+    },
+    {
       "id": "124091",
       "name": "Bruno Fernandes",
       "nameZh": "布鲁诺·费尔南德斯",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
       "goals": 3,
       "assists": 1,
-      "appearances": 6,
-      "minutes": 540
-    },
-    {
-      "id": "271170",
-      "name": "Bryan Mbeumo",
-      "nameZh": "布莱恩·姆伯莫",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
-      "goals": 3,
-      "assists": 0,
-      "appearances": 6,
-      "minutes": 540
+      "appearances": 7,
+      "minutes": 630
     },
     {
       "id": "259902",
@@ -32383,8 +32383,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
       "goals": 1,
       "assists": 2,
-      "appearances": 6,
-      "minutes": 1315
+      "appearances": 7,
+      "minutes": 1399
     },
     {
       "id": "233937",
@@ -32393,8 +32393,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
       "goals": 1,
       "assists": 0,
-      "appearances": 5,
-      "minutes": 450
+      "appearances": 6,
+      "minutes": 495
     },
     {
       "id": "289155",
@@ -32405,6 +32405,16 @@
       "assists": 0,
       "appearances": 4,
       "minutes": 284
+    },
+    {
+      "id": "193297",
+      "name": "Youri Tielemans",
+      "nameZh": "尤里·蒂勒曼斯",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+      "goals": 0,
+      "assists": 1,
+      "appearances": 7,
+      "minutes": 547
     },
     {
       "id": "328466",
@@ -32439,15 +32449,36 @@
   ],
   "news": [
     {
-      "title": "Premier League live updates: Man United draw with Leeds; Arsenal up next",
-      "published": "2026-10-18T15:21:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50190864/premier-league-live-updates-leeds-united-manchester-united-nottingham-forest-arsenal",
-      "image": "https://a.espncdn.com/photo/2026/1018/r1732444_1296x729_16-9.jpg",
-      "titleZh": "英超联赛现场更新：曼联与利兹队平局；阿森纳接下来"
+      "title": "Carrick: Leeds draw feels like a 'fresh start' for Man Utd",
+      "published": "2026-10-18T17:15:55Z",
+      "url": "https://www.espn.com/video/clip/_/id/50211373/leeds-draw-feels-fresh-start-man-utd",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Carrick_Leeds_draw_feels_like_a_fresh_start_for_Man_Utd/dm_261018_Carrick_Leeds_draw_feels_like_a_fresh_start_for_Man_Utd.jpg",
+      "titleZh": "卡里克：利兹抽签感觉像是曼联的“新起点”"
+    },
+    {
+      "title": "Seven games, seven points: Man United are sleepwalking to another lost season",
+      "published": "2026-10-18T17:00:00Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50210655/seven-games-seven-points-man-united-sleepwalking-another-lost-season",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732449_1296x729_16-9.jpg",
+      "titleZh": "七场比赛，七分：曼联正在梦游另一个失败的赛季"
+    },
+    {
+      "title": "Michael Carrick on Man United's worst start since 1986: Situation 'doesn't look great'",
+      "published": "2026-10-18T18:53:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50210858/michael-carrick-man-united-worst-start-1986-situation-look-great",
+      "image": "https://a.espncdn.com/photo/2026/1018/r1732465_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克谈曼联自1986年以来最糟糕的开局：情况“看起来不太好”"
+    },
+    {
+      "title": "Nicol: Question marks over Carrick's Manchester United after performance vs. Leeds",
+      "published": "2026-10-18T15:29:36Z",
+      "url": "https://www.espn.com/video/clip/_/id/50210530/question-marks-carrick-manchester-united-performance-vs-leeds",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_Nicol_Question_marks_over_Carricks_Manchester_United_after_performance_vs_Leeds/dm_261018_Nicol_Question_marks_over_Carricks_Manchester_United_after_performance_vs_Leeds.jpg",
+      "titleZh": "Nicol ：在表现对阵利兹之后，对卡里克的曼联的问号"
     },
     {
       "title": "Michael Carrick fails to relieve pressure as Man United draw at Leeds",
-      "published": "2026-10-18T15:20:43Z",
+      "published": "2026-10-18T15:54:17Z",
       "url": "https://www.espn.com/soccer/story/_/id/50210339/pressure-piles-michael-carrick-man-united-draw-leeds",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732425_1296x729_16-9.jpg",
       "titleZh": "随着曼联在利兹的平局，迈克尔·卡里克未能缓解压力"
@@ -32467,8 +32498,8 @@
       "titleZh": "曼联有史以来最糟糕的联赛开始了： 2026-27赛季相比如何？"
     },
     {
-      "title": "Leeds vs. Man United LIVE: Premier League reaction as spoils shared at Elland Road",
-      "published": "2026-10-18T14:57:23Z",
+      "title": "Leeds 1-1 Man United: Calvert-Lewin scores again at home to cancel out Mbeumo strike - as it happened",
+      "published": "2026-10-18T15:39:11Z",
       "url": "https://www.espn.com/soccer/story/_/id/50209157/leeds-vs-manchester-united-live-premier-league-updates-elland-road",
       "image": "https://a.espncdn.com/photo/2026/1018/r1732417_1296x729_16-9.jpg",
       "titleZh": "利兹vs曼联现场直播：英超联赛在Elland Road分享战利品"
@@ -32500,27 +32531,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50198381/nicol-slams-carrick-ridiculous-comments-press-conference",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_COM_SOC_Analysis_Nicol_slams_Carrick_for_ridiculous_comments_in_press_conference_20261016_GLOB/dm_261016_COM_SOC_Analysis_Nicol_slams_Carrick_for_ridiculous_comments_in_press_conference_20261016_GLOB.jpg",
       "titleZh": "尼科尔在新闻发布会上抨击卡里克的“荒谬”言论"
-    },
-    {
-      "title": "Carrick: Manchester United have moved on from Lisandro Martinez outburst",
-      "published": "2026-10-16T19:36:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50197717/manchester-united-moved-lisandro-martinez-outburst",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1016/dm_261016_Carrick_Manchester_United_have_moved_on_from_Lisandro_Martinez_outburst/dm_261016_Carrick_Manchester_United_have_moved_on_from_Lisandro_Martinez_outburst.jpg",
-      "titleZh": "卡里克：曼联已经从利桑德罗·马丁内斯的爆发中脱颖而出"
-    },
-    {
-      "title": "Lisandro Martínez's Man United comments 'not that far off' but should not have been made - Peter Schmeichel",
-      "published": "2026-10-16T16:59:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50197099/lisandro-martinez-man-united-comments-not-far-not-made-peter-schmeichel",
-      "image": "https://a.espncdn.com/photo/2026/1014/r1730746_1296x729_16-9.jpg",
-      "titleZh": "利桑德罗·马丁内斯（ Lisandro Martínez ）的《曼联》（ Man United ）评论“不太遥远” ，但不应该被制作出来-彼得·施"
-    },
-    {
-      "title": "Michael Carrick denies divisions within Man United squad after Lisandro Martínez outburst",
-      "published": "2026-10-16T13:39:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50195749/man-united-michael-carrick-lisandro-martinez-premier-league-leeds",
-      "image": "https://a.espncdn.com/photo/2026/1016/r1731574_2_1296x729_16-9.jpg",
-      "titleZh": "在利桑德罗·马丁内斯（ Lisandro Martínez ）爆发后，迈克尔·卡里克（ Michael Carrick ）否"
     }
   ],
   "transfers": [
@@ -33375,7 +33385,7 @@
     "league": {
       "formation": "4-3-3",
       "title": "英超预测首发",
-      "summary": "以最近一场英超对托特纳姆热刺的已确认首发为基线，并优先排除官方伤缺球员。",
+      "summary": "以最近一场英超对利兹联的已确认首发为基线，并优先排除官方伤缺球员。",
       "players": [
         {
           "id": "301425",
@@ -33435,18 +33445,18 @@
           "role": "中后卫"
         },
         {
-          "id": "167127",
-          "name": "Luke Shaw",
-          "nameZh": "卢克·肖",
-          "shortName": "L. Shaw",
-          "shortNameZh": "卢克·肖",
-          "jersey": "23",
-          "position": "Midfielder",
-          "age": 30,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
+          "id": "238902",
+          "name": "Diogo Dalot",
+          "nameZh": "迪奥戈·达洛特",
+          "shortName": "D. Dalot",
+          "shortNameZh": "达洛特",
+          "jersey": "2",
+          "position": "Defender",
+          "age": 27,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -33473,44 +33483,6 @@
           "role": "右后卫"
         },
         {
-          "id": "124091",
-          "name": "Bruno Fernandes",
-          "nameZh": "布鲁诺·费尔南德斯",
-          "shortName": "B. Fernandes",
-          "shortNameZh": "B费",
-          "jersey": "8",
-          "position": "Midfielder",
-          "age": 32,
-          "nationality": "Portugal",
-          "nationalityZh": "葡萄牙",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "DM",
-          "role": "前腰"
-        },
-        {
-          "id": "328466",
-          "name": "Kobbie Mainoo",
-          "nameZh": "科比·梅努",
-          "shortName": "K. Mainoo",
-          "shortNameZh": "梅努",
-          "jersey": "37",
-          "position": "Midfielder",
-          "age": 21,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "DM",
-          "role": "中场"
-        },
-        {
           "id": "193297",
           "name": "Youri Tielemans",
           "nameZh": "尤里·蒂勒曼斯",
@@ -33523,6 +33495,44 @@
           "nationalityZh": "比利时",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "前腰"
+        },
+        {
+          "id": "338814",
+          "name": "Carlos Baleba",
+          "nameZh": "Carlos Baleba",
+          "shortName": "C. Baleba",
+          "shortNameZh": "Baleba",
+          "jersey": "20",
+          "position": "Midfielder",
+          "age": 22,
+          "nationality": "Cameroon",
+          "nationalityZh": "喀麦隆",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+          "headshot": "",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "314858",
+          "name": "Andrey Santos",
+          "nameZh": "安德烈·桑托斯",
+          "shortName": "A. Santos",
+          "shortNameZh": "桑托斯",
+          "jersey": "17",
+          "position": "Midfielder",
+          "age": 22,
+          "nationality": "Brazil",
+          "nationalityZh": "巴西",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1372921.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -33549,18 +33559,18 @@
           "role": "中锋"
         },
         {
-          "id": "259902",
-          "name": "Matheus Cunha",
-          "nameZh": "马特乌斯·库尼亚",
-          "shortName": "M. Cunha",
-          "shortNameZh": "库尼亚",
-          "jersey": "10",
-          "position": "Forward",
-          "age": 27,
-          "nationality": "Brazil",
-          "nationalityZh": "巴西",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
+          "id": "124091",
+          "name": "Bruno Fernandes",
+          "nameZh": "布鲁诺·费尔南德斯",
+          "shortName": "B. Fernandes",
+          "shortNameZh": "B费",
+          "jersey": "8",
+          "position": "Midfielder",
+          "age": 32,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -33594,7 +33604,7 @@
         },
         {
           "label": "经验值",
-          "value": 82
+          "value": 81
         },
         {
           "label": "攻守平衡",

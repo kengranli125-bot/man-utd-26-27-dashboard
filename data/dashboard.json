@@ -33081,25 +33081,13 @@
   ],
   "journalists": [
     {
-      "id": "James Ducker:CBMiqAFBVV95cUxOLWVxbS1JQS0ydExmUU56dnZZdkJST2ZYUFdNMVdYQmkwTmpseVZoZlBMMkNsdzZkV2pZX3V3amxhV0poTl81RlRoSG9KbnQzNWN2dzZoRzZmbGdEaDIyazVhTS04Wkp2LXc5UVBianBmWThWakhFVnFVQ3huaWJGeUJoajFteWJua0NSNWF2bXRGSUY3ZU96Rm1PSUNqUHgzMUNpRHUzd2E",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Injuries, illness and sniping from the sidelines – perfect storm engulfs Man Utd",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWVxbS1JQS0ydExmUU56dnZZdkJST2ZYUFdNMVdYQmkwTmpseVZoZlBMMkNsdzZkV2pZX3V3amxhV0poTl81RlRoSG9KbnQzNWN2dzZoRzZmbGdEaDIyazVhTS04Wkp2LXc5UVBianBmWThWakhFVnFVQ3huaWJGeUJoajFteWJua0NSNWF2bXRGSUY3ZU96Rm1PSUNqUHgzMUNpRHUzd2E?oc=5",
-      "published": "2026-10-20T21:16:00.000Z",
-      "titleZh": "受伤、疾病和场边狙击--完美风暴席卷曼联"
-    },
-    {
       "id": "Laurie Whitwell:CBMimgFBVV95cUxNRGVLQmY0OGtiN2RfMUZvUFF4RTJCWEtQN2hXY2s3T1o1cUZ6dnRnM1BqQnNpeWc0bmNPc0FyVTZQaER1cm01WW5lVWptYWpKUU55THdIV0cwNXhIMGVvQXdQMEZRODg5QkI5cjNlQVY1eHhnbXpBTUk3dkthcnJrRG1ZRzVGUThRdFRuaV96OGFLbWNQN3lDVGhn",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
-      "title": "Michael Carrick insists no ‘toxic culture’ at Manchester United: ‘There’s a lot of togetherness’",
+      "title": "Michael Carrick insists no ‘toxic culture’ at Manchester United: ‘There’s a lot of togetherness’ - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGVLQmY0OGtiN2RfMUZvUFF4RTJCWEtQN2hXY2s3T1o1cUZ6dnRnM1BqQnNpeWc0bmNPc0FyVTZQaER1cm01WW5lVWptYWpKUU55THdIV0cwNXhIMGVvQXdQMEZRODg5QkI5cjNlQVY1eHhnbXpBTUk3dkthcnJrRG1ZRzVGUThRdFRuaV96OGFLbWNQN3lDVGhn?oc=5",
       "published": "2026-10-20T19:49:58.000Z",
       "titleZh": "迈克尔·卡里克坚称曼联没有“有毒文化” ： “有很多团结”"
@@ -33115,6 +33103,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhpWG8wTGpRWE1KVjdIVUdLV0VUOXdzaGozLW90ZGRVdVY4WkNLczVjMGR6NWNMRTloSmFsd28yRmFtNmR3VGhQaUxQeHUtUGtZZ2RLWXBNUkZvZ3RoOTVJTHQwOWMyVk5TekM3aGRyMFk0SjFmTEw5T1lmaWdyTTYtRU9RU1hoazQxVVpjdVlLbHZteHhwUA?oc=5",
       "published": "2026-10-20T18:47:00.000Z",
       "titleZh": "迈克尔·卡里克：我觉得我支持曼联董事会，但需要赢得比赛"
+    },
+    {
+      "id": "Rob Dawson:CBMixwFBVV95cUxNWmNSR2w2Mnh0V003R2FtTWFyTXJZRGk2T0w1VXZoOUpHVkJUVzdnNDYzVkxBcHlVajFLTDJ3MXFXV0puTjQ1YlBlalpLYjZPamt6dmk4WkZFMjdYV216bkhFVnY5STd4T1FjdktVd3JaV2ZyM0hnOEMyUDhqRVJSQWFkdF9jX3NraURxbWUzcV9pdVBaWDNEb0NabDhLeVljYXNPLW9hR1hobUNnSXF3cXNDZHI1RUNld1hjY0tkZHlFVG41dXhR",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Cesc Fàbregas calls suggestions he could replace Michael Carrick at Man United disrespectful",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmNSR2w2Mnh0V003R2FtTWFyTXJZRGk2T0w1VXZoOUpHVkJUVzdnNDYzVkxBcHlVajFLTDJ3MXFXV0puTjQ1YlBlalpLYjZPamt6dmk4WkZFMjdYV216bkhFVnY5STd4T1FjdktVd3JaV2ZyM0hnOEMyUDhqRVJSQWFkdF9jX3NraURxbWUzcV9pdVBaWDNEb0NabDhLeVljYXNPLW9hR1hobUNnSXF3cXNDZHI1RUNld1hjY0tkZHlFVG41dXhR?oc=5",
+      "published": "2026-10-20T15:54:00.000Z",
+      "titleZh": "Cesc Fàbregas称他可以在曼联取代迈克尔·卡里克的建议不尊重"
     },
     {
       "id": "Laurie Whitwell:CBMiggFBVV95cUxQR2V0R0lMNHhQa09HQjdIRGFsdDY2YVJWWkdsQXZiWFZmellpVHpKVEs2ekQ0dU9odEUtbjJCWk83NEpGV01mbVh6OFRlYmtHZDlRTDRubjVZWjFUaFRtLUhINDB4U215SGVaeVlENnNsREtXSE85bzg2alRFb0NUYWl3",
@@ -33213,16 +33213,16 @@
       "titleZh": "在利桑德罗·马丁内斯（ Lisandro Martínez ）爆发后，迈克尔·卡里克（ Michael Carrick ）否"
     },
     {
-      "id": "Fabrizio Romano:CBMijAFBVV95cUxQYkxBVElOVkYyOGFRWUNjU2N3eldVTXVoSTRIamRzNjl4ekRub0tMZzhkZ1MxSmxCNGduMmx4NmVZUTNfd2huT2g0OE13SXVxUXoxeWY3aWtGMjVnZkNaLXdnSzJjYnFHczBWYk1ZcjdBdXdWTndxeXlqcDdkVnFReUo5SDNucXExVlFSRA",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo Sports",
+      "id": "James Ducker:CBMipAFBVV95cUxQMEk4Q3JwY1dzdEJESF85Vm5URFZKUTRaM3hNbXNWdmxRRG91TFhjVFhCRUlpU2ZEdU83MzdvY0tJaGltM3lGWUFicjlldDUtb0RjcXVxbTBpN2tPNHV1dUxlMjFvZ0F4YUdmWmhaOUxNQ3Q4LVNXejNBQW1IYXMyaktibkJnX1BBV2dBRU1IRThTUkRuYkIzUnp3Nnl4TUFlOW04bQ",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
       "tier": 1,
-      "title": "Fabrizio Romano confirms Man United star is set to leave after outburst",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkxBVElOVkYyOGFRWUNjU2N3eldVTXVoSTRIamRzNjl4ekRub0tMZzhkZ1MxSmxCNGduMmx4NmVZUTNfd2huT2g0OE13SXVxUXoxeWY3aWtGMjVnZkNaLXdnSzJjYnFHczBWYk1ZcjdBdXdWTndxeXlqcDdkVnFReUo5SDNucXExVlFSRA?oc=5",
-      "published": "2026-10-15T17:50:00.000Z",
-      "titleZh": "Fabrizio Romano确认曼联球星将在爆发后离开"
+      "title": "Martinez free to play after apologising for scathing attack on Man Utd hierarchy",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEk4Q3JwY1dzdEJESF85Vm5URFZKUTRaM3hNbXNWdmxRRG91TFhjVFhCRUlpU2ZEdU83MzdvY0tJaGltM3lGWUFicjlldDUtb0RjcXVxbTBpN2tPNHV1dUxlMjFvZ0F4YUdmWmhaOUxNQ3Q4LVNXejNBQW1IYXMyaktibkJnX1BBV2dBRU1IRThTUkRuYkIzUnp3Nnl4TUFlOW04bQ?oc=5",
+      "published": "2026-10-15T18:18:00.000Z",
+      "titleZh": "马丁内斯为对曼联等级制度的严厉攻击道歉后可以免费参加比赛"
     },
     {
       "id": "Laurie Whitwell:CBMirAFBVV95cUxOZzBtSm1KMGlYcGppekd2aHhCZHBJWUpRZXZFdU9saGREdTEtYXBjajJuSEh3d2lOTWZtRUlGT0VaR3U2X3BxQnhHZFBWMERta21fWTUwYlBMb0xOVVBreVo2c1plS2xhRHlia29QMlhNZV82cmhJY05xbnlZUEx3eFp1bmZjczJSM09wenRZaXVrMjJ5U25GS0s1NDFOUXQwTmxYSk5ZSkg0aWVS",
@@ -33273,18 +33273,6 @@
       "titleZh": "饱受危机蹂躏的曼联必须解决的六个问题"
     },
     {
-      "id": "Rob Dawson:CBMiowFBVV95cUxPUFJJTlZFXzZDODVlT0JuM1JwcnJUWTIxZjFyNlVneWVxSE9NR3g5UjdMWDhweFU3XzNBalJETDVBallmZm5NU1BJZDM5UFlOWkdqRjE5QUFCaFNERy1ZZHhuRGtSM09YZS1hY3I2dXc2X2hSTnpINGZBRWN5a2dxSU1uMldudGpORW9DbzJ5U0NZMHFmUmZfMWQ2U2lhVi1GTUdF",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Sources: Man United assessing Martínez comments as player releases statement",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFJJTlZFXzZDODVlT0JuM1JwcnJUWTIxZjFyNlVneWVxSE9NR3g5UjdMWDhweFU3XzNBalJETDVBallmZm5NU1BJZDM5UFlOWkdqRjE5QUFCaFNERy1ZZHhuRGtSM09YZS1hY3I2dXc2X2hSTnpINGZBRWN5a2dxSU1uMldudGpORW9DbzJ5U0NZMHFmUmZfMWQ2U2lhVi1GTUdF?oc=5",
-      "published": "2026-10-14T22:05:00.000Z",
-      "titleZh": "资料来源：曼联在球员发表声明时评估马丁内斯的评论"
-    },
-    {
       "id": "James Ducker:CBMiqwFBVV95cUxOdGNrVHhKTkpFRHhVSGl6UnR6aHhxbmhXWkJla0hlbnhSYnpEcEhiWmM5UHZpd0NPTFoxUXpINmFSLW9FNWdwVXQxTE5Qa2dadUl0cGplYkV3WWxjOG1wUlNTeU11VjJwbzlxUTFRVXB3cHM4VWNaMHNoOWRHVDJzRGV2dGVubGhyQTJsVjhvNTMySjU5VGpOUVdiOWw3a2FKekh2b09SalNjbjg",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -33295,6 +33283,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGNrVHhKTkpFRHhVSGl6UnR6aHhxbmhXWkJla0hlbnhSYnpEcEhiWmM5UHZpd0NPTFoxUXpINmFSLW9FNWdwVXQxTE5Qa2dadUl0cGplYkV3WWxjOG1wUlNTeU11VjJwbzlxUTFRVXB3cHM4VWNaMHNoOWRHVDJzRGV2dGVubGhyQTJsVjhvNTMySjU5VGpOUVdiOWw3a2FKekh2b09SalNjbjg?oc=5",
       "published": "2026-10-14T20:56:00.000Z",
       "titleZh": "马丁内斯得到了资深球员对曼联等级制度缺乏雄心的支持"
+    },
+    {
+      "id": "Fabrizio Romano:CBMi_wFBVV95cUxPSUp4RkFVc1hXcDEwREh0NzBmczlIcnlyQTFqSkNrYXVpVWZEbWpBbW9LS2lhQ2FvRnJmV0NXMENLYUtQdTh6MjNVdGFTTllhUk5Ncy14OGJJQVhzZW0tYkx3OWJOVnhuZVN0YnlGcE1CWk5aQXZjZlFjMHRBYTBPZ2NjTlU4LWEzdFgzQ21LT3p3bDNQUFdKSWQxbEx4bGZGeUtfbUc1NG5yRVMxQnNNV25CWDVfanF5RlpkbnREb3hFTk9xYzUweWlvUXhyWDh2bnplYVdnRWhqZ0tkWmphWXZodWVQeGo4dUpxekRNM2ttTnRJdjRDOG9NdmNnNWc",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "LiveScore",
+      "tier": 1,
+      "title": "“Already made direct contact” – Fabrizio Romano reveals Real Madrid have made move for Man United ace",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSUp4RkFVc1hXcDEwREh0NzBmczlIcnlyQTFqSkNrYXVpVWZEbWpBbW9LS2lhQ2FvRnJmV0NXMENLYUtQdTh6MjNVdGFTTllhUk5Ncy14OGJJQVhzZW0tYkx3OWJOVnhuZVN0YnlGcE1CWk5aQXZjZlFjMHRBYTBPZ2NjTlU4LWEzdFgzQ21LT3p3bDNQUFdKSWQxbEx4bGZGeUtfbUc1NG5yRVMxQnNNV25CWDVfanF5RlpkbnREb3hFTk9xYzUweWlvUXhyWDh2bnplYVdnRWhqZ0tkWmphWXZodWVQeGo4dUpxekRNM2ttTnRJdjRDOG9NdmNnNWc?oc=5",
+      "published": "2026-10-14T17:43:15.000Z",
+      "titleZh": "“已经直接联系” – Fabrizio Romano透露皇家马德里已经为曼联王牌转会"
     },
     {
       "id": "Carl Anka:CBMipgFBVV95cUxOT19ocWNSQ3FBQTZLdlRWRlVxc1R0a3RLT2JqNnR2a1JLb2VCdS0zZFNTLWJJajF1SHlvNW1Nd3NOQkJTTW10aDVHbFB5WTBGNEZpekNycmkxTVV2cGlwSGkzQWxLMXNVYkJoRGpKZDFDZjNDcnNCVFpHekFrTjllX21PSkNmRTBfNUE5TW1ycjBQT0tZRDBQRDY0SlVPYy1LS1RGTlBR",
@@ -33369,7 +33369,7 @@
       "titleZh": "罗马诺透露曼联球队对马丁内斯重磅炸弹采访的判决- “我可以保证这一点”"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-21T00:34:24.265Z",
+  "journalistsUpdatedAt": "2026-10-21T05:17:22.945Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

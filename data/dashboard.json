@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:09:00.053Z",
+  "updatedAt": "2026-10-22T21:34:06.207Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -34276,15 +34276,22 @@
   ],
   "news": [
     {
-      "title": "Transfer rumors, news: Man United consider defensive clearout in summer",
-      "published": "2026-10-22T15:05:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联考虑在夏季进行防守清理"
+      "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
+      "published": "2026-10-22T19:32:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50251373/wayne-rooney-man-united-players-acting-babies",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734078_1296x729_16-9.jpg",
+      "titleZh": "韦恩·鲁尼：布鲁诺·费尔南德斯，曼联球员表现得像“婴儿”"
+    },
+    {
+      "title": "Who's to blame for Man United mess: Carrick, the players ... Ratcliffe?",
+      "published": "2026-10-22T18:41:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734576_1296x729_16-9.jpg",
+      "titleZh": "谁应该为曼联的混乱负责：卡里克，球员们……拉特克利夫？"
     },
     {
       "title": "Michael Carrick set to lead Man United vs. Bournemouth amid pressure - sources",
-      "published": "2026-10-22T15:06:04Z",
+      "published": "2026-10-22T15:57:29Z",
       "url": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
       "image": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在压力下领导曼联对伯恩茅斯-消息来源"
@@ -34312,7 +34319,7 @@
     },
     {
       "title": "Man United players get Thursday day off despite Como thrashing - sources",
-      "published": "2026-10-22T15:10:44Z",
+      "published": "2026-10-22T16:01:23Z",
       "url": "https://www.espn.com/soccer/story/_/id/50247083/man-united-players-day-como-thrashing",
       "image": "https://a.espncdn.com/photo/2026/1022/r1734431_1296x729_16-9.jpg",
       "titleZh": "曼联球员周四休息，尽管COMO颠簸-消息来源"
@@ -34351,27 +34358,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/50242382/jamie-carragher-slams-bruno-fernandes-michael-carrick-criticism-absolute-disgrace-man-united",
       "image": "https://a.espncdn.com/photo/2026/1021/r1734239_1296x729_16-9.jpg",
       "titleZh": "杰米·卡拉格（ Jamie Carragher ）抨击布鲁诺·费尔南德斯（ Bruno Fernandes ）对迈克尔·卡里克（ Michael Carrick"
-    },
-    {
-      "title": "Was Bruno Fernandes wrong to 'criticize' Michael Carrick?",
-      "published": "2026-10-21T22:30:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50242207/was-bruno-fernandes-wrong-criticize-michael-carrick",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1021/dm_261021_COM_SOC_Analysis_Was_Bruno_Fernandes_wrong_to_E28098criticizeE28099_Michael_Carrick3F__GLOBAL_2026-10-21/dm_261021_COM_SOC_Analysis_Was_Bruno_Fernandes_wrong_to_E28098criticizeE28099_Michael_Carrick3F__GLOBAL_2026-10-21.jpg",
-      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ） “批评”迈克尔·卡里克"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United consider defensive clearout in summer",
-      "published": "2026-10-22T15:05:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50245989/transfer-rumors-news-man-united-consider-defensive-clearout-summer",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734411_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联考虑在夏季进行防守清理",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

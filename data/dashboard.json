@@ -34953,6 +34953,18 @@
   ],
   "journalists": [
     {
+      "id": "Laurie Whitwell:CBMirwFBVV95cUxOVVdSYlU3QTFlS3R4OEhkQktmWU1WSkptMVBBQnd5WUFvOXJ5VTUzbHFEYmtyNWRQWmpHMkRfdTBCRFdPY2xLTUhVQl84ZG1QY1VfZXBUMWdnbXhSNTIzNWxxMVRTNFItQXh0Q2UwY1FoLVJ4cDdfa1FNZGg2VGRmdjA4dUtFV0w1aUlmWDRjQ2ZFRUVrNlprWFNGMXIyamtwZmJkaWQ3TkFEUHFibzk0",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Michael Carrick says Manchester United have ‘lost our way’ in passionate five-minute speech",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVdSYlU3QTFlS3R4OEhkQktmWU1WSkptMVBBQnd5WUFvOXJ5VTUzbHFEYmtyNWRQWmpHMkRfdTBCRFdPY2xLTUhVQl84ZG1QY1VfZXBUMWdnbXhSNTIzNWxxMVRTNFItQXh0Q2UwY1FoLVJ4cDdfa1FNZGg2VGRmdjA4dUtFV0w1aUlmWDRjQ2ZFRUVrNlprWFNGMXIyamtwZmJkaWQ3TkFEUHFibzk0?oc=5",
+      "published": "2026-10-23T13:55:12.000Z",
+      "titleZh": "迈克尔·卡里克说，曼联在充满激情的五分钟演讲中“迷失了方向”"
+    },
+    {
       "id": "Simon Stone:CBMia0FVX3lxTE9HaGtJNDk5SGpTcFNjV2Y1YmJpTEh4QzZKLW4zYVNRMGplQTlFcUcwaU5jTUhMbmNtSFRidjItZ0tyWHlrQmlUSlVfb2ZBVG9weEhGZFdXRWZabkE0Q0ZhSi1zNS04LUNFSG1J",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -35001,14 +35013,14 @@
       "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）尽管爆发，仍将保持曼联队长"
     },
     {
-      "id": "Rob Dawson:CBMingFBVV95cUxNRmJidFJheURiMjRlOU9VYnJzeGE5VjVZZ1VjSjc1ODNfT1ptZ1dDVy1zU09FZVNKSmI4bUJablYxOXoxeEJBUTVGME1TTEQ0MlVOZlAwdHJCQ3Z5RTNzSm82OUNVWjk0TjFTTEZRcEZnRDJTMVhIWHZranRvaEdfY3gxb2FUdS1rYmNKaHV4UGNSajhyd1RGaFBIQ0lHUQ",
+      "id": "Rob Dawson:CBMimAFBVV95cUxPLUlwTUVIQ19LSTlFNTduMF9YNWs1ZmtDanEwOWhkelFwM01qRTY2S2RBWFdNNlNUeEhxSTdiM1VBSGdyNFlIdGtONFNLS3A3Q2hlYUJES280cTZBM21sbTYtY0JYaE5nUXdnQktwQnRQeG9vTlhkQUttaDVkWkJIQ0RQRk9feWtBSzEyRmZsQ011NjFwdUp4Ng",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
       "title": "Michael Carrick set to lead Man United vs. Bournemouth amid pressure - sources",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRmJidFJheURiMjRlOU9VYnJzeGE5VjVZZ1VjSjc1ODNfT1ptZ1dDVy1zU09FZVNKSmI4bUJablYxOXoxeEJBUTVGME1TTEQ0MlVOZlAwdHJCQ3Z5RTNzSm82OUNVWjk0TjFTTEZRcEZnRDJTMVhIWHZranRvaEdfY3gxb2FUdS1rYmNKaHV4UGNSajhyd1RGaFBIQ0lHUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUlwTUVIQ19LSTlFNTduMF9YNWs1ZmtDanEwOWhkelFwM01qRTY2S2RBWFdNNlNUeEhxSTdiM1VBSGdyNFlIdGtONFNLS3A3Q2hlYUJES280cTZBM21sbTYtY0JYaE5nUXdnQktwQnRQeG9vTlhkQUttaDVkWkJIQ0RQRk9feWtBSzEyRmZsQ011NjFwdUp4Ng?oc=5",
       "published": "2026-10-22T15:03:00.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在压力下领导曼联对伯恩茅斯-消息来源"
     },
@@ -35047,18 +35059,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlFMU3hvVkFubDZrTHpmc2tYYkZXT2FManR4X0p1RTdmQW5NWEV6VUJWRWVSQTFTclBlaUtpTHdEb2RBeXBwU09ZeXBuTDBpZ1VoTDF3SHl3WXdKenFYcDRMRTN4WnZqLTJBVDktVjJqTkRDalhsakxfMVB6UEpwV085VkN4WHFCaWExTWpKV3RiV254TS1WdzhLV3A3N1R6Wm41LXdpaw?oc=5",
       "published": "2026-10-22T10:00:00.000Z",
       "titleZh": "曼联在后弗格森时代的11场最糟糕的失利"
-    },
-    {
-      "id": "Laurie Whitwell:CBMikwFBVV95cUxNRFBfajJnY0RPMmxrQjBzMmZxREFXcWdlMkZua19TUUY5NGh3V3FvYXBEU0lCaGljX1BIR3F5d2VlZ2pOSWFtVjZjTzNKcFFCMjNBTi1NU0ZoeGxyOWtEOTJHYUN0bHpsTDlqQ3VJZW9CM01lT3BxQ2NRNVRDdV9UeGFMeFhHUVFQU3ZBdHFDNFRxWW8",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Michael Carrick is now in peril, but Manchester United’s problems run so much deeper - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFBfajJnY0RPMmxrQjBzMmZxREFXcWdlMkZua19TUUY5NGh3V3FvYXBEU0lCaGljX1BIR3F5d2VlZ2pOSWFtVjZjTzNKcFFCMjNBTi1NU0ZoeGxyOWtEOTJHYUN0bHpsTDlqQ3VJZW9CM01lT3BxQ2NRNVRDdV9UeGFMeFhHUVFQU3ZBdHFDNFRxWW8?oc=5",
-      "published": "2026-10-22T07:28:39.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）现在处于危险之中，但曼联的问题更加严重- The Athletic"
     },
     {
       "id": "Fabrizio Romano:CBMixwFBVV95cUxOX0JzRmItWlNjWUFJTkhqdHIyZGpKQ3psejctcTYwTm1jNW94Mm9rS1JlWVlEUC1DU09MT05uT3ZYZ3lPWm12MUM4X1JFRkRtbUdNWW9URTlTNUlWTlZ1T08xLWpDU2gxQmpfT2c3MjFOSkljU2F3YjQydEpaTnVOSWRUNWJRN2RPTDRleFozaWttbm94eDQ3N1IxNGliTmM2Q3BKa2FaTW5mdk84bC03VnIyYnRBUzV3OWYtVlQyZEVaVGxYbUNJ",
@@ -35217,7 +35217,7 @@
       "titleZh": "迈克尔·卡里克：在压力越来越大的情况下，有关曼联未来“不重要”的问题"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-23T17:03:43.122Z",
+  "journalistsUpdatedAt": "2026-10-23T20:23:44.344Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

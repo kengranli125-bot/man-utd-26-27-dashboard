@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:04:58.594Z",
+  "updatedAt": "2026-10-23T21:23:03.159Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -34298,28 +34298,21 @@
     },
     {
       "title": "Antonio Conte, Fabian Hürzeler distance themselves from Man United job",
-      "published": "2026-10-23T13:34:24Z",
+      "published": "2026-10-23T18:28:40Z",
       "url": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-fabian-hurzeler-knock-back-man-united-rumours",
       "image": "https://a.espncdn.com/photo/2026/1023/r1734982_1296x729_16-9.jpg",
       "titleZh": "Antonio Conte、Fabian Hürzeler与曼联的工作保持距离"
     },
     {
-      "title": "Transfer rumors, news: Como's Paz destroyed Man United -- now they want to sign him",
-      "published": "2026-10-23T12:03:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1733999_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：科莫的和平摧毁了曼联，现在他们想签下他"
-    },
-    {
       "title": "Man United invite fans to fill survey on new stadium",
-      "published": "2026-10-23T10:17:35Z",
+      "published": "2026-10-23T18:30:59Z",
       "url": "https://www.espn.com/soccer/story/_/id/50256301/man-united-invite-fans-fill-survey-new-stadium",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
       "titleZh": "曼联邀请球迷填写关于新体育场的调查"
     },
     {
       "title": "Man United will be 'angry, intense,' Marco Rose warns Bournemouth",
-      "published": "2026-10-23T09:56:16Z",
+      "published": "2026-10-23T18:31:25Z",
       "url": "https://www.espn.com/soccer/story/_/id/50256275/man-united-angry-michael-carrick-marco-rose-bournemouth",
       "image": "https://a.espncdn.com/photo/2026/1023/r1734938_1296x729_16-9.jpg",
       "titleZh": "曼联将“愤怒，激烈” ，马可·罗斯警告伯恩茅斯"
@@ -34358,20 +34351,16 @@
       "url": "https://www.espn.com/soccer/story/_/id/50249518/man-united-mess-blame-michael-carrick-players-jim-ratcliffe-bruno-fernandes-glazers",
       "image": "https://a.espncdn.com/photo/2026/1022/r1734576_1296x729_16-9.jpg",
       "titleZh": "谁应该为曼联的混乱负责：卡里克，球员们……拉特克利夫？"
-    }
-  ],
-  "transfers": [
+    },
     {
-      "title": "Transfer rumors, news: Como's Paz destroyed Man United -- now they want to sign him",
-      "published": "2026-10-23T12:03:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50255747/transfer-rumors-news-comos-paz-destroyed-man-united-now-want-sign-him",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1733999_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：科莫的和平摧毁了曼联，现在他们想签下他",
-      "player": "",
-      "status": "已完成",
-      "statusType": "done"
+      "title": "Michael Carrick set to lead Man United vs. Bournemouth amid pressure - sources",
+      "published": "2026-10-22T15:57:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50246991/michael-carrick-man-united-future-bournemouth",
+      "image": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在压力下领导曼联对伯恩茅斯-消息来源"
     }
   ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

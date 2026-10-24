@@ -34942,6 +34942,30 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMia0FVX3lxTE1wY0VxeG1JbWs4ekxhWG0wU1Z2NjZsNUE5TlVwX0pTNXNPUWJOUWlGdXYtakZjaFNyb1VxWWRtcjlUNEdmdVotWFY5Y240dUtybDgyLWc3NjhYTHdyWDZBX21GQldWYkNmaWU0",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wY0VxeG1JbWs4ekxhWG0wU1Z2NjZsNUE5TlVwX0pTNXNPUWJOUWlGdXYtakZjaFNyb1VxWWRtcjlUNEdmdVotWFY5Y240dUtybDgyLWc3NjhYTHdyWDZBX21GQldWYkNmaWU0?oc=5",
+      "published": "2026-10-24T21:34:19.000Z",
+      "titleZh": "曼联不是一个难以管理的俱乐部-卡里克"
+    },
+    {
+      "id": "James Ducker:CBMipgFBVV95cUxOVU11Zk00ZmVuOW50akRpLXJkd2haV2g3amxmSmVEWjRNa0VlWUZpbEFwd1BfaGQxdk9FQWl1N29VSmRJTURMZ1JGaDlnS0RYTVBKOXlDOG9NLTluS1M3djJudENlYXVnOThFSTNuWVIxTmVOWlA1OTdMb1JzcDN3d3BwRnJhT2lVQWdKYVhLNTBqR2M0cWJGTzB2V2FMeEJrWXozWHJB",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Michael Carrick: Man Utd are not unmanageable",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVU11Zk00ZmVuOW50akRpLXJkd2haV2g3amxmSmVEWjRNa0VlWUZpbEFwd1BfaGQxdk9FQWl1N29VSmRJTURMZ1JGaDlnS0RYTVBKOXlDOG9NLTluS1M3djJudENlYXVnOThFSTNuWVIxTmVOWlA1OTdMb1JzcDN3d3BwRnJhT2lVQWdKYVhLNTBqR2M0cWJGTzB2V2FMeEJrWXozWHJB?oc=5",
+      "published": "2026-10-24T21:30:00.000Z",
+      "titleZh": "迈克尔·卡里克：曼联并非难以管理"
+    },
+    {
       "id": "Chris Wheeler:CBMisAJBVV95cUxOSkdKZTBCMElYMl9TMDhHOF9lMlptb09QbTZqY05YT0xfNVkwYk5fc2NzcXlXUVMtcGZteGYzTERVV1VsYmp6T2Y1emQ2NE5RTlFHV0d2RFJRay0wMFdPcUxmVzBqNDRiRXl5cEg4MVp5QVY3emYtWVhTWmNhdE1ZTEllTnJJZ0UzN2ZYTWtURDJBNGFMREppNGVCMHhGUjBPdWJxSEZ5QlI1R0lhaGU4N0ZRME5Ra1ZOazVxemZhQndkME5uTElpdHRBZC1JUWlSWVQ5ZUhLbTd6MW5qTnY0YWM1bFVxWlczdXBlRnpHMTd1bXQyTDBHbkJ3eHdJOTN3bjdWMzFCZWFwQmp1bWJsT01jQzZIQlU4UlRuUXF3NHNGaXJFTUV6dDhRZjZnTndL0gG2AkFVX3lxTFB1VjBJMlRuODhINmJobFpoWTZSVVh4TUF2ZDk3cjlpbDJJemR6ZEVELVdqNDlSeE14SGNkLS1kcGY2a3JPVzhzLXhDZ2tENlRveDZtLWRrMUotWm1nTXdOZDJzdnkxTnczTXJOaG9MaG95c0VLNTZvT3dLNTV5QzVXUWlaeld6dXo5SFo2elk0amRzNjZkM0I1YmVPM1NYVU5ldEJuZmhkcDBjeXY4d056SXFDQ0h4SHotNmhuajZiREc4NXZhNU13YktUMEtYVExvWGhHMElrSkpzbUI0eGdxMTNHQWRTTnkxaWJ6WXBsYnJFd0J1NEtYOW1NZUtySkN2TGh0cHVDMzN1MGltWVlqYlJjVnlsVkFoMVJZQnZONTFTS2Q1T1RhZWFnV0FuVl9vTFRiRGc",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -34952,18 +34976,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSkdKZTBCMElYMl9TMDhHOF9lMlptb09QbTZqY05YT0xfNVkwYk5fc2NzcXlXUVMtcGZteGYzTERVV1VsYmp6T2Y1emQ2NE5RTlFHV0d2RFJRay0wMFdPcUxmVzBqNDRiRXl5cEg4MVp5QVY3emYtWVhTWmNhdE1ZTEllTnJJZ0UzN2ZYTWtURDJBNGFMREppNGVCMHhGUjBPdWJxSEZ5QlI1R0lhaGU4N0ZRME5Ra1ZOazVxemZhQndkME5uTElpdHRBZC1JUWlSWVQ5ZUhLbTd6MW5qTnY0YWM1bFVxWlczdXBlRnpHMTd1bXQyTDBHbkJ3eHdJOTN3bjdWMzFCZWFwQmp1bWJsT01jQzZIQlU4UlRuUXF3NHNGaXJFTUV6dDhRZjZnTndL0gG2AkFVX3lxTFB1VjBJMlRuODhINmJobFpoWTZSVVh4TUF2ZDk3cjlpbDJJemR6ZEVELVdqNDlSeE14SGNkLS1kcGY2a3JPVzhzLXhDZ2tENlRveDZtLWRrMUotWm1nTXdOZDJzdnkxTnczTXJOaG9MaG95c0VLNTZvT3dLNTV5QzVXUWlaeld6dXo5SFo2elk0amRzNjZkM0I1YmVPM1NYVU5ldEJuZmhkcDBjeXY4d056SXFDQ0h4SHotNmhuajZiREc4NXZhNU13YktUMEtYVExvWGhHMElrSkpzbUI0eGdxMTNHQWRTTnkxaWJ6WXBsYnJFd0J1NEtYOW1NZUtySkN2TGh0cHVDMzN1MGltWVlqYlJjVnlsVkFoMVJZQnZONTFTS2Q1T1RhZWFnV0FuVl9vTFRiRGc?oc=5",
       "published": "2026-10-23T20:30:46.000Z",
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，挑衅的迈克尔·卡里克（ Michael Carrick ）的独白直接来自亚历克斯·弗格森爵士的剧本，但除非他能将曼联从绝望的深处拖出来，否则他强有力的话语将是空洞的"
-    },
-    {
-      "id": "Laurie Whitwell:CBMirwFBVV95cUxOVVdSYlU3QTFlS3R4OEhkQktmWU1WSkptMVBBQnd5WUFvOXJ5VTUzbHFEYmtyNWRQWmpHMkRfdTBCRFdPY2xLTUhVQl84ZG1QY1VfZXBUMWdnbXhSNTIzNWxxMVRTNFItQXh0Q2UwY1FoLVJ4cDdfa1FNZGg2VGRmdjA4dUtFV0w1aUlmWDRjQ2ZFRUVrNlprWFNGMXIyamtwZmJkaWQ3TkFEUHFibzk0",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Michael Carrick says Manchester United have ‘lost our way’ in passionate five-minute speech",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVdSYlU3QTFlS3R4OEhkQktmWU1WSkptMVBBQnd5WUFvOXJ5VTUzbHFEYmtyNWRQWmpHMkRfdTBCRFdPY2xLTUhVQl84ZG1QY1VfZXBUMWdnbXhSNTIzNWxxMVRTNFItQXh0Q2UwY1FoLVJ4cDdfa1FNZGg2VGRmdjA4dUtFV0w1aUlmWDRjQ2ZFRUVrNlprWFNGMXIyamtwZmJkaWQ3TkFEUHFibzk0?oc=5",
-      "published": "2026-10-23T13:55:12.000Z",
-      "titleZh": "迈克尔·卡里克说，曼联在充满激情的五分钟演讲中“迷失了方向”"
     },
     {
       "id": "Rob Dawson:CBMiqwFBVV95cUxPTG1GRHRkaUltZFhyb193eW11dkRGZXpWMXhrRUE3Y0ZJUFd2d29Zamk5OFp0ZFdtYkY0R0xxRktqY21OS1Vsd2YtS2E4TFNrenE2NjhHWDZTOHVQamV6eTByRFpRb2tUU25FOUFTN1FtYnA1bUFTVUZvVWl5VWpIQ2Y1N3FfckpjZklhbWFzV2pLcURqaGlHUFhoVjV1aDFuVExmR1drTFRGMk0",
@@ -35012,6 +35024,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUlwTUVIQ19LSTlFNTduMF9YNWs1ZmtDanEwOWhkelFwM01qRTY2S2RBWFdNNlNUeEhxSTdiM1VBSGdyNFlIdGtONFNLS3A3Q2hlYUJES280cTZBM21sbTYtY0JYaE5nUXdnQktwQnRQeG9vTlhkQUttaDVkWkJIQ0RQRk9feWtBSzEyRmZsQ011NjFwdUp4Ng?oc=5",
       "published": "2026-10-22T15:03:00.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在压力下领导曼联对伯恩茅斯-消息来源"
+    },
+    {
+      "id": "Laurie Whitwell:CBMiiwFBVV95cUxQR2FBQmZEaktjLXhweVlnQi1zNm1KZWxydUtNVDJpUmJGQTAzQlZIdlRmbXNQaHliSjREV1AzWG5aeWs3NWNMMTI3TmwxTGJvWExGX0RyNUZrWVU1aHJTeXRCbHNBWWwzanRmemRnR0JKTHJpTk83MGYxbzVZdFNZU3F1THRXNTNVMVNV",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Michael Carrick expected to hold Manchester United press conference as usual ahead of Bournemouth game",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR2FBQmZEaktjLXhweVlnQi1zNm1KZWxydUtNVDJpUmJGQTAzQlZIdlRmbXNQaHliSjREV1AzWG5aeWs3NWNMMTI3TmwxTGJvWExGX0RyNUZrWVU1aHJTeXRCbHNBWWwzanRmemRnR0JKTHJpTk83MGYxbzVZdFNZU3F1THRXNTNVMVNV?oc=5",
+      "published": "2026-10-22T13:50:41.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）预计将在伯恩茅斯比赛之前像往常一样举行曼联新闻发布会"
     },
     {
       "id": "Simon Stone:CBMiaEFVX3lxTE5Yd1RNMEN0RW1rSFdxeF9PbWQtdi1WZXdFX285UnItMUFLU0NMX1pRQ0Z3cnBVcl9HNURfVXdlRlNDTVBXTmNFdUlQbXdHUUpkMXBtcG53QkY0dElUSk1jX3lIbnVSS2Fs",
@@ -35074,6 +35098,18 @@
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）现在处于危险之中，但曼联的问题更加严重- The Athletic"
     },
     {
+      "id": "Fabrizio Romano:CBMixwFBVV95cUxOX0JzRmItWlNjWUFJTkhqdHIyZGpKQ3psejctcTYwTm1jNW94Mm9rS1JlWVlEUC1DU09MT05uT3ZYZ3lPWm12MUM4X1JFRkRtbUdNWW9URTlTNUlWTlZ1T08xLWpDU2gxQmpfT2c3MjFOSkljU2F3YjQydEpaTnVOSWRUNWJRN2RPTDRleFozaWttbm94eDQ3N1IxNGliTmM2Q3BKa2FaTW5mdk84bC03VnIyYnRBUzV3OWYtVlQyZEVaVGxYbUNJ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "United In Focus",
+      "tier": 1,
+      "title": "Fabrizio Romano says something 'big' has changed at Man Utd 'for the first time' after Como loss",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0JzRmItWlNjWUFJTkhqdHIyZGpKQ3psejctcTYwTm1jNW94Mm9rS1JlWVlEUC1DU09MT05uT3ZYZ3lPWm12MUM4X1JFRkRtbUdNWW9URTlTNUlWTlZ1T08xLWpDU2gxQmpfT2c3MjFOSkljU2F3YjQydEpaTnVOSWRUNWJRN2RPTDRleFozaWttbm94eDQ3N1IxNGliTmM2Q3BKa2FaTW5mdk84bC03VnIyYnRBUzV3OWYtVlQyZEVaVGxYbUNJ?oc=5",
+      "published": "2026-10-22T06:00:00.000Z",
+      "titleZh": "Fabrizio Romano表示，在COMO亏损后，曼联“首次”发生了“重大”变化"
+    },
+    {
       "id": "Rob Dawson:CBMixAFBVV95cUxNd3FDT25NOVl2VTNNVU1aQk5tUTdNaTFzZFl1X0h5X2tINHZnVUdFNTRQTUstMmdFVGdubVpmUzZSZlV2bzd6ZkRFWGZkanJaMUhRZ0NOVTE0cVJXV2d0ejJubWRVYlZCUFQwR0gyNlViaXozcUljVHlfRTJPMWtTUDVYdlk0NVpibGJOSVoyazc1NTJkLVNGN3hCb3RVOHlFWmFjd0VZaE9uQW9CaWxDS2x2R3NhMEpXNjkzTmdveVlWd3ZJ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -35084,18 +35120,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3FDT25NOVl2VTNNVU1aQk5tUTdNaTFzZFl1X0h5X2tINHZnVUdFNTRQTUstMmdFVGdubVpmUzZSZlV2bzd6ZkRFWGZkanJaMUhRZ0NOVTE0cVJXV2d0ejJubWRVYlZCUFQwR0gyNlViaXozcUljVHlfRTJPMWtTUDVYdlk0NVpibGJOSVoyazc1NTJkLVNGN3hCb3RVOHlFWmFjd0VZaE9uQW9CaWxDS2x2R3NhMEpXNjkzTmdveVlWd3ZJ?oc=5",
       "published": "2026-10-21T20:23:00.000Z",
       "titleZh": "曼联球员在科莫表现糟糕，但面对后果的却是卡里克"
-    },
-    {
-      "id": "Simon Stone:CBMia0FVX3lxTE9fM0ZJcVpqazFSUHJLMEtFNEh5SDNUMm8tNlVFcFcwcEs4N3RHaDBRWlBwdFdlMXRRVVVBNTRRUVhaQm50WFoydVFaTjgyeExUbUxPOThpNER1UzNZMzUtM1RRUXl4RVJmZ3NF",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United humiliation in Como: Bruno Fernandes rounds on boss Michael Carrick",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fM0ZJcVpqazFSUHJLMEtFNEh5SDNUMm8tNlVFcFcwcEs4N3RHaDBRWlBwdFdlMXRRVVVBNTRRUVhaQm50WFoydVFaTjgyeExUbUxPOThpNER1UzNZMzUtM1RRUXl4RVJmZ3NF?oc=5",
-      "published": "2026-10-21T19:59:30.000Z",
-      "titleZh": "曼联在科莫的羞辱：布鲁诺·费尔南德斯（ Bruno Fernandes ）对老板迈克尔·卡里克（"
     },
     {
       "id": "Simon Stone:CBMiaEFVX3lxTE55Zjktcm50OVMwblo3ZzJOY3NlSjRmaDFvQS1aVUNkblVMZ1ZmSW5BRmZ2MGg0LUc1b0d4MHhJdGtzTTZRWmRDQXcteDdCaElQcTlieDNyd2sxajNvR0p6R0ZZc0MtdTI1",
@@ -35110,6 +35134,18 @@
       "titleZh": "曼联在冠军联赛中输给科莫后，布鲁诺·费尔南德斯（ Bruno Fernandes ）与迈克尔·卡"
     },
     {
+      "id": "Chris Wheeler:CBMiowJBVV95cUxQdllMQ3lOcGZwUGFEM3NTSTRfNGlfcEtVVVhJMHFpWDJUeTNNdHlLZlY2TmxCcHgwU0pNamcwMkVyTzZkSnNRY0JhZUljRkpvSks2bU5aQnpGRDllTmZ2YWczUmU1cmsxX2lQb2R6aVVYQ2FhRHlGUDJDNDdnU3ZrQng2T0I3MEtKdHlkbHdLZWxyd0RNeEhmV1R5a0tXRU9oajRZWnRPTzd6UThUYmVLVWtHemdQdkY5dVlXWHZPeFVMTWxtT1pNS3NOY0xadVVlNTRXclZMV3FsNlFvYm15YllqdFJvekQ1S2Uzd2pPMXluelVxTExZMzF5Z1VVZG9lcUVhbFlHVi1JeDg0XzRJa0ZGM2t1VjFwSzlCTks3b29aSVnSAaMCQVVfeXFMUHZZTEN5TnBmcFBhRDNzU0k0XzRpX3BLVVVYSTBxaVgyVHkzTXR5S2ZWNk5sQnB4MFNKTWpnMDJFck82ZEpzUWNCYWVJY0ZKb0pLNm1OWkJ6RkQ5ZU5mdmFnM1JlNXJrMV9pUG9kemlVWENhYUR5RlAyQzQ3Z1N2a0J4Nk9CNzBLSnR5ZGx3S2VscndETXhIZldUeWtLV0VPaGo0WVp0T083elE4VGJlS1VrR3pnUHZGOXVZV1h2T3hVTE1sbU9aTUtzTmNMWnVVZTU0V3JWTFdxbDZRb2JteWJZanRSb3pENUtlM3dqTzF5bnpVcUxMWTMxeWdVVWRvZXFFYWxZR1YtSXg4NF80SWtGRjNrdVYxcEs5Qk5LN29vWklZ",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "CHRIS WHEELER: Man United were insipid, lifeless and downright ugly in tame Como surrender. How much longer can Michael Carrick and his team sleepwalk through this wretched season?",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdllMQ3lOcGZwUGFEM3NTSTRfNGlfcEtVVVhJMHFpWDJUeTNNdHlLZlY2TmxCcHgwU0pNamcwMkVyTzZkSnNRY0JhZUljRkpvSks2bU5aQnpGRDllTmZ2YWczUmU1cmsxX2lQb2R6aVVYQ2FhRHlGUDJDNDdnU3ZrQng2T0I3MEtKdHlkbHdLZWxyd0RNeEhmV1R5a0tXRU9oajRZWnRPTzd6UThUYmVLVWtHemdQdkY5dVlXWHZPeFVMTWxtT1pNS3NOY0xadVVlNTRXclZMV3FsNlFvYm15YllqdFJvekQ1S2Uzd2pPMXluelVxTExZMzF5Z1VVZG9lcUVhbFlHVi1JeDg0XzRJa0ZGM2t1VjFwSzlCTks3b29aSVnSAaMCQVVfeXFMUHZZTEN5TnBmcFBhRDNzU0k0XzRpX3BLVVVYSTBxaVgyVHkzTXR5S2ZWNk5sQnB4MFNKTWpnMDJFck82ZEpzUWNCYWVJY0ZKb0pLNm1OWkJ6RkQ5ZU5mdmFnM1JlNXJrMV9pUG9kemlVWENhYUR5RlAyQzQ3Z1N2a0J4Nk9CNzBLSnR5ZGx3S2VscndETXhIZldUeWtLV0VPaGo0WVp0T083elE4VGJlS1VrR3pnUHZGOXVZV1h2T3hVTE1sbU9aTUtzTmNMWnVVZTU0V3JWTFdxbDZRb2JteWJZanRSb3pENUtlM3dqTzF5bnpVcUxMWTMxeWdVVWRvZXFFYWxZR1YtSXg4NF80SWtGRjNrdVYxcEs5Qk5LN29vWklZ?oc=5",
+      "published": "2026-10-21T19:04:21.000Z",
+      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ） ：曼联在驯服的科莫投降中平淡无奇，毫无生气，彻头彻尾的丑陋。迈克尔·卡里克（ Michael Carrick ）和他的团队可以在这个悲惨的季节梦游多久？"
+    },
+    {
       "id": "Chris Wheeler:CBMingJBVV95cUxOUWhpZFhwSTFGTlJ6MTVsamE1NDd3eExvRDNIWmZlcERydXAwOENxZkczM3Z5OWZ4SGgtUDdxNkwtOEFjTFJjNjl6QUtTVmNoTFB5emJTUXlBRFVkOFcxVUFnY3JjelNWVlZmUFRVTGhONWtsQmRnT0NfdjNkbFNpejJMYmhodUI4LXVOUTJONnBIVmdRTjVwbDJ5QlpvUF9FdnBGMmN6OXlsVXJGWUtRdS1YUGdYd1JXZVkwU2VENFBrU0ZILXNGS2pfa203UTQ2Z0d2NnFqcklWQ0RqWnp4OVhmLWluYksyQTNZT01TeVIxTnU5cmpHVzNYUFcwUzBpZnB3MFJLM1N4aE96X0V6QlhqcGRfNGtwTFNzQ0Nn0gGjAkFVX3lxTFB2WUxDeU5wZnBQYUQzc1NJNF80aV9wS1VVWEkwcWlYMlR5M010eUtmVjZObEJweDBTSk1qZzAyRXJPNmRKc1FjQmFlSWNGSm9KSzZtTlpCekZEOWVOZnZhZzNSZTVyazFfaVBvZHppVVhDYWFEeUZQMkM0N2dTdmtCeDZPQjcwS0p0eWRsd0tlbHJ3RE14SGZXVHlrS1dFT2hqNFladE9PN3pROFRiZUtVa0d6Z1B2Rjl1WVdYdk94VUxNbG1PWk1Lc05jTFp1VWU1NFdyVkxXcWw2UW9ibXliWWp0Um96RDVLZTN3ak8xeW56VXFMTFkzMXlnVVVkb2VxRWFsWUdWLUl4ODRfNElrRkYza3VWMXBLOUJOSzdvb1pJWQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -35118,18 +35154,6 @@
       "tier": 2,
       "title": "CHRIS WHEELER: Michael Carrick's Man United are a pale imitation of the club's great sides. They were insipid and lifeless in tame Como surrender. How much longer can they sleepwalk through this wretched season?",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUWhpZFhwSTFGTlJ6MTVsamE1NDd3eExvRDNIWmZlcERydXAwOENxZkczM3Z5OWZ4SGgtUDdxNkwtOEFjTFJjNjl6QUtTVmNoTFB5emJTUXlBRFVkOFcxVUFnY3JjelNWVlZmUFRVTGhONWtsQmRnT0NfdjNkbFNpejJMYmhodUI4LXVOUTJONnBIVmdRTjVwbDJ5QlpvUF9FdnBGMmN6OXlsVXJGWUtRdS1YUGdYd1JXZVkwU2VENFBrU0ZILXNGS2pfa203UTQ2Z0d2NnFqcklWQ0RqWnp4OVhmLWluYksyQTNZT01TeVIxTnU5cmpHVzNYUFcwUzBpZnB3MFJLM1N4aE96X0V6QlhqcGRfNGtwTFNzQ0Nn0gGjAkFVX3lxTFB2WUxDeU5wZnBQYUQzc1NJNF80aV9wS1VVWEkwcWlYMlR5M010eUtmVjZObEJweDBTSk1qZzAyRXJPNmRKc1FjQmFlSWNGSm9KSzZtTlpCekZEOWVOZnZhZzNSZTVyazFfaVBvZHppVVhDYWFEeUZQMkM0N2dTdmtCeDZPQjcwS0p0eWRsd0tlbHJ3RE14SGZXVHlrS1dFT2hqNFladE9PN3pROFRiZUtVa0d6Z1B2Rjl1WVdYdk94VUxNbG1PWk1Lc05jTFp1VWU1NFdyVkxXcWw2UW9ibXliWWp0Um96RDVLZTN3ak8xeW56VXFMTFkzMXlnVVVkb2VxRWFsWUdWLUl4ODRfNElrRkYza3VWMXBLOUJOSzdvb1pJWQ?oc=5",
-      "published": "2026-10-21T19:00:55.000Z",
-      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ） ：曼联在驯服的科莫投降中平淡无奇，毫无生气，彻头彻尾的丑陋。迈克尔·卡里克（ Michael Carrick ）和他的团队可以在这个悲惨的季节梦游多久？"
-    },
-    {
-      "id": "Chris Wheeler:CBMixgJBVV95cUxQbzZrNkRCa21zSzh0eVFPbVhlSVZUUkY4SHpDS2JmVzVrcDhuQTdqVkNqNXZTMm1nY0NzS3FZZnVrRjBweXpOdFJQR1FsQ1pVRXNWM1pfcUc4UEZCUlItb25tczBFUm5QU2pKbG9iRllaRTUwWk9yN0NxLTk0aThQVHJLRkhJTERBei0wWTRRakVCY0JGZDZFNFlETmhsUXlqTzdPMklFZ1p2MjYwS3RLZFJqV3VPS2JMMDFNdFRwQUVvOHFxelBQcG5hMlVkTExzYk9jTHFCV084NkxmX3pWQ1ZhcEloYnZHNUJBZjhEUFEwN2prNmNqdHBseXlkME54NjEtcjVfU3ItUXRiVU5aWDZrdHV3Wk9kZ3U1TU5ZT0xSeTdwQVN4T0hfUm94ckhCSkxRbDh1ZU40NDc1aUZUNm14bW1hZ9IBowJBVV95cUxQdllMQ3lOcGZwUGFEM3NTSTRfNGlfcEtVVVhJMHFpWDJUeTNNdHlLZlY2TmxCcHgwU0pNamcwMkVyTzZkSnNRY0JhZUljRkpvSks2bU5aQnpGRDllTmZ2YWczUmU1cmsxX2lQb2R6aVVYQ2FhRHlGUDJDNDdnU3ZrQng2T0I3MEtKdHlkbHdLZWxyd0RNeEhmV1R5a0tXRU9oajRZWnRPTzd6UThUYmVLVWtHemdQdkY5dVlXWHZPeFVMTWxtT1pNS3NOY0xadVVlNTRXclZMV3FsNlFvYm15YllqdFJvekQ1S2Uzd2pPMXluelVxTExZMzF5Z1VVZG9lcUVhbFlHVi1JeDg0XzRJa0ZGM2t1VjFwSzlCTks3b29aSVk",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "CHRIS WHEELER: Man United were insipid, lifeless and downright ugly in tame Como surrender. How much longer can Michael Carrick and his team sleepwalk through this wretched season?",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQbzZrNkRCa21zSzh0eVFPbVhlSVZUUkY4SHpDS2JmVzVrcDhuQTdqVkNqNXZTMm1nY0NzS3FZZnVrRjBweXpOdFJQR1FsQ1pVRXNWM1pfcUc4UEZCUlItb25tczBFUm5QU2pKbG9iRllaRTUwWk9yN0NxLTk0aThQVHJLRkhJTERBei0wWTRRakVCY0JGZDZFNFlETmhsUXlqTzdPMklFZ1p2MjYwS3RLZFJqV3VPS2JMMDFNdFRwQUVvOHFxelBQcG5hMlVkTExzYk9jTHFCV084NkxmX3pWQ1ZhcEloYnZHNUJBZjhEUFEwN2prNmNqdHBseXlkME54NjEtcjVfU3ItUXRiVU5aWDZrdHV3Wk9kZ3U1TU5ZT0xSeTdwQVN4T0hfUm94ckhCSkxRbDh1ZU40NDc1aUZUNm14bW1hZ9IBowJBVV95cUxQdllMQ3lOcGZwUGFEM3NTSTRfNGlfcEtVVVhJMHFpWDJUeTNNdHlLZlY2TmxCcHgwU0pNamcwMkVyTzZkSnNRY0JhZUljRkpvSks2bU5aQnpGRDllTmZ2YWczUmU1cmsxX2lQb2R6aVVYQ2FhRHlGUDJDNDdnU3ZrQng2T0I3MEtKdHlkbHdLZWxyd0RNeEhmV1R5a0tXRU9oajRZWnRPTzd6UThUYmVLVWtHemdQdkY5dVlXWHZPeFVMTWxtT1pNS3NOY0xadVVlNTRXclZMV3FsNlFvYm15YllqdFJvekQ1S2Uzd2pPMXluelVxTExZMzF5Z1VVZG9lcUVhbFlHVi1JeDg0XzRJa0ZGM2t1VjFwSzlCTks3b29aSVk?oc=5",
       "published": "2026-10-21T19:00:55.000Z",
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ） ：曼联在驯服的科莫投降中平淡无奇，毫无生气，彻头彻尾的丑陋。迈克尔·卡里克（ Michael Carrick ）和他的团队可以在这个悲惨的季节梦游多久？"
     },
@@ -35158,16 +35182,16 @@
       "titleZh": "Erik ten Hag专访：曼联违背“承诺” ，想要凯恩，罗纳尔多紧张，足总杯荣耀-田径"
     },
     {
-      "id": "Fabrizio Romano:CBMijAJBVV95cUxQZ3F4bDRKQzBvY3dxVXR5M3JHWXlFOTdVaFNpcnVxSUJLU01iV1FsTEhiZU12LVVDal9heHJtRzk1ZE0yR2Q0Q2VrRXlPUVpEYWJZbXNKLUxmRmdpdGhIbGZ4M1FTVl9xRGpSRFQ4Um9zTWYzQVlQMlVZbFFPQ0NPVE5kaFlpVm1uNHczeFFaamtEMUFKVHI0NDRsYXZiWUt0d0xqX01QNFEyUE5VNFJaWkh5SW5TcDNIdXp3SEszRjdlQ3ZfMHJmaHBxRXMtRzJpeFcxUmV1VnFTb1BjVkNrOG1oazJ5RVd5ZEdHS2k3b3pVYV8wYmRHQ0k3Z3NYUENla3JrTk9XOER0ZEx0",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "TribalFootball",
+      "id": "Rob Dawson:CBMimAFBVV95cUxQQXhpWG8wTGpRWE1KVjdIVUdLV0VUOXdzaGozLW90ZGRVdVY4WkNLczVjMGR6NWNMRTloSmFsd28yRmFtNmR3VGhQaUxQeHUtUGtZZ2RLWXBNUkZvZ3RoOTVJTHQwOWMyVk5TekM3aGRyMFk0SjFmTEw5T1lmaWdyTTYtRU9RU1hoazQxVVpjdVlLbHZteHhwUA",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
       "tier": 1,
-      "title": "Romano reveals Arsenal are now in the \"final stages\" over Declan Rice's new contract",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZ3F4bDRKQzBvY3dxVXR5M3JHWXlFOTdVaFNpcnVxSUJLU01iV1FsTEhiZU12LVVDal9heHJtRzk1ZE0yR2Q0Q2VrRXlPUVpEYWJZbXNKLUxmRmdpdGhIbGZ4M1FTVl9xRGpSRFQ4Um9zTWYzQVlQMlVZbFFPQ0NPVE5kaFlpVm1uNHczeFFaamtEMUFKVHI0NDRsYXZiWUt0d0xqX01QNFEyUE5VNFJaWkh5SW5TcDNIdXp3SEszRjdlQ3ZfMHJmaHBxRXMtRzJpeFcxUmV1VnFTb1BjVkNrOG1oazJ5RVd5ZEdHS2k3b3pVYV8wYmRHQ0k3Z3NYUENla3JrTk9XOER0ZEx0?oc=5",
-      "published": "2026-10-20T13:04:05.000Z",
-      "titleZh": "罗马诺透露，阿森纳现在正处于德克兰·赖斯新合同的“最后阶段”"
+      "title": "Michael Carrick: I feel backing of Man United board but need to win games",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhpWG8wTGpRWE1KVjdIVUdLV0VUOXdzaGozLW90ZGRVdVY4WkNLczVjMGR6NWNMRTloSmFsd28yRmFtNmR3VGhQaUxQeHUtUGtZZ2RLWXBNUkZvZ3RoOTVJTHQwOWMyVk5TekM3aGRyMFk0SjFmTEw5T1lmaWdyTTYtRU9RU1hoazQxVVpjdVlLbHZteHhwUA?oc=5",
+      "published": "2026-10-20T18:47:00.000Z",
+      "titleZh": "迈克尔·卡里克：我觉得我支持曼联董事会，但需要赢得比赛"
     },
     {
       "id": "Fabrizio Romano:CBMinwFBVV95cUxPOFJLRWJZTGdmT2RaNGNsbEM5aWpiNng2V2ttRnFFVVJSS0ZVOE5jSmlkWWtTOXpQWlVkampQTG5SXzZMMk9IRE1TQUh1bjE0NnBBRUthcFg0Yktzb0p1c28yNEF2OGF1cVZRZFFnTG9XYVhDNktJNFlMVVZpS3FiWWMzZmhEZHEwZnJSelZVN0VLRU1KbkktdDIzXy1kalk",
@@ -35204,21 +35228,9 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ09uYnV6OEZxY3BoNUg0TGFRSFhLTFFDZUpwYXhydWtNS0toMjY5dmNlS2VJb1NwejdEN05BRTRfZVRKYWJ6dTVsRWVuM2M0VWR0QVRYQTl3cS05OHdaWlVRR0lqaFdfNTVFZk9Bb1gyRnhNMHh0aFAxM2hKNk5GVUk2Nmd5ektmcGZNbERMXzlqM2pydVFCVjF5U3g?oc=5",
       "published": "2026-10-19T01:00:49.000Z",
       "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）是否必须传递他作为曼联主角的衣钵？"
-    },
-    {
-      "id": "Rob Dawson:CBMisgFBVV95cUxObWJjNEJKblBGSDhrajFxT1BBOEcxTnJabDdWNmZxeDZ0SFRmN1cwdVdXTnFwNEF1X20xanlFbVZ0dmpMRUp4SGxLUF9vb2xRbTZPT0F3UTNUMlJWN2ZCR0tidXM5TVJmUDJRcDFPMGFZeEtGTTNaTE9nWW9oRXVlZTJuQTNQb2F1NS1nbnM2MmhNcU1MbzNoS2hubm9yQU1XZ1VMUG43S1V4YlFCRWJkVkp3",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Michael Carrick: Questions about Man United future 'not important' amid growing pressure",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWJjNEJKblBGSDhrajFxT1BBOEcxTnJabDdWNmZxeDZ0SFRmN1cwdVdXTnFwNEF1X20xanlFbVZ0dmpMRUp4SGxLUF9vb2xRbTZPT0F3UTNUMlJWN2ZCR0tidXM5TVJmUDJRcDFPMGFZeEtGTTNaTE9nWW9oRXVlZTJuQTNQb2F1NS1nbnM2MmhNcU1MbzNoS2hubm9yQU1XZ1VMUG43S1V4YlFCRWJkVkp3?oc=5",
-      "published": "2026-10-17T21:30:00.000Z",
-      "titleZh": "迈克尔·卡里克：在压力越来越大的情况下，有关曼联未来“不重要”的问题"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-24T21:15:40.753Z",
+  "journalistsUpdatedAt": "2026-10-24T23:24:55.995Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

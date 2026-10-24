@@ -27,6 +27,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Verify reporter attribution
+        run: node scripts/check-journalist-attribution.mjs
       - name: Fetch trusted reporter updates
         run: node scripts/update-journalists.mjs
       - name: Detect changes

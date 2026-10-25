@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T04:38:47.635Z",
+  "updatedAt": "2026-10-25T11:25:15.895Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -34276,11 +34276,25 @@
   ],
   "news": [
     {
+      "title": "Premier League live updates: Man United face Bournemouth, Liverpool host Brighton",
+      "published": "2026-10-25T09:56:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50220518/premier-league-live-updates-liverpool-brighton-hove-albion-bournemouth-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1021/r1734116_1296x729_16-9.jpg",
+      "titleZh": "英超联赛现场更新：曼联面对伯恩茅斯，利物浦东道主布莱顿"
+    },
+    {
+      "title": "Transfer rumors, news: Arsenal, Man United, Liverpool track Bayern star Karl",
+      "published": "2026-10-25T09:18:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
+      "image": "https://a.espncdn.com/photo/2026/0114/r1600661_1296x729_16-9.jpg",
+      "titleZh": "转会谣言、新闻：阿森纳、曼联、利物浦赛道拜仁球星卡尔"
+    },
+    {
       "title": "Michael Carrick vows Man United will be 'different team' against Bournemouth",
       "published": "2026-10-24T21:37:11Z",
       "url": "https://www.espn.com/soccer/story/_/id/50267263/michael-carrick-man-united-different-team-bournemouth",
       "image": "https://a.espncdn.com/photo/2026/1024/r1735496_1296x729_16-9.jpg",
-      "titleZh": "Michael Carrick vows Man United will be 'different team' against Bournemouth"
+      "titleZh": "迈克尔·卡里克誓言曼联将成为对阵伯恩茅斯的“不同球队”"
     },
     {
       "title": "Kai Rooney assists as Man United Under-18s thrash Liverpool",
@@ -34344,23 +34358,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50256301/man-united-invite-fans-fill-survey-new-stadium",
       "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
       "titleZh": "曼联邀请球迷填写关于新体育场的调查"
-    },
-    {
-      "title": "Man United will be 'angry, intense,' Marco Rose warns Bournemouth",
-      "published": "2026-10-23T18:31:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50256275/man-united-angry-michael-carrick-marco-rose-bournemouth",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734938_1296x729_16-9.jpg",
-      "titleZh": "曼联将“愤怒，激烈” ，马可·罗斯警告伯恩茅斯"
-    },
-    {
-      "title": "Bruno Fernandes' home burgled during Man United loss against Como",
-      "published": "2026-10-23T07:41:57Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50255867/bruno-fernandes-home-burgled-man-united-loss-como",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734927_1296x729_16-9.jpg",
-      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）的家在曼联对阵科莫的比赛中被盗"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Arsenal, Man United, Liverpool track Bayern star Karl",
+      "published": "2026-10-25T09:18:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
+      "image": "https://a.espncdn.com/photo/2026/0114/r1600661_1296x729_16-9.jpg",
+      "titleZh": "转会谣言、新闻：阿森纳、曼联、利物浦赛道拜仁球星卡尔",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "301425",

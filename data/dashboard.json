@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T15:00:52.565Z",
+  "updatedAt": "2026-10-25T16:15:59.672Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -34779,15 +34779,36 @@
   ],
   "news": [
     {
+      "title": "Man United vs. Bournemouth LIVE: Premier League updates as Evanilson's third heaps misery on the hosts",
+      "published": "2026-10-25T15:31:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50276040/man-united-vs-bournemouth-live-premier-league-updates-score-commentary-result",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735907_608x342_16-9.jpg",
+      "titleZh": "曼联对伯恩茅斯的比赛现场直播：英超联赛更新，埃文尼尔森的第三场比赛给东道主带来了痛苦"
+    },
+    {
       "title": "Premier League live updates: Man United face Bournemouth, Liverpool host Brighton",
-      "published": "2026-10-25T09:56:32Z",
+      "published": "2026-10-25T15:39:09Z",
       "url": "https://www.espn.com/soccer/story/_/id/50220518/premier-league-live-updates-liverpool-brighton-hove-albion-bournemouth-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/1021/r1734116_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735930_2_1296x729_16-9.jpg",
       "titleZh": "英超联赛现场更新：曼联面对伯恩茅斯，利物浦东道主布莱顿"
     },
     {
+      "title": "Bruno Fernandes left out by Man United after Michael Carrick criticism",
+      "published": "2026-10-25T13:22:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50276044/bruno-fernandes-left-man-united-bournemouth",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735857_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯在迈克尔·卡里克批评后被曼联排除在外"
+    },
+    {
+      "title": "Man United's worst league starts ever: How does 2026-27 compare?",
+      "published": "2026-10-25T12:06:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50172424/manchester-united-worst-ever-starts-premier-league-first-division",
+      "image": "https://a.espncdn.com/photo/2026/1017/r1731892_1296x729_16-9.jpg",
+      "titleZh": "曼联有史以来最糟糕的联赛开始了： 2026-27赛季相比如何？"
+    },
+    {
       "title": "Transfer rumors, news: Arsenal, Man United, Liverpool track Bayern star Karl",
-      "published": "2026-10-25T09:18:07Z",
+      "published": "2026-10-25T11:35:57Z",
       "url": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
       "image": "https://a.espncdn.com/photo/2026/0114/r1600661_1296x729_16-9.jpg",
       "titleZh": "转会谣言、新闻：阿森纳、曼联、利物浦赛道拜仁球星卡尔"
@@ -34821,13 +34842,6 @@
       "titleZh": "迈克尔·卡里克提供曼联伤病最新情况，要求做好心理准备"
     },
     {
-      "title": "Man United's worst league starts ever: How does 2026-27 compare?",
-      "published": "2026-10-24T12:17:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50172424/manchester-united-worst-ever-starts-premier-league-first-division",
-      "image": "https://a.espncdn.com/photo/2026/1017/r1731892_1296x729_16-9.jpg",
-      "titleZh": "曼联有史以来最糟糕的联赛开始了： 2026-27赛季相比如何？"
-    },
-    {
       "title": "Man United boss Michael Carrick gives emotional address to media",
       "published": "2026-10-23T15:12:26Z",
       "url": "https://www.espn.com/video/clip/_/id/50258264/man-united-boss-michael-carrick-gives-emotional-address-media",
@@ -34847,26 +34861,12 @@
       "url": "https://www.espn.com/soccer/story/_/id/50257324/michael-carrick-pressure-man-united-boss-backs-amid-tension",
       "image": "https://a.espncdn.com/photo/2026/1023/r1734977_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克：在紧张局势中，压力不足的曼联老板“100 ％”支持自己"
-    },
-    {
-      "title": "Antonio Conte, Fabian Hürzeler distance themselves from Man United job",
-      "published": "2026-10-23T18:28:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50257016/antonio-conte-fabian-hurzeler-knock-back-man-united-rumours",
-      "image": "https://a.espncdn.com/photo/2026/1023/r1734982_1296x729_16-9.jpg",
-      "titleZh": "Antonio Conte、Fabian Hürzeler与曼联的工作保持距离"
-    },
-    {
-      "title": "Man United invite fans to fill survey on new stadium",
-      "published": "2026-10-23T18:30:59Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50256301/man-united-invite-fans-fill-survey-new-stadium",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713146_1296x729_16-9.jpg",
-      "titleZh": "曼联邀请球迷填写关于新体育场的调查"
     }
   ],
   "transfers": [
     {
       "title": "Transfer rumors, news: Arsenal, Man United, Liverpool track Bayern star Karl",
-      "published": "2026-10-25T09:18:07Z",
+      "published": "2026-10-25T11:35:57Z",
       "url": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
       "image": "https://a.espncdn.com/photo/2026/0114/r1600661_1296x729_16-9.jpg",
       "titleZh": "转会谣言、新闻：阿森纳、曼联、利物浦赛道拜仁球星卡尔",

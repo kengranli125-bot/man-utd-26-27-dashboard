@@ -35456,6 +35456,18 @@
   ],
   "journalists": [
     {
+      "id": "Laurie Whitwell:CBMipgFBVV95cUxOX0RuMEI2cTBldGdxU0dvWXZYTVA5cWZsVUJ1Yjh0MXpabTJiNnJ0WW5BaWcxVHBYNVQxcDlWLXNhREsxdGtuWmc1ZUk1NXIzSzB6Z2tkZjc2MUhCMFdOenR3OHlqNHFheVdWOENGR0tRb2lGbG9sbWdNOXhuanlvdGFhRWRQcDlCX0luWDVMMlhlXzAzN29ETmNxVkp3bmtjbm9BQm9B",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Bruno Fernandes left out of Manchester United starting line-up vs. Bournemouth after Como outburst",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0RuMEI2cTBldGdxU0dvWXZYTVA5cWZsVUJ1Yjh0MXpabTJiNnJ0WW5BaWcxVHBYNVQxcDlWLXNhREsxdGtuWmc1ZUk1NXIzSzB6Z2tkZjc2MUhCMFdOenR3OHlqNHFheVdWOENGR0tRb2lGbG9sbWdNOXhuanlvdGFhRWRQcDlCX0luWDVMMlhlXzAzN29ETmNxVkp3bmtjbm9BQm9B?oc=5",
+      "published": "2026-10-25T13:13:34.000Z",
+      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）在COMO爆发后离开曼联首发阵容对阵伯恩茅斯"
+    },
+    {
       "id": "Simon Stone:CBMia0FVX3lxTE1wY0VxeG1JbWs4ekxhWG0wU1Z2NjZsNUE5TlVwX0pTNXNPUWJOUWlGdXYtakZjaFNyb1VxWWRtcjlUNEdmdVotWFY5Y240dUtybDgyLWc3NjhYTHdyWDZBX21GQldWYkNmaWU0",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -35660,16 +35672,16 @@
       "titleZh": "曼联在冠军联赛中输给科莫后，布鲁诺·费尔南德斯（ Bruno Fernandes ）与迈克尔·卡"
     },
     {
-      "id": "Chris Wheeler:CBMiowJBVV95cUxQdllMQ3lOcGZwUGFEM3NTSTRfNGlfcEtVVVhJMHFpWDJUeTNNdHlLZlY2TmxCcHgwU0pNamcwMkVyTzZkSnNRY0JhZUljRkpvSks2bU5aQnpGRDllTmZ2YWczUmU1cmsxX2lQb2R6aVVYQ2FhRHlGUDJDNDdnU3ZrQng2T0I3MEtKdHlkbHdLZWxyd0RNeEhmV1R5a0tXRU9oajRZWnRPTzd6UThUYmVLVWtHemdQdkY5dVlXWHZPeFVMTWxtT1pNS3NOY0xadVVlNTRXclZMV3FsNlFvYm15YllqdFJvekQ1S2Uzd2pPMXluelVxTExZMzF5Z1VVZG9lcUVhbFlHVi1JeDg0XzRJa0ZGM2t1VjFwSzlCTks3b29aSVnSAaMCQVVfeXFMUHZZTEN5TnBmcFBhRDNzU0k0XzRpX3BLVVVYSTBxaVgyVHkzTXR5S2ZWNk5sQnB4MFNKTWpnMDJFck82ZEpzUWNCYWVJY0ZKb0pLNm1OWkJ6RkQ5ZU5mdmFnM1JlNXJrMV9pUG9kemlVWENhYUR5RlAyQzQ3Z1N2a0J4Nk9CNzBLSnR5ZGx3S2VscndETXhIZldUeWtLV0VPaGo0WVp0T083elE4VGJlS1VrR3pnUHZGOXVZV1h2T3hVTE1sbU9aTUtzTmNMWnVVZTU0V3JWTFdxbDZRb2JteWJZanRSb3pENUtlM3dqTzF5bnpVcUxMWTMxeWdVVWRvZXFFYWxZR1YtSXg4NF80SWtGRjNrdVYxcEs5Qk5LN29vWklZ",
+      "id": "Chris Wheeler:CBMiiwJBVV95cUxPOGJTUXEyU285OFBqYWw1RHRkX2VwNjBrUXBwTXdpQkd5d0JQX0NOeDJUTFJ6aFBYOHM2X0FBZHdTUldIa1NMTWlfUW03MUN1amQxYTNWTDlGUi13MWRwWk5OS1NFOHZVUkQxWEtEaTE2X3hkOFhKMmV5dC1xakRWcHlLb1p3eXB6VlAxR2ZzS19KQ1d5ZHpOV3ZfSldHT29Yb0I0Q1puUklwWm1ITzc4SVQwWE55VDcwenlaMGJIUUlWUDgzRzFKSjF3N2EzTGRMVV9KN1ItSW81RDNEUWd3VlB0QWhhd2ZUMnQxQktZY25XNzhEenMycEJoQUZobHNxMlRKeGo1M3MxdXfSAZACQVVfeXFMT2N3V2RrWHNfWDRISENpWVhvck9BM1ZvVWQteURsdFVBdml5bnBmUXhpS1laYTZPcFE1b3VUNElmYWtpektrbXFPQVFvRTNQZDNreGNVN3diS19pY0tfN0RHNEkwUmhnX05BWnAxaTYzWF9XVjBYT3NDZmp4azBYeXduQ0xBT1A3UGQzSlJsY252emF2WDhRUGpFdDNuZXJFU0E2TFVaYU00UzZoZWQ5aE9Zai1jdll0TVhVVjJYV3pHM3BfN2VFSllHeDJ2MThuQ3I3cTh4RjdPWEU2RllLczNHd24ySnJkREo1ZXpvRVFUdEJUdUxnSDdQOEdMZGxJSEE2WjdUaHRpYy13a0dmazA",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
       "source": "Daily Mail",
       "tier": 2,
-      "title": "CHRIS WHEELER: Man United were insipid, lifeless and downright ugly in tame Como surrender. How much longer can Michael Carrick and his team sleepwalk through this wretched season?",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdllMQ3lOcGZwUGFEM3NTSTRfNGlfcEtVVVhJMHFpWDJUeTNNdHlLZlY2TmxCcHgwU0pNamcwMkVyTzZkSnNRY0JhZUljRkpvSks2bU5aQnpGRDllTmZ2YWczUmU1cmsxX2lQb2R6aVVYQ2FhRHlGUDJDNDdnU3ZrQng2T0I3MEtKdHlkbHdLZWxyd0RNeEhmV1R5a0tXRU9oajRZWnRPTzd6UThUYmVLVWtHemdQdkY5dVlXWHZPeFVMTWxtT1pNS3NOY0xadVVlNTRXclZMV3FsNlFvYm15YllqdFJvekQ1S2Uzd2pPMXluelVxTExZMzF5Z1VVZG9lcUVhbFlHVi1JeDg0XzRJa0ZGM2t1VjFwSzlCTks3b29aSVnSAaMCQVVfeXFMUHZZTEN5TnBmcFBhRDNzU0k0XzRpX3BLVVVYSTBxaVgyVHkzTXR5S2ZWNk5sQnB4MFNKTWpnMDJFck82ZEpzUWNCYWVJY0ZKb0pLNm1OWkJ6RkQ5ZU5mdmFnM1JlNXJrMV9pUG9kemlVWENhYUR5RlAyQzQ3Z1N2a0J4Nk9CNzBLSnR5ZGx3S2VscndETXhIZldUeWtLV0VPaGo0WVp0T083elE4VGJlS1VrR3pnUHZGOXVZV1h2T3hVTE1sbU9aTUtzTmNMWnVVZTU0V3JWTFdxbDZRb2JteWJZanRSb3pENUtlM3dqTzF5bnpVcUxMWTMxeWdVVWRvZXFFYWxZR1YtSXg4NF80SWtGRjNrdVYxcEs5Qk5LN29vWklZ?oc=5",
-      "published": "2026-10-21T19:04:21.000Z",
-      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ） ：曼联在驯服的科莫投降中平淡无奇，毫无生气，彻头彻尾的丑陋。迈克尔·卡里克（ Michael Carrick ）和他的团队可以在这个悲惨的季节梦游多久？"
+      "title": "Man United captain Bruno Fernandes questions Michael Carrick's tactics in wake of Champions League humiliation in Como - after boss was left 'angry' by team's display and apologised to supporters",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPOGJTUXEyU285OFBqYWw1RHRkX2VwNjBrUXBwTXdpQkd5d0JQX0NOeDJUTFJ6aFBYOHM2X0FBZHdTUldIa1NMTWlfUW03MUN1amQxYTNWTDlGUi13MWRwWk5OS1NFOHZVUkQxWEtEaTE2X3hkOFhKMmV5dC1xakRWcHlLb1p3eXB6VlAxR2ZzS19KQ1d5ZHpOV3ZfSldHT29Yb0I0Q1puUklwWm1ITzc4SVQwWE55VDcwenlaMGJIUUlWUDgzRzFKSjF3N2EzTGRMVV9KN1ItSW81RDNEUWd3VlB0QWhhd2ZUMnQxQktZY25XNzhEenMycEJoQUZobHNxMlRKeGo1M3MxdXfSAZACQVVfeXFMT2N3V2RrWHNfWDRISENpWVhvck9BM1ZvVWQteURsdFVBdml5bnBmUXhpS1laYTZPcFE1b3VUNElmYWtpektrbXFPQVFvRTNQZDNreGNVN3diS19pY0tfN0RHNEkwUmhnX05BWnAxaTYzWF9XVjBYT3NDZmp4azBYeXduQ0xBT1A3UGQzSlJsY252emF2WDhRUGpFdDNuZXJFU0E2TFVaYU00UzZoZWQ5aE9Zai1jdll0TVhVVjJYV3pHM3BfN2VFSllHeDJ2MThuQ3I3cTh4RjdPWEU2RllLczNHd24ySnJkREo1ZXpvRVFUdEJUdUxnSDdQOEdMZGxJSEE2WjdUaHRpYy13a0dmazA?oc=5",
+      "published": "2026-10-21T19:24:03.000Z",
+      "titleZh": "曼联队长布鲁诺·费尔南德斯（ Bruno Fernandes ）质疑迈克尔·卡里克（ Michael Carrick ）在科莫冠军联赛羞辱之后的策略-老板被球队的表现“生气”并向支持者道歉"
     },
     {
       "id": "Chris Wheeler:CBMingJBVV95cUxOUWhpZFhwSTFGTlJ6MTVsamE1NDd3eExvRDNIWmZlcERydXAwOENxZkczM3Z5OWZ4SGgtUDdxNkwtOEFjTFJjNjl6QUtTVmNoTFB5emJTUXlBRFVkOFcxVUFnY3JjelNWVlZmUFRVTGhONWtsQmRnT0NfdjNkbFNpejJMYmhodUI4LXVOUTJONnBIVmdRTjVwbDJ5QlpvUF9FdnBGMmN6OXlsVXJGWUtRdS1YUGdYd1JXZVkwU2VENFBrU0ZILXNGS2pfa203UTQ2Z0d2NnFqcklWQ0RqWnp4OVhmLWluYksyQTNZT01TeVIxTnU5cmpHVzNYUFcwUzBpZnB3MFJLM1N4aE96X0V6QlhqcGRfNGtwTFNzQ0Nn0gGjAkFVX3lxTFB2WUxDeU5wZnBQYUQzc1NJNF80aV9wS1VVWEkwcWlYMlR5M010eUtmVjZObEJweDBTSk1qZzAyRXJPNmRKc1FjQmFlSWNGSm9KSzZtTlpCekZEOWVOZnZhZzNSZTVyazFfaVBvZHppVVhDYWFEeUZQMkM0N2dTdmtCeDZPQjcwS0p0eWRsd0tlbHJ3RE14SGZXVHlrS1dFT2hqNFladE9PN3pROFRiZUtVa0d6Z1B2Rjl1WVdYdk94VUxNbG1PWk1Lc05jTFp1VWU1NFdyVkxXcWw2UW9ibXliWWp0Um96RDVLZTN3ak8xeW56VXFMTFkzMXlnVVVkb2VxRWFsWUdWLUl4ODRfNElrRkYza3VWMXBLOUJOSzdvb1pJWQ",
@@ -35684,18 +35696,6 @@
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ） ：曼联在驯服的科莫投降中平淡无奇，毫无生气，彻头彻尾的丑陋。迈克尔·卡里克（ Michael Carrick ）和他的团队可以在这个悲惨的季节梦游多久？"
     },
     {
-      "id": "Laurie Whitwell:CBMijwFBVV95cUxPRU5rVW4teFhqX0FjUGJ0Q3FVMFFWdW8yQXFrbFAzY2x3enFHeDlSUmJGdGs2QlM0czladDhMSGp2MnA4Wk5RR0lUMnhoMWRqT0h1N2dlWGY0ZWhnLTRZMlZvYUtjUkthS3FlZFZjQmJVazRacmFVM2tJamd5NHNkRGZxMkFDcFBUQU9zWUZsMA",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Laurie Whitwell answers questions on Ten Hag interview, Michael Carrick and Man United owners - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRU5rVW4teFhqX0FjUGJ0Q3FVMFFWdW8yQXFrbFAzY2x3enFHeDlSUmJGdGs2QlM0czladDhMSGp2MnA4Wk5RR0lUMnhoMWRqT0h1N2dlWGY0ZWhnLTRZMlZvYUtjUkthS3FlZFZjQmJVazRacmFVM2tJamd5NHNkRGZxMkFDcFBUQU9zWUZsMA?oc=5",
-      "published": "2026-10-21T13:52:58.000Z",
-      "titleZh": "Laurie Whitwell回答有关Ten Hag采访、Michael Carrick和Man United老板的问题"
-    },
-    {
       "id": "Laurie Whitwell:CBMiggFBVV95cUxQR2V0R0lMNHhQa09HQjdIRGFsdDY2YVJWWkdsQXZiWFZmellpVHpKVEs2ekQ0dU9odEUtbjJCWk83NEpGV01mbVh6OFRlYmtHZDlRTDRubjVZWjFUaFRtLUhINDB4U215SGVaeVlENnNsREtXSE85bzg2alRFb0NUYWl3",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -35704,7 +35704,7 @@
       "tier": 1,
       "title": "Erik ten Hag interview: Man United’s broken ‘promises’, wanting Kane, Ronaldo tension, FA Cup glory - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR2V0R0lMNHhQa09HQjdIRGFsdDY2YVJWWkdsQXZiWFZmellpVHpKVEs2ekQ0dU9odEUtbjJCWk83NEpGV01mbVh6OFRlYmtHZDlRTDRubjVZWjFUaFRtLUhINDB4U215SGVaeVlENnNsREtXSE85bzg2alRFb0NUYWl3?oc=5",
-      "published": "2026-10-21T07:00:00.000Z",
+      "published": "2026-10-20T09:45:45.000Z",
       "titleZh": "Erik ten Hag专访：曼联违背“承诺” ，想要凯恩，罗纳尔多紧张，足总杯荣耀-田径"
     },
     {
@@ -35744,7 +35744,7 @@
       "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）是否必须传递他作为曼联主角的衣钵？"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-25T12:09:58.777Z",
+  "journalistsUpdatedAt": "2026-10-25T16:35:44.972Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T20:49:13.687Z",
+  "updatedAt": "2026-10-26T04:44:24.889Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -36009,6 +36009,27 @@
   ],
   "news": [
     {
+      "title": "Do Man United need to make a decision on Carrick's future?",
+      "published": "2026-10-25T23:38:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/50282426/do-man-united-need-make-decision-carrick-future",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25.jpg",
+      "titleZh": "曼联是否需要对卡里克的未来做出决定？"
+    },
+    {
+      "title": "Sources: United consider Howe, Nagelsmann to replace under-fire Carrick",
+      "published": "2026-10-25T23:40:24Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
+      "image": "https://a.espncdn.com/photo/2026/1012/r1729888_1296x729_16-9.jpg",
+      "titleZh": "资料来源：美联航考虑Howe、Nagelsmann取代火力不足的Carrick"
+    },
+    {
+      "title": "Carrick woes deepen as Bournemouth smash United",
+      "published": "2026-10-25T22:31:49Z",
+      "url": "https://www.espn.com/video/clip/_/id/50281593/carrick-woes-deepen-bournemouth-smash-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY.jpg",
+      "titleZh": "随着伯恩茅斯粉碎曼联，卡里克的困境加深"
+    },
+    {
       "title": "Harry Maguire: Man United players are 'fully behind' Michael Carrick",
       "published": "2026-10-25T18:09:13Z",
       "url": "https://www.espn.com/soccer/story/_/id/50278421/harry-maguire-man-united-fully-michael-carrick",
@@ -36070,41 +36091,9 @@
       "url": "http://www.espn.com/soccer/report/_/gameId/401879252",
       "image": "https://a.espncdn.com/photo/2026/1025/r1735903_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克悲哀恶化，曼联输给伯恩茅斯"
-    },
-    {
-      "title": "Transfer rumors, news: Man United to offload Yoro to Milan?",
-      "published": "2026-10-25T17:00:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
-      "image": "https://a.espncdn.com/photo/2026/0417/r1645204_1296x729_16-9.jpg",
-      "titleZh": "转会谣言、新闻：阿森纳、曼联、利物浦赛道拜仁球星卡尔"
-    },
-    {
-      "title": "Michael Carrick pressure grows, Bournemouth run riot at Man United",
-      "published": "2026-10-25T17:40:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50277463/michael-carrick-pressure-grows-bournemouth-run-riot-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735934_1296x729_16-9.jpg",
-      "titleZh": "迈克尔卡里克的压力越来越大，伯恩茅斯在曼联发生骚乱"
-    },
-    {
-      "title": "Premier League VAR review: Why did Man United's Heaven avoid red for two-footed tackle?",
-      "published": "2026-10-25T16:46:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735916_1296x729_16-9.jpg",
-      "titleZh": "英超联赛VAR回顾：为什么曼联的天堂在双脚铲球时避免红色？"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United to offload Yoro to Milan?",
-      "published": "2026-10-25T17:00:42Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50274938/transfer-rumors-news-arsenal-manchester-united-liverpool-track-bayern-munich-star-karl",
-      "image": "https://a.espncdn.com/photo/2026/0417/r1645204_1296x729_16-9.jpg",
-      "titleZh": "转会谣言、新闻：阿森纳、曼联、利物浦赛道拜仁球星卡尔",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

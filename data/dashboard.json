@@ -36686,6 +36686,18 @@
   ],
   "journalists": [
     {
+      "id": "Rob Dawson:CBMijgFBVV95cUxNWFJUZ29wVUEyQUYxck91VTd5a0xPN04taE94S1ZGUTNnQnIzX3RDVEZRSlhkbUpqRFA3V2NfR2hvWHBFYUpJbWtFTEo1VXN6T1FoSDBBWFJUMUxKcjBNN0c4dGQ0dWg2NkpoYmNBTlBrcUc2dWc1aXhxTEdzTkx1ZExueTZHNEhfaVgwclRB",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United are in crisis (again), but where are the Glazers?",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFJUZ29wVUEyQUYxck91VTd5a0xPN04taE94S1ZGUTNnQnIzX3RDVEZRSlhkbUpqRFA3V2NfR2hvWHBFYUpJbWtFTEo1VXN6T1FoSDBBWFJUMUxKcjBNN0c4dGQ0dWg2NkpoYmNBTlBrcUc2dWc1aXhxTEdzTkx1ZExueTZHNEhfaVgwclRB?oc=5",
+      "published": "2026-10-26T15:10:34.000Z",
+      "titleZh": "曼联再次陷入危机，但Glazers在哪里？"
+    },
+    {
       "id": "Chris Wheeler:CBMitgFBVV95cUxOc2s1c2FPems2THN3cUYyQjZfaEFFYWtoT0dIdWF1anFjS082ejRwaGx3U0JaWGt6cjlkbmhBSklxanl4SXgwLXFUY2ZWTXE0WDFrZDAxbTZTSDY5UnNUN2JmVktRVUdGMmYzS2JSYWRLSkVua28xWlNuMHhZcWZ4MGtCVVJaWGxYclpQM1lscW9CSFFGTXh6dkhXeXZCQWtQYWlDUlpSZ2M4N2g3aXNyb0JodHIxUdIBuwFBVV95cUxNRDBIQUZmRHkwVi0zcUFfTU44bmFEdHZaODJRam5IdmVGNDhxMmFVSS1xTDlXNGFLWkVoVmFKcXpZSzdLdXFfM2EtWmRDVVF3a2laQXlKU3p3QWRBNHJjSnZ4Vzk5ZmI1RnBsNlpNRENVVFpxYUF1QUdGcm5tRjFKVTZvTEdpM2piMHJoN3FiMnJBN002WFBjQV9oS0xCMDZPUUk5OVQzRGJyTDB2SWNlbWtGNHVQYTh6TDE4",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -36758,13 +36770,25 @@
       "titleZh": "曼联和迈克尔·卡里克：经理的未来不可避免，但业主的问题要大得多"
     },
     {
+      "id": "Fabrizio Romano:CBMi0AFBVV95cUxOblBUdlJrX21SbXdSZ2U4Q2pzQnozZGdxa0R2SXVCWVdUQVI2aVZiVnUzZmRLZWt2NTlBd09USlJTSmdDb0h0TGJuWkt0ZENlSkZjZHh4YlhXVXhLUXY1aXFIRFNIb3BwZEFvSTFpRTAxNXZBVlp0RHUzWEJBR05lSVpnTUlfcUg4amRtZ3JMQW1kS1VVeVd0WVlMb3dGUVB4LXZMcG5MX21fVkRhMGVBOENDWllMbVozQXVGNnBUaDJBYjFnTXVXNHNXeGZHT1dJ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "LiveScore",
+      "tier": 1,
+      "title": "Fabrizio Romano confirms surprising Real Madrid - Barcelona transfer",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblBUdlJrX21SbXdSZ2U4Q2pzQnozZGdxa0R2SXVCWVdUQVI2aVZiVnUzZmRLZWt2NTlBd09USlJTSmdDb0h0TGJuWkt0ZENlSkZjZHh4YlhXVXhLUXY1aXFIRFNIb3BwZEFvSTFpRTAxNXZBVlp0RHUzWEJBR05lSVpnTUlfcUg4amRtZ3JMQW1kS1VVeVd0WVlMb3dGUVB4LXZMcG5MX21fVkRhMGVBOENDWllMbVozQXVGNnBUaDJBYjFnTXVXNHNXeGZHT1dJ?oc=5",
+      "published": "2026-10-25T21:00:11.000Z",
+      "titleZh": "Fabrizio Romano确认皇家马德里-巴塞罗那转会"
+    },
+    {
       "id": "James Ducker:CBMiqAFBVV95cUxOdjlkN2g3Y0RsaGFZd1RMNmg2RDdqQU91TmlxQUlZeFJlZ085OE9sNGlBVDkxbllXYnVQaXhBWDR0MFRNcENtVnhnQ1VpQjhBLXM1bXllS01iNnM2cmpBMU5GZTVKSWp4ZWhwVURCUWgyc2FnWkw2X1VtUXktOURfdGl1dk5qS0hnY0ktdmY3WjVPY1pZQ3VuVldkMHdvVmRWYmo0WW9sVmc",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
       "reporterOutlet": "每日电讯报",
       "source": "The Telegraph",
       "tier": 1,
-      "title": "Man Utd hold crisis talks with Michael Carrick on brink of sack",
+      "title": "Michael Carrick arrives at Man Utd with club in crisis talks",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjlkN2g3Y0RsaGFZd1RMNmg2RDdqQU91TmlxQUlZeFJlZ085OE9sNGlBVDkxbllXYnVQaXhBWDR0MFRNcENtVnhnQ1VpQjhBLXM1bXllS01iNnM2cmpBMU5GZTVKSWp4ZWhwVURCUWgyc2FnWkw2X1VtUXktOURfdGl1dk5qS0hnY0ktdmY3WjVPY1pZQ3VuVldkMHdvVmRWYmo0WW9sVmc?oc=5",
       "published": "2026-10-25T20:12:00.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）在曼联（ Man Utd ）濒"
@@ -36816,18 +36840,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOSkdKZTBCMElYMl9TMDhHOF9lMlptb09QbTZqY05YT0xfNVkwYk5fc2NzcXlXUVMtcGZteGYzTERVV1VsYmp6T2Y1emQ2NE5RTlFHV0d2RFJRay0wMFdPcUxmVzBqNDRiRXl5cEg4MVp5QVY3emYtWVhTWmNhdE1ZTEllTnJJZ0UzN2ZYTWtURDJBNGFMREppNGVCMHhGUjBPdWJxSEZ5QlI1R0lhaGU4N0ZRME5Ra1ZOazVxemZhQndkME5uTElpdHRBZC1JUWlSWVQ5ZUhLbTd6MW5qTnY0YWM1bFVxWlczdXBlRnpHMTd1bXQyTDBHbkJ3eHdJOTN3bjdWMzFCZWFwQmp1bWJsT01jQzZIQlU4UlRuUXF3NHNGaXJFTUV6dDhRZjZnTndL0gG2AkFVX3lxTFB1VjBJMlRuODhINmJobFpoWTZSVVh4TUF2ZDk3cjlpbDJJemR6ZEVELVdqNDlSeE14SGNkLS1kcGY2a3JPVzhzLXhDZ2tENlRveDZtLWRrMUotWm1nTXdOZDJzdnkxTnczTXJOaG9MaG95c0VLNTZvT3dLNTV5QzVXUWlaeld6dXo5SFo2elk0amRzNjZkM0I1YmVPM1NYVU5ldEJuZmhkcDBjeXY4d056SXFDQ0h4SHotNmhuajZiREc4NXZhNU13YktUMEtYVExvWGhHMElrSkpzbUI0eGdxMTNHQWRTTnkxaWJ6WXBsYnJFd0J1NEtYOW1NZUtySkN2TGh0cHVDMzN1MGltWVlqYlJjVnlsVkFoMVJZQnZONTFTS2Q1T1RhZWFnV0FuVl9vTFRiRGc?oc=5",
       "published": "2026-10-23T20:30:46.000Z",
       "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，挑衅的迈克尔·卡里克（ Michael Carrick ）的独白直接来自亚历克斯·弗格森爵士的剧本，但除非他能将曼联从绝望的深处拖出来，否则他强有力的话语将是空洞的"
-    },
-    {
-      "id": "Fabrizio Romano:CBMi0wFBVV95cUxON01GU2dGaU1EM3ctUWFfS3UyVWo5ZTRmeVowdS1LRmpSUkRWS0hFWkw5ZzZYMG5saUdzaUhiVE9sR2ZhQUIyVENkNlQxZFdySFV4bzY5cmc5VEJDT0J3dlJmX0l6b0VUSUp4dmlIc2FFNndVU3IzYVlYUmVqTVpZd0lqbG12cDh5aUxkQTBBMGFVTGxZUXQ1TE9fRDRlNVAxSkZaS2FHbGlNUzBXdzlUOFo4NEJmR0FHZUxRQ1UzVU90eE5IUmcxbXpBMG5rQUZkUl9B",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "TEAMtalk",
-      "tier": 1,
-      "title": "Romano reveals Man Utd decision on immediately sacking Carrick as INEOS reach 'official' verdict",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON01GU2dGaU1EM3ctUWFfS3UyVWo5ZTRmeVowdS1LRmpSUkRWS0hFWkw5ZzZYMG5saUdzaUhiVE9sR2ZhQUIyVENkNlQxZFdySFV4bzY5cmc5VEJDT0J3dlJmX0l6b0VUSUp4dmlIc2FFNndVU3IzYVlYUmVqTVpZd0lqbG12cDh5aUxkQTBBMGFVTGxZUXQ1TE9fRDRlNVAxSkZaS2FHbGlNUzBXdzlUOFo4NEJmR0FHZUxRQ1UzVU90eE5IUmcxbXpBMG5rQUZkUl9B?oc=5",
-      "published": "2026-10-22T16:22:40.000Z",
-      "titleZh": "Romano透露曼联决定立即解雇Carrick ，因为INEOS达到了“官方”判决"
     },
     {
       "id": "Simon Stone:CBMiaEFVX3lxTE9wdGhfLWUxeDJ3aGJVRjlaQTdBNkIxeHBvOXVOQ0hDQXpLMWt3Mm1WYXZDX3dZMGl4dzBCYUdVRE5DWVd5dkxhSmRIcDVtQTZEZHYtMFlCSlZqcVdmdzM0eV9LcVJfOHI5",
@@ -36914,18 +36926,6 @@
       "titleZh": "Fabrizio Romano表示，在COMO亏损后，曼联“首次”发生了“重大”变化"
     },
     {
-      "id": "Rob Dawson:CBMixAFBVV95cUxNd3FDT25NOVl2VTNNVU1aQk5tUTdNaTFzZFl1X0h5X2tINHZnVUdFNTRQTUstMmdFVGdubVpmUzZSZlV2bzd6ZkRFWGZkanJaMUhRZ0NOVTE0cVJXV2d0ejJubWRVYlZCUFQwR0gyNlViaXozcUljVHlfRTJPMWtTUDVYdlk0NVpibGJOSVoyazc1NTJkLVNGN3hCb3RVOHlFWmFjd0VZaE9uQW9CaWxDS2x2R3NhMEpXNjkzTmdveVlWd3ZJ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United players were abysmal in Como, but it's Carrick who faces consequences",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3FDT25NOVl2VTNNVU1aQk5tUTdNaTFzZFl1X0h5X2tINHZnVUdFNTRQTUstMmdFVGdubVpmUzZSZlV2bzd6ZkRFWGZkanJaMUhRZ0NOVTE0cVJXV2d0ejJubWRVYlZCUFQwR0gyNlViaXozcUljVHlfRTJPMWtTUDVYdlk0NVpibGJOSVoyazc1NTJkLVNGN3hCb3RVOHlFWmFjd0VZaE9uQW9CaWxDS2x2R3NhMEpXNjkzTmdveVlWd3ZJ?oc=5",
-      "published": "2026-10-21T20:23:00.000Z",
-      "titleZh": "曼联球员在科莫表现糟糕，但面对后果的却是卡里克"
-    },
-    {
       "id": "Chris Wheeler:CBMingJBVV95cUxOUWhpZFhwSTFGTlJ6MTVsamE1NDd3eExvRDNIWmZlcERydXAwOENxZkczM3Z5OWZ4SGgtUDdxNkwtOEFjTFJjNjl6QUtTVmNoTFB5emJTUXlBRFVkOFcxVUFnY3JjelNWVlZmUFRVTGhONWtsQmRnT0NfdjNkbFNpejJMYmhodUI4LXVOUTJONnBIVmdRTjVwbDJ5QlpvUF9FdnBGMmN6OXlsVXJGWUtRdS1YUGdYd1JXZVkwU2VENFBrU0ZILXNGS2pfa203UTQ2Z0d2NnFqcklWQ0RqWnp4OVhmLWluYksyQTNZT01TeVIxTnU5cmpHVzNYUFcwUzBpZnB3MFJLM1N4aE96X0V6QlhqcGRfNGtwTFNzQ0Nn0gGjAkFVX3lxTFB2WUxDeU5wZnBQYUQzc1NJNF80aV9wS1VVWEkwcWlYMlR5M010eUtmVjZObEJweDBTSk1qZzAyRXJPNmRKc1FjQmFlSWNGSm9KSzZtTlpCekZEOWVOZnZhZzNSZTVyazFfaVBvZHppVVhDYWFEeUZQMkM0N2dTdmtCeDZPQjcwS0p0eWRsd0tlbHJ3RE14SGZXVHlrS1dFT2hqNFladE9PN3pROFRiZUtVa0d6Z1B2Rjl1WVdYdk94VUxNbG1PWk1Lc05jTFp1VWU1NFdyVkxXcWw2UW9ibXliWWp0Um96RDVLZTN3ak8xeW56VXFMTFkzMXlnVVVkb2VxRWFsWUdWLUl4ODRfNElrRkYza3VWMXBLOUJOSzdvb1pJWQ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -36962,7 +36962,7 @@
       "titleZh": "Erik ten Hag专访：曼联违背“承诺” ，想要凯恩，罗纳尔多紧张，足总杯荣耀-田径"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-26T11:00:07.592Z",
+  "journalistsUpdatedAt": "2026-10-26T17:18:04.862Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

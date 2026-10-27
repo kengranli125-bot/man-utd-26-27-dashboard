@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:08:54.296Z",
+  "updatedAt": "2026-10-27T17:59:05.335Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -36009,15 +36009,29 @@
   ],
   "news": [
     {
+      "title": "Wayne Rooney blasts Man United players amid growing crisis",
+      "published": "2026-10-27T14:00:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50297244/wayne-rooney-blasts-man-united-players-amid-growing-crisis",
+      "image": "https://a.espncdn.com/photo/2026/1027/r1736965_1296x729_16-9.jpg",
+      "titleZh": "韦恩·鲁尼在日益严重的危机中抨击曼联球员"
+    },
+    {
+      "title": "Michael Carrick to lead Man United vs. Chelsea amid uncertain future - sources",
+      "published": "2026-10-27T12:56:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50296572/carrick-lead-man-united-chelsea-uncertain-future-sources",
+      "image": "https://a.espncdn.com/photo/2026/1025/r1735932_2_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在不确定的未来中领导曼联对阵切尔西-消息来源"
+    },
+    {
       "title": "Man United tight-lipped with Carrick back at Carrington on Tuesday",
-      "published": "2026-10-27T10:14:10Z",
+      "published": "2026-10-27T11:20:34Z",
       "url": "https://www.espn.com/soccer/story/_/id/50287797/man-united-michael-carrick-pressure-carrington-omar-berrada-jason-wilcox",
       "image": "https://a.espncdn.com/photo/2026/1026/r1736508_1296x729_16-9.jpg",
       "titleZh": "曼联主教练迈克尔·卡里克离开卡林顿，怀疑自己的未来"
     },
     {
       "title": "Ranked: Every Premier League team's money-per-points (after Man City cheated)",
-      "published": "2026-10-27T08:49:20Z",
+      "published": "2026-10-27T12:50:58Z",
       "url": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
       "image": "https://a.espncdn.com/photo/2024/0521/r1335942_2_1296x729_16-9.jpg",
       "titleZh": "排名：每支英超球队的每分钱（曼城作弊后）"
@@ -36077,20 +36091,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50282426/do-man-united-need-make-decision-carrick-future",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25/dm_261025_COM_SOC_Analysis_Do_Man_United_need_to_make_a_decision_on_CarrickE28099s_future3F__GLOBAL_2026-10-25.jpg",
       "titleZh": "曼联是否需要对卡里克的未来做出决定？"
-    },
-    {
-      "title": "Sources: United consider Howe, Nagelsmann to replace under-fire Carrick",
-      "published": "2026-10-27T00:01:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50282328/man-united-howe-nagelsmann-replace-carrick",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736535_1296x729_16-9.jpg",
-      "titleZh": "资料来源：美联航考虑Howe、Nagelsmann取代火力不足的Carrick"
-    },
-    {
-      "title": "Carrick woes deepen as Bournemouth smash United",
-      "published": "2026-10-25T22:31:49Z",
-      "url": "https://www.espn.com/video/clip/_/id/50281593/carrick-woes-deepen-bournemouth-smash-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1025/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY/dm_261025_EPL_Highlight_Carrick_woes_deepen_as_Bournemouth_smash_United__20261026_AUS_ONLY.jpg",
-      "titleZh": "随着伯恩茅斯粉碎曼联，卡里克的困境加深"
     }
   ],
   "transfers": [

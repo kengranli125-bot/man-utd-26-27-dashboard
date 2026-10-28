@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:52:15.051Z",
+  "updatedAt": "2026-10-28T22:33:21.372Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -36009,6 +36009,13 @@
   ],
   "news": [
     {
+      "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
+      "published": "2026-10-28T16:57:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
+      "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）和布鲁诺·费尔南德斯（ Bruno Fernandes ）举行“晴"
+    },
+    {
       "title": "Man United's worst league starts ever: How does 2026-27 compare?",
       "published": "2026-10-28T08:08:36Z",
       "url": "https://www.espn.com/soccer/story/_/id/50172424/manchester-united-worst-ever-starts-premier-league-first-division",
@@ -36084,16 +36091,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50287279/man-united-crisis-again-where-glazers",
       "image": "https://a.espncdn.com/photo/2026/1026/r1736473_1296x729_16-9.jpg",
       "titleZh": "曼联再次陷入危机，但Glazers在哪里？"
-    },
-    {
-      "title": "Real Madrid best Barça in brilliant Clásico; Man United mess deepens; Spurs win again",
-      "published": "2026-10-26T13:04:26Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50284670/marcotti-musings-analysis-clasico-real-madrid-barcelona-man-united-carrick-tottenham-chelsea",
-      "image": "https://a.espncdn.com/photo/2026/1026/r1736417_1296x729_16-9.jpg",
-      "titleZh": "皇家马德里最好的巴萨在辉煌的克拉西科；曼联混乱加深；马刺再次获胜"
     }
   ],
   "transfers": [
+    {
+      "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
+      "published": "2026-10-28T16:57:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
+      "image": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
+      "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）和布鲁诺·费尔南德斯（ Bruno Fernandes ）举行“晴",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: PSG eye Man United wonderkid Gabriel",
       "published": "2026-10-26T19:55:39Z",

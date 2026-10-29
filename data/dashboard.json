@@ -36696,6 +36696,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMia0FVX3lxTE5FTzRjS2V1aWJiS0hWZnpyOWg3b2RYVXk2SV9ORkFTYlZCemdHTDMzS3U5MHNxdmN6LTFLbDhqRk82NFl3Slc4YjFMWm9tbGdkZlJkNjZfeXhZd283MzlUUlhFdnJ2bk1OTGc0",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "'Fully committed' Fernandes to remain Man Utd captain",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FTzRjS2V1aWJiS0hWZnpyOWg3b2RYVXk2SV9ORkFTYlZCemdHTDMzS3U5MHNxdmN6LTFLbDhqRk82NFl3Slc4YjFMWm9tbGdkZlJkNjZfeXhZd283MzlUUlhFdnJ2bk1OTGc0?oc=5",
+      "published": "2026-10-29T14:31:52.000Z",
+      "titleZh": "“全力以赴”费尔南德斯继续担任曼联队长"
+    },
+    {
       "id": "Fabrizio Romano:CBMi8gFBVV95cUxOcFlueEdUOGNBc3NSVzRBSkhsTDNKNWQzbERsSmNNNDMzcDNsZnhzelR2R2lFd1JjYkNkQ2w3eW81anBfVmUzTXlqRG5vT3ZRc3VCY0x2bWpHSkpvX0UtbGZHUy1kRXhOaTRodGNuQi1PbWJRdVUxSzQ2Wjkta09iQzFrVkdMblZVenlXb2JsTjVhQVFsd0xya1VpY3pGUU41OEhkT2dBWDZhR1ZCTFhqMUtPbHRsakEyUEFoRlRPdkwybFUzbjRoZlNTajBCaTJVT0JHcm0xdnE2STEtTjdQOW5pYlBKaUtUQ0Nzd2NKT0w0Zw",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -36708,16 +36720,16 @@
       "titleZh": "Fabrizio Romano揭示了Bruno Fernandes和Michael Carrick在幕后发生的事情"
     },
     {
-      "id": "Simon Stone:CBMia0FVX3lxTE9MRVBLb1FuVFlqTjlLY0NEUjVMb0VBbVJMRl9ac1I4TFU5bWdrNFlGSkxwUXJvb096T05UMkVvaUFuR2dfb1BMQ1l6RTNxWlJFemhEY3VOcExCcE5KTTBUU3dhNlZRTVdZLXJV",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
+      "id": "James Ducker:CBMiowFBVV95cUxOT3ZVMnhHbkhaX0RIeG9YSFFTQXBsakVFOGhkM3FETmlna040S0lhQkZDT2dBbzJncUNjWlh1Q3N5VUoxbVZQc0o0cDVjRHQ3eXdRSWR4dzRaU2RnbTRlNWk5U3pxSmgxdGxHR2RhQS0xVlA5MjcxRkZXU1NiU3Z3RW9nd3d3bVc0bTVyRi1sZUhKYzVTRGFJYW1tNEVwcUc5LUFj",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
       "tier": 1,
-      "title": "Benjamin Sesko: Man Utd striker ruled out until January with shin injury",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRVBLb1FuVFlqTjlLY0NEUjVMb0VBbVJMRl9ac1I4TFU5bWdrNFlGSkxwUXJvb096T05UMkVvaUFuR2dfb1BMQ1l6RTNxWlJFemhEY3VOcExCcE5KTTBUU3dhNlZRTVdZLXJV?oc=5",
-      "published": "2026-10-28T19:57:04.000Z",
-      "titleZh": "本杰明·塞斯科（ Benjamin Sesko ） ：曼联前锋因胫骨受伤而被排除在一月之前"
+      "title": "Benjamin Sesko ruled out until January in new Man Utd setback",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZVMnhHbkhaX0RIeG9YSFFTQXBsakVFOGhkM3FETmlna040S0lhQkZDT2dBbzJncUNjWlh1Q3N5VUoxbVZQc0o0cDVjRHQ3eXdRSWR4dzRaU2RnbTRlNWk5U3pxSmgxdGxHR2RhQS0xVlA5MjcxRkZXU1NiU3Z3RW9nd3d3bVc0bTVyRi1sZUhKYzVTRGFJYW1tNEVwcUc5LUFj?oc=5",
+      "published": "2026-10-28T19:30:00.000Z",
+      "titleZh": "本杰明·塞斯科（ Benjamin Sesko ）在1月份的新曼联挫折中排除了"
     },
     {
       "id": "Chris Wheeler:CBMitAJBVV95cUxOR0JRYnA3ckhBY1lSS1hoQkpIVC1IZGttWHhpM2toTENWOFBDbmR2a3JCYmhMNGNJZE1yYlZyNWFKWjF5S3Q0Q1J3eF9MYUFBZVFHZ3dpZlMxbXBZNmtRVzhPUFhZVDAxMW1hVEZId0RvcWFyMjBheHF5d0RMcWpJbjE3SERqZVVybllVQ2VTdnh1bkQyMko5aHhfMWtVSk9ySy1FWVZNZFVKRUZKT3JVWHdPaHpaQTl1Nl9tcm5iZHNRdXZVSDV1dFRYdVFaZjFBM044YkFMdk9BS1V5SnBUNy14THJwUmJPeHA4UXBIVFlkZUY2aWpmRlhteFBJcHltSEhWa1NLR2prOHU1T3pTT01sZE5tRGtmSlE4dHJoVTBrV1ljVWo4anhrWGFoalVzWk40cdIBugJBVV95cUxQaDc5V2RWQlBWellWTlhzOTRTWEJKaVRud29tTERObFlGQzFZN0RIVkNna1ZNRVg2bE9wNFJ0OVNsTm5PRDN2NzdYOF9pMFhjSGJIcmRSbWZ1NnZiaGlCeGhBOFZUb3BVQmZVeFlOTWxXME05THBiNlFibUtVemNMZXBLRVBkUjA1U3JfaXJMSlAtTGpXQVJ6RW90TlpTZWwxbDNZWndBV0Q0dHQyMVlUWTZMUUZlVHJhcG5ZMWR6T3QzbXlIMFp6SEh0RHRVVnFGNk9oMHhZT0pqZVhGT0F6ZmtaVXFMM2hhUDgyNEFqWVozS3JNd1MwZGRkTFgwMkRVVWw2bUVhY1d3Y0g3QU5xamhBNlNLX2VCTUd2Qk1EQXJ3RldvZTJQTm5Nd0VrYUUxbXBnZVQ0Vm4tZw",
@@ -36840,6 +36852,18 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）证实了令人惊讶的故事，迈克尔·卡里克·曼（ Michael Carrick Man ）联盟（ Utd"
     },
     {
+      "id": "Simon Stone:CBMiaEFVX3lxTE55YWZYZW1vSDNaNmRodjQ1eElBR2hlQUFtbjFOSkR4NFQ2aFV4Y0dYbXR0V0tUQXNhcXNhdmpkeGNVN1NLa1Z1c1ktNWtta1N5cTNyaFROWUlheGo1V2xkejUxclRjdmRR",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Manchester United & Michael Carrick: Air of inevitability around manager's future but owners' problems far bigger",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55YWZYZW1vSDNaNmRodjQ1eElBR2hlQUFtbjFOSkR4NFQ2aFV4Y0dYbXR0V0tUQXNhcXNhdmpkeGNVN1NLa1Z1c1ktNWtta1N5cTNyaFROWUlheGo1V2xkejUxclRjdmRR?oc=5",
+      "published": "2026-10-25T21:24:21.000Z",
+      "titleZh": "曼联和迈克尔·卡里克：经理的未来不可避免，但业主的问题要大得多"
+    },
+    {
       "id": "Fabrizio Romano:CBMi0AFBVV95cUxOblBUdlJrX21SbXdSZ2U4Q2pzQnozZGdxa0R2SXVCWVdUQVI2aVZiVnUzZmRLZWt2NTlBd09USlJTSmdDb0h0TGJuWkt0ZENlSkZjZHh4YlhXVXhLUXY1aXFIRFNIb3BwZEFvSTFpRTAxNXZBVlp0RHUzWEJBR05lSVpnTUlfcUg4amRtZ3JMQW1kS1VVeVd0WVlMb3dGUVB4LXZMcG5MX21fVkRhMGVBOENDWllMbVozQXVGNnBUaDJBYjFnTXVXNHNXeGZHT1dJ",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -36900,6 +36924,18 @@
       "titleZh": "Erik ten Hag专访：曼联违背“承诺” ，想要凯恩，罗纳尔多紧张，足总杯荣耀-田径"
     },
     {
+      "id": "James Ducker:CBMipgFBVV95cUxOVU11Zk00ZmVuOW50akRpLXJkd2haV2g3amxmSmVEWjRNa0VlWUZpbEFwd1BfaGQxdk9FQWl1N29VSmRJTURMZ1JGaDlnS0RYTVBKOXlDOG9NLTluS1M3djJudENlYXVnOThFSTNuWVIxTmVOWlA1OTdMb1JzcDN3d3BwRnJhT2lVQWdKYVhLNTBqR2M0cWJGTzB2V2FMeEJrWXozWHJB",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Michael Carrick: Man Utd are not unmanageable",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVU11Zk00ZmVuOW50akRpLXJkd2haV2g3amxmSmVEWjRNa0VlWUZpbEFwd1BfaGQxdk9FQWl1N29VSmRJTURMZ1JGaDlnS0RYTVBKOXlDOG9NLTluS1M3djJudENlYXVnOThFSTNuWVIxTmVOWlA1OTdMb1JzcDN3d3BwRnJhT2lVQWdKYVhLNTBqR2M0cWJGTzB2V2FMeEJrWXozWHJB?oc=5",
+      "published": "2026-10-24T21:30:00.000Z",
+      "titleZh": "迈克尔·卡里克：曼联并非难以管理"
+    },
+    {
       "id": "Chris Wheeler:CBMisAJBVV95cUxOSkdKZTBCMElYMl9TMDhHOF9lMlptb09QbTZqY05YT0xfNVkwYk5fc2NzcXlXUVMtcGZteGYzTERVV1VsYmp6T2Y1emQ2NE5RTlFHV0d2RFJRay0wMFdPcUxmVzBqNDRiRXl5cEg4MVp5QVY3emYtWVhTWmNhdE1ZTEllTnJJZ0UzN2ZYTWtURDJBNGFMREppNGVCMHhGUjBPdWJxSEZ5QlI1R0lhaGU4N0ZRME5Ra1ZOazVxemZhQndkME5uTElpdHRBZC1JUWlSWVQ5ZUhLbTd6MW5qTnY0YWM1bFVxWlczdXBlRnpHMTd1bXQyTDBHbkJ3eHdJOTN3bjdWMzFCZWFwQmp1bWJsT01jQzZIQlU4UlRuUXF3NHNGaXJFTUV6dDhRZjZnTndL0gG2AkFVX3lxTFB1VjBJMlRuODhINmJobFpoWTZSVVh4TUF2ZDk3cjlpbDJJemR6ZEVELVdqNDlSeE14SGNkLS1kcGY2a3JPVzhzLXhDZ2tENlRveDZtLWRrMUotWm1nTXdOZDJzdnkxTnczTXJOaG9MaG95c0VLNTZvT3dLNTV5QzVXUWlaeld6dXo5SFo2elk0amRzNjZkM0I1YmVPM1NYVU5ldEJuZmhkcDBjeXY4d056SXFDQ0h4SHotNmhuajZiREc4NXZhNU13YktUMEtYVExvWGhHMElrSkpzbUI0eGdxMTNHQWRTTnkxaWJ6WXBsYnJFd0J1NEtYOW1NZUtySkN2TGh0cHVDMzN1MGltWVlqYlJjVnlsVkFoMVJZQnZONTFTS2Q1T1RhZWFnV0FuVl9vTFRiRGc",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -36924,55 +36960,19 @@
       "titleZh": "曼联希望球迷参与£ 20亿的新体育场计划"
     },
     {
-      "id": "Rob Dawson:CBMimAFBVV95cUxPLUlwTUVIQ19LSTlFNTduMF9YNWs1ZmtDanEwOWhkelFwM01qRTY2S2RBWFdNNlNUeEhxSTdiM1VBSGdyNFlIdGtONFNLS3A3Q2hlYUJES280cTZBM21sbTYtY0JYaE5nUXdnQktwQnRQeG9vTlhkQUttaDVkWkJIQ0RQRk9feWtBSzEyRmZsQ011NjFwdUp4Ng",
+      "id": "Rob Dawson:CBMivwFBVV95cUxOMlN1QXNicW5tZzAtYXdDLW1HaHA0dnhTRFo5VW93QlAwR1hmLVVGZjdCRnUycU1Pcm5tYzltNE9ULWJYdGU0NEl0YUQxMGNIWWFBT1pFUW5ld0p2UnctN2VZZmR3X0lBQTduYUhpZjRLLWZwaWFOblptYWNrc3ZMTFJSd2sxcmNoU2Ffd0xuTHRIbDEzbXYzRFlzOVBFd1NJeUoxLTRZd2ppWV9sNTlpMmZ1aEVGTnZhTHJ1eE91Yw",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
-      "title": "Michael Carrick set to lead Man United vs. Bournemouth amid pressure - sources",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUlwTUVIQ19LSTlFNTduMF9YNWs1ZmtDanEwOWhkelFwM01qRTY2S2RBWFdNNlNUeEhxSTdiM1VBSGdyNFlIdGtONFNLS3A3Q2hlYUJES280cTZBM21sbTYtY0JYaE5nUXdnQktwQnRQeG9vTlhkQUttaDVkWkJIQ0RQRk9feWtBSzEyRmZsQ011NjFwdUp4Ng?oc=5",
-      "published": "2026-10-22T15:03:00.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在压力下领导曼联对伯恩茅斯-消息来源"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTE5Yd1RNMEN0RW1rSFdxeF9PbWQtdi1WZXdFX285UnItMUFLU0NMX1pRQ0Z3cnBVcl9HNURfVXdlRlNDTVBXTmNFdUlQbXdHUUpkMXBtcG53QkY0dElUSk1jX3lIbnVSS2Fs",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Michael Carrick: Man Utd boss carrying on as Old Trafford club eyes possible replacements",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Yd1RNMEN0RW1rSFdxeF9PbWQtdi1WZXdFX285UnItMUFLU0NMX1pRQ0Z3cnBVcl9HNURfVXdlRlNDTVBXTmNFdUlQbXdHUUpkMXBtcG53QkY0dElUSk1jX3lIbnVSS2Fs?oc=5",
-      "published": "2026-10-22T12:48:12.000Z",
-      "titleZh": "曼联老板迈克尔·卡里克继续扮演老特拉福德俱乐部的眼睛可能的替代品"
-    },
-    {
-      "id": "James Ducker:CBMiqAFBVV95cUxPVFRKTWFiUHpycUY4NnhXT1hPRXNHM3VUUFVXRm0wQmtSTi1PSkpSNUZjNXVVUENTZ2RaaFRtV1ltSnhpMk9Va1BRejZZa0ZKUHdsY2xkMklKQThwcHRnWnk3eWFscTViTUxsR0F0SjNmaHFsSV9HcF9CZnlpU1hJdGVwVDhPVEE2bmE4dzVJUFpfdmFiTUprTmZjVDVReXYwUUs4Y2ZvVng",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Who could replace Michael Carrick if he is sacked by Manchester United?",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFRKTWFiUHpycUY4NnhXT1hPRXNHM3VUUFVXRm0wQmtSTi1PSkpSNUZjNXVVUENTZ2RaaFRtV1ltSnhpMk9Va1BRejZZa0ZKUHdsY2xkMklKQThwcHRnWnk3eWFscTViTUxsR0F0SjNmaHFsSV9HcF9CZnlpU1hJdGVwVDhPVEE2bmE4dzVJUFpfdmFiTUprTmZjVDVReXYwUUs4Y2ZvVng?oc=5",
-      "published": "2026-10-22T11:23:00.000Z",
-      "titleZh": "如果迈克尔·卡里克被曼联解雇，谁能取代他？"
-    },
-    {
-      "id": "James Ducker:CBMipwFBVV95cUxQWlFMU3hvVkFubDZrTHpmc2tYYkZXT2FManR4X0p1RTdmQW5NWEV6VUJWRWVSQTFTclBlaUtpTHdEb2RBeXBwU09ZeXBuTDBpZ1VoTDF3SHl3WXdKenFYcDRMRTN4WnZqLTJBVDktVjJqTkRDalhsakxfMVB6UEpwV085VkN4WHFCaWExTWpKV3RiV254TS1WdzhLV3A3N1R6Wm41LXdpaw",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Manchester United’s 11 worst defeats in the post-Ferguson era",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlFMU3hvVkFubDZrTHpmc2tYYkZXT2FManR4X0p1RTdmQW5NWEV6VUJWRWVSQTFTclBlaUtpTHdEb2RBeXBwU09ZeXBuTDBpZ1VoTDF3SHl3WXdKenFYcDRMRTN4WnZqLTJBVDktVjJqTkRDalhsakxfMVB6UEpwV085VkN4WHFCaWExTWpKV3RiV254TS1WdzhLV3A3N1R6Wm41LXdpaw?oc=5",
-      "published": "2026-10-22T10:00:00.000Z",
-      "titleZh": "曼联在后弗格森时代的11场最糟糕的失利"
+      "title": "Who are Como? The vacation-destination club that just rocked Man United",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlN1QXNicW5tZzAtYXdDLW1HaHA0dnhTRFo5VW93QlAwR1hmLVVGZjdCRnUycU1Pcm5tYzltNE9ULWJYdGU0NEl0YUQxMGNIWWFBT1pFUW5ld0p2UnctN2VZZmR3X0lBQTduYUhpZjRLLWZwaWFOblptYWNrc3ZMTFJSd2sxcmNoU2Ffd0xuTHRIbDEzbXYzRFlzOVBFd1NJeUoxLTRZd2ppWV9sNTlpMmZ1aEVGTnZhTHJ1eE91Yw?oc=5",
+      "published": "2026-10-22T18:25:56.000Z",
+      "titleZh": "COMO是谁？刚刚震撼曼联的度假俱乐部"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-29T09:50:11.155Z",
+  "journalistsUpdatedAt": "2026-10-29T16:30:29.688Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

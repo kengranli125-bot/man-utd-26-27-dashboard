@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:45:25.492Z",
+  "updatedAt": "2026-10-30T12:52:44.579Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -36009,6 +36009,27 @@
   ],
   "news": [
     {
+      "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
+      "published": "2026-10-30T09:15:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
+      "titleZh": "全球力量排名：世界排名前20的足球队，排名！"
+    },
+    {
+      "title": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January",
+      "published": "2026-10-30T09:05:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738490_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联在1月份为Calvert-Lewin进行了眼动"
+    },
+    {
+      "title": "Man United Munich air disaster memorial vandalised",
+      "published": "2026-10-30T08:56:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50326324/man-united-munich-air-disaster-memorial-vandalised",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738489_1296x729_16-9.jpg",
+      "titleZh": "曼联慕尼黑空难纪念碑遭破坏"
+    },
+    {
       "title": "Nicol: Carrick only at Manchester United because club has no solution",
       "published": "2026-10-29T23:22:48Z",
       "url": "https://www.espn.com/video/clip/_/id/50323003/carrick-only-manchester-united-club-no-solution",
@@ -36070,36 +36091,15 @@
       "url": "https://www.espn.com/soccer/story/_/id/50172424/manchester-united-worst-ever-starts-premier-league-first-division",
       "image": "https://a.espncdn.com/photo/2026/1017/r1731892_1296x729_16-9.jpg",
       "titleZh": "曼联有史以来最糟糕的联赛开始了： 2026-27赛季相比如何？"
-    },
-    {
-      "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
-      "published": "2026-10-28T16:57:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
-      "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）和布鲁诺·费尔南德斯（ Bruno Fernandes ）举行“晴"
-    },
-    {
-      "title": "Ranked: Every Premier League team's money-per-points (after Man City cheated)",
-      "published": "2026-10-29T00:02:24Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
-      "image": "https://a.espncdn.com/photo/2024/0521/r1335942_2_1296x729_16-9.jpg",
-      "titleZh": "排名：每支英超球队的每分钱（曼城作弊后）"
-    },
-    {
-      "title": "Is Fleetwood Town's defeat of Arsenal the biggest upset in League Cup history?",
-      "published": "2026-10-27T23:20:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/46093270/is-fleetwood-town-defeat-arsenal-biggest-upset-league-cup-history",
-      "image": "https://a.espncdn.com/photo/2026/1027/r1737269_1296x729_16-9.jpg",
-      "titleZh": "弗利特伍德镇击败阿森纳是联赛杯历史上最大的挫折吗？"
     }
   ],
   "transfers": [
     {
-      "title": "Man United's Michael Carrick and Bruno Fernandes hold 'clear-the-air' talks - reports",
-      "published": "2026-10-28T16:57:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50306999/michael-carrick-bruno-fernandes-man-united-clear-air-talks-reports",
-      "image": "https://a.espncdn.com/photo/2026/1028/r1737470_1296x729_16-9.jpg",
-      "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）和布鲁诺·费尔南德斯（ Bruno Fernandes ）举行“晴",
+      "title": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January",
+      "published": "2026-10-30T09:05:32Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738490_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联在1月份为Calvert-Lewin进行了眼动",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

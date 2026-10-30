@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:52:44.579Z",
+  "updatedAt": "2026-10-30T22:16:56.898Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -36009,18 +36009,32 @@
   ],
   "news": [
     {
+      "title": "Virgil van Dijk: Liverpool must 'take that risk' under Andoni Iraola playing style",
+      "published": "2026-10-30T17:30:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738605_1296x729_16-9.jpg",
+      "titleZh": "维吉尔·范迪克（ Virgil van Dijk ） ：在安多尼·伊罗拉（ Andoni Iraola ）的比赛风格下，利物浦"
+    },
+    {
+      "title": "Are Man City fans right about a Premier League 'Red Cartel' that's out to get them?",
+      "published": "2026-10-30T17:01:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50321217/man-city-premier-league-red-cartel-allegation-liverpool-man-united-arsenal",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738598_1296x729_16-9.jpg",
+      "titleZh": "曼城球迷对英超联赛“红色卡特尔”的看法是否正确？"
+    },
+    {
+      "title": "Youri Tielemans backs Michael Carrick at Man United: 'We don't want a big change'",
+      "published": "2026-10-30T14:51:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50328168/youri-tielemans-backs-michael-carrick-man-united-want-big-change",
+      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
+      "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ）在曼联（ Man United ）支持迈克尔·卡里克（ Michael Carrick ） ： “我们"
+    },
+    {
       "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
-      "published": "2026-10-30T09:15:58Z",
+      "published": "2026-10-30T12:06:05Z",
       "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
       "image": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
       "titleZh": "全球力量排名：世界排名前20的足球队，排名！"
-    },
-    {
-      "title": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January",
-      "published": "2026-10-30T09:05:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738490_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联在1月份为Calvert-Lewin进行了眼动"
     },
     {
       "title": "Man United Munich air disaster memorial vandalised",
@@ -36077,34 +36091,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/50316511/ballon-dor-all-public-vote-results-full-rankings",
       "image": "https://a.espncdn.com/photo/2026/1029/r1737990_1296x729_16-9.jpg",
       "titleZh": "Ballon d 'Or of All Time公众投票结果：完整排名"
-    },
-    {
-      "title": "Cristiano Ronaldo pips Lionel Messi to win 'Ballon d'Or of All Time' prize",
-      "published": "2026-10-29T18:31:04Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50316200/cristiano-ronaldo-pips-lionel-messi-ballon-dor-all",
-      "image": "https://a.espncdn.com/photo/2026/1029/r1737980_1296x729_16-9.jpg",
-      "titleZh": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）向莱昂内尔·梅西（ Lionel Messi ）投球，赢得“有史以来"
-    },
-    {
-      "title": "Man United's worst league starts ever: How does 2026-27 compare?",
-      "published": "2026-10-29T07:30:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50172424/manchester-united-worst-ever-starts-premier-league-first-division",
-      "image": "https://a.espncdn.com/photo/2026/1017/r1731892_1296x729_16-9.jpg",
-      "titleZh": "曼联有史以来最糟糕的联赛开始了： 2026-27赛季相比如何？"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United eye move for Calvert-Lewin in January",
-      "published": "2026-10-30T09:05:32Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738490_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联在1月份为Calvert-Lewin进行了眼动",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

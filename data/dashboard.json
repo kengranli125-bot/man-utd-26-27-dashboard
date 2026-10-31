@@ -38412,16 +38412,28 @@
   ],
   "journalists": [
     {
-      "id": "Fabrizio Romano:CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "id": "Simon Stone:CBMia0FVX3lxTFBFUTJJNVEzMmxkREhwM2xwNS1qUklMbzNiVHdhRDU1a0J4dHlOTDlKMGJZY0pmdnlaZGtwRzZxd1FJMHpnZVVUclBxTms2NVA1c0RZemx5cVB5UkN5UVJMU1lPMGcyVXNreFN3",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
       "tier": 1,
-      "title": "Romano reveals Man Utd top target to replace Carrick in 'crucial' sack update - 'a manager they love'",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4?oc=5",
-      "published": "2026-10-31T12:14:41.000Z",
-      "titleZh": "Romano透露Man Utd在“关键”麻袋更新中取代Carrick的头号目标- “他们喜欢的经理”"
+      "title": "Lisandro Martinez: Manchester United defender condemned for costly red card",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFUTJJNVEzMmxkREhwM2xwNS1qUklMbzNiVHdhRDU1a0J4dHlOTDlKMGJZY0pmdnlaZGtwRzZxd1FJMHpnZVVUclBxTms2NVA1c0RZemx5cVB5UkN5UVJMU1lPMGcyVXNreFN3?oc=5",
+      "published": "2026-10-31T16:38:15.000Z",
+      "titleZh": "利桑德罗·马丁内斯：曼联后卫因昂贵的红牌而受到谴责"
+    },
+    {
+      "id": "Chris Wheeler:CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Chelsea 2-0 Manchester United PLAYER RATINGS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM?oc=5",
+      "published": "2026-10-31T14:56:36.000Z",
+      "titleZh": "切尔西2-0曼联球员评分"
     },
     {
       "id": "Fabrizio Romano:CBMirAFBVV95cUxPdW1jOFl2WFR0NV96MU9panZ6WGNJdmtOZTdUOFlBOENSc280Z29xWUZrQy1ZSXlNY191U0xockhPcXNmSnFCVjFGTmU4YzJtSHVfbEdUSHJyS2dqN2VVRUwzaUc4ME1NUW8xdVNMRXU3bENmcmoxQzdwMWViZXM5UmliNFY5UUtya3JxRmlTaFZQaW11ZVJWQi1Dc0xiMzNnRmUwVWlKTTlYbjEz",
@@ -38432,20 +38444,8 @@
       "tier": 1,
       "title": "Fabrizio Romano confirms Man Utd striker hunt as £100m superstar linked",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW1jOFl2WFR0NV96MU9panZ6WGNJdmtOZTdUOFlBOENSc280Z29xWUZrQy1ZSXlNY191U0xockhPcXNmSnFCVjFGTmU4YzJtSHVfbEdUSHJyS2dqN2VVRUwzaUc4ME1NUW8xdVNMRXU3bENmcmoxQzdwMWViZXM5UmliNFY5UUtya3JxRmlTaFZQaW11ZVJWQi1Dc0xiMzNnRmUwVWlKTTlYbjEz?oc=5",
-      "published": "2026-10-31T06:00:42.000Z",
+      "published": "2026-10-31T13:43:43.000Z",
       "titleZh": "法布里奇奥·罗马诺确认曼联前锋狩猎与£ 1亿超级巨星挂钩"
-    },
-    {
-      "id": "Chris Wheeler:CBMipwFBVV95cUxNaXlLeFB1ODl0TWZXT0tnQ0Z4VWJGYUEtSVFlaDFRVnZUdlpzTVhabHZxNDY2RnlvVTczaGlVTWF2eVBkWVVGUHNEY2p5cTEzOTFUUUJuY0c4ZDByV2ZOZE9QX1NWTDRmR3hWWVFOeVBfMjI3c2tMZl8zR0c3VExpcFdCY2xTS1hSNkxETE1zOW1NOEUxT1BZS09fU1Vnd01XNldHZzI0aw",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "'Divisive' teacher's pet who players roll their eyes at? Or obsessive who truly cares? Man United insiders reveal what Bruno Fernandes' team-mates really think of him - as we reveal Michael Carrick decided to drop captain BEFORE his Como rant",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXlLeFB1ODl0TWZXT0tnQ0Z4VWJGYUEtSVFlaDFRVnZUdlpzTVhabHZxNDY2RnlvVTczaGlVTWF2eVBkWVVGUHNEY2p5cTEzOTFUUUJuY0c4ZDByV2ZOZE9QX1NWTDRmR3hWWVFOeVBfMjI3c2tMZl8zR0c3VExpcFdCY2xTS1hSNkxETE1zOW1NOEUxT1BZS09fU1Vnd01XNldHZzI0aw?oc=5",
-      "published": "2026-10-31T02:00:00.000Z",
-      "titleZh": "透露：曼联球员对费尔南德斯的真实想法"
     },
     {
       "id": "David Ornstein:CBMimAFBVV95cUxOZk1QQzJXQV93V2Nha1RrbHNDRy1XYWJ5WmNBa0VIcmh4TGI4QmNPUHIyNGI5dzRULUdMLXE0SmNfd3E1dGhNb2pRRjN1S2hHVXdoSVZ3WFdIX1JwN1RHTDRSbWFJTVBlSlY0Z2N2bXVleEhvbXRuOFNLV3lwWFBaUmZHOHFFbmNQOTZNa3JwNTRKcllFRmp4Zw",
@@ -38456,8 +38456,56 @@
       "tier": 1,
       "title": "Aston Villa to initiate legal action against Jamie Carragher for ‘unacceptable insults’",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk1QQzJXQV93V2Nha1RrbHNDRy1XYWJ5WmNBa0VIcmh4TGI4QmNPUHIyNGI5dzRULUdMLXE0SmNfd3E1dGhNb2pRRjN1S2hHVXdoSVZ3WFdIX1JwN1RHTDRSbWFJTVBlSlY0Z2N2bXVleEhvbXRuOFNLV3lwWFBaUmZHOHFFbmNQOTZNa3JwNTRKcllFRmp4Zw?oc=5",
-      "published": "2026-10-30T22:25:00.000Z",
+      "published": "2026-10-31T13:34:00.000Z",
       "titleZh": "阿斯顿维拉将对Jamie Carragher的“不可接受的侮辱”提起法律诉讼"
+    },
+    {
+      "id": "Laurie Whitwell:CBMiqwFBVV95cUxNb21XQkxUVG9yckJFcXV6Q09pZWNDcWZ2ejJLbUNWRXZQWWVjanlMNzdGQW1oaktDckZYX3VZdE1NWWd4TTNBRkxhTjdPTEE4clVxNXRYMllLY2JTRUVramRwd19aX3R2MFdfNzh4M0Rib1FBRzIwZlR3NFBIU3YwbW5LZFhJd3pXMWxTMUl0WHhKR0lSQURfWThCdE10V3N2Nngwa2R5aGEwQ2M",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United exploring January striker move, considering Leeds’ Dominic Calvert-Lewin - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb21XQkxUVG9yckJFcXV6Q09pZWNDcWZ2ejJLbUNWRXZQWWVjanlMNzdGQW1oaktDckZYX3VZdE1NWWd4TTNBRkxhTjdPTEE4clVxNXRYMllLY2JTRUVramRwd19aX3R2MFdfNzh4M0Rib1FBRzIwZlR3NFBIU3YwbW5LZFhJd3pXMWxTMUl0WHhKR0lSQURfWThCdE10V3N2Nngwa2R5aGEwQ2M?oc=5",
+      "published": "2026-10-31T02:32:00.000Z",
+      "titleZh": "考虑到利兹的Dominic Calvert-Lewin - The Athletic ，曼联正在探索1月份的前锋转会"
+    },
+    {
+      "id": "Chris Wheeler:CBMipwFBVV95cUxNaXlLeFB1ODl0TWZXT0tnQ0Z4VWJGYUEtSVFlaDFRVnZUdlpzTVhabHZxNDY2RnlvVTczaGlVTWF2eVBkWVVGUHNEY2p5cTEzOTFUUUJuY0c4ZDByV2ZOZE9QX1NWTDRmR3hWWVFOeVBfMjI3c2tMZl8zR0c3VExpcFdCY2xTS1hSNkxETE1zOW1NOEUxT1BZS09fU1Vnd01XNldHZzI0aw",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Revealed: What Man United players really think of Fernandes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXlLeFB1ODl0TWZXT0tnQ0Z4VWJGYUEtSVFlaDFRVnZUdlpzTVhabHZxNDY2RnlvVTczaGlVTWF2eVBkWVVGUHNEY2p5cTEzOTFUUUJuY0c4ZDByV2ZOZE9QX1NWTDRmR3hWWVFOeVBfMjI3c2tMZl8zR0c3VExpcFdCY2xTS1hSNkxETE1zOW1NOEUxT1BZS09fU1Vnd01XNldHZzI0aw?oc=5",
+      "published": "2026-10-31T02:00:00.000Z",
+      "titleZh": "透露：曼联球员对费尔南德斯的真实想法"
+    },
+    {
+      "id": "Fabrizio Romano:CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "LiveScore",
+      "tier": 1,
+      "title": "Man Utd Transfer News Today: Fermin Lopez targeted as Romano confirms January signing",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc?oc=5",
+      "published": "2026-10-30T21:13:10.000Z",
+      "titleZh": "曼联今日转会新闻：费尔明·洛佩兹（ Fermin Lopez ）因罗马诺（ Romano ）确认1月签约"
+    },
+    {
+      "id": "Fabrizio Romano:CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Romano reveals Man Utd top target to replace Carrick in 'crucial' sack update - 'a manager they love'",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4?oc=5",
+      "published": "2026-10-30T19:39:37.000Z",
+      "titleZh": "Romano透露Man Utd在“关键”麻袋更新中取代Carrick的头号目标- “他们喜欢的经理”"
     },
     {
       "id": "James Ducker:CBMirAFBVV95cUxNNE5mUDJwZWMwSDVMemx2YWZfQlhKaUZYa2dhclFweEpORUxyTDFTYUc5aEpHdWRxU192ZmtQTTUzTXQwX0xIWHotYkljQ2hLc0pVUjZWSUdhM3FmSmhibkRiTGtGR2xnc3Y4OWJYSTExeUp6ZE5zWWZmZDlJUHpwWG5xM3ZxTTF1Z3VzMndCSGk4cE85eE9SNzNVMUo2RkJzbnEydlEyRnRJZWhH",
@@ -38472,28 +38520,16 @@
       "titleZh": "Ratcliffe如何在2029年从Man Utd购买Glazers"
     },
     {
-      "id": "Laurie Whitwell:CBMiqwFBVV95cUxNb21XQkxUVG9yckJFcXV6Q09pZWNDcWZ2ejJLbUNWRXZQWWVjanlMNzdGQW1oaktDckZYX3VZdE1NWWd4TTNBRkxhTjdPTEE4clVxNXRYMllLY2JTRUVramRwd19aX3R2MFdfNzh4M0Rib1FBRzIwZlR3NFBIU3YwbW5LZFhJd3pXMWxTMUl0WHhKR0lSQURfWThCdE10V3N2Nngwa2R5aGEwQ2M",
+      "id": "Laurie Whitwell:CBMipAFBVV95cUxOMGY4N1NlNC14QlpkLWxBNkJtYWZIS2ZzaGJPXzhTNUZFVXBaQVZxVUNlcG5Ua05mOWp4TTgzTUxFMS0ydkZkeVBhSFR1TVRaZHNaMEhHWUduUHowR0xqSUdaLUc1TTNla1A4dEE1R2pwVlA1dElEb2ZqRHFEcGJxZ2Jleko4dDJQdWtEcHRsTkdOc3I4bWUtWVp0cC1vd2dpZy1tMA",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
-      "title": "Manchester United exploring January striker move, considering Leeds’ Dominic Calvert-Lewin - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb21XQkxUVG9yckJFcXV6Q09pZWNDcWZ2ejJLbUNWRXZQWWVjanlMNzdGQW1oaktDckZYX3VZdE1NWWd4TTNBRkxhTjdPTEE4clVxNXRYMllLY2JTRUVramRwd19aX3R2MFdfNzh4M0Rib1FBRzIwZlR3NFBIU3YwbW5LZFhJd3pXMWxTMUl0WHhKR0lSQURfWThCdE10V3N2Nngwa2R5aGEwQ2M?oc=5",
-      "published": "2026-10-29T17:36:43.000Z",
-      "titleZh": "考虑到利兹的Dominic Calvert-Lewin - The Athletic ，曼联正在探索1月份的前锋转会"
-    },
-    {
-      "id": "Fabrizio Romano:CBMi8gFBVV95cUxOcFlueEdUOGNBc3NSVzRBSkhsTDNKNWQzbERsSmNNNDMzcDNsZnhzelR2R2lFd1JjYkNkQ2w3eW81anBfVmUzTXlqRG5vT3ZRc3VCY0x2bWpHSkpvX0UtbGZHUy1kRXhOaTRodGNuQi1PbWJRdVUxSzQ2Wjkta09iQzFrVkdMblZVenlXb2JsTjVhQVFsd0xya1VpY3pGUU41OEhkT2dBWDZhR1ZCTFhqMUtPbHRsakEyUEFoRlRPdkwybFUzbjRoZlNTajBCaTJVT0JHcm0xdnE2STEtTjdQOW5pYlBKaUtUQ0Nzd2NKT0w0Zw",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yardbarker",
-      "tier": 1,
-      "title": "Fabrizio Romano reveals what happened between Bruno Fernandes and Michael Carrick behind the scenes",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFlueEdUOGNBc3NSVzRBSkhsTDNKNWQzbERsSmNNNDMzcDNsZnhzelR2R2lFd1JjYkNkQ2w3eW81anBfVmUzTXlqRG5vT3ZRc3VCY0x2bWpHSkpvX0UtbGZHUy1kRXhOaTRodGNuQi1PbWJRdVUxSzQ2Wjkta09iQzFrVkdMblZVenlXb2JsTjVhQVFsd0xya1VpY3pGUU41OEhkT2dBWDZhR1ZCTFhqMUtPbHRsakEyUEFoRlRPdkwybFUzbjRoZlNTajBCaTJVT0JHcm0xdnE2STEtTjdQOW5pYlBKaUtUQ0Nzd2NKT0w0Zw?oc=5",
-      "published": "2026-10-29T01:09:38.000Z",
-      "titleZh": "Fabrizio Romano揭示了Bruno Fernandes和Michael Carrick在幕后发生的事情"
+      "title": "Bruno Fernandes set to return as Manchester United captain against Chelsea, Michael Carrick says",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGY4N1NlNC14QlpkLWxBNkJtYWZIS2ZzaGJPXzhTNUZFVXBaQVZxVUNlcG5Ua05mOWp4TTgzTUxFMS0ydkZkeVBhSFR1TVRaZHNaMEhHWUduUHowR0xqSUdaLUc1TTNla1A4dEE1R2pwVlA1dElEb2ZqRHFEcGJxZ2Jleko4dDJQdWtEcHRsTkdOc3I4bWUtWVp0cC1vd2dpZy1tMA?oc=5",
+      "published": "2026-10-29T14:07:33.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）表示，布鲁诺·费尔南德斯（ Bruno Fernandes ）将以曼联队长身份回归对阵切"
     },
     {
       "id": "Simon Stone:CBMia0FVX3lxTE9MRVBLb1FuVFlqTjlLY0NEUjVMb0VBbVJMRl9ac1I4TFU5bWdrNFlGSkxwUXJvb096T05UMkVvaUFuR2dfb1BMQ1l6RTNxWlJFemhEY3VOcExCcE5KTTBUU3dhNlZRTVdZLXJV",
@@ -38532,18 +38568,6 @@
       "titleZh": "Michael Carrick: Why Man Utd are sticking with under-pressure manager - for now"
     },
     {
-      "id": "Laurie Whitwell:CBMilwFBVV95cUxNcTlBbzQ5WnlmZTRmZXdPUDlISmtBTWZyR21maEN0dGlGMGd4OGN1Y0U2cXJyTnhGOWZoQzBGTDFxMmt5MzU2WnNZMXctbmd6ZHF5TVhqVDF3cGxNZndtZFNBU0x5YTBhMHk0QU1BNzlUZzFnM2RqR3RhX2F6U1FVWG5uWm0tbjdSdUhkNnZEY3ZpcDVST3hJ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Michael Carrick to be given more time to turn Manchester United form around - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTlBbzQ5WnlmZTRmZXdPUDlISmtBTWZyR21maEN0dGlGMGd4OGN1Y0U2cXJyTnhGOWZoQzBGTDFxMmt5MzU2WnNZMXctbmd6ZHF5TVhqVDF3cGxNZndtZFNBU0x5YTBhMHk0QU1BNzlUZzFnM2RqR3RhX2F6U1FVWG5uWm0tbjdSdUhkNnZEY3ZpcDVST3hJ?oc=5",
-      "published": "2026-10-27T15:11:54.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）将有更多时间来扭转曼联的局面- The Athletic"
-    },
-    {
       "id": "Rob Dawson:CBMipwFBVV95cUxPeEM5ZjI0Q2tCcFRfNjFzbXhGSnJlNnFIbUZFR003Wmp3NEg4MTBhcFc0UDNtV3RodEN2N3NMaC1TSHpJeC1WOC01SUExMnVjSlBtNkxZcmE3ai02Z190cFAtV1pZQ1VteW81dkZfOXFFejkzZldQWm5HNWV1alVuM2pmWkkyRmtkSlpONmp0cDFfQW5ZWVoxbHpwaUJReko1NzlOM0NxSQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -38554,6 +38578,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeEM5ZjI0Q2tCcFRfNjFzbXhGSnJlNnFIbUZFR003Wmp3NEg4MTBhcFc0UDNtV3RodEN2N3NMaC1TSHpJeC1WOC01SUExMnVjSlBtNkxZcmE3ai02Z190cFAtV1pZQ1VteW81dkZfOXFFejkzZldQWm5HNWV1alVuM2pmWkkyRmtkSlpONmp0cDFfQW5ZWVoxbHpwaUJReko1NzlOM0NxSQ?oc=5",
       "published": "2026-10-27T13:17:00.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）将在不确定的未来中领导曼联对阵切尔西-消息来源"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE1WejZlMHYzWk1RVE1Kd1JqLXBHcnRCVENWU2htSEN6ZGdESU5KTHpoem9IVVZTVnBBSGR0MjllQVZWbkdubXJ5Rnl1TkNiWWNXVTVtY0ZVUDM3VktfX0VsRnVRMU1mSWNz",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Michael Carrick to stay in charge of Man Utd for Chelsea game",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WejZlMHYzWk1RVE1Kd1JqLXBHcnRCVENWU2htSEN6ZGdESU5KTHpoem9IVVZTVnBBSGR0MjllQVZWbkdubXJ5Rnl1TkNiWWNXVTVtY0ZVUDM3VktfX0VsRnVRMU1mSWNz?oc=5",
+      "published": "2026-10-27T12:10:21.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）将继续负责曼联的切尔西比赛"
     },
     {
       "id": "Laurie Whitwell:CBMijwFBVV95cUxPV18zZ0h5Z1RYRmNEZmdBWU5BaFk3NjVzOVl5Mk5fSUYtbWJsMG0yUHQ5eURPbzVRcnR0cW1Qb3l0bjY4b0VjQ2kzVDYyR0xBQjBMT2R1bXdEM1RlSXluOGl2bkJGQ0E1YXFHeF9sRVc2SXlhMVYzYmFYWXpfLWRGdjBKQXVkRnNQOXYtVDRHSQ",
@@ -38616,18 +38652,6 @@
       "titleZh": "法布里奇奥·罗马诺（ Fabrizio Romano ）证实了令人惊讶的故事，迈克尔·卡里克·曼（ Michael Carrick Man ）联盟（ Utd"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE55YWZYZW1vSDNaNmRodjQ1eElBR2hlQUFtbjFOSkR4NFQ2aFV4Y0dYbXR0V0tUQXNhcXNhdmpkeGNVN1NLa1Z1c1ktNWtta1N5cTNyaFROWUlheGo1V2xkejUxclRjdmRR",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United & Michael Carrick: Air of inevitability around manager's future but owners' problems far bigger",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55YWZYZW1vSDNaNmRodjQ1eElBR2hlQUFtbjFOSkR4NFQ2aFV4Y0dYbXR0V0tUQXNhcXNhdmpkeGNVN1NLa1Z1c1ktNWtta1N5cTNyaFROWUlheGo1V2xkejUxclRjdmRR?oc=5",
-      "published": "2026-10-25T21:24:21.000Z",
-      "titleZh": "曼联和迈克尔·卡里克：经理的未来不可避免，但业主的问题要大得多"
-    },
-    {
       "id": "James Ducker:CBMiqAFBVV95cUxOdjlkN2g3Y0RsaGFZd1RMNmg2RDdqQU91TmlxQUlZeFJlZ085OE9sNGlBVDkxbllXYnVQaXhBWDR0MFRNcENtVnhnQ1VpQjhBLXM1bXllS01iNnM2cmpBMU5GZTVKSWp4ZWhwVURCUWgyc2FnWkw2X1VtUXktOURfdGl1dk5qS0hnY0ktdmY3WjVPY1pZQ3VuVldkMHdvVmRWYmo0WW9sVmc",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -38674,33 +38698,9 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR2V0R0lMNHhQa09HQjdIRGFsdDY2YVJWWkdsQXZiWFZmellpVHpKVEs2ekQ0dU9odEUtbjJCWk83NEpGV01mbVh6OFRlYmtHZDlRTDRubjVZWjFUaFRtLUhINDB4U215SGVaeVlENnNsREtXSE85bzg2alRFb0NUYWl3?oc=5",
       "published": "2026-10-25T07:00:00.000Z",
       "titleZh": "Erik ten Hag专访：曼联违背“承诺” ，想要凯恩，罗纳尔多紧张，足总杯荣耀-田径"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTE5zTndabWh5QmpoazR2TVRZUmtoV0FPay1uYzJvMkVxamNnbFQ4TmFNSXNMeWlYLUJOYWs0T2JDazlLWkdObkwzb3JLdmR6S1ZMbUpIcVdWaEJZaVpuYUVid2xvN0F6Vlhy",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd not an unmanageable club says boss Michael Carrick",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zTndabWh5QmpoazR2TVRZUmtoV0FPay1uYzJvMkVxamNnbFQ4TmFNSXNMeWlYLUJOYWs0T2JDazlLWkdObkwzb3JLdmR6S1ZMbUpIcVdWaEJZaVpuYUVid2xvN0F6Vlhy?oc=5",
-      "published": "2026-10-24T21:34:19.000Z",
-      "titleZh": "曼联不是一个难以管理的俱乐部，老板迈克尔卡里克说"
-    },
-    {
-      "id": "James Ducker:CBMipgFBVV95cUxOVU11Zk00ZmVuOW50akRpLXJkd2haV2g3amxmSmVEWjRNa0VlWUZpbEFwd1BfaGQxdk9FQWl1N29VSmRJTURMZ1JGaDlnS0RYTVBKOXlDOG9NLTluS1M3djJudENlYXVnOThFSTNuWVIxTmVOWlA1OTdMb1JzcDN3d3BwRnJhT2lVQWdKYVhLNTBqR2M0cWJGTzB2V2FMeEJrWXozWHJB",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Michael Carrick: Man Utd are not unmanageable",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVU11Zk00ZmVuOW50akRpLXJkd2haV2g3amxmSmVEWjRNa0VlWUZpbEFwd1BfaGQxdk9FQWl1N29VSmRJTURMZ1JGaDlnS0RYTVBKOXlDOG9NLTluS1M3djJudENlYXVnOThFSTNuWVIxTmVOWlA1OTdMb1JzcDN3d3BwRnJhT2lVQWdKYVhLNTBqR2M0cWJGTzB2V2FMeEJrWXozWHJB?oc=5",
-      "published": "2026-10-24T21:30:00.000Z",
-      "titleZh": "迈克尔·卡里克：曼联并非难以管理"
     }
   ],
-  "journalistsUpdatedAt": "2026-10-31T14:54:19.918Z",
+  "journalistsUpdatedAt": "2026-10-31T19:14:19.829Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

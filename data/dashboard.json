@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:09:46.261Z",
+  "updatedAt": "2026-10-31T21:30:57.136Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -37649,8 +37649,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
       "goals": 4,
       "assists": 0,
-      "appearances": 8,
-      "minutes": 720
+      "appearances": 9,
+      "minutes": 810
     },
     {
       "id": "124091",
@@ -37659,8 +37659,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
       "goals": 3,
       "assists": 1,
-      "appearances": 7,
-      "minutes": 630
+      "appearances": 8,
+      "minutes": 720
     },
     {
       "id": "259902",
@@ -37669,8 +37669,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
       "goals": 1,
       "assists": 2,
-      "appearances": 8,
-      "minutes": 1444
+      "appearances": 9,
+      "minutes": 1510
     },
     {
       "id": "233937",
@@ -37679,8 +37679,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
       "goals": 1,
       "assists": 0,
-      "appearances": 7,
-      "minutes": 560
+      "appearances": 8,
+      "minutes": 650
     },
     {
       "id": "289155",
@@ -37709,8 +37709,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 6,
-      "minutes": 491
+      "appearances": 7,
+      "minutes": 549
     },
     {
       "id": "167127",
@@ -37735,96 +37735,96 @@
   ],
   "news": [
     {
-      "title": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
-      "published": "2026-10-31T10:40:56Z",
+      "title": "Transfer rumors, news: Man United look to Fulham's Bassey to bolster defense",
+      "published": "2026-10-31T18:39:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1739045_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：曼联用费尔南德斯取代费尔曼？"
     },
     {
-      "title": "Premier League live updates: Chelsea host Man United in early matchup",
-      "published": "2026-10-31T09:53:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50319491/premier-league-live-updates-chelsea-manchester-united-manchester-city-tottenham",
-      "image": "https://a.espncdn.com/photo/2026/1029/r1738205_1296x729_16-9.jpg",
-      "titleZh": "英超联赛现场更新：切尔西东道主曼联参加早期对决"
+      "title": "Ogden: Man Utd are in a relegation battle",
+      "published": "2026-10-31T16:23:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/50336815/man-utd-relegation-battle",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_Ogden_Man_Utd_are_in_a_relegation_battle/dm_261031_Ogden_Man_Utd_are_in_a_relegation_battle.jpg",
+      "titleZh": "奥格登：曼联正处于降级战中"
     },
     {
-      "title": "Andrey Santos names Man United player who impressed him in Chelsea clash",
-      "published": "2026-10-31T08:01:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50327080/andrey-santos-names-man-united-player-impressed-chelsea-clash",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738501_1296x729_16-9.jpg",
-      "titleZh": "安德烈·桑托斯（ Andrey Santos ）任命在切尔西冲突中给他留下深刻印象的曼联球"
+      "title": "Carrick takes 'positives' from Man United's first-half performance vs. Chelsea",
+      "published": "2026-10-31T15:51:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/50336534/carrick-takes-positives-man-united-first-half-performance-vs-chelsea",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_COM_SOC_Presser_Carrick_takes_E28098posi711/dm_261031_COM_SOC_Presser_Carrick_takes_E28098posi711.jpg",
+      "titleZh": "卡里克从曼联对阵切尔西的上半场表现中汲取了“积极因素”"
     },
     {
-      "title": "Michael Carrick: 'Hard truths' have been shared amid Man United slump",
-      "published": "2026-10-30T22:31:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329748/man-united-michael-carrick-coach-players-talks",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738651_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ） ：在曼联经济衰退期间分享了“严峻的事实”"
+      "title": "Nicol criticises Chelsea for not scoring more vs. 10-man United",
+      "published": "2026-10-31T15:24:27Z",
+      "url": "https://www.espn.com/video/clip/_/id/50336412/nicol-criticises-chelsea-not-scoring-more-vs-10-man-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_Nicol_criticises_Chelsea_for_not_scoring_more_vs_10_man_United/dm_261031_Nicol_criticises_Chelsea_for_not_scoring_more_vs_10_man_United.jpg",
+      "titleZh": "尼科尔批评切尔西没有比曼联10人多得分"
     },
     {
-      "title": "Burley: Alonso and Carrick both under pressure ahead of Man United-Chelsea clash",
-      "published": "2026-10-30T22:00:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50331086/alonso-carrick-pressure-ahead-man-united-chelsea-clash",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1030/dm_261030_BurleyAlonso_and_Carrick_both_under_pressure_ahead_of_Man_UnitedChelsea_clash/dm_261030_BurleyAlonso_and_Carrick_both_under_pressure_ahead_of_Man_UnitedChelsea_clash.jpg",
-      "titleZh": "伯利：在曼联-切尔西冲突之前，阿隆索和卡里克都承受着压力"
+      "title": "Man United implode at Chelsea; they are now in Premier League relegation battle",
+      "published": "2026-10-31T15:38:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50335264/man-united-implode-chelsea-in-premier-league-relegation-battle",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738924_1296x729_16-9.jpg",
+      "titleZh": "曼联在切尔西内爆；他们现在正处于英超降级战中"
     },
     {
-      "title": "Virgil van Dijk: Liverpool must 'take that risk' under Andoni Iraola playing style",
-      "published": "2026-10-30T17:30:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329062/virgil-van-dijk-liverpool-take-risk-andoni-iraola-playstyle",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738605_1296x729_16-9.jpg",
-      "titleZh": "维吉尔·范迪克（ Virgil van Dijk ） ：在安多尼·伊罗拉（ Andoni Iraola ）的比赛风格下，利物浦"
+      "title": "Nicol blames Martínez's red card on the defender's 'horrible decision making'",
+      "published": "2026-10-31T15:07:39Z",
+      "url": "https://www.espn.com/video/clip/_/id/50336290/nicol-blames-martinez-red-card-defender-horrible-decision-making",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1031/dm_261031_Nicol_blames_Martinezs_red_card_on_the_defenders_horrible_decision_making/dm_261031_Nicol_blames_Martinezs_red_card_on_the_defenders_horrible_decision_making.jpg",
+      "titleZh": "尼科尔将马丁内斯的红牌归咎于后卫的“糟糕决策”"
     },
     {
-      "title": "Are Man City fans right about a Premier League 'Red Cartel' that's out to get them?",
-      "published": "2026-10-30T17:01:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50321217/man-city-premier-league-red-cartel-allegation-liverpool-man-united-arsenal",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738598_1296x729_16-9.jpg",
-      "titleZh": "曼城球迷对英超联赛“红色卡特尔”的看法是否正确？"
+      "title": "Man United's Michael Carrick brushes off talk of Premier League relegation battle",
+      "published": "2026-10-31T15:42:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50336265/man-united-michael-carrick-brushes-talk-premier-league-relegation-battle",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738954_1296x729_16-9.jpg",
+      "titleZh": "曼联的迈克尔·卡里克（ Michael Carrick ）驳斥了关于英超降级战的言论"
     },
     {
-      "title": "Youri Tielemans backs Michael Carrick at Man United: 'We don't want a big change'",
-      "published": "2026-10-30T14:51:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50328168/youri-tielemans-backs-michael-carrick-man-united-want-big-change",
-      "image": "https://a.espncdn.com/photo/2026/0904/r1711293_1296x729_16-9.jpg",
-      "titleZh": "尤里·蒂勒曼斯（ Youri Tielemans ）在曼联（ Man United ）支持迈克尔·卡里克（ Michael Carrick ） ： “我们"
+      "title": "Bruno Fernandes returns to Man United XI for Chelsea clash",
+      "published": "2026-10-31T14:58:03Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334951/bruno-fernandes-returns-man-united-xi-chelsea-clash",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738889_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）因切尔西冲突重返曼联XI"
     },
     {
-      "title": "Global power ranking: The top 20 soccer teams in the world, ranked!",
-      "published": "2026-10-30T12:06:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50312487/top-20-soccer-teams-world-ranked",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738425_1296x729_16-9.jpg",
-      "titleZh": "全球力量排名：世界排名前20的足球队，排名！"
+      "title": "Michael Carrick on the brink as Man United lose at Chelsea",
+      "published": "2026-10-31T14:44:34Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879248",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738937_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克濒临灭绝，曼联在切尔西失利"
     },
     {
-      "title": "Man United Munich air disaster memorial vandalised",
-      "published": "2026-10-30T08:56:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50326324/man-united-munich-air-disaster-memorial-vandalised",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738489_1296x729_16-9.jpg",
-      "titleZh": "曼联慕尼黑空难纪念碑遭破坏"
+      "title": "Chelsea 2-0 Manchester United: Rogers, Palmer goals help hosts pile more pressure on Carrick - as it happened",
+      "published": "2026-10-31T15:09:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334307/chelsea-manchester-united-live-score-latest-updates-commentary-result-premier-league-2026-27",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738908_1296x729_16-9.jpg",
+      "titleZh": "切尔西2-0曼联：罗杰斯、帕尔默的目标帮助体验达人对卡里克施加更多压力"
     },
     {
-      "title": "Nicol: Carrick only at Manchester United because club has no solution",
-      "published": "2026-10-29T23:22:48Z",
-      "url": "https://www.espn.com/video/clip/_/id/50323003/carrick-only-manchester-united-club-no-solution",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1029/dm_261029_Nicol_Carrick_only_at_Manchester_United_because_club_has_no_solution/dm_261029_Nicol_Carrick_only_at_Manchester_United_because_club_has_no_solution.jpg",
-      "titleZh": "尼科尔：卡里克只在曼联，因为俱乐部没有解决方案"
+      "title": "Pressure piles on Michael Carrick as 10-man Man United lose at Chelsea",
+      "published": "2026-10-31T15:17:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50335664/pressure-piles-michael-carrick-10-man-man-united-lose-chelsea-report",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738928_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）因10人曼联在切尔西输球而承受压力"
     },
     {
-      "title": "Michael Carrick: Bruno Fernandes retains Man United captaincy",
-      "published": "2026-10-29T16:09:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50318019/bruno-fernandes-man-united-captaincy-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/1029/r1738057_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克：布鲁诺·费尔南德斯保留曼联队长职位"
+      "title": "Premier League VAR review: Did Lisandro Martinez deserve a red card?",
+      "published": "2026-10-31T15:13:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738915_1296x729_16-9.jpg",
+      "titleZh": "英超联赛VAR回顾： Lisandro Martinez是否应该得到红牌？"
     }
   ],
   "transfers": [
     {
-      "title": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
-      "published": "2026-10-31T10:40:56Z",
+      "title": "Transfer rumors, news: Man United look to Fulham's Bassey to bolster defense",
+      "published": "2026-10-31T18:39:41Z",
       "url": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
-      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1739045_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：曼联用费尔南德斯取代费尔曼？",
       "player": "",
       "status": "推进中",
@@ -38705,7 +38705,7 @@
     "league": {
       "formation": "4-3-3",
       "title": "英超预测首发",
-      "summary": "以最近一场英超对伯恩茅斯的已确认首发为基线，并优先排除官方伤缺球员。",
+      "summary": "以最近一场英超对切尔西的已确认首发为基线，并优先排除官方伤缺球员。",
       "players": [
         {
           "id": "301425",
@@ -38727,18 +38727,18 @@
           "role": "门将"
         },
         {
-          "id": "356044",
-          "name": "Ayden Heaven",
-          "nameZh": "艾登·赫文",
-          "shortName": "A. Heaven",
-          "shortNameZh": "赫文",
-          "jersey": "26",
+          "id": "233937",
+          "name": "Lisandro Martínez",
+          "nameZh": "利桑德罗·马丁内斯",
+          "shortName": "L. Martínez",
+          "shortNameZh": "利马",
+          "jersey": "6",
           "position": "Defender",
-          "age": 20,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1559639.png",
+          "age": 28,
+          "nationality": "Argentina",
+          "nationalityZh": "阿根廷",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -38803,42 +38803,23 @@
           "role": "右后卫"
         },
         {
-          "id": "193297",
-          "name": "Youri Tielemans",
-          "nameZh": "尤里·蒂勒曼斯",
-          "shortName": "Y. Tielemans",
-          "shortNameZh": "蒂勒曼斯",
-          "jersey": "18",
+          "id": "124091",
+          "name": "Bruno Fernandes",
+          "nameZh": "布鲁诺·费尔南德斯",
+          "shortName": "B. Fernandes",
+          "shortNameZh": "B费",
+          "jersey": "8",
           "position": "Midfielder",
-          "age": 29,
-          "nationality": "Belgium",
-          "nationalityZh": "比利时",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+          "age": 32,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
           "line": "DM",
           "role": "前腰"
-        },
-        {
-          "id": "338814",
-          "name": "Carlos Baleba",
-          "nameZh": "Carlos Baleba",
-          "shortName": "C. Baleba",
-          "shortNameZh": "Baleba",
-          "jersey": "20",
-          "position": "Midfielder",
-          "age": 22,
-          "nationality": "Cameroon",
-          "nationalityZh": "喀麦隆",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
-          "headshot": "",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "DM",
-          "role": "中场"
         },
         {
           "id": "314858",
@@ -38853,6 +38834,25 @@
           "nationalityZh": "巴西",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/1372921.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "DM",
+          "role": "中场"
+        },
+        {
+          "id": "338814",
+          "name": "Carlos Baleba",
+          "nameZh": "Carlos Baleba",
+          "shortName": "C. Baleba",
+          "shortNameZh": "Baleba",
+          "jersey": "20",
+          "position": "Midfielder",
+          "age": 22,
+          "nationality": "Cameroon",
+          "nationalityZh": "喀麦隆",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+          "headshot": "",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -38879,18 +38879,18 @@
           "role": "中锋"
         },
         {
-          "id": "231167",
-          "name": "Mason Mount",
-          "nameZh": "梅森·芒特",
-          "shortName": "M. Mount",
-          "shortNameZh": "芒特",
-          "jersey": "7",
-          "position": "Midfielder",
+          "id": "259902",
+          "name": "Matheus Cunha",
+          "nameZh": "马特乌斯·库尼亚",
+          "shortName": "M. Cunha",
+          "shortNameZh": "库尼亚",
+          "jersey": "10",
+          "position": "Forward",
           "age": 27,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/750032.png",
+          "nationality": "Brazil",
+          "nationalityZh": "巴西",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -38924,7 +38924,7 @@
         },
         {
           "label": "经验值",
-          "value": 77
+          "value": 80
         },
         {
           "label": "攻守平衡",

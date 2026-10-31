@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:38:10.514Z",
+  "updatedAt": "2026-10-31T12:25:33.531Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -36009,6 +36009,27 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
+      "published": "2026-10-31T10:40:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联用费尔南德斯取代费尔曼？"
+    },
+    {
+      "title": "Premier League live updates: Chelsea host Man United in early matchup",
+      "published": "2026-10-31T09:53:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50319491/premier-league-live-updates-chelsea-manchester-united-manchester-city-tottenham",
+      "image": "https://a.espncdn.com/photo/2026/1029/r1738205_1296x729_16-9.jpg",
+      "titleZh": "英超联赛现场更新：切尔西东道主曼联参加早期对决"
+    },
+    {
+      "title": "Andrey Santos names Man United player who impressed him in Chelsea clash",
+      "published": "2026-10-31T08:01:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50327080/andrey-santos-names-man-united-player-impressed-chelsea-clash",
+      "image": "https://a.espncdn.com/photo/2026/1030/r1738501_1296x729_16-9.jpg",
+      "titleZh": "安德烈·桑托斯（ Andrey Santos ）任命在切尔西冲突中给他留下深刻印象的曼联球"
+    },
+    {
       "title": "Michael Carrick: 'Hard truths' have been shared amid Man United slump",
       "published": "2026-10-30T22:31:03Z",
       "url": "https://www.espn.com/soccer/story/_/id/50329748/man-united-michael-carrick-coach-players-talks",
@@ -36070,30 +36091,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50318019/bruno-fernandes-man-united-captaincy-michael-carrick",
       "image": "https://a.espncdn.com/photo/2026/1029/r1738057_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克：布鲁诺·费尔南德斯保留曼联队长职位"
-    },
-    {
-      "title": "Michael Carrick: 'Not surprised' to still be Man United manager",
-      "published": "2026-10-29T16:10:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50318018/michael-carrick-not-surprised-man-united-manager",
-      "image": "https://a.espncdn.com/photo/2026/1029/r1738055_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ） ：仍然担任曼联主帅“一点也不"
-    },
-    {
-      "title": "Is Alonso under pressure after Chelsea's defeat vs. Liverpool?",
-      "published": "2026-10-29T13:24:10Z",
-      "url": "https://www.espn.com/video/clip/_/id/50317804/is-alonso-pressure-chelsea-defeat-vs-liverpool",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1029/dm_261029_COM_SOC_Analysis_Is_Alonso_under_pressure_after_ChelseaE28099s_defeat_vs_Liverpool3F__GLOBAL_2026-10-29/dm_261029_COM_SOC_Analysis_Is_Alonso_under_pressure_after_ChelseaE28099s_defeat_vs_Liverpool3F__GLOBAL_2026-10-29.jpg",
-      "titleZh": "在切尔西对阵利物浦的比赛失利后，阿隆索是否承受着压力？"
-    },
-    {
-      "title": "Former Man United midfielder Herrera on City breaches: 'Damage irreparable'",
-      "published": "2026-10-29T13:07:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50317639/ex-man-united-herrera-man-city-breaches-damage-irreparable",
-      "image": "https://a.espncdn.com/photo/2015/0404/soc_g_herrera11_1296x729.jpg",
-      "titleZh": "前曼联中场埃雷拉在城市违规： “伤害无法挽回”"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
+      "published": "2026-10-31T10:40:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
+      "image": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联用费尔南德斯取代费尔曼？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "301425",
@@ -36533,7 +36544,7 @@
       "shortNameZh": "拉什福德",
       "jersey": "9",
       "position": "Forward",
-      "age": 28,
+      "age": 29,
       "nationality": "England",
       "nationalityZh": "英格兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",

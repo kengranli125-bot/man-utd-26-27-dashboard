@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:00:09.621Z",
+  "updatedAt": "2026-11-01T13:20:43.018Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -37735,6 +37735,13 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Man United meltdown edition. Who has been linked?",
+      "published": "2026-11-01T10:14:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50346336/transfer-rumors-news-man-united-meltdown-edition-linked",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739399_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联崩溃版。谁已关联？"
+    },
+    {
       "title": "Man United's relegation fears grow in loss to Chelsea",
       "published": "2026-10-31T23:30:55Z",
       "url": "https://www.espn.com/video/clip/_/id/50341482/man-united-relegation-fears-grow-loss-chelsea",
@@ -37810,16 +37817,19 @@
       "url": "http://www.espn.com/soccer/report/_/gameId/401879248",
       "image": "https://a.espncdn.com/photo/2026/1031/r1738937_1296x729_16-9.jpg",
       "titleZh": "迈克尔·卡里克濒临灭绝，曼联在切尔西失利"
-    },
-    {
-      "title": "Chelsea 2-0 Manchester United: Rogers, Palmer goals help hosts pile more pressure on Carrick - as it happened",
-      "published": "2026-10-31T15:09:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50334307/chelsea-manchester-united-live-score-latest-updates-commentary-result-premier-league-2026-27",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738908_1296x729_16-9.jpg",
-      "titleZh": "切尔西2-0曼联：罗杰斯、帕尔默的目标帮助体验达人对卡里克施加更多压力"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United meltdown edition. Who has been linked?",
+      "published": "2026-11-01T10:14:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50346336/transfer-rumors-news-man-united-meltdown-edition-linked",
+      "image": "https://a.espncdn.com/photo/2026/1101/r1739399_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联崩溃版。谁已关联？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Man United look to Fulham's Bassey to bolster defense",
       "published": "2026-10-31T18:39:41Z",

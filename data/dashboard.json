@@ -38422,6 +38422,30 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMisAFBVV95cUxQei1sM2lIM1ZGQUVrLU5PRjBuOVVlMHUzZDVEaDFhVUFWekRSNWRNWENGVTFTLUhMdC0zblVYUEV5TEhQSl8wcE1mTURvN0FfNk1nYnVfeDI5VUNLdm1oSXFiZkl6SDJvRmF2MTR1UjMwam1hY3hrc0JrNjFqS2M1ellJbXN1Mm1jMkVRaC1QYnhfMDAwWWw1SnFMVnNZdVRVU2hwa291UGxyNFluZlZfOA",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Lisandro Martinez was stupid and selfish against Chelsea",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQei1sM2lIM1ZGQUVrLU5PRjBuOVVlMHUzZDVEaDFhVUFWekRSNWRNWENGVTFTLUhMdC0zblVYUEV5TEhQSl8wcE1mTURvN0FfNk1nYnVfeDI5VUNLdm1oSXFiZkl6SDJvRmF2MTR1UjMwam1hY3hrc0JrNjFqS2M1ellJbXN1Mm1jMkVRaC1QYnhfMDAwWWw1SnFMVnNZdVRVU2hwa291UGxyNFluZlZfOA?oc=5",
+      "published": "2026-11-01T02:00:00.000Z",
+      "titleZh": "利桑德罗·马丁内斯对切尔西是愚蠢和自私的"
+    },
+    {
+      "id": "David Ornstein:CBMimAFBVV95cUxOZk1QQzJXQV93V2Nha1RrbHNDRy1XYWJ5WmNBa0VIcmh4TGI4QmNPUHIyNGI5dzRULUdMLXE0SmNfd3E1dGhNb2pRRjN1S2hHVXdoSVZ3WFdIX1JwN1RHTDRSbWFJTVBlSlY0Z2N2bXVleEhvbXRuOFNLV3lwWFBaUmZHOHFFbmNQOTZNa3JwNTRKcllFRmp4Zw",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Aston Villa to initiate legal action against Jamie Carragher for ‘unacceptable insults’",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk1QQzJXQV93V2Nha1RrbHNDRy1XYWJ5WmNBa0VIcmh4TGI4QmNPUHIyNGI5dzRULUdMLXE0SmNfd3E1dGhNb2pRRjN1S2hHVXdoSVZ3WFdIX1JwN1RHTDRSbWFJTVBlSlY0Z2N2bXVleEhvbXRuOFNLV3lwWFBaUmZHOHFFbmNQOTZNa3JwNTRKcllFRmp4Zw?oc=5",
+      "published": "2026-11-01T00:30:00.000Z",
+      "titleZh": "阿斯顿维拉将对Jamie Carragher的“不可接受的侮辱”提起法律诉讼"
+    },
+    {
       "id": "Simon Stone:CBMiaEFVX3lxTE9SelltR2NXV0t6UjVoT0ItQ1V5NEFqQmNYOThtanFGRjlZX3ZpZjdjX1pJZEhaZDAza3QyVExzRkhHc1F4WW9PeFdNMzhfSi01XzhMUlQzNU9idUQ0N1J0NUpzd0RiVEZ5",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -38442,7 +38466,7 @@
       "tier": 1,
       "title": "What do Manchester United do now? Is there a plan? - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkc0R01vazE5MXRISHN3VWg0M2dJVFRLRnNkN0JobHNOZHFDSjZiT0RaOUVScHAyVGpBd3U4ZlVTam5ZbGRubzRNSFNyOW5jd29zdDB2Z2lBT0NVZkVCa2pWbVkxSjVDLVBLd3F1V0ctNXhQSDNwTW0tMWdrQktyWGc4MjlWTlYyTzJSZUt5Slp4R092LVFNNkdQcHJlMkxLY0VDeTdreEczdw?oc=5",
-      "published": "2026-10-31T19:22:42.000Z",
+      "published": "2026-10-31T18:47:00.000Z",
       "titleZh": "曼联现在做什么？有什么计划吗？ - The Athletic"
     },
     {
@@ -38458,18 +38482,6 @@
       "titleZh": "利桑德罗·马丁内斯：曼联后卫因昂贵的红牌而受到谴责"
     },
     {
-      "id": "Chris Wheeler:CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Chelsea 2-0 Manchester United PLAYER RATINGS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM?oc=5",
-      "published": "2026-10-31T14:56:36.000Z",
-      "titleZh": "切尔西2-0曼联球员评分"
-    },
-    {
       "id": "Fabrizio Romano:CBMirAFBVV95cUxPdW1jOFl2WFR0NV96MU9panZ6WGNJdmtOZTdUOFlBOENSc280Z29xWUZrQy1ZSXlNY191U0xockhPcXNmSnFCVjFGTmU4YzJtSHVfbEdUSHJyS2dqN2VVRUwzaUc4ME1NUW8xdVNMRXU3bENmcmoxQzdwMWViZXM5UmliNFY5UUtya3JxRmlTaFZQaW11ZVJWQi1Dc0xiMzNnRmUwVWlKTTlYbjEz",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -38480,18 +38492,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW1jOFl2WFR0NV96MU9panZ6WGNJdmtOZTdUOFlBOENSc280Z29xWUZrQy1ZSXlNY191U0xockhPcXNmSnFCVjFGTmU4YzJtSHVfbEdUSHJyS2dqN2VVRUwzaUc4ME1NUW8xdVNMRXU3bENmcmoxQzdwMWViZXM5UmliNFY5UUtya3JxRmlTaFZQaW11ZVJWQi1Dc0xiMzNnRmUwVWlKTTlYbjEz?oc=5",
       "published": "2026-10-31T13:43:43.000Z",
       "titleZh": "法布里奇奥·罗马诺确认曼联前锋狩猎与£ 1亿超级巨星挂钩"
-    },
-    {
-      "id": "David Ornstein:CBMimAFBVV95cUxOZk1QQzJXQV93V2Nha1RrbHNDRy1XYWJ5WmNBa0VIcmh4TGI4QmNPUHIyNGI5dzRULUdMLXE0SmNfd3E1dGhNb2pRRjN1S2hHVXdoSVZ3WFdIX1JwN1RHTDRSbWFJTVBlSlY0Z2N2bXVleEhvbXRuOFNLV3lwWFBaUmZHOHFFbmNQOTZNa3JwNTRKcllFRmp4Zw",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Aston Villa to initiate legal action against Jamie Carragher for ‘unacceptable insults’",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk1QQzJXQV93V2Nha1RrbHNDRy1XYWJ5WmNBa0VIcmh4TGI4QmNPUHIyNGI5dzRULUdMLXE0SmNfd3E1dGhNb2pRRjN1S2hHVXdoSVZ3WFdIX1JwN1RHTDRSbWFJTVBlSlY0Z2N2bXVleEhvbXRuOFNLV3lwWFBaUmZHOHFFbmNQOTZNa3JwNTRKcllFRmp4Zw?oc=5",
-      "published": "2026-10-30T22:30:25.000Z",
-      "titleZh": "阿斯顿维拉将对Jamie Carragher的“不可接受的侮辱”提起法律诉讼"
     },
     {
       "id": "Fabrizio Romano:CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc",
@@ -38542,18 +38542,6 @@
       "titleZh": "考虑到利兹的Dominic Calvert-Lewin - The Athletic ，曼联正在探索1月份的前锋转会"
     },
     {
-      "id": "Laurie Whitwell:CBMipAFBVV95cUxOMGY4N1NlNC14QlpkLWxBNkJtYWZIS2ZzaGJPXzhTNUZFVXBaQVZxVUNlcG5Ua05mOWp4TTgzTUxFMS0ydkZkeVBhSFR1TVRaZHNaMEhHWUduUHowR0xqSUdaLUc1TTNla1A4dEE1R2pwVlA1dElEb2ZqRHFEcGJxZ2Jleko4dDJQdWtEcHRsTkdOc3I4bWUtWVp0cC1vd2dpZy1tMA",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Bruno Fernandes set to return as Manchester United captain against Chelsea, Michael Carrick says",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGY4N1NlNC14QlpkLWxBNkJtYWZIS2ZzaGJPXzhTNUZFVXBaQVZxVUNlcG5Ua05mOWp4TTgzTUxFMS0ydkZkeVBhSFR1TVRaZHNaMEhHWUduUHowR0xqSUdaLUc1TTNla1A4dEE1R2pwVlA1dElEb2ZqRHFEcGJxZ2Jleko4dDJQdWtEcHRsTkdOc3I4bWUtWVp0cC1vd2dpZy1tMA?oc=5",
-      "published": "2026-10-29T14:07:33.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）表示，布鲁诺·费尔南德斯（ Bruno Fernandes ）将以曼联队长身份回归对阵切"
-    },
-    {
       "id": "Chris Wheeler:CBMitAJBVV95cUxOR0JRYnA3ckhBY1lSS1hoQkpIVC1IZGttWHhpM2toTENWOFBDbmR2a3JCYmhMNGNJZE1yYlZyNWFKWjF5S3Q0Q1J3eF9MYUFBZVFHZ3dpZlMxbXBZNmtRVzhPUFhZVDAxMW1hVEZId0RvcWFyMjBheHF5d0RMcWpJbjE3SERqZVVybllVQ2VTdnh1bkQyMko5aHhfMWtVSk9ySy1FWVZNZFVKRUZKT3JVWHdPaHpaQTl1Nl9tcm5iZHNRdXZVSDV1dFRYdVFaZjFBM044YkFMdk9BS1V5SnBUNy14THJwUmJPeHA4UXBIVFlkZUY2aWpmRlhteFBJcHltSEhWa1NLR2prOHU1T3pTT01sZE5tRGtmSlE4dHJoVTBrV1ljVWo4anhrWGFoalVzWk40cdIBugJBVV95cUxQaDc5V2RWQlBWellWTlhzOTRTWEJKaVRud29tTERObFlGQzFZN0RIVkNna1ZNRVg2bE9wNFJ0OVNsTm5PRDN2NzdYOF9pMFhjSGJIcmRSbWZ1NnZiaGlCeGhBOFZUb3BVQmZVeFlOTWxXME05THBiNlFibUtVemNMZXBLRVBkUjA1U3JfaXJMSlAtTGpXQVJ6RW90TlpTZWwxbDNZWndBV0Q0dHQyMVlUWTZMUUZlVHJhcG5ZMWR6T3QzbXlIMFp6SEh0RHRVVnFGNk9oMHhZT0pqZVhGT0F6ZmtaVXFMM2hhUDgyNEFqWVozS3JNd1MwZGRkTFgwMkRVVWw2bUVhY1d3Y0g3QU5xamhBNlNLX2VCTUd2Qk1EQXJ3RldvZTJQTm5Nd0VrYUUxbXBnZVQ0Vm4tZw",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -38588,6 +38576,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFJXU3V6RzFLZDYwWFdiZ3NqYjlUd2VvQ3JabzRQZHF0Ym1tZjBMMTI5Tzh0TmNJai1QVmozc3dCTW1ERTQxd2V6cEhOVllaaGdORVMwVFRYazhzeGtSRWpTMzdJT014d3E0em9CT2o1dktMUlNtLXdoakJsV1dSUkFjcC1jSlRRaVNrMlV1ajgzLXVGN3hZdXpiQk5YT3Blb1ow?oc=5",
       "published": "2026-10-27T15:33:00.000Z",
       "titleZh": "跛脚鸭卡里克的困境与索尔斯克亚的死亡有着令人毛骨悚然的相似之处"
+    },
+    {
+      "id": "Laurie Whitwell:CBMilwFBVV95cUxNcTlBbzQ5WnlmZTRmZXdPUDlISmtBTWZyR21maEN0dGlGMGd4OGN1Y0U2cXJyTnhGOWZoQzBGTDFxMmt5MzU2WnNZMXctbmd6ZHF5TVhqVDF3cGxNZndtZFNBU0x5YTBhMHk0QU1BNzlUZzFnM2RqR3RhX2F6U1FVWG5uWm0tbjdSdUhkNnZEY3ZpcDVST3hJ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Michael Carrick to be given more time to turn Manchester United form around - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTlBbzQ5WnlmZTRmZXdPUDlISmtBTWZyR21maEN0dGlGMGd4OGN1Y0U2cXJyTnhGOWZoQzBGTDFxMmt5MzU2WnNZMXctbmd6ZHF5TVhqVDF3cGxNZndtZFNBU0x5YTBhMHk0QU1BNzlUZzFnM2RqR3RhX2F6U1FVWG5uWm0tbjdSdUhkNnZEY3ZpcDVST3hJ?oc=5",
+      "published": "2026-10-27T15:11:54.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）将有更多时间来扭转曼联的局面- The Athletic"
     },
     {
       "id": "Rob Dawson:CBMipwFBVV95cUxPeEM5ZjI0Q2tCcFRfNjFzbXhGSnJlNnFIbUZFR003Wmp3NEg4MTBhcFc0UDNtV3RodEN2N3NMaC1TSHpJeC1WOC01SUExMnVjSlBtNkxZcmE3ai02Z190cFAtV1pZQ1VteW81dkZfOXFFejkzZldQWm5HNWV1alVuM2pmWkkyRmtkSlpONmp0cDFfQW5ZWVoxbHpwaUJReko1NzlOM0NxSQ",
@@ -38710,7 +38710,7 @@
       "titleZh": "无论谁是经理，曼联都会被表现不佳的球员困住"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-01T08:05:37.637Z",
+  "journalistsUpdatedAt": "2026-11-01T15:03:31.705Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

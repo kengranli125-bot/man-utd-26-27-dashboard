@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T00:56:33.906Z",
+  "updatedAt": "2026-11-03T14:10:35.113Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -37735,6 +37735,13 @@
   ],
   "news": [
     {
+      "title": "Melchiot: Martínez would leave Manchester United with his head down",
+      "published": "2026-11-02T23:54:01Z",
+      "url": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down.jpg",
+      "titleZh": "梅尔基奥特：马丁内斯会低着头离开曼联"
+    },
+    {
       "title": "Transfer rumors, news: Both Manchester clubs eye move for USMNT's Freeman",
       "published": "2026-11-02T20:26:25Z",
       "url": "https://www.espn.com/soccer/story/_/id/50356555/transfer-rumors-news-real-madrid-manchester-united-jj-gabriel",
@@ -37743,7 +37750,7 @@
     },
     {
       "title": "Carrick 'can't wait' for Roma game and disregards sack talk",
-      "published": "2026-11-02T20:25:28Z",
+      "published": "2026-11-02T23:54:07Z",
       "url": "https://www.espn.com/video/clip/_/id/50360639/carrick-wait-roma-game-disregards-sack-talk",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk.jpg",
       "titleZh": "卡里克“等不及”罗马比赛，无视解雇谈话"
@@ -37810,27 +37817,9 @@
       "url": "https://www.espn.com/video/clip/_/id/50348491/ronaldo-was-juventus",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1101/dm_261101_COM_SOC_INTERVIEW_Ten_Hag_Ronaldos_time_was_over_at_Juventus_2026_11_1/dm_261101_COM_SOC_INTERVIEW_Ten_Hag_Ronaldos_time_was_over_at_Juventus_2026_11_1.jpg",
       "titleZh": "Ten Hag ：罗纳尔多的时间在尤文图斯“结束”了"
-    },
-    {
-      "title": "Transfer rumors, news: Man United meltdown edition. Balogun the latest to be linked",
-      "published": "2026-11-01T15:11:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50346336/transfer-rumors-news-man-united-meltdown-edition-linked",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739399_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联崩溃版。谁已关联？"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United meltdown edition. Balogun the latest to be linked",
-      "published": "2026-11-01T15:11:54Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50346336/transfer-rumors-news-man-united-meltdown-edition-linked",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739399_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联崩溃版。谁已关联？",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",

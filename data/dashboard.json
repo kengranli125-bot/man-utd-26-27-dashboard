@@ -40268,16 +40268,64 @@
   ],
   "journalists": [
     {
-      "id": "Chris Wheeler:CBMi2AFBVV95cUxNM3dMVTFLUWhoVDlqakNjSXF0RTNHTEFINVJnWThqMkxFWFZyeWZja3AzTnJ2Z3BGYWV5Z0FPWGdCV0ZYVHhQUWoxSnlST2Ftc3VfbDZiN2Ztcl9GTmt0SkpoU05qNTRmYkRDakJFZXhNWkhSNjZVb1F3V09XQTJYTmI4M0VjNTJmZV92WmppSUphVGZhd3E4dlJ1RGxrSW5LOFdqRTBFTGNKemhYcnRPaHU1c2k5TWF4Z3I2Y1RDR3dRR0tHLWFQS3R2SEg1eGl4VlZ1QWRBNDU",
+      "id": "Simon Stone:CBMia0FVX3lxTE9xRVJBV01ucGxrSWtyZTBxc2gzNFFQekI2SF9BZmpMdXdTSlh1c0h5X2xLVHY1azEzOTV1TzlockhUcUFEZXdSZ2hRdFJFNVp4ZzItUTlvamlUU1dLR2JFYVNfRWE2QU85VTRF",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "JJ Gabriel: Real Madrid confident of signing Manchester United forward",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xRVJBV01ucGxrSWtyZTBxc2gzNFFQekI2SF9BZmpMdXdTSlh1c0h5X2xLVHY1azEzOTV1TzlockhUcUFEZXdSZ2hRdFJFNVp4ZzItUTlvamlUU1dLR2JFYVNfRWE2QU85VTRF?oc=5",
+      "published": "2026-11-04T09:15:15.000Z",
+      "titleZh": "JJ加布里埃尔：皇家马德里有信心签下曼联前锋"
+    },
+    {
+      "id": "Fabrizio Romano:CBMi3gFBVV95cUxOaEpoaHkxQk91Wnl1MTdjY29McVFjQk11enlJNXl2eGFnTWlDLXp3VDNsNHp4TUdlOGxfT3BZNVVmOFR1LUJLcWhXT29JUWtaZ3hxS2hvUkxzUXZsNUgyMHE4dlN0VGdaYVB5SzhMNFZjQlFXNWR4cWpicFVMRlZPYktWeThxUFFGdVA2RVQ4SDBPellDZkRhbkd5QXIyMHFwblBub0tncW9UX1VreEgzbl9UOWNlWkhwd2pMR3VYc0Y1Ml9vS0FUQk1CRFNvMjVycTdwRExpblNmN0lBNUE",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "LiveScore",
+      "tier": 1,
+      "title": "Inside Man Utd: Romano reveals impact of Roma win on Carrick, Cunha and Bruno",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEpoaHkxQk91Wnl1MTdjY29McVFjQk11enlJNXl2eGFnTWlDLXp3VDNsNHp4TUdlOGxfT3BZNVVmOFR1LUJLcWhXT29JUWtaZ3hxS2hvUkxzUXZsNUgyMHE4dlN0VGdaYVB5SzhMNFZjQlFXNWR4cWpicFVMRlZPYktWeThxUFFGdVA2RVQ4SDBPellDZkRhbkd5QXIyMHFwblBub0tncW9UX1VreEgzbl9UOWNlWkhwd2pMR3VYc0Y1Ml9vS0FUQk1CRFNvMjVycTdwRExpblNmN0lBNUE?oc=5",
+      "published": "2026-11-04T08:53:06.000Z",
+      "titleZh": "曼联内幕：罗马诺揭示罗马胜利对卡里克、库尼亚和布鲁诺的影响"
+    },
+    {
+      "id": "Chris Wheeler:CBMi9AFBVV95cUxNZzM4SC0zT21sR2h5TWJhbER6OFJma1JOM2VSZk93U2g5dFE5eEJ5YVZ2N3YwZTRfSHNGdXdsWkkxQ0J4SVNhQWpCUVJaMDZDeTdHeUxJUFBaYlhaazVIRWFnVWNhN0ZSV1E1aVNjcGlVM0RRZFIyemdjMjBfWnpOMWhPeGdRUXVfaXEwU2k3SGpRbllJc0pCVW1LNGxxUzFxUDJra2NIUnRnUkUxYjJIbTluRlE3b1lrcVNTc3pzZ3pCQUNJYWIybTExanVITVI4R2s2bEY0X0hGR2RTMlNHOUNZQ2V4RlR6OGpZNG00LU9OMHNZ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
       "reporterOutlet": "每日邮报曼联跟队",
       "source": "Daily Mail",
       "tier": 2,
-      "title": "Michael Carrick escorts red-carded Matheus Cunha down tunnel",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3dMVTFLUWhoVDlqakNjSXF0RTNHTEFINVJnWThqMkxFWFZyeWZja3AzTnJ2Z3BGYWV5Z0FPWGdCV0ZYVHhQUWoxSnlST2Ftc3VfbDZiN2Ztcl9GTmt0SkpoU05qNTRmYkRDakJFZXhNWkhSNjZVb1F3V09XQTJYTmI4M0VjNTJmZV92WmppSUphVGZhd3E4dlJ1RGxrSW5LOFdqRTBFTGNKemhYcnRPaHU1c2k5TWF4Z3I2Y1RDR3dRR0tHLWFQS3R2SEg1eGl4VlZ1QWRBNDU?oc=5",
-      "published": "2026-11-03T23:55:06.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）护送红牌马修斯·库尼亚（ Matheus Cunha ）下"
+      "title": "Man United's Roma comeback may not be enough, writes CHRIS WHEELER",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZzM4SC0zT21sR2h5TWJhbER6OFJma1JOM2VSZk93U2g5dFE5eEJ5YVZ2N3YwZTRfSHNGdXdsWkkxQ0J4SVNhQWpCUVJaMDZDeTdHeUxJUFBaYlhaazVIRWFnVWNhN0ZSV1E1aVNjcGlVM0RRZFIyemdjMjBfWnpOMWhPeGdRUXVfaXEwU2k3SGpRbllJc0pCVW1LNGxxUzFxUDJra2NIUnRnUkUxYjJIbTluRlE3b1lrcVNTc3pzZ3pCQUNJYWIybTExanVITVI4R2s2bEY0X0hGR2RTMlNHOUNZQ2V4RlR6OGpZNG00LU9OMHNZ?oc=5",
+      "published": "2026-11-04T07:31:01.000Z",
+      "titleZh": "克里斯·惠勒（ CHRIS WHEELER ）写道，曼联的罗马复出可能还不够"
+    },
+    {
+      "id": "Laurie Whitwell:CBMiowFBVV95cUxQOWhQSk1CTkZlbVRzY3ktWGhjM2E3LWZUV1hPVDUydGdfWTNGMms1b2lSU3JQYzlaMEhJc20wb0wxdkw2LU5kWG1vVEpremJIY1VCR2dEOUpFR1hQZFhuYUJxNkl0OFFIQXNnTzB6WUZKTGhvYVlGZE51aEpsN2hGOUx5dnhXb2phNF82amJGQ1A3aDJHWGlEVDZzSXZvTVUwaGVr",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Jason Wilcox, the director of football under intense scrutiny at Manchester United - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWhQSk1CTkZlbVRzY3ktWGhjM2E3LWZUV1hPVDUydGdfWTNGMms1b2lSU3JQYzlaMEhJc20wb0wxdkw2LU5kWG1vVEpremJIY1VCR2dEOUpFR1hQZFhuYUJxNkl0OFFIQXNnTzB6WUZKTGhvYVlGZE51aEpsN2hGOUx5dnhXb2phNF82amJGQ1A3aDJHWGlEVDZzSXZvTVUwaGVr?oc=5",
+      "published": "2026-11-04T03:13:00.000Z",
+      "titleZh": "曼联足球总监杰森·威尔科克斯（ Jason Wilcox ）受到严格审查"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE1ZX2hWaGhRRVEzaXQ0ajFLcW5qM2VwRWZYU0V6TlNtV21rd1JPYVpXM3dKTGNnRjdBWHphVGk5MUVUSHJhSXhMeU1rNHlOZjVhUVUyQVdSOThMakxqT3pHSUVnY0lOWjFR",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd 3-2 Roma: Michael Carrick fights on after Red Devils' comeback win",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZX2hWaGhRRVEzaXQ0ajFLcW5qM2VwRWZYU0V6TlNtV21rd1JPYVpXM3dKTGNnRjdBWHphVGk5MUVUSHJhSXhMeU1rNHlOZjVhUVUyQVdSOThMakxqT3pHSUVnY0lOWjFR?oc=5",
+      "published": "2026-11-04T00:27:37.000Z",
+      "titleZh": "曼联3-2罗马：迈克尔·卡里克在红魔复出胜利后继续战斗"
     },
     {
       "id": "Rob Dawson:CBMiqAFBVV95cUxNZl9jZUxZa2RPQVJFZ1lfSmtabk9TNjNYZmJEcVBVYWhua2gzX2wwc2VHenI1UjQ4YVJPY2VKTXVGcnRSYU93bnYwS2FyalA2VlpBNGRZUXEyWlVEVFg0emdKNGFNWWNYZ3ZKamVQbF9kMEVNaU9FVWRlU2JYNDNYOW9aYXFUTWVQLUpKdjdtNmRWQUF4VG9DVnBlT1o4NDdhZkZBQkdEd1M",
@@ -40292,28 +40340,28 @@
       "titleZh": "曼联的冠军联赛复出是否挽救了卡里克的工作？"
     },
     {
-      "id": "Rob Dawson:CBMipAFBVV95cUxQTkRRR05FYldSSjNvUEl3RVJVVmU3eW5CYW9VVnJuS3FDTlk0aVJTcDlMOWtQR2pWckl0UlB6QUhZNEJFMmxtLXprRGZtWkRodWZxLXJ2THhhWncxbHVobUVENXU1U3dYMHA4bVRKQ2xzUGhYZFpVd2Q4MG9lZmY4N0Y5bDV6NHMzcldXUk9QbmIzZUx1Nk9TeklsQ0pSYk5iZnBkRw",
+      "id": "Rob Dawson:CBMirAFBVV95cUxQSEdxcGpXQlFKTVoxWXZ1c1JLOVZhak01dnlCX0VhWUl2SURNTmxxdUVlTm1tcTVwQVk5OFZLWEdFVzhsYl9USmF0bDNrNU5lWDdqelVrVGdqRGFpaXNPLUxCX2s4dVdmMTdmZlp6U1ZnTVhyYnhvbFN4M0VYYW1nUl9uRDE3bmhFQmFVa01RbGhCYWdVUVQ3akVUZ05Jd0tTT0RLT1ZzTHJYdFdt",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
-      "title": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkRRR05FYldSSjNvUEl3RVJVVmU3eW5CYW9VVnJuS3FDTlk0aVJTcDlMOWtQR2pWckl0UlB6QUhZNEJFMmxtLXprRGZtWkRodWZxLXJ2THhhWncxbHVobUVENXU1U3dYMHA4bVRKQ2xzUGhYZFpVd2Q4MG9lZmY4N0Y5bDV6NHMzcldXUk9QbmIzZUx1Nk9TeklsQ0pSYk5iZnBkRw?oc=5",
-      "published": "2026-11-03T19:37:00.000Z",
-      "titleZh": "马丁内斯在切尔西挣扎后，因罗马冲突降至曼联替补席"
+      "title": "Man United fans throw tennis balls on field before stunning comeback",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEdxcGpXQlFKTVoxWXZ1c1JLOVZhak01dnlCX0VhWUl2SURNTmxxdUVlTm1tcTVwQVk5OFZLWEdFVzhsYl9USmF0bDNrNU5lWDdqelVrVGdqRGFpaXNPLUxCX2s4dVdmMTdmZlp6U1ZnTVhyYnhvbFN4M0VYYW1nUl9uRDE3bmhFQmFVa01RbGhCYWdVUVQ3akVUZ05Jd0tTT0RLT1ZzTHJYdFdt?oc=5",
+      "published": "2026-11-03T21:38:08.000Z",
+      "titleZh": "曼联球迷在令人惊叹的复出之前在场上投掷网球"
     },
     {
-      "id": "Laurie Whitwell:CBMiowFBVV95cUxQOWhQSk1CTkZlbVRzY3ktWGhjM2E3LWZUV1hPVDUydGdfWTNGMms1b2lSU3JQYzlaMEhJc20wb0wxdkw2LU5kWG1vVEpremJIY1VCR2dEOUpFR1hQZFhuYUJxNkl0OFFIQXNnTzB6WUZKTGhvYVlGZE51aEpsN2hGOUx5dnhXb2phNF82amJGQ1A3aDJHWGlEVDZzSXZvTVUwaGVr",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
+      "id": "James Ducker:CBMipAFBVV95cUxQY1diQVNVdWJOVVdtUEF5WDM1bHJydmlya1F6MkxGc1V5NlpMV0sxOGoyREFPYUxBTXdTNmlvaDZfYVhuM1RtUk5uNTZGUXpJZ3Z6aUdMWUN4RFVtVnFyRktYeEk2dmxVaFNuTDU2X1dhNjNSYWhWUzMtREJaaHczX2dGTjJlNXVzaENsZ3h0MGlnd2NEcnptTHVFRXJseUlkV1lWZw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
       "tier": 1,
-      "title": "Jason Wilcox, the director of football under intense scrutiny at Manchester United - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWhQSk1CTkZlbVRzY3ktWGhjM2E3LWZUV1hPVDUydGdfWTNGMms1b2lSU3JQYzlaMEhJc20wb0wxdkw2LU5kWG1vVEpremJIY1VCR2dEOUpFR1hQZFhuYUJxNkl0OFFIQXNnTzB6WUZKTGhvYVlGZE51aEpsN2hGOUx5dnhXb2phNF82amJGQ1A3aDJHWGlEVDZzSXZvTVUwaGVr?oc=5",
-      "published": "2026-11-03T12:11:00.000Z",
-      "titleZh": "曼联足球总监杰森·威尔科克斯（ Jason Wilcox ）受到严格审查"
+      "title": "Fernandes hits out at ‘lies’ over Carrick rift",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1diQVNVdWJOVVdtUEF5WDM1bHJydmlya1F6MkxGc1V5NlpMV0sxOGoyREFPYUxBTXdTNmlvaDZfYVhuM1RtUk5uNTZGUXpJZ3Z6aUdMWUN4RFVtVnFyRktYeEk2dmxVaFNuTDU2X1dhNjNSYWhWUzMtREJaaHczX2dGTjJlNXVzaENsZ3h0MGlnd2NEcnptTHVFRXJseUlkV1lWZw?oc=5",
+      "published": "2026-11-03T20:59:00.000Z",
+      "titleZh": "费尔南德斯在卡里克裂缝上打出“谎言”"
     },
     {
       "id": "James Ducker:CBMiowFBVV95cUxOVGN1WWVtZ2hnYUVxR1J5WElWaUx3TFNQYnBhMk5lemNfZmw2Z19CS3YzSXJDNkNqN1ZvQ2tEcFRVT0pSVnZHTEdyRXRuR1FsRERDN3F4bkdtcWd4OTJsNl81NVllTF9FcnF3U1lwQXlRQXN0SlllVFZJaDJ6SlcxdHp5SktDNW9wZFVwYnNpRUdWUXlOay1JYktUZGZSMXZOQXFn",
@@ -40388,18 +40436,6 @@
       "titleZh": "大卫·奥恩斯坦透露，曼联球员是迈克尔·卡里克没有被解雇的原因"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE5ENEFlVFRMd0dPWFlxMkdPYmJyczlYNGRkMXdUX3hXVmhYcW5nSmtGczhkTU4yVFlRMDhrRGlSMTcxSUJBUDZjUllFN25jaDJoOWhCcGQtMzNJMi1qX0R1dXhXVjRDZHN3",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd analysis: Are Man Utd in relegation trouble?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ENEFlVFRMd0dPWFlxMkdPYmJyczlYNGRkMXdUX3hXVmhYcW5nSmtGczhkTU4yVFlRMDhrRGlSMTcxSUJBUDZjUllFN25jaDJoOWhCcGQtMzNJMi1qX0R1dXhXVjRDZHN3?oc=5",
-      "published": "2026-11-01T12:29:57.000Z",
-      "titleZh": "曼联分析：曼联有降级麻烦吗？"
-    },
-    {
       "id": "Simon Stone:CBMiaEFVX3lxTE9SelltR2NXV0t6UjVoT0ItQ1V5NEFqQmNYOThtanFGRjlZX3ZpZjdjX1pJZEhaZDAza3QyVExzRkhHc1F4WW9PeFdNMzhfSi01XzhMUlQzNU9idUQ0N1J0NUpzd0RiVEZ5",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -40424,14 +40460,14 @@
       "titleZh": "曼联现在做什么？有什么计划吗？ - The Athletic"
     },
     {
-      "id": "Simon Stone:CBMia0FVX3lxTFBFUTJJNVEzMmxkREhwM2xwNS1qUklMbzNiVHdhRDU1a0J4dHlOTDlKMGJZY0pmdnlaZGtwRzZxd1FJMHpnZVVUclBxTms2NVA1c0RZemx5cVB5UkN5UVJMU1lPMGcyVXNreFN3",
+      "id": "Simon Stone:CBMiaEFVX3lxTE9MWXRwSXFqOV9Nay1TQ3ZleW55RXJibTdKTXVJdlNNcHdiSEVQY0FfOWZoM0Z4bTA3N0lSV1VCQ1BqZFVLYzFIYTZrNUpRZXVxNHJ3bEpiR0M2bnFzUl9SUFRXLXJiU0gt",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "Lisandro Martinez: Manchester United defender condemned for costly red card",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFUTJJNVEzMmxkREhwM2xwNS1qUklMbzNiVHdhRDU1a0J4dHlOTDlKMGJZY0pmdnlaZGtwRzZxd1FJMHpnZVVUclBxTms2NVA1c0RZemx5cVB5UkN5UVJMU1lPMGcyVXNreFN3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MWXRwSXFqOV9Nay1TQ3ZleW55RXJibTdKTXVJdlNNcHdiSEVQY0FfOWZoM0Z4bTA3N0lSV1VCQ1BqZFVLYzFIYTZrNUpRZXVxNHJ3bEpiR0M2bnFzUl9SUFRXLXJiU0gt?oc=5",
       "published": "2026-10-31T16:38:15.000Z",
       "titleZh": "利桑德罗·马丁内斯：曼联后卫因昂贵的红牌而受到谴责"
     },
@@ -40446,18 +40482,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM?oc=5",
       "published": "2026-10-31T14:56:36.000Z",
       "titleZh": "切尔西2-0曼联球员评分"
-    },
-    {
-      "id": "Fabrizio Romano:CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "LiveScore",
-      "tier": 1,
-      "title": "Man Utd Transfer News Today: Fermin Lopez targeted as Romano confirms January signing",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc?oc=5",
-      "published": "2026-10-30T21:13:10.000Z",
-      "titleZh": "曼联今日转会新闻：费尔明·洛佩兹（ Fermin Lopez ）因罗马诺（ Romano ）确认1月签约"
     },
     {
       "id": "Fabrizio Romano:CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4",
@@ -40530,33 +40554,9 @@
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPbFdLR2stbWk2eU5iVGd0djZSdDBSeXlucDhOTEZZMl9EVFdvY3M4UENmQXpxYW9hcktPbFZmYjluOE94M1BWS0tFN0l4T0FSeFNWSU4tcEloQ1VmRExJZmxKYTZDX3hYb2ZRdkZfdWdRejRlR0FMUWxSQjJINzFHLUt5ZkNGLWF4LXdVbmd4aFY0MkRZZXgxa0pYZzgzQ3g1U0FGeFpQaWVlY1I2QzZ2Y3VIM3ZRbkt2dG5tZjZId3NJRDBKVnZZZWtORldGQ1dwV0JrR0E0VzR2OXNkMVFKMXgzNFVfWXBCNWQwOS1rOWN5WUMxaDA5WW53YU1maVAyTEYyQzNfbGhnd3pVdDJEMnV5NENvUVlFNUtRbkFwVEV0R2ZXVXlVNEpwSE9WMGRwZFI3YWdZS2l3aUw4VzJj?oc=5",
       "published": "2026-10-29T14:02:26.000Z",
       "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ）在清晰的会谈后继续担任曼联队长"
-    },
-    {
-      "id": "Fabrizio Romano:CBMi8gFBVV95cUxOcFlueEdUOGNBc3NSVzRBSkhsTDNKNWQzbERsSmNNNDMzcDNsZnhzelR2R2lFd1JjYkNkQ2w3eW81anBfVmUzTXlqRG5vT3ZRc3VCY0x2bWpHSkpvX0UtbGZHUy1kRXhOaTRodGNuQi1PbWJRdVUxSzQ2Wjkta09iQzFrVkdMblZVenlXb2JsTjVhQVFsd0xya1VpY3pGUU41OEhkT2dBWDZhR1ZCTFhqMUtPbHRsakEyUEFoRlRPdkwybFUzbjRoZlNTajBCaTJVT0JHcm0xdnE2STEtTjdQOW5pYlBKaUtUQ0Nzd2NKT0w0Zw",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yardbarker",
-      "tier": 1,
-      "title": "Fabrizio Romano reveals what happened between Bruno Fernandes and Michael Carrick behind the scenes",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFlueEdUOGNBc3NSVzRBSkhsTDNKNWQzbERsSmNNNDMzcDNsZnhzelR2R2lFd1JjYkNkQ2w3eW81anBfVmUzTXlqRG5vT3ZRc3VCY0x2bWpHSkpvX0UtbGZHUy1kRXhOaTRodGNuQi1PbWJRdVUxSzQ2Wjkta09iQzFrVkdMblZVenlXb2JsTjVhQVFsd0xya1VpY3pGUU41OEhkT2dBWDZhR1ZCTFhqMUtPbHRsakEyUEFoRlRPdkwybFUzbjRoZlNTajBCaTJVT0JHcm0xdnE2STEtTjdQOW5pYlBKaUtUQ0Nzd2NKT0w0Zw?oc=5",
-      "published": "2026-10-29T01:09:38.000Z",
-      "titleZh": "Fabrizio Romano揭示了Bruno Fernandes和Michael Carrick在幕后发生的事情"
-    },
-    {
-      "id": "James Ducker:CBMiowFBVV95cUxOUnJkRzZtOFJ1TXgwRlhrU1VRem1WMThkSWhNdm1xeVE2bEJ6bDJOaDRUZ1ktV25XMFpOQUg0a213anc4cExFaVJXcExQV3I1SUsyZUxnOU9zcndOSkVLYjF4WlZZdV9OZlpwOENJX1U0dGt3TElHTGJzcllvX280QkJhQzdQYnowRUhVZXZuSWpaenJPNXVJYnFUeTYxU3l2dURF",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Fernandes ready to start against Chelsea after Carrick peace talks",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnJkRzZtOFJ1TXgwRlhrU1VRem1WMThkSWhNdm1xeVE2bEJ6bDJOaDRUZ1ktV25XMFpOQUg0a213anc4cExFaVJXcExQV3I1SUsyZUxnOU9zcndOSkVLYjF4WlZZdV9OZlpwOENJX1U0dGt3TElHTGJzcllvX280QkJhQzdQYnowRUhVZXZuSWpaenJPNXVJYnFUeTYxU3l2dURF?oc=5",
-      "published": "2026-10-28T13:01:00.000Z",
-      "titleZh": "费尔南德斯准备在卡里克和谈后开始对阵切尔西"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-04T02:41:35.318Z",
+  "journalistsUpdatedAt": "2026-11-04T09:58:43.769Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

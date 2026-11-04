@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:39:20.949Z",
+  "updatedAt": "2026-11-04T06:17:34.747Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39602,18 +39602,74 @@
   ],
   "news": [
     {
-      "title": "Man United vs. Roma LIVE: Champions League updates as Carrick's side trail 2-0, booed off at halftime",
-      "published": "2026-11-03T20:50:33Z",
+      "title": "Manchester United stage dream comeback at Old Trafford",
+      "published": "2026-11-04T00:44:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/50373872/manchester-united-stage-dream-comeback-old-trafford",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/Int_261103_Soccer_UCL_Highlight_Manchester_United_stage_dream_comeback_at_Old_Trafford_2026114_AUS_ONLY/Int_261103_Soccer_UCL_Highlight_Manchester_United_stage_dream_comeback_at_Old_Trafford_2026114_AUS_ONLY.jpg",
+      "titleZh": "曼联老特拉福德舞台梦幻复出"
+    },
+    {
+      "title": "Michael Carrick: Man United comeback win over Roma 'an important night'",
+      "published": "2026-11-03T23:52:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50373345/michael-carrick-man-united-comeback-win-roma-important-night",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740783_1296x729_16-9.jpg",
+      "titleZh": "迈克尔·卡里克：曼联复出战胜罗马“重要之夜”"
+    },
+    {
+      "title": "Burley: Hard to tell if Man United were good or Roma were bad",
+      "published": "2026-11-03T23:49:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/50373456/hard-tell-man-united-were-good-roma-were-bad",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/dm_261103_COM_SOC_ANALYSIS_Burley_Hard_to_tell_if_Man_United_were_good_or_Roma_were_bad_2026_11_3/dm_261103_COM_SOC_ANALYSIS_Burley_Hard_to_tell_if_Man_United_were_good_or_Roma_were_bad_2026_11_3.jpg",
+      "titleZh": "伯利：很难判断曼联是好还是罗马不好"
+    },
+    {
+      "title": "Moreno: Man United deserve credit for their second-half response",
+      "published": "2026-11-03T23:48:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/50373450/man-united-deserve-credit-their-second-half-response",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/dm_261103_COM_SOC_ANALYSIS_Moreno_Man_United_deserve_credit_for_their_second-half_response_2026_11_3/dm_261103_COM_SOC_ANALYSIS_Moreno_Man_United_deserve_credit_for_their_second-half_response_2026_11_3.jpg",
+      "titleZh": "Moreno ：曼联的下半场回应值得称赞"
+    },
+    {
+      "title": "Bruno Fernandes: Michael Carrick was right to drop me from Man United XI",
+      "published": "2026-11-03T23:52:49Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50373037/bruno-fernandes-michael-carrick-right-drop-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740771_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ） ：迈克尔·卡里克（ Michael Carrick ）把我从曼"
+    },
+    {
+      "title": "Champions League recap: Cunha leads Man United in comeback win vs. Roma",
+      "published": "2026-11-04T04:45:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740732_1296x729_16-9.jpg",
+      "titleZh": "欧洲冠军联赛现场更新：罗马罢工两次超过曼联，巴萨领先别墅"
+    },
+    {
+      "title": "Did Man United's Champions League comeback save Carrick's job?",
+      "published": "2026-11-03T23:47:02Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740756_1296x729_16-9.jpg",
+      "titleZh": "曼联的冠军联赛复出是否挽救了卡里克的工作？"
+    },
+    {
+      "title": "Cunha double inspires incredible Manchester United comeback against Roma",
+      "published": "2026-11-03T22:40:03Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915308",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740745_1296x729_16-9.jpg",
+      "titleZh": "库尼亚双人赛激发了曼联对罗马令人难以置信的复出"
+    },
+    {
+      "title": "Man United 3-2 Roma: Cunha brace completes memorable Champions League comeback for Carrick's side - as it happened",
+      "published": "2026-11-03T23:11:01Z",
       "url": "https://www.espn.com/soccer/story/_/id/50370296/man-united-vs-roma-live-champions-league-latest-updates-score-results-commentary",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740656_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740724_1296x729_16-9.jpg",
       "titleZh": "曼联vs罗马现场直播：欧洲冠军联赛更新，卡里克的边路2-0 ，在中场休息时被嘘"
     },
     {
-      "title": "Champions League live updates: Roma strike twice past Man United, Barça lead Villa",
-      "published": "2026-11-03T20:27:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740657_1296x729_16-9.jpg",
-      "titleZh": "欧洲冠军联赛现场更新：罗马罢工两次超过曼联，巴萨领先别墅"
+      "title": "Man United fans throw tennis balls on field before stunning comeback",
+      "published": "2026-11-04T00:22:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50371927/man-united-fans-throw-tennis-balls-field-show-discontent",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740703_1296x729_16-9.jpg",
+      "titleZh": "曼联球迷在令人惊叹的复出之前在场上投掷网球"
     },
     {
       "title": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea",
@@ -39628,62 +39684,6 @@
       "url": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down.jpg",
       "titleZh": "梅尔基奥特：马丁内斯会低着头离开曼联"
-    },
-    {
-      "title": "Transfer rumors, news: Both Manchester clubs eye move for USMNT's Freeman",
-      "published": "2026-11-02T20:26:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50356555/transfer-rumors-news-real-madrid-manchester-united-jj-gabriel",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740188_1296x729_16-9.jpg",
-      "titleZh": "转会谣言，新闻：皇家马德里相信曼联的加布里埃尔将为他们签约"
-    },
-    {
-      "title": "Carrick 'can't wait' for Roma game and disregards sack talk",
-      "published": "2026-11-02T23:54:07Z",
-      "url": "https://www.espn.com/video/clip/_/id/50360639/carrick-wait-roma-game-disregards-sack-talk",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk/dm_261102_Carrick_cant_wait_for_Roma_game_and_disregards_sack_talk.jpg",
-      "titleZh": "卡里克“等不及”罗马比赛，无视解雇谈话"
-    },
-    {
-      "title": "Carrick: 'No concerns' about Lisandro Martinez's commitment",
-      "published": "2026-11-02T15:00:06Z",
-      "url": "https://www.espn.com/video/clip/_/id/50358531/no-concerns-lisandro-martinez-commitment",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Carrick_No_concerns_about_Lisandro_Martinezs_commitment/dm_261102_Carrick_No_concerns_about_Lisandro_Martinezs_commitment.jpg",
-      "titleZh": "Carrick ：对Lisandro Martinez的承诺“无忧无虑”"
-    },
-    {
-      "title": "Michael Carrick has 'no concerns' over Lisandro Martínez's commitment",
-      "published": "2026-11-02T18:05:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50358373/michael-carrick-no-concerns-lisandro-martinez-commitment-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740048_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）对利桑德罗·马丁内斯（ Lisandro Martíne"
-    },
-    {
-      "title": "Arsenal got a big win at Liverpool, but why no Isak penalty?",
-      "published": "2026-11-02T14:19:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50355016/marcotti-musings-analysis-premier-league-arsenal-liverpool-isak-var-penalty-milan-derby-carrick",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740013_1296x729_16-9.jpg",
-      "titleZh": "阿森纳在利物浦取得了巨大的胜利，但为什么没有Isak点球？"
-    },
-    {
-      "title": "Patrick Dorgu returns to Man United training ahead of Roma clash",
-      "published": "2026-11-02T12:34:40Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50357589/patrick-dorgu-returns-man-united-training-ahead-roma-clash",
-      "image": "https://a.espncdn.com/photo/2026/0928/r1722854_1296x729_16-9.jpg",
-      "titleZh": "帕特里克·多古（ Patrick Dorgu ）在罗马冲突之前重返曼联训练"
-    },
-    {
-      "title": "Why Man United are so bad at hiring managers post-Ferguson",
-      "published": "2026-11-02T13:56:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50356886/manchester-united-managers-post-alex-ferguson-michael-carrick-jose-mourinho",
-      "image": "https://a.espncdn.com/photo/2026/1102/r1740000_1296x729_16-9.jpg",
-      "titleZh": "为什么曼联在弗格森之后对招聘经理如此不擅长"
-    },
-    {
-      "title": "Premier League VAR review: Liverpool denied a penalty vs. Arsenal?",
-      "published": "2026-11-01T21:00:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739598_1296x864_3-2.png",
-      "titleZh": "英超联赛VAR回顾：利物浦否认对阿森纳的点球？"
     }
   ],
   "transfers": [],

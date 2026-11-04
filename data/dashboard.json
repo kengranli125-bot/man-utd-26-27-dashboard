@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:17:34.747Z",
+  "updatedAt": "2026-11-04T19:43:35.149Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39053,11 +39053,24 @@
       "points": 12
     },
     {
+      "id": "86",
+      "name": "Real Madrid",
+      "nameZh": "Real Madrid",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "position": 2,
+      "played": 4,
+      "wins": 4,
+      "draws": 0,
+      "losses": 0,
+      "goalDifference": 6,
+      "points": 12
+    },
+    {
       "id": "83",
       "name": "Barcelona",
       "nameZh": "Barcelona",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "position": 2,
+      "position": 3,
       "played": 4,
       "wins": 3,
       "draws": 0,
@@ -39070,7 +39083,7 @@
       "name": "Aston Villa",
       "nameZh": "阿斯顿维拉",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "position": 3,
+      "position": 4,
       "played": 4,
       "wins": 3,
       "draws": 0,
@@ -39083,25 +39096,12 @@
       "name": "Liverpool",
       "nameZh": "利物浦",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "position": 4,
-      "played": 3,
-      "wins": 3,
-      "draws": 0,
-      "losses": 0,
-      "goalDifference": 5,
-      "points": 9
-    },
-    {
-      "id": "86",
-      "name": "Real Madrid",
-      "nameZh": "Real Madrid",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
       "position": 5,
-      "played": 3,
+      "played": 4,
       "wins": 3,
       "draws": 0,
-      "losses": 0,
-      "goalDifference": 5,
+      "losses": 1,
+      "goalDifference": 4,
       "points": 9
     },
     {
@@ -39274,11 +39274,24 @@
       "points": 6
     },
     {
+      "id": "436",
+      "name": "Fenerbahce",
+      "nameZh": "Fenerbahce",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+      "position": 19,
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "losses": 1,
+      "goalDifference": -5,
+      "points": 5
+    },
+    {
       "id": "104",
       "name": "AS Roma",
       "nameZh": "AS Roma",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "position": 19,
+      "position": 20,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -39291,7 +39304,7 @@
       "name": "Shakhtar Donetsk",
       "nameZh": "Shakhtar Donetsk",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-      "position": 20,
+      "position": 21,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -39304,7 +39317,7 @@
       "name": "PSV Eindhoven",
       "nameZh": "PSV Eindhoven",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-      "position": 21,
+      "position": 22,
       "played": 3,
       "wins": 1,
       "draws": 1,
@@ -39317,7 +39330,7 @@
       "name": "Atlético Madrid",
       "nameZh": "马德里竞技",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "position": 22,
+      "position": 23,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -39330,7 +39343,7 @@
       "name": "Bodo/Glimt",
       "nameZh": "Bodo/Glimt",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-      "position": 23,
+      "position": 24,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -39343,7 +39356,7 @@
       "name": "Napoli",
       "nameZh": "Napoli",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "position": 24,
+      "position": 25,
       "played": 3,
       "wins": 1,
       "draws": 0,
@@ -39356,7 +39369,7 @@
       "name": "Sabah FK",
       "nameZh": "Sabah FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-      "position": 25,
+      "position": 26,
       "played": 3,
       "wins": 1,
       "draws": 0,
@@ -39369,25 +39382,12 @@
       "name": "Lens",
       "nameZh": "Lens",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "position": 26,
-      "played": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "goalDifference": -4,
-      "points": 3
-    },
-    {
-      "id": "887",
-      "name": "AEK Athens",
-      "nameZh": "AEK Athens",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
       "position": 27,
       "played": 3,
       "wins": 1,
       "draws": 0,
       "losses": 2,
-      "goalDifference": -5,
+      "goalDifference": -4,
       "points": 3
     },
     {
@@ -39417,30 +39417,30 @@
       "points": 3
     },
     {
+      "id": "887",
+      "name": "AEK Athens",
+      "nameZh": "AEK Athens",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
+      "position": 30,
+      "played": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "goalDifference": -6,
+      "points": 3
+    },
+    {
       "id": "142",
       "name": "Feyenoord Rotterdam",
       "nameZh": "Feyenoord Rotterdam",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-      "position": 30,
+      "position": 31,
       "played": 4,
       "wins": 1,
       "draws": 0,
       "losses": 3,
       "goalDifference": -7,
       "points": 3
-    },
-    {
-      "id": "436",
-      "name": "Fenerbahce",
-      "nameZh": "Fenerbahce",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-      "position": 31,
-      "played": 3,
-      "wins": 0,
-      "draws": 2,
-      "losses": 1,
-      "goalDifference": -6,
-      "points": 2
     },
     {
       "id": "494",
@@ -39602,6 +39602,48 @@
   ],
   "news": [
     {
+      "title": "Man United fans throwing tennis balls is part of soccer's rich history of supporter protests",
+      "published": "2026-11-04T13:45:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
+      "titleZh": "曼联球迷投掷网球是足球支持者抗议活动的丰富历史的一部分"
+    },
+    {
+      "title": "Two-goal hero Matheus Cunha hopes Roma win is turning point for Man United",
+      "published": "2026-11-04T15:17:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50378007/hero-matheus-cunha-roma-win-turning-point-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1103/r1740724_1296x729_16-9.jpg",
+      "titleZh": "两球英雄马修斯·库尼亚希望罗马的胜利成为曼联的转折点"
+    },
+    {
+      "title": "Diogo Dalot: 'Everyone' at Man United should be feeling under pressure",
+      "published": "2026-11-04T12:00:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740904_1296x729_16-9.jpg",
+      "titleZh": "迪奥戈·达洛特（ Diogo Dalot ） ：曼联的“每个人”都应该感到压力"
+    },
+    {
+      "title": "Carlos Baleba injury 'doesn't look great' - Man United boss Michael Carrick",
+      "published": "2026-11-04T11:01:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377477/carlos-baleba-injury-man-united-champions-league-premier-league-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
+      "titleZh": "卡洛斯·巴莱巴受伤“看起来不太好” -曼联老板迈克尔·卡里克"
+    },
+    {
+      "title": "JJ Gabriel close to joining Real Madrid - sources",
+      "published": "2026-11-04T17:30:10Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
+      "image": "https://a.espncdn.com/photo/2026/0512/r1657348_1296x729_16-9.jpg",
+      "titleZh": "JJ Gabriel即将加入皇家马德里-消息来源"
+    },
+    {
+      "title": "Carrick 'not getting carried away' after Man United's win vs. Roma",
+      "published": "2026-11-04T08:34:09Z",
+      "url": "https://www.espn.com/video/clip/_/id/50376716/carrick-not-getting-carried-away-man-united-win-vs-roma",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1104/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO/dm_261104_COM_SOC_Presser_Carrick_not_getting_carried_away_after_Man_Uniteds_win_vs_Roma_20261104_GLO.jpg",
+      "titleZh": "在曼联对罗马的胜利之后，卡里克“没有被带走”"
+    },
+    {
       "title": "Manchester United stage dream comeback at Old Trafford",
       "published": "2026-11-04T00:44:41Z",
       "url": "https://www.espn.com/video/clip/_/id/50373872/manchester-united-stage-dream-comeback-old-trafford",
@@ -39631,7 +39673,7 @@
     },
     {
       "title": "Bruno Fernandes: Michael Carrick was right to drop me from Man United XI",
-      "published": "2026-11-03T23:52:49Z",
+      "published": "2026-11-04T12:39:48Z",
       "url": "https://www.espn.com/soccer/story/_/id/50373037/bruno-fernandes-michael-carrick-right-drop-man-united",
       "image": "https://a.espncdn.com/photo/2026/1103/r1740771_1296x729_16-9.jpg",
       "titleZh": "布鲁诺·费尔南德斯（ Bruno Fernandes ） ：迈克尔·卡里克（ Michael Carrick ）把我从曼"
@@ -39642,48 +39684,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
       "image": "https://a.espncdn.com/photo/2026/1103/r1740732_1296x729_16-9.jpg",
       "titleZh": "欧洲冠军联赛现场更新：罗马罢工两次超过曼联，巴萨领先别墅"
-    },
-    {
-      "title": "Did Man United's Champions League comeback save Carrick's job?",
-      "published": "2026-11-03T23:47:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50372373/did-man-united-champions-league-comeback-save-carrick-job",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740756_1296x729_16-9.jpg",
-      "titleZh": "曼联的冠军联赛复出是否挽救了卡里克的工作？"
-    },
-    {
-      "title": "Cunha double inspires incredible Manchester United comeback against Roma",
-      "published": "2026-11-03T22:40:03Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401915308",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740745_1296x729_16-9.jpg",
-      "titleZh": "库尼亚双人赛激发了曼联对罗马令人难以置信的复出"
-    },
-    {
-      "title": "Man United 3-2 Roma: Cunha brace completes memorable Champions League comeback for Carrick's side - as it happened",
-      "published": "2026-11-03T23:11:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50370296/man-united-vs-roma-live-champions-league-latest-updates-score-results-commentary",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740724_1296x729_16-9.jpg",
-      "titleZh": "曼联vs罗马现场直播：欧洲冠军联赛更新，卡里克的边路2-0 ，在中场休息时被嘘"
-    },
-    {
-      "title": "Man United fans throw tennis balls on field before stunning comeback",
-      "published": "2026-11-04T00:22:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50371927/man-united-fans-throw-tennis-balls-field-show-discontent",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740703_1296x729_16-9.jpg",
-      "titleZh": "曼联球迷在令人惊叹的复出之前在场上投掷网球"
-    },
-    {
-      "title": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea",
-      "published": "2026-11-03T19:46:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50371059/lisandro-martinez-man-united-roma-dropped-red-card",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740631_1296x729_16-9.jpg",
-      "titleZh": "马丁内斯在切尔西挣扎后，因罗马冲突降至曼联替补席"
-    },
-    {
-      "title": "Melchiot: Martínez would leave Manchester United with his head down",
-      "published": "2026-11-02T23:54:01Z",
-      "url": "https://www.espn.com/video/clip/_/id/50362045/martinez-leave-manchester-united-head-down",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down/dm_261102_Melchiot_Martinez_would_leave_Manchester_United_with_his_head_down.jpg",
-      "titleZh": "梅尔基奥特：马丁内斯会低着头离开曼联"
     }
   ],
   "transfers": [],
@@ -39769,9 +39769,9 @@
       "nationalityZh": "葡萄牙",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
     },
     {
       "id": "239350",
@@ -40041,9 +40041,9 @@
       "nationalityZh": "喀麦隆",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
       "headshot": "",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
+      "statusType": "out",
+      "statusLabel": "伤缺/观察",
+      "availabilityScore": 38
     },
     {
       "id": "241468",
@@ -40621,18 +40621,18 @@
           "role": "中后卫"
         },
         {
-          "id": "238902",
-          "name": "Diogo Dalot",
-          "nameZh": "迪奥戈·达洛特",
-          "shortName": "D. Dalot",
-          "shortNameZh": "达洛特",
-          "jersey": "2",
+          "id": "239350",
+          "name": "Noussair Mazraoui",
+          "nameZh": "努赛尔·马兹拉维",
+          "shortName": "N. Mazraoui",
+          "shortNameZh": "马兹拉维",
+          "jersey": "3",
           "position": "Defender",
-          "age": 27,
-          "nationality": "Portugal",
-          "nationalityZh": "葡萄牙",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
+          "age": 28,
+          "nationality": "Morocco",
+          "nationalityZh": "摩洛哥",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -40697,18 +40697,18 @@
           "role": "中场"
         },
         {
-          "id": "338814",
-          "name": "Carlos Baleba",
-          "nameZh": "Carlos Baleba",
-          "shortName": "C. Baleba",
-          "shortNameZh": "Baleba",
-          "jersey": "20",
+          "id": "231167",
+          "name": "Mason Mount",
+          "nameZh": "梅森·芒特",
+          "shortName": "M. Mount",
+          "shortNameZh": "芒特",
+          "jersey": "7",
           "position": "Midfielder",
-          "age": 22,
-          "nationality": "Cameroon",
-          "nationalityZh": "喀麦隆",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
-          "headshot": "",
+          "age": 27,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/750032.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -40780,7 +40780,7 @@
         },
         {
           "label": "经验值",
-          "value": 80
+          "value": 82
         },
         {
           "label": "攻守平衡",
@@ -41195,18 +41195,18 @@
           "role": "中后卫"
         },
         {
-          "id": "238902",
-          "name": "Diogo Dalot",
-          "nameZh": "迪奥戈·达洛特",
-          "shortName": "D. Dalot",
-          "shortNameZh": "达洛特",
-          "jersey": "2",
+          "id": "239350",
+          "name": "Noussair Mazraoui",
+          "nameZh": "努赛尔·马兹拉维",
+          "shortName": "N. Mazraoui",
+          "shortNameZh": "马兹拉维",
+          "jersey": "3",
           "position": "Defender",
-          "age": 27,
-          "nationality": "Portugal",
-          "nationalityZh": "葡萄牙",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
+          "age": 28,
+          "nationality": "Morocco",
+          "nationalityZh": "摩洛哥",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,

@@ -40279,6 +40279,42 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMia0FVX3lxTFBRZnkydWFuMXRDeENvbEN4dFp3SXRadGo4Wjg3LVBFV3BzVFVKZlJOSTk2MzVqVDV6SmxlM1VWYnVpQkV3dEJtWWJpMjZHMUkzeDUyVkRSMXZlSVQ3NWVBUF9BektKX0R0czdj",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Manchester United need time - will Michael Carrick get it?",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRZnkydWFuMXRDeENvbEN4dFp3SXRadGo4Wjg3LVBFV3BzVFVKZlJOSTk2MzVqVDV6SmxlM1VWYnVpQkV3dEJtWWJpMjZHMUkzeDUyVkRSMXZlSVQ3NWVBUF9BektKX0R0czdj?oc=5",
+      "published": "2026-11-06T16:21:54.000Z",
+      "titleZh": "曼联新闻：曼联需要时间--迈克尔·卡里克会得到时间吗？"
+    },
+    {
+      "id": "Simon Stone:CBMia0FVX3lxTE1VVU1OYWtrU0V6OWZhb1FPM2U2VVBIcW1ONHJVZElFcWswMVM1elZ0ejBqX3pEVkdVekZ2bXVpaGZkSEVIOHg4SWc4M0VDdmJVRnA1WFVSTHR0NUZzMmtMdlIyY1VIeWdNeWFN",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Can players deliver successive wins for Michael Carrick?",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VVU1OYWtrU0V6OWZhb1FPM2U2VVBIcW1ONHJVZElFcWswMVM1elZ0ejBqX3pEVkdVekZ2bXVpaGZkSEVIOHg4SWc4M0VDdmJVRnA1WFVSTHR0NUZzMmtMdlIyY1VIeWdNeWFN?oc=5",
+      "published": "2026-11-06T11:44:07.000Z",
+      "titleZh": "曼联新闻：玩家可以为迈克尔·卡里克连续获胜吗？"
+    },
+    {
+      "id": "Fabrizio Romano:CBMiqAFBVV95cUxQbVp0UkVKWTY0WmZYQ1VpZS1vZDBZV2I3bE1FOEdua0tEMXlDSnBjaXRtQlFVTW9xNENuV2V2OFVwZzJ0bzBibklhN2RBR3VocnQ3OHJXX05QcVBmSEVsRlBSbFgzdjJlcV93YVl5QVhGZkF1ZEtUTFNpZ0RwQlNtYzRJUzZhSW5JSzZCT3I4a01jTnFZWHA1Y2dCMDNzanVLWXVvYjBuZGk",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd: Fabrizio Romano reveals real reason for Unai Emery final verdict on replacing Michael Carrick",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVp0UkVKWTY0WmZYQ1VpZS1vZDBZV2I3bE1FOEdua0tEMXlDSnBjaXRtQlFVTW9xNENuV2V2OFVwZzJ0bzBibklhN2RBR3VocnQ3OHJXX05QcVBmSEVsRlBSbFgzdjJlcV93YVl5QVhGZkF1ZEtUTFNpZ0RwQlNtYzRJUzZhSW5JSzZCT3I4a01jTnFZWHA1Y2dCMDNzanVLWXVvYjBuZGk?oc=5",
+      "published": "2026-11-05T15:08:50.000Z",
+      "titleZh": "曼联：法布里齐奥·罗马诺揭示了Unai Emery最终决定取代迈克尔·卡里克的真正原因"
+    },
+    {
       "id": "James Ducker:CBMioAFBVV95cUxNWmtkOFd6WFVIaU5jWmN2SXFFamZFTFU3Q1lTalBqYlhBVWcwcWllcWNPaTZNOXNDUHFLRlZSUnNyMHpPMjdaUDhkeFFSVXhGczNTUlBDdzVSanNKcXlVeTVwb3NLOFNtSU1wMVh4RGt0c0RQVkJDUUoyd0dWR2Yxc3dEbzh2UHZEa1F6bEkwNUp4SEZnaEQtTkotS0dXODdN",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -40289,18 +40325,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmtkOFd6WFVIaU5jWmN2SXFFamZFTFU3Q1lTalBqYlhBVWcwcWllcWNPaTZNOXNDUHFLRlZSUnNyMHpPMjdaUDhkeFFSVXhGczNTUlBDdzVSanNKcXlVeTVwb3NLOFNtSU1wMVh4RGt0c0RQVkJDUUoyd0dWR2Yxc3dEbzh2UHZEa1F6bEkwNUp4SEZnaEQtTkotS0dXODdN?oc=5",
       "published": "2026-11-05T14:36:00.000Z",
       "titleZh": "曼联对利物浦的青少年轰动表示感谢"
-    },
-    {
-      "id": "David Ornstein:CBMiqwFBVV95cUxQVGNMZUo3RmVDVnV5X1FNb0h1Rk5XNTd5dFBwYjFKY3ZtZ1ZGUzdGQ0x4MmVHQkowbVoxZGhTRWpoWjVOc3I5ZnhBMkU2VkF4eE5FcFMwQzFKLWU4Ym5wUEdZMGY2WVNQN0VhWUlLSENJcTZEeVh0OWFkYnZTWWVsTksxaTVfdjRfc1Z1UVdqZEVEQ3A2aHNwSVhQbUozbUYwdkhIZ094ZmZZSXc",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd: Carrick given 'vote of confidence' as Ornstein reveals players' bid to 'see him off' failed",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGNMZUo3RmVDVnV5X1FNb0h1Rk5XNTd5dFBwYjFKY3ZtZ1ZGUzdGQ0x4MmVHQkowbVoxZGhTRWpoWjVOc3I5ZnhBMkU2VkF4eE5FcFMwQzFKLWU4Ym5wUEdZMGY2WVNQN0VhWUlLSENJcTZEeVh0OWFkYnZTWWVsTksxaTVfdjRfc1Z1UVdqZEVEQ3A2aHNwSVhQbUozbUYwdkhIZ094ZmZZSXc?oc=5",
-      "published": "2026-11-05T07:56:11.000Z",
-      "titleZh": "曼联：卡里克获得“信任投票” ，因为奥恩斯坦透露玩家“送他走”的竞标失败"
     },
     {
       "id": "Rob Dawson:CBMimgFBVV95cUxNVXBOYWdSSlJUOEVCc0lHRXVqSFEzRjlDaVNISGdtVVJFZ3RRNGo0Rk96ZTlJR2VqUFVSZ0k4cWhLSlJBMmkwOTdKSXVxRFR5OTNVVm56SzhnaXRob0V1VmdSUGViTXNjeU5mRDVWVGlSM0dFTzRCb1J1djVRb1Q2VWh2VFVkdjZIb2RWTGxkdjVnN3c5QXVJODNB",
@@ -40327,18 +40351,6 @@
       "titleZh": "曼联的JJ加布里埃尔预计将于1月加入皇家马德里-体育"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE9KdThoaGRxYnhQVlpvaW1LWjlKT2hRQ3d5TXduOTByTlpYSXRSZk9HQ3BwVDRqVUVxSFJ1NkY0UmI1ajgyZFhTZjNFTEhwaHJSYVc0SjNpX3doRXRVdFdjWUhoRTQxRzV3",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd: Michael Carrick run has echoes of Jose Mourinho and Ole Gunnar Solskjaer",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KdThoaGRxYnhQVlpvaW1LWjlKT2hRQ3d5TXduOTByTlpYSXRSZk9HQ3BwVDRqVUVxSFJ1NkY0UmI1ajgyZFhTZjNFTEhwaHJSYVc0SjNpX3doRXRVdFdjWUhoRTQxRzV3?oc=5",
-      "published": "2026-11-04T16:12:46.000Z",
-      "titleZh": "曼联：迈克尔·卡里克（ Michael Carrick ）跑步与何塞·穆里尼奥（ Jose Mourinho ）和奥莱·贡纳尔·索尔斯克亚"
-    },
-    {
       "id": "David Ornstein:CBMiZkFVX3lxTE1aOHl6bVprbTJzR2dOLU1HY3JBUFFlUWtJZ0tuMjRuRkJsNmVNQWtfSXVyX1N0SXBfZWw4Z0hzWmNocUxyWlZwOG5lSF9ocWk2Wktya3JFcGl5b05BbVNnYjk0TlFWdw",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -40349,18 +40361,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aOHl6bVprbTJzR2dOLU1HY3JBUFFlUWtJZ0tuMjRuRkJsNmVNQWtfSXVyX1N0SXBfZWw4Z0hzWmNocUxyWlZwOG5lSF9ocWk2Wktya3JFcGl5b05BbVNnYjk0TlFWdw?oc=5",
       "published": "2026-11-04T11:05:30.000Z",
       "titleZh": "视频：大卫·奥恩斯坦（ David Ornstein ）解释为什么曼联决定选择卡里克"
-    },
-    {
-      "id": "Rob Dawson:CBMiywFBVV95cUxQZXdUNHR1OFoxbm1GUHpqeklxem4wTXBxSVBiQWduWXNTMHpQXzh6N3FwVjA0SURUQU04dE1wUGdYTTNCektZMjZjRnA5MnliZldKTzU2ci0xVnY2MmF0Y0RKOXcyRnRtY3ZybTdwbTN4WTdwTXF6VVVfVkt3Wk5DLTNQNDBaeFh3WXhTbFg3VzctTnhqMzhqQXZQT3FyR2t0VkJNbk1SUC0yeHBCZ092WEY4dFFOTUp0SDh5cE1pZEZGbUo2c0dHWmstWQ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Carlos Baleba injury 'doesn't look great' - Man United boss Michael Carrick",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXdUNHR1OFoxbm1GUHpqeklxem4wTXBxSVBiQWduWXNTMHpQXzh6N3FwVjA0SURUQU04dE1wUGdYTTNCektZMjZjRnA5MnliZldKTzU2ci0xVnY2MmF0Y0RKOXcyRnRtY3ZybTdwbTN4WTdwTXF6VVVfVkt3Wk5DLTNQNDBaeFh3WXhTbFg3VzctTnhqMzhqQXZQT3FyR2t0VkJNbk1SUC0yeHBCZ092WEY4dFFOTUp0SDh5cE1pZEZGbUo2c0dHWmstWQ?oc=5",
-      "published": "2026-11-04T11:01:00.000Z",
-      "titleZh": "卡洛斯·巴莱巴受伤“看起来不太好” -曼联老板迈克尔·卡里克"
     },
     {
       "id": "David Ornstein:CBMizAFBVV95cUxNTm15MDBUcDdsdDUzemVpLWNsc0F4NHlOZnR0VDAwRDhOWGMxUktTWGx3QUNqT0JPeDIxMklYdUJjVHN2REU2NE53U2JDMktEdG1RRTktSHYxRUVzazJpZlVYRW1ieV9SQi1CVER0bmkxMEJFaUI2MFdPNndiU05CNE9UT3lzdmdJREpUOHpQR0dUQVdpcHllSjlYd0NITVN2ZVlXc3RDRXVzSnE1NEpIWUtMSlBnRHRkbmN2N25SZnV3T05KUEkyTmpqUFQ",
@@ -40447,6 +40447,18 @@
       "titleZh": "曼联的冠军联赛复出是否挽救了卡里克的工作？"
     },
     {
+      "id": "Rob Dawson:CBMipwFBVV95cUxNZVdjT1VGTXJvWjBGbFZOa3h3UUEtY0VsSDBaNGlqYlFhMUJqaWZRUDBoZ0lFYlFOTlVOOEtEcXhwaVFZVGt4OExRWEttaDdJR1BETGNMcWhNM2Z3ZV9fYzYzX290OW5nZm9WVy1YdzFZbmg5cWpIOFEteFY2X3RBTkROcWZZVy0wTUpELTNTUUdISDNWVzNJWnh1R1BUc3FSRmIxLTZwdw",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United fans throw tennis balls on field before stunning comeback",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVdjT1VGTXJvWjBGbFZOa3h3UUEtY0VsSDBaNGlqYlFhMUJqaWZRUDBoZ0lFYlFOTlVOOEtEcXhwaVFZVGt4OExRWEttaDdJR1BETGNMcWhNM2Z3ZV9fYzYzX290OW5nZm9WVy1YdzFZbmg5cWpIOFEteFY2X3RBTkROcWZZVy0wTUpELTNTUUdISDNWVzNJWnh1R1BUc3FSRmIxLTZwdw?oc=5",
+      "published": "2026-11-03T21:33:00.000Z",
+      "titleZh": "曼联球迷在令人惊叹的复出之前在场上投掷网球"
+    },
+    {
       "id": "James Ducker:CBMipAFBVV95cUxQY1diQVNVdWJOVVdtUEF5WDM1bHJydmlya1F6MkxGc1V5NlpMV0sxOGoyREFPYUxBTXdTNmlvaDZfYVhuM1RtUk5uNTZGUXpJZ3Z6aUdMWUN4RFVtVnFyRktYeEk2dmxVaFNuTDU2X1dhNjNSYWhWUzMtREJaaHczX2dGTjJlNXVzaENsZ3h0MGlnd2NEcnptTHVFRXJseUlkV1lWZw",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -40507,18 +40519,6 @@
       "titleZh": "罗马给了卡里克一个“特别”的夜晚，现在他们可以将曼联降至48年来的最低点"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE8tbkpZcFNUaDBsVzFjeEJtTGtxTXJEV1JldWl5N01qSHFRTERlcFdNNmZQc0F1NEJYcHQxN2dRUlp3VXNVX2t6MHVXSnhTVzdmUm03NzJuaWpwYmQ0YmszQl9fS1EyQlNs",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd's Michael Carrick says it's 'crazy' but he's looking forward to Roma game",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tbkpZcFNUaDBsVzFjeEJtTGtxTXJEV1JldWl5N01qSHFRTERlcFdNNmZQc0F1NEJYcHQxN2dRUlp3VXNVX2t6MHVXSnhTVzdmUm03NzJuaWpwYmQ0YmszQl9fS1EyQlNs?oc=5",
-      "published": "2026-11-02T16:00:07.000Z",
-      "titleZh": "曼联的迈克尔·卡里克说这很“疯狂” ，但他期待罗马的比赛"
-    },
-    {
       "id": "Rob Dawson:CBMiqgFBVV95cUxNbFB6VzYyWkUyYXduYkRGZ1hQcG9kejBHbVFrRExkemNpSmd2Ym5FajVBTGFEN1JqdElDOWZfZzREY0FfNnZVM3hid2dERmdiN3FsQkwwVTNBYXhWaVhxT203bU8yMzVQM3U1WVRTTmsyUHJJMkxwLVhhSUtEY2VhY25EZ094S1M3aUZ4MV9BbUMwUHVPd2MybGVIeTFkUjlaQ0FTSFJIcWlMZw",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -40531,6 +40531,30 @@
       "titleZh": "帕特里克·多古（ Patrick Dorgu ）在罗马冲突之前重返曼联训练"
     },
     {
+      "id": "Fabrizio Romano:CBMijgFBVV95cUxNVGJoY1BYYjJkU0tIbDI3Zm9EcWJUN0xpS1FzQ3lhQkVIU3B6X0VjeERzTGxFMXMwV2hhZnNhdmdxc24yNjN4UlRoVDExaDQ0YnVzdWNISFNiZVVabG5RTzVTZG9Sa19FNi0wRUt4RTVUalk3OS1pZWpmdWFPRHZMNTA5cGJqUFotRkZSV1N3",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd: Romano reveals ‘big decision’ from INEOS on Martinez – ‘The answer I am getting’",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGJoY1BYYjJkU0tIbDI3Zm9EcWJUN0xpS1FzQ3lhQkVIU3B6X0VjeERzTGxFMXMwV2hhZnNhdmdxc24yNjN4UlRoVDExaDQ0YnVzdWNISFNiZVVabG5RTzVTZG9Sa19FNi0wRUt4RTVUalk3OS1pZWpmdWFPRHZMNTA5cGJqUFotRkZSV1N3?oc=5",
+      "published": "2026-11-02T08:37:36.000Z",
+      "titleZh": "曼联：罗马诺揭示了INEOS对马丁内斯的“重大决定” – “我得到的答案”"
+    },
+    {
+      "id": "David Ornstein:CBMilAFBVV95cUxNMjF3b0RScmFnX1c2Z2FJNWZoaW9haTlQUmZzbXd4Y2hQcmRSdWtVSXpaU25TbUkwOHJTT0pPNTluV1p6ek5PUWl5blpwakdwbXV5dk1qVVoxMHJsV0p4MDV6TmxRc243WnYwQkxqZUVlN1F0SEZzOHRTM2FpREQ5dFNrMWZ4TVZEdjhjY1dsaEJtTG8t",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd: Ornstein reveals Emery stance on leaving Aston Villa to replace Carrick",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjF3b0RScmFnX1c2Z2FJNWZoaW9haTlQUmZzbXd4Y2hQcmRSdWtVSXpaU25TbUkwOHJTT0pPNTluV1p6ek5PUWl5blpwakdwbXV5dk1qVVoxMHJsV0p4MDV6TmxRc243WnYwQkxqZUVlN1F0SEZzOHRTM2FpREQ5dFNrMWZ4TVZEdjhjY1dsaEJtTG8t?oc=5",
+      "published": "2026-11-02T08:08:18.000Z",
+      "titleZh": "曼联：奥恩斯坦揭示了埃默里离开阿斯顿维拉取代卡里克的立场"
+    },
+    {
       "id": "Simon Stone:CBMiaEFVX3lxTE9SelltR2NXV0t6UjVoT0ItQ1V5NEFqQmNYOThtanFGRjlZX3ZpZjdjX1pJZEhaZDAza3QyVExzRkhHc1F4WW9PeFdNMzhfSi01XzhMUlQzNU9idUQ0N1J0NUpzd0RiVEZ5",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -40541,33 +40565,9 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SelltR2NXV0t6UjVoT0ItQ1V5NEFqQmNYOThtanFGRjlZX3ZpZjdjX1pJZEhaZDAza3QyVExzRkhHc1F4WW9PeFdNMzhfSi01XzhMUlQzNU9idUQ0N1J0NUpzd0RiVEZ5?oc=5",
       "published": "2026-10-31T23:52:28.000Z",
       "titleZh": "曼联：老特拉福德俱乐部真的要降级吗？"
-    },
-    {
-      "id": "Chris Wheeler:CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Chelsea 2-0 Manchester United PLAYER RATINGS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTljNkxzTWhNRjRYa0x3V18zZ3Rnc3Q4ZUFnaDR5SzRSYUFGSDdJUUt3Xzh1Y3ZsZ0ZtRkRzY09GbjZfRjQxUEpid3lGakRWYm0zdHFBa2dkRGU5enEtckJVcnIxeWE4cVpnMzVzejhCMWxLLUM2dTF2aUdrNTJFSFFzU0FuRFcyeEZUdlhieFMyM0JSb0VMTXhDU2VjbjlUemJnQlhBUmlxSXM?oc=5",
-      "published": "2026-10-31T14:56:36.000Z",
-      "titleZh": "切尔西2-0曼联球员评分"
-    },
-    {
-      "id": "Fabrizio Romano:CBMiiwFBVV95cUxPQzV5dzA3UUhFRHFLelE1OHhTOGk3TklPMGpJLS1EbFc4WV9vSEZTc244dHlHaWIxR2tIejlJUFpzQlBnTkVVU2czT1Z4Tm9Hb21CeG4zVG92TzRqWDZkRmtPN2lKRnFKYnY4bGlLWC04Rk41SjFlQ1V1Zm9BVV9pMzRLdC1sSEhwZHdZ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Man United should be embarrassed by Zion Suzuki after Fabrizio Romano reveal",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzV5dzA3UUhFRHFLelE1OHhTOGk3TklPMGpJLS1EbFc4WV9vSEZTc244dHlHaWIxR2tIejlJUFpzQlBnTkVVU2czT1Z4Tm9Hb21CeG4zVG92TzRqWDZkRmtPN2lKRnFKYnY4bGlLWC04Rk41SjFlQ1V1Zm9BVV9pMzRLdC1sSEhwZHdZ?oc=5",
-      "published": "2026-10-31T08:08:39.000Z",
-      "titleZh": "在Fabrizio Romano揭晓后，曼联应该为Zion Suzuki感到尴尬"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-06T14:57:31.642Z",
+  "journalistsUpdatedAt": "2026-11-06T20:50:53.936Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

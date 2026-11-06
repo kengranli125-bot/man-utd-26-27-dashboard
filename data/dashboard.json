@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:40:23.127Z",
+  "updatedAt": "2026-11-06T19:23:02.332Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39602,6 +39602,27 @@
   ],
   "news": [
     {
+      "title": "Man United's Carlos Baleba set for long injury absence with hamstring issue",
+      "published": "2026-11-06T14:25:44Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50399365/man-united-carlos-baleba-set-long-injury-absence-hamstring-issue",
+      "image": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
+      "titleZh": "曼联的卡洛斯·巴莱巴（ Carlos Baleba ）因腿筋问题长期受伤缺席"
+    },
+    {
+      "title": "Does Man United's coach matter? Could Jurgen Klopp reach Premier League glory at Old Trafford?",
+      "published": "2026-11-06T13:15:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1741877_1296x729_16-9.jpg",
+      "titleZh": "曼联的教练很重要吗？尤尔根·克洛普（ Jurgen Klopp ）能否在老特拉福德（ Old Trafford ）赢得"
+    },
+    {
+      "title": "Cristiano Ronaldo Portugal retirement: Man United, Bruno Fernandes lead tributes",
+      "published": "2026-11-06T07:58:23Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50387636/cristiano-ronaldo-portugal-retirement-man-united-bruno-fernandes-lead-tributes",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678682_1296x729_16-9.jpg",
+      "titleZh": "克里斯蒂亚诺·罗纳尔多葡萄牙退役：曼联、布鲁诺·费尔南德斯带头致敬"
+    },
+    {
       "title": "Transfer rumors, news: Aït-Nouri to join rivals Man United?",
       "published": "2026-11-05T22:00:28Z",
       "url": "https://www.espn.com/soccer/story/_/id/50386327/transfer-rumors-news-premier-league-clubs-line-como-defender",
@@ -39621,13 +39642,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50387949/cristiano-ronaldo-portugal-retirement-reaction-analysis-euro-2016-fifa-world-cup",
       "image": "https://a.espncdn.com/photo/2026/1105/r1741457_1296x729_16-9.jpg",
       "titleZh": "罗纳尔多的葡萄牙职业生涯以耻辱告终，但在他的巅峰时期，他是一支主导力量"
-    },
-    {
-      "title": "Cristiano Ronaldo Portugal retirement: Man United, Bruno Fernandes lead tributes",
-      "published": "2026-11-05T13:16:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50387636/cristiano-ronaldo-portugal-retirement-man-united-bruno-fernandes-lead-tributes",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678682_1296x729_16-9.jpg",
-      "titleZh": "克里斯蒂亚诺·罗纳尔多葡萄牙退役：曼联、布鲁诺·费尔南德斯带头致敬"
     },
     {
       "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
@@ -39670,20 +39684,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
       "image": "https://a.espncdn.com/photo/2026/1104/r1740904_1296x729_16-9.jpg",
       "titleZh": "迪奥戈·达洛特（ Diogo Dalot ） ：曼联的“每个人”都应该感到压力"
-    },
-    {
-      "title": "Carlos Baleba injury 'doesn't look great' - Man United boss Michael Carrick",
-      "published": "2026-11-04T11:01:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50377477/carlos-baleba-injury-man-united-champions-league-premier-league-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
-      "titleZh": "卡洛斯·巴莱巴受伤“看起来不太好” -曼联老板迈克尔·卡里克"
-    },
-    {
-      "title": "JJ Gabriel close to joining Real Madrid - sources",
-      "published": "2026-11-04T17:30:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
-      "image": "https://a.espncdn.com/photo/2026/0512/r1657348_1296x729_16-9.jpg",
-      "titleZh": "JJ Gabriel即将加入皇家马德里-消息来源"
     }
   ],
   "transfers": [
@@ -39780,9 +39780,9 @@
       "nationalityZh": "葡萄牙",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
-      "statusType": "out",
-      "statusLabel": "伤缺/观察",
-      "availabilityScore": 38
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
     },
     {
       "id": "239350",
@@ -40632,18 +40632,18 @@
           "role": "中后卫"
         },
         {
-          "id": "239350",
-          "name": "Noussair Mazraoui",
-          "nameZh": "努赛尔·马兹拉维",
-          "shortName": "N. Mazraoui",
-          "shortNameZh": "马兹拉维",
-          "jersey": "3",
+          "id": "238902",
+          "name": "Diogo Dalot",
+          "nameZh": "迪奥戈·达洛特",
+          "shortName": "D. Dalot",
+          "shortNameZh": "达洛特",
+          "jersey": "2",
           "position": "Defender",
-          "age": 28,
-          "nationality": "Morocco",
-          "nationalityZh": "摩洛哥",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
+          "age": 27,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -40791,7 +40791,7 @@
         },
         {
           "label": "经验值",
-          "value": 82
+          "value": 81
         },
         {
           "label": "攻守平衡",
@@ -41206,18 +41206,18 @@
           "role": "中后卫"
         },
         {
-          "id": "239350",
-          "name": "Noussair Mazraoui",
-          "nameZh": "努赛尔·马兹拉维",
-          "shortName": "N. Mazraoui",
-          "shortNameZh": "马兹拉维",
-          "jersey": "3",
+          "id": "238902",
+          "name": "Diogo Dalot",
+          "nameZh": "迪奥戈·达洛特",
+          "shortName": "D. Dalot",
+          "shortNameZh": "达洛特",
+          "jersey": "2",
           "position": "Defender",
-          "age": 28,
-          "nationality": "Morocco",
-          "nationalityZh": "摩洛哥",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
+          "age": 27,
+          "nationality": "Portugal",
+          "nationalityZh": "葡萄牙",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,

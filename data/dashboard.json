@@ -40279,6 +40279,18 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMiqwFBVV95cUxPR0lfaUctQjk2Nl9kYl90ZmFJR2FCV2dDbXZkX3JiVFpXZ0tQX1dQRlZacThYZk05T2EySVBTNWJSY0lYaFRsZHFnNWZfMW14d1NyWWR2OTJuTWJnOXJsU3lRNTFuM1BzYlA3dFNDaHRmaEdxLUhuc0FWNFkwN29UbG9ub3NVMzNTTF9qd1JFSDZGVHBISHVJSmpxRzc2UXZQdkpKRERqRkFEWWM",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd January transfer set for ‘here we go’ as Romano confirms advanced talks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0lfaUctQjk2Nl9kYl90ZmFJR2FCV2dDbXZkX3JiVFpXZ0tQX1dQRlZacThYZk05T2EySVBTNWJSY0lYaFRsZHFnNWZfMW14d1NyWWR2OTJuTWJnOXJsU3lRNTFuM1BzYlA3dFNDaHRmaEdxLUhuc0FWNFkwN29UbG9ub3NVMzNTTF9qd1JFSDZGVHBISHVJSmpxRzc2UXZQdkpKRERqRkFEWWM?oc=5",
+      "published": "2026-11-06T17:53:52.000Z",
+      "titleZh": "曼联1月转会设置为“我们来吧” ，因为罗马诺确认了高级会谈"
+    },
+    {
       "id": "Simon Stone:CBMia0FVX3lxTFBRZnkydWFuMXRDeENvbEN4dFp3SXRadGo4Wjg3LVBFV3BzVFVKZlJOSTk2MzVqVDV6SmxlM1VWYnVpQkV3dEJtWWJpMjZHMUkzeDUyVkRSMXZlSVQ3NWVBUF9BektKX0R0czdj",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -40519,18 +40531,6 @@
       "titleZh": "罗马给了卡里克一个“特别”的夜晚，现在他们可以将曼联降至48年来的最低点"
     },
     {
-      "id": "Rob Dawson:CBMiqgFBVV95cUxNbFB6VzYyWkUyYXduYkRGZ1hQcG9kejBHbVFrRExkemNpSmd2Ym5FajVBTGFEN1JqdElDOWZfZzREY0FfNnZVM3hid2dERmdiN3FsQkwwVTNBYXhWaVhxT203bU8yMzVQM3U1WVRTTmsyUHJJMkxwLVhhSUtEY2VhY25EZ094S1M3aUZ4MV9BbUMwUHVPd2MybGVIeTFkUjlaQ0FTSFJIcWlMZw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Patrick Dorgu returns to Man United training ahead of Roma clash",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbFB6VzYyWkUyYXduYkRGZ1hQcG9kejBHbVFrRExkemNpSmd2Ym5FajVBTGFEN1JqdElDOWZfZzREY0FfNnZVM3hid2dERmdiN3FsQkwwVTNBYXhWaVhxT203bU8yMzVQM3U1WVRTTmsyUHJJMkxwLVhhSUtEY2VhY25EZ094S1M3aUZ4MV9BbUMwUHVPd2MybGVIeTFkUjlaQ0FTSFJIcWlMZw?oc=5",
-      "published": "2026-11-02T12:25:00.000Z",
-      "titleZh": "帕特里克·多古（ Patrick Dorgu ）在罗马冲突之前重返曼联训练"
-    },
-    {
       "id": "Fabrizio Romano:CBMijgFBVV95cUxNVGJoY1BYYjJkU0tIbDI3Zm9EcWJUN0xpS1FzQ3lhQkVIU3B6X0VjeERzTGxFMXMwV2hhZnNhdmdxc24yNjN4UlRoVDExaDQ0YnVzdWNISFNiZVVabG5RTzVTZG9Sa19FNi0wRUt4RTVUalk3OS1pZWpmdWFPRHZMNTA5cGJqUFotRkZSV1N3",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -40567,7 +40567,7 @@
       "titleZh": "曼联：老特拉福德俱乐部真的要降级吗？"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-06T20:50:53.936Z",
+  "journalistsUpdatedAt": "2026-11-07T00:31:54.465Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

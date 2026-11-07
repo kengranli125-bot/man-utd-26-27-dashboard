@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:23:02.332Z",
+  "updatedAt": "2026-11-07T05:56:12.143Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39602,8 +39602,22 @@
   ],
   "news": [
     {
+      "title": "Burley: You never know which version of Manchester United will turn up",
+      "published": "2026-11-07T00:13:11Z",
+      "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up.jpg",
+      "titleZh": "BURLEY ：你永远不知道哪个版本的曼联会出现"
+    },
+    {
+      "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
+      "published": "2026-11-06T21:00:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742138_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联，阿森纳EYE伯恩茅斯的Tavernier"
+    },
+    {
       "title": "Man United's Carlos Baleba set for long injury absence with hamstring issue",
-      "published": "2026-11-06T14:25:44Z",
+      "published": "2026-11-06T18:07:36Z",
       "url": "https://www.espn.com/soccer/story/_/id/50399365/man-united-carlos-baleba-set-long-injury-absence-hamstring-issue",
       "image": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
       "titleZh": "曼联的卡洛斯·巴莱巴（ Carlos Baleba ）因腿筋问题长期受伤缺席"
@@ -39670,23 +39684,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
       "image": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
       "titleZh": "曼联球迷投掷网球是足球支持者抗议活动的丰富历史的一部分"
-    },
-    {
-      "title": "Two-goal hero Matheus Cunha hopes Roma win is turning point for Man United",
-      "published": "2026-11-04T15:17:10Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50378007/hero-matheus-cunha-roma-win-turning-point-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/1103/r1740724_1296x729_16-9.jpg",
-      "titleZh": "两球英雄马修斯·库尼亚希望罗马的胜利成为曼联的转折点"
-    },
-    {
-      "title": "Diogo Dalot: 'Everyone' at Man United should be feeling under pressure",
-      "published": "2026-11-04T12:00:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50377376/man-united-diogo-dalot-michael-carrick-premier-league-champions-league-pressure",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1740904_1296x729_16-9.jpg",
-      "titleZh": "迪奥戈·达洛特（ Diogo Dalot ） ：曼联的“每个人”都应该感到压力"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
+      "published": "2026-11-06T21:00:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742138_1296x729_16-9.jpg",
+      "titleZh": "转移谣言，新闻：曼联，阿森纳EYE伯恩茅斯的Tavernier",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Aït-Nouri to join rivals Man United?",
       "published": "2026-11-05T22:00:28Z",

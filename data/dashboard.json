@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:57:57.203Z",
+  "updatedAt": "2026-11-07T21:47:56.351Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39602,6 +39602,34 @@
   ],
   "news": [
     {
+      "title": "Man United hit 40-year low after dropping into Premier League relegation zone",
+      "published": "2026-11-07T20:09:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50410672/man-united-premier-league-relegation-zone",
+      "image": "https://a.espncdn.com/photo/2026/1107/r1742541_1296x729_16-9.jpg",
+      "titleZh": "曼联在进入英超降级区后创下40年新低"
+    },
+    {
+      "title": "Premier League VAR review: Arsenal robbed of a penalty through misapplied law",
+      "published": "2026-11-07T19:32:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/1107/r1742512_2_1296x729_16-9.jpg",
+      "titleZh": "英超联赛VAR审查：阿森纳因滥用法律而被罚款"
+    },
+    {
+      "title": "Unai Emery: Michael Carrick's Man United the 'same level' as Barcelona",
+      "published": "2026-11-07T13:21:53Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50407515/unai-emery-aston-villa-man-united-barcelona",
+      "image": "https://a.espncdn.com/photo/2026/1107/r1742359_1296x729_16-9.jpg",
+      "titleZh": "Unai Emery ：迈克尔·卡里克的曼联与巴塞罗那“水平相同”"
+    },
+    {
+      "title": "Man United's JJ Gabriel amid Real Madrid move talk: 'Dream to win a Ballon d'Or'",
+      "published": "2026-11-07T12:39:33Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50407286/jj-gabriel-man-united-real-madrid-transfer",
+      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
+      "titleZh": "曼联的JJ加布里埃尔在皇家马德里的转会谈话中： “梦想赢得金球奖”"
+    },
+    {
       "title": "Man United approaching a crossroads: Back Carrick, or move on?",
       "published": "2026-11-07T10:30:47Z",
       "url": "https://www.espn.com/soccer/story/_/id/50399795/manchester-united-michael-carrick-future-premier-league",
@@ -39656,34 +39684,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
       "image": "https://a.espncdn.com/photo/2026/1105/r1741544_1296x729_16-9.jpg",
       "titleZh": "足球的主角：曼联、科莫、巴黎圣日耳曼、多纳鲁玛"
-    },
-    {
-      "title": "Ronaldo's Portugal career ended in shame, but at his peak he was a dominant force",
-      "published": "2026-11-06T01:13:29Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50387949/cristiano-ronaldo-portugal-retirement-reaction-analysis-euro-2016-fifa-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741457_1296x729_16-9.jpg",
-      "titleZh": "罗纳尔多的葡萄牙职业生涯以耻辱告终，但在他的巅峰时期，他是一支主导力量"
-    },
-    {
-      "title": "Portugal, Man United, Real Madrid: Cristiano Ronaldo's long history of rows with coaches",
-      "published": "2026-11-05T16:21:16Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50075485/cristiano-ronaldo-long-history-rows-portugal-manchester-united-real-madrid-juventus-coaches",
-      "image": "https://a.espncdn.com/photo/2026/1001/r1724373_1296x729_16-9.jpg",
-      "titleZh": "葡萄牙、曼联、皇家马德里：克里斯蒂亚诺·罗纳尔多的悠久历史"
-    },
-    {
-      "title": "Run, Man United, run: How preseason fitness can hinder Premier League form",
-      "published": "2026-11-05T09:24:08Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50347463/how-pre-season-fitness-hinder-premier-league-form",
-      "image": "https://a.espncdn.com/photo/2026/1101/r1739427_1296x729_16-9.jpg",
-      "titleZh": "跑步，曼联，跑步：季前赛健身如何阻碍英超联赛的形式"
-    },
-    {
-      "title": "Transfer rumors, news: Juventus eye moves for Šeško, Balogun",
-      "published": "2026-11-04T21:28:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1741190_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：尤文图斯为Šeško ， Balogun眼球移动"
     }
   ],
   "transfers": [

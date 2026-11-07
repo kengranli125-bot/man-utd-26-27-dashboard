@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:56:12.143Z",
+  "updatedAt": "2026-11-07T12:57:57.203Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39602,6 +39602,13 @@
   ],
   "news": [
     {
+      "title": "Man United approaching a crossroads: Back Carrick, or move on?",
+      "published": "2026-11-07T10:30:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50399795/manchester-united-michael-carrick-future-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1106/r1742042_2_1296x729_16-9.jpg",
+      "titleZh": "曼联正在接近十字路口：背对卡里克，还是继续前进？"
+    },
+    {
       "title": "Burley: You never know which version of Manchester United will turn up",
       "published": "2026-11-07T00:13:11Z",
       "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
@@ -39677,13 +39684,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50376623/transfer-rumors-news-arsenal-want-atletico-madrid-winger",
       "image": "https://a.espncdn.com/photo/2026/1104/r1741190_1296x729_16-9.jpg",
       "titleZh": "转移谣言，新闻：尤文图斯为Šeško ， Balogun眼球移动"
-    },
-    {
-      "title": "Man United fans throwing tennis balls is part of soccer's rich history of supporter protests",
-      "published": "2026-11-04T13:45:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1740923_1296x729_16-9.jpg",
-      "titleZh": "曼联球迷投掷网球是足球支持者抗议活动的丰富历史的一部分"
     }
   ],
   "transfers": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T05:58:16.739Z",
+  "updatedAt": "2026-11-08T13:22:12.597Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -39897,23 +39897,6 @@
       "availabilityScore": 90
     },
     {
-      "id": "167127",
-      "name": "Luke Shaw",
-      "nameZh": "卢克·肖",
-      "shortName": "L. Shaw",
-      "shortNameZh": "卢克·肖",
-      "jersey": "23",
-      "position": "Defender",
-      "age": 31,
-      "nationality": "England",
-      "nationalityZh": "英格兰",
-      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
-      "statusType": "available",
-      "statusLabel": "可用",
-      "availabilityScore": 90
-    },
-    {
       "id": "356044",
       "name": "Ayden Heaven",
       "nameZh": "艾登·赫文",
@@ -40065,6 +40048,23 @@
       "statusType": "out",
       "statusLabel": "伤缺/观察",
       "availabilityScore": 38
+    },
+    {
+      "id": "167127",
+      "name": "Luke Shaw",
+      "nameZh": "卢克·肖",
+      "shortName": "L. Shaw",
+      "shortNameZh": "卢克·肖",
+      "jersey": "23",
+      "position": "Midfielder",
+      "age": 30,
+      "nationality": "England",
+      "nationalityZh": "英格兰",
+      "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
     },
     {
       "id": "241468",

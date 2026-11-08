@@ -40289,6 +40289,18 @@
   ],
   "journalists": [
     {
+      "id": "David Ornstein:CBMitwFBVV95cUxOd05kNmduX05BNzRSejdHeGQ2MlFDenFjWThFVTQzOE1hLUl5MExxc0J5T3BKZ1JBcHpEWFZ4LVNlSmNyV19nTWlULXlaaHNkcFBzQTRUQnFQUHl3TUlJX1lKczhtaURmZTE0c1VPdkI3bzFhUGFscTBDUFlKc0VfM3R2U21VUlh2M3BpeExFUG9NTVpxU2kzWWR1bC1CMGd1elRLTnlJZHNYN1I1aDQyaU5taHJYanc",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd: Ornstein reveals whether INEOS will sack Carrick if Red Devils suffer ‘disastrous result’ vs Aston Villa",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd05kNmduX05BNzRSejdHeGQ2MlFDenFjWThFVTQzOE1hLUl5MExxc0J5T3BKZ1JBcHpEWFZ4LVNlSmNyV19nTWlULXlaaHNkcFBzQTRUQnFQUHl3TUlJX1lKczhtaURmZTE0c1VPdkI3bzFhUGFscTBDUFlKc0VfM3R2U21VUlh2M3BpeExFUG9NTVpxU2kzWWR1bC1CMGd1elRLTnlJZHNYN1I1aDQyaU5taHJYanc?oc=5",
+      "published": "2026-11-08T15:22:18.000Z",
+      "titleZh": "曼联： Ornstein透露，如果红魔队与阿斯顿维拉队遭遇“灾难性结果” ， INEOS是否会解雇卡里克"
+    },
+    {
       "id": "James Ducker:CBMirAFBVV95cUxQODh6ZlBUN2hfZkVVY2gtMEV3RVRrVGFxOXB1R2dSYjlsUmo3WFBEbjF1YV80ZHZ6T01wMVhlak9GSFVRUEdUY243VWFQcF9BX2czSHA1X3MxRlpfa3BTSHAyeV9KWU5lejAwREtJWEhiZ3pnWk9oYjRRT2RySlR4UTlRSkMwa0h0U3ZxQnM1WHdfMnMzN0hJZ3FmWjZEcmQwWEtwVlJfdjVWN2JW",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -40311,18 +40323,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRFF4Yk1vdGc3ZGVaNURzVUtEUWdHNEU3eXRib3ItX1Jrb2pRM0VrNGlnMi0tcnh1cWs4Y1JaM2FfYnVFYl9ockJnSHZubVUxaFZXeEZydmpBY0l0UTFjb3d6azd4N21zZjRob1dnTnRUZk1JQmw3dTJmNGRjUQ?oc=5",
       "published": "2026-11-07T10:40:06.000Z",
       "titleZh": "法布里奇奥·罗马诺透露阿森纳前锋计划，对£ 4200万意甲球星感兴趣"
-    },
-    {
-      "id": "Rob Dawson:CBMipgFBVV95cUxPTTNtMXlEdHRNeFl3NmlObkZhWXY4WTNyeUNXWVJLbXBMOEpIYV92V1lqVXRWUmp0X01zUUQ0MFBpUWVYd2RqbENpVHEwSkh0T1ZNSFYzRzlDaDNUR0tUR0pucWlSRDlTOEY2anJJSjRfb2NzWGhDdDJNT2hTdHlLQXA4b2ZyVzVYbm1EWGpVNjJzb1RFa293N3Zsc0RGYzNaSm40Z2NR",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United approaching a crossroads: Back Carrick, or move on?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTNtMXlEdHRNeFl3NmlObkZhWXY4WTNyeUNXWVJLbXBMOEpIYV92V1lqVXRWUmp0X01zUUQ0MFBpUWVYd2RqbENpVHEwSkh0T1ZNSFYzRzlDaDNUR0tUR0pucWlSRDlTOEY2anJJSjRfb2NzWGhDdDJNT2hTdHlLQXA4b2ZyVzVYbm1EWGpVNjJzb1RFa293N3Zsc0RGYzNaSm40Z2NR?oc=5",
-      "published": "2026-11-07T10:00:00.000Z",
-      "titleZh": "曼联正在接近十字路口：背对卡里克，还是继续前进？"
     },
     {
       "id": "Chris Wheeler:CBMitwFBVV95cUxPa3JnSEdJN0NRWUt1VlgzMkk2ZUhfVng2aGJhVHZ3QlVKdm5KWjNSN2gyOS1GTW5idzFkQ1JQTDdxV2l6SlctX1hhTkJieEo1MzlLTWc4TmViWWctNDRzdWR0eGdiSFpkM1NTQ0NiSkFabXgzNUZ5NEh0Mk96bWtzbnZ0SGQwUGl3ZmhqdkFqTzJlZ29qejJUeGg1cjhWX2ZtSDhmTE44dXRIUkJkNi1sNVg0Wk5lcW8",
@@ -40361,6 +40361,18 @@
       "titleZh": "曼联新闻：曼联需要时间--迈克尔·卡里克会得到时间吗？"
     },
     {
+      "id": "Rob Dawson:CBMisgFBVV95cUxOZkNNR3hEUXpEdzN4UGtRRlI0WVo5bVBlclMtY0RXanVmWTRxSmdLLUNBaDJNZzVwWXZHYThVcUltZkFfRUVENEJ4d3JQaTY1akFtakpTR1VXd0hyTFQ1dkJzT00ybjhkUFdRSjZ4RGdwOE1rMm5lWHI3V1Y4aEhQMHZmSzBxNWZlbTUxLXhNTG54M2RTMEdaQ01CZmVQVTBId2RjSjExOVc5cnBvcVlobUh3",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United's Carlos Baleba set for long injury absence with hamstring issue",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkNNR3hEUXpEdzN4UGtRRlI0WVo5bVBlclMtY0RXanVmWTRxSmdLLUNBaDJNZzVwWXZHYThVcUltZkFfRUVENEJ4d3JQaTY1akFtakpTR1VXd0hyTFQ1dkJzT00ybjhkUFdRSjZ4RGdwOE1rMm5lWHI3V1Y4aEhQMHZmSzBxNWZlbTUxLXhNTG54M2RTMEdaQ01CZmVQVTBId2RjSjExOVc5cnBvcVlobUh3?oc=5",
+      "published": "2026-11-06T14:19:00.000Z",
+      "titleZh": "曼联的卡洛斯·巴莱巴（ Carlos Baleba ）因腿筋问题长期受伤缺席"
+    },
+    {
       "id": "Simon Stone:CBMia0FVX3lxTE5sanZwOHFDdjZwNFVEWlc3UWZTM01kdUJXUTU1bmVXcm1GSUdkbXk5OGNQbUFOLW5IbUxMUUJtWHplalozYlhqWVo4ZXpOZk1qazV1b2dwRGh4V3RxNU5hd1phQXA1bndBY0Zj",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -40397,6 +40409,18 @@
       "titleZh": "曼联偷猎亚历克斯·弗格森爵士的秘密阴谋"
     },
     {
+      "id": "Laurie Whitwell:CBMiggFBVV95cUxQR2V0R0lMNHhQa09HQjdIRGFsdDY2YVJWWkdsQXZiWFZmellpVHpKVEs2ekQ0dU9odEUtbjJCWk83NEpGV01mbVh6OFRlYmtHZDlRTDRubjVZWjFUaFRtLUhINDB4U215SGVaeVlENnNsREtXSE85bzg2alRFb0NUYWl3",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Erik ten Hag interview: Man United’s broken ‘promises’, wanting Kane, Ronaldo tension, FA Cup glory - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR2V0R0lMNHhQa09HQjdIRGFsdDY2YVJWWkdsQXZiWFZmellpVHpKVEs2ekQ0dU9odEUtbjJCWk83NEpGV01mbVh6OFRlYmtHZDlRTDRubjVZWjFUaFRtLUhINDB4U215SGVaeVlENnNsREtXSE85bzg2alRFb0NUYWl3?oc=5",
+      "published": "2026-11-06T08:00:00.000Z",
+      "titleZh": "Erik ten Hag专访：曼联违背“承诺” ，想要凯恩，罗纳尔多紧张，足总杯荣耀-田径"
+    },
+    {
       "id": "Fabrizio Romano:CBMiqAFBVV95cUxQbVp0UkVKWTY0WmZYQ1VpZS1vZDBZV2I3bE1FOEdua0tEMXlDSnBjaXRtQlFVTW9xNENuV2V2OFVwZzJ0bzBibklhN2RBR3VocnQ3OHJXX05QcVBmSEVsRlBSbFgzdjJlcV93YVl5QVhGZkF1ZEtUTFNpZ0RwQlNtYzRJUzZhSW5JSzZCT3I4a01jTnFZWHA1Y2dCMDNzanVLWXVvYjBuZGk",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -40419,18 +40443,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmtkOFd6WFVIaU5jWmN2SXFFamZFTFU3Q1lTalBqYlhBVWcwcWllcWNPaTZNOXNDUHFLRlZSUnNyMHpPMjdaUDhkeFFSVXhGczNTUlBDdzVSanNKcXlVeTVwb3NLOFNtSU1wMVh4RGt0c0RQVkJDUUoyd0dWR2Yxc3dEbzh2UHZEa1F6bEkwNUp4SEZnaEQtTkotS0dXODdN?oc=5",
       "published": "2026-11-05T14:36:00.000Z",
       "titleZh": "曼联对利物浦的青少年轰动表示感谢"
-    },
-    {
-      "id": "David Ornstein:CBMiqwFBVV95cUxQVGNMZUo3RmVDVnV5X1FNb0h1Rk5XNTd5dFBwYjFKY3ZtZ1ZGUzdGQ0x4MmVHQkowbVoxZGhTRWpoWjVOc3I5ZnhBMkU2VkF4eE5FcFMwQzFKLWU4Ym5wUEdZMGY2WVNQN0VhWUlLSENJcTZEeVh0OWFkYnZTWWVsTksxaTVfdjRfc1Z1UVdqZEVEQ3A2aHNwSVhQbUozbUYwdkhIZ094ZmZZSXc",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd: Carrick given 'vote of confidence' as Ornstein reveals players' bid to 'see him off' failed",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGNMZUo3RmVDVnV5X1FNb0h1Rk5XNTd5dFBwYjFKY3ZtZ1ZGUzdGQ0x4MmVHQkowbVoxZGhTRWpoWjVOc3I5ZnhBMkU2VkF4eE5FcFMwQzFKLWU4Ym5wUEdZMGY2WVNQN0VhWUlLSENJcTZEeVh0OWFkYnZTWWVsTksxaTVfdjRfc1Z1UVdqZEVEQ3A2aHNwSVhQbUozbUYwdkhIZ094ZmZZSXc?oc=5",
-      "published": "2026-11-05T07:56:11.000Z",
-      "titleZh": "曼联：卡里克获得“信任投票” ，因为奥恩斯坦透露玩家“送他走”的竞标失败"
     },
     {
       "id": "Rob Dawson:CBMimgFBVV95cUxNVXBOYWdSSlJUOEVCc0lHRXVqSFEzRjlDaVNISGdtVVJFZ3RRNGo0Rk96ZTlJR2VqUFVSZ0k4cWhLSlJBMmkwOTdKSXVxRFR5OTNVVm56SzhnaXRob0V1VmdSUGViTXNjeU5mRDVWVGlSM0dFTzRCb1J1djVRb1Q2VWh2VFVkdjZIb2RWTGxkdjVnN3c5QXVJODNB",
@@ -40563,21 +40575,9 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV18zZ0h5Z1RYRmNEZmdBWU5BaFk3NjVzOVl5Mk5fSUYtbWJsMG0yUHQ5eURPbzVRcnR0cW1Qb3l0bjY4b0VjQ2kzVDYyR0xBQjBMT2R1bXdEM1RlSXluOGl2bkJGQ0E1YXFHeF9sRVc2SXlhMVYzYmFYWXpfLWRGdjBKQXVkRnNQOXYtVDRHSQ?oc=5",
       "published": "2026-11-03T08:00:00.000Z",
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）预计将接受培训，因为曼联仍处于困境-体育"
-    },
-    {
-      "id": "Laurie Whitwell:CBMiqwFBVV95cUxNb21XQkxUVG9yckJFcXV6Q09pZWNDcWZ2ejJLbUNWRXZQWWVjanlMNzdGQW1oaktDckZYX3VZdE1NWWd4TTNBRkxhTjdPTEE4clVxNXRYMllLY2JTRUVramRwd19aX3R2MFdfNzh4M0Rib1FBRzIwZlR3NFBIU3YwbW5LZFhJd3pXMWxTMUl0WHhKR0lSQURfWThCdE10V3N2Nngwa2R5aGEwQ2M",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United exploring January striker move, considering Leeds’ Dominic Calvert-Lewin - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb21XQkxUVG9yckJFcXV6Q09pZWNDcWZ2ejJLbUNWRXZQWWVjanlMNzdGQW1oaktDckZYX3VZdE1NWWd4TTNBRkxhTjdPTEE4clVxNXRYMllLY2JTRUVramRwd19aX3R2MFdfNzh4M0Rib1FBRzIwZlR3NFBIU3YwbW5LZFhJd3pXMWxTMUl0WHhKR0lSQURfWThCdE10V3N2Nngwa2R5aGEwQ2M?oc=5",
-      "published": "2026-11-03T08:00:00.000Z",
-      "titleZh": "考虑到利兹的Dominic Calvert-Lewin - The Athletic ，曼联正在探索1月份的前锋转会"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-08T14:34:17.212Z",
+  "journalistsUpdatedAt": "2026-11-08T19:07:05.750Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

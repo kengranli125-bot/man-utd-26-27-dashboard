@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:39:27.172Z",
+  "updatedAt": "2026-11-08T22:02:00.737Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41278,24 +41278,24 @@
   ],
   "scorers": [
     {
+      "id": "124091",
+      "name": "Bruno Fernandes",
+      "nameZh": "布鲁诺·费尔南德斯",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
+      "goals": 4,
+      "assists": 2,
+      "appearances": 9,
+      "minutes": 810
+    },
+    {
       "id": "271170",
       "name": "Bryan Mbeumo",
       "nameZh": "布莱恩·姆伯莫",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
       "goals": 4,
       "assists": 0,
-      "appearances": 9,
-      "minutes": 810
-    },
-    {
-      "id": "124091",
-      "name": "Bruno Fernandes",
-      "nameZh": "布鲁诺·费尔南德斯",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
-      "goals": 3,
-      "assists": 1,
-      "appearances": 8,
-      "minutes": 720
+      "appearances": 10,
+      "minutes": 893
     },
     {
       "id": "259902",
@@ -41304,8 +41304,28 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
       "goals": 1,
       "assists": 2,
+      "appearances": 10,
+      "minutes": 1600
+    },
+    {
+      "id": "366781",
+      "name": "Patrick Dorgu",
+      "nameZh": "帕特里克·多尔古",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+      "goals": 1,
+      "assists": 2,
+      "appearances": 6,
+      "minutes": 435
+    },
+    {
+      "id": "193297",
+      "name": "Youri Tielemans",
+      "nameZh": "尤里·蒂勒曼斯",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
+      "goals": 1,
+      "assists": 1,
       "appearances": 9,
-      "minutes": 1510
+      "minutes": 658
     },
     {
       "id": "233937",
@@ -41318,6 +41338,16 @@
       "minutes": 650
     },
     {
+      "id": "276327",
+      "name": "Joshua Zirkzee",
+      "nameZh": "约书亚·齐尔克泽",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/950830.png",
+      "goals": 1,
+      "assists": 0,
+      "appearances": 6,
+      "minutes": 451
+    },
+    {
       "id": "289155",
       "name": "Benjamin Sesko",
       "nameZh": "本杰明·谢什科",
@@ -41328,24 +41358,14 @@
       "minutes": 284
     },
     {
-      "id": "193297",
-      "name": "Youri Tielemans",
-      "nameZh": "尤里·蒂勒曼斯",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
-      "goals": 0,
-      "assists": 1,
-      "appearances": 8,
-      "minutes": 592
-    },
-    {
       "id": "328466",
       "name": "Kobbie Mainoo",
       "nameZh": "科比·梅努",
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 7,
-      "minutes": 549
+      "appearances": 8,
+      "minutes": 639
     },
     {
       "id": "167127",
@@ -41356,126 +41376,95 @@
       "assists": 1,
       "appearances": 5,
       "minutes": 2053
-    },
-    {
-      "id": "366781",
-      "name": "Patrick Dorgu",
-      "nameZh": "帕特里克·多尔古",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
-      "goals": 0,
-      "assists": 1,
-      "appearances": 5,
-      "minutes": 369
     }
   ],
   "news": [
     {
-      "title": "Man United hit 40-year low after dropping into Premier League relegation zone",
-      "published": "2026-11-07T20:09:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50410672/man-united-premier-league-relegation-zone",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742541_1296x729_16-9.jpg",
-      "titleZh": "曼联在进入英超降级区后创下40年新低"
+      "title": "Gary Neville on Michael Carrick's Man United future: 'Ownership don't have a clue'",
+      "published": "2026-11-08T21:10:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50424280/gary-neville-michael-carrick-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743204_1296x729_16-9.jpg",
+      "titleZh": "Gary Neville on Michael Carrick's Man United future: 'Ownership don't have a clue'"
     },
     {
-      "title": "Premier League VAR review: Arsenal robbed of a penalty through misapplied law",
-      "published": "2026-11-07T19:32:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742512_2_1296x729_16-9.jpg",
-      "titleZh": "英超联赛VAR审查：阿森纳因滥用法律而被罚款"
+      "title": "Carrick backs Dalot after getting booed by Man United fans",
+      "published": "2026-11-08T20:58:41Z",
+      "url": "https://www.espn.com/video/clip/_/id/50424226/carrick-backs-dalot-getting-booed-man-united-fans",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_Analysis_Carrick_backs_Dalot_after_getting_booed_by_Man_United_fans_GLOBAL_2026-11-08/dm_261108_COM_SOC_Analysis_Carrick_backs_Dalot_after_getting_booed_by_Man_United_fans_GLOBAL_2026-11-08.jpg",
+      "titleZh": "Carrick backs Dalot after getting booed by Man United fans"
     },
     {
-      "title": "Unai Emery: Michael Carrick's Man United the 'same level' as Barcelona",
-      "published": "2026-11-07T13:21:53Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50407515/unai-emery-aston-villa-man-united-barcelona",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742359_1296x729_16-9.jpg",
-      "titleZh": "Unai Emery ：迈克尔·卡里克的曼联与巴塞罗那“水平相同”"
+      "title": "Man United in relegation zone, but Michael Carrick insists: I deserve to keep job",
+      "published": "2026-11-08T21:10:05Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50423657/michael-carrick-man-united-future",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743150_1296x729_16-9.jpg",
+      "titleZh": "Man United in relegation zone, but Michael Carrick insists: I deserve to keep job"
     },
     {
-      "title": "Man United's JJ Gabriel amid Real Madrid move talk: 'Dream to win a Ballon d'Or'",
-      "published": "2026-11-07T12:39:33Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50407286/jj-gabriel-man-united-real-madrid-transfer",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
-      "titleZh": "曼联的JJ加布里埃尔在皇家马德里的转会谈话中： “梦想赢得金球奖”"
+      "title": "Roy Keane likens Michael Carrick to 'politician' after chaotic Man United draw",
+      "published": "2026-11-08T19:57:45Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50423165/roy-keane-michael-carrick-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743128_1296x729_16-9.jpg",
+      "titleZh": "Roy Keane likens Michael Carrick to 'politician' after chaotic Man United draw"
     },
     {
-      "title": "Man United approaching a crossroads: Back Carrick, or move on?",
-      "published": "2026-11-07T10:30:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399795/manchester-united-michael-carrick-future-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1742042_2_1296x729_16-9.jpg",
-      "titleZh": "曼联正在接近十字路口：背对卡里克，还是继续前进？"
+      "title": "Has Man United already decided Carrick's future before the break?",
+      "published": "2026-11-08T19:39:25Z",
+      "url": "https://www.espn.com/video/clip/_/id/50423082/has-man-united-already-decided-carrick-future-break",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1108/dm_261108_COM_SOC_ANALYSIS_Has_Man_United_already_decided_Carricks_future_before_the_break_2026_11_8/dm_261108_COM_SOC_ANALYSIS_Has_Man_United_already_decided_Carricks_future_before_the_break_2026_11_8.jpg",
+      "titleZh": "Has Man United already decided Carrick's future before the break?"
     },
     {
-      "title": "Burley: You never know which version of Manchester United will turn up",
-      "published": "2026-11-07T00:13:11Z",
-      "url": "https://www.espn.com/video/clip/_/id/50402416/never-know-which-version-manchester-united-turn-up",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1106/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up/dm_261106_Burley_You_never_know_which_version_of_Manchester_United_will_turn_up.jpg",
-      "titleZh": "BURLEY ：你永远不知道哪个版本的曼联会出现"
+      "title": "Man United's poor starts have Premier League relegation looking more likely",
+      "published": "2026-11-08T21:00:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50422311/man-united-poor-starts-premier-league-relegation-looking-more-likely",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743129_1296x729_16-9.jpg",
+      "titleZh": "Man United's poor starts have Premier League relegation looking more likely"
     },
     {
-      "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
-      "published": "2026-11-06T21:00:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1742138_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联，阿森纳EYE伯恩茅斯的Tavernier"
+      "title": "Man United rescue 4-4 draw vs. Aston Villa but remain in relegation zone",
+      "published": "2026-11-08T19:13:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50421297/man-united-aston-villa-premier-league",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743096_1296x729_16-9.jpg",
+      "titleZh": "Man United rescue 4-4 draw vs. Aston Villa but remain in relegation zone"
     },
     {
-      "title": "Man United's Carlos Baleba set for long injury absence with hamstring issue",
-      "published": "2026-11-06T18:07:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50399365/man-united-carlos-baleba-set-long-injury-absence-hamstring-issue",
-      "image": "https://a.espncdn.com/photo/2026/1104/r1740908_1296x729_16-9.jpg",
-      "titleZh": "曼联的卡洛斯·巴莱巴（ Carlos Baleba ）因腿筋问题长期受伤缺席"
+      "title": "Man United twice come from two goals down to salvage point against Aston Villa",
+      "published": "2026-11-08T19:13:07Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401879240",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743093_1296x729_16-9.jpg",
+      "titleZh": "Man United twice come from two goals down to salvage point against Aston Villa"
     },
     {
-      "title": "Does Man United's coach matter? Could Jurgen Klopp reach Premier League glory at Old Trafford?",
-      "published": "2026-11-06T13:15:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50395131/does-man-united-coach-matter-jurgen-klopp-reach-premier-league-glory-old-trafford",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1741877_1296x729_16-9.jpg",
-      "titleZh": "曼联的教练很重要吗？尤尔根·克洛普（ Jurgen Klopp ）能否在老特拉福德（ Old Trafford ）赢得"
+      "title": "Premier League live recap: Man United can't escape relegation zone vs. Villa",
+      "published": "2026-11-08T20:57:42Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50391135/premier-league-live-updates-liverpool-chelsea-aston-villa-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743054_1296x729_16-9.jpg",
+      "titleZh": "Premier League live recap: Man United can't escape relegation zone vs. Villa"
     },
     {
-      "title": "Cristiano Ronaldo Portugal retirement: Man United, Bruno Fernandes lead tributes",
-      "published": "2026-11-06T07:58:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50387636/cristiano-ronaldo-portugal-retirement-man-united-bruno-fernandes-lead-tributes",
-      "image": "https://a.espncdn.com/photo/2026/0624/r1678682_1296x729_16-9.jpg",
-      "titleZh": "克里斯蒂亚诺·罗纳尔多葡萄牙退役：曼联、布鲁诺·费尔南德斯带头致敬"
+      "title": "Man United 4-4 Aston Villa: Dorgu rescues point in dramatic thriller - as it happened",
+      "published": "2026-11-08T19:16:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50420272/man-united-aston-villa-live-premier-league-updates",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743088_1296x729_16-9.jpg",
+      "titleZh": "Man United 4-4 Aston Villa: Dorgu rescues point in dramatic thriller - as it happened"
     },
     {
-      "title": "Transfer rumors, news: Aït-Nouri to join rivals Man United?",
-      "published": "2026-11-05T22:00:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50386327/transfer-rumors-news-premier-league-clubs-line-como-defender",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741753_1296x729_16-9.jpg",
-      "titleZh": "传闻，新闻：英超俱乐部为COMO后卫排队"
+      "title": "Who could replace Carrick after Man United's worst start since 1986?",
+      "published": "2026-11-08T18:34:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50216946/who-replace-michael-carrick-manchester-united-manager",
+      "image": "https://a.espncdn.com/photo/2026/1019/r1732822_1296x729_16-9.jpg",
+      "titleZh": "Who could replace Carrick after Man United's worst start since 1986?"
     },
     {
-      "title": "Soccer's main characters: Man United, Como, PSG, Donnarumma",
-      "published": "2026-11-05T17:51:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50388254/soccer-champions-league-main-characters-man-united-como-psg-donnarumma",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741544_1296x729_16-9.jpg",
-      "titleZh": "足球的主角：曼联、科莫、巴黎圣日耳曼、多纳鲁玛"
+      "title": "Man United fans unveil 'Owners out' banner but 21st-minute walkout falls through",
+      "published": "2026-11-08T17:34:11Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50421537/man-united-aston-villa-banner",
+      "image": "https://a.espncdn.com/photo/2026/1108/r1743029_1296x729_16-9.jpg",
+      "titleZh": "Man United fans unveil 'Owners out' banner but 21st-minute walkout falls through"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Man United, Arsenal eye Bournemouth's Tavernier",
-      "published": "2026-11-06T21:00:05Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50397632/transfer-rumors-news-arsenal-tracking-rb-leipzig-antonio-nusa-vinicius-jr-snub",
-      "image": "https://a.espncdn.com/photo/2026/1106/r1742138_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联，阿森纳EYE伯恩茅斯的Tavernier",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Aït-Nouri to join rivals Man United?",
-      "published": "2026-11-05T22:00:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50386327/transfer-rumors-news-premier-league-clubs-line-como-defender",
-      "image": "https://a.espncdn.com/photo/2026/1105/r1741753_1296x729_16-9.jpg",
-      "titleZh": "传闻，新闻：英超俱乐部为COMO后卫排队",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",
@@ -41813,9 +41802,9 @@
       "nationalityZh": "喀麦隆",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
       "headshot": "",
-      "statusType": "out",
-      "statusLabel": "伤缺/观察",
-      "availabilityScore": 38
+      "statusType": "available",
+      "statusLabel": "可用",
+      "availabilityScore": 90
     },
     {
       "id": "167127",
@@ -42350,7 +42339,7 @@
     "league": {
       "formation": "4-3-3",
       "title": "英超预测首发",
-      "summary": "以最近一场英超对切尔西的已确认首发为基线，并优先排除官方伤缺球员。",
+      "summary": "以最近一场英超对阿斯顿维拉的已确认首发为基线，并优先排除官方伤缺球员。",
       "players": [
         {
           "id": "301425",
@@ -42372,25 +42361,6 @@
           "role": "门将"
         },
         {
-          "id": "233937",
-          "name": "Lisandro Martínez",
-          "nameZh": "利桑德罗·马丁内斯",
-          "shortName": "L. Martínez",
-          "shortNameZh": "利马",
-          "jersey": "6",
-          "position": "Defender",
-          "age": 28,
-          "nationality": "Argentina",
-          "nationalityZh": "阿根廷",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "D",
-          "role": "中后卫"
-        },
-        {
           "id": "157073",
           "name": "Harry Maguire",
           "nameZh": "哈里·马奎尔",
@@ -42403,6 +42373,25 @@
           "nationalityZh": "英格兰",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/255610.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "中后卫"
+        },
+        {
+          "id": "340206",
+          "name": "Leny Yoro",
+          "nameZh": "莱尼·约罗",
+          "shortName": "L. Yoro",
+          "shortNameZh": "约罗",
+          "jersey": "15",
+          "position": "Defender",
+          "age": 20,
+          "nationality": "France",
+          "nationalityZh": "法国",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -42429,18 +42418,18 @@
           "role": "左后卫"
         },
         {
-          "id": "340206",
-          "name": "Leny Yoro",
-          "nameZh": "莱尼·约罗",
-          "shortName": "L. Yoro",
-          "shortNameZh": "约罗",
-          "jersey": "15",
+          "id": "239350",
+          "name": "Noussair Mazraoui",
+          "nameZh": "努赛尔·马兹拉维",
+          "shortName": "N. Mazraoui",
+          "shortNameZh": "马兹拉维",
+          "jersey": "3",
           "position": "Defender",
-          "age": 20,
-          "nationality": "France",
-          "nationalityZh": "法国",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1358581.png",
+          "age": 28,
+          "nationality": "Morocco",
+          "nationalityZh": "摩洛哥",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -42467,18 +42456,18 @@
           "role": "前腰"
         },
         {
-          "id": "314858",
-          "name": "Andrey Santos",
-          "nameZh": "安德烈·桑托斯",
-          "shortName": "A. Santos",
-          "shortNameZh": "桑托斯",
-          "jersey": "17",
+          "id": "328466",
+          "name": "Kobbie Mainoo",
+          "nameZh": "科比·梅努",
+          "shortName": "K. Mainoo",
+          "shortNameZh": "梅努",
+          "jersey": "37",
           "position": "Midfielder",
-          "age": 22,
-          "nationality": "Brazil",
-          "nationalityZh": "巴西",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1372921.png",
+          "age": 21,
+          "nationality": "England",
+          "nationalityZh": "英格兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -42486,18 +42475,18 @@
           "role": "中场"
         },
         {
-          "id": "231167",
-          "name": "Mason Mount",
-          "nameZh": "梅森·芒特",
-          "shortName": "M. Mount",
-          "shortNameZh": "芒特",
-          "jersey": "7",
+          "id": "193297",
+          "name": "Youri Tielemans",
+          "nameZh": "尤里·蒂勒曼斯",
+          "shortName": "Y. Tielemans",
+          "shortNameZh": "蒂勒曼斯",
+          "jersey": "18",
           "position": "Midfielder",
-          "age": 27,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/750032.png",
+          "age": 29,
+          "nationality": "Belgium",
+          "nationalityZh": "比利时",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -42569,7 +42558,7 @@
         },
         {
           "label": "经验值",
-          "value": 81
+          "value": 82
         },
         {
           "label": "攻守平衡",

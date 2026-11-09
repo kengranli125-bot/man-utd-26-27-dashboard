@@ -42046,6 +42046,42 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMiowJBVV95cUxNbzA4ZUpiZWRvQnVnOV9OMllCb0V6Nk5DRmhNZ0tjQmFXcWYtNmlteFdfQ1NDRTR3dXVCbVZoWE5fUWJPRXRnTFl3QTBYalhsMjV1aHVObHU3T0tKUV9NMnRvelJyU0hieHd4QnFvX0RrZGRvRW9wcGRLYmt0OHpJM2ZRTFVvRVRmOE1ITDVhaTBkTHFWWVc1SHc2RWlkUlBfM0JRSmdobXBEbXFuTmI4YkxURi1fNy0zZnlMQU5xT0tNbnlBTFliSnAzY25fYm1selBmak1LOXFnWFJQa0tybVlJTTAyam1EMnZ5d29iNVNtZlRLaHFnM1JlX2lXWVdJLWMySEVsakMxMG90cklWU2hDQkdzcU5xRE5qbEdweXdaZWs",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Michael Carrick is Man United's Captain Chaos",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbzA4ZUpiZWRvQnVnOV9OMllCb0V6Nk5DRmhNZ0tjQmFXcWYtNmlteFdfQ1NDRTR3dXVCbVZoWE5fUWJPRXRnTFl3QTBYalhsMjV1aHVObHU3T0tKUV9NMnRvelJyU0hieHd4QnFvX0RrZGRvRW9wcGRLYmt0OHpJM2ZRTFVvRVRmOE1ITDVhaTBkTHFWWVc1SHc2RWlkUlBfM0JRSmdobXBEbXFuTmI4YkxURi1fNy0zZnlMQU5xT0tNbnlBTFliSnAzY25fYm1selBmak1LOXFnWFJQa0tybVlJTTAyam1EMnZ5d29iNVNtZlRLaHFnM1JlX2lXWVdJLWMySEVsakMxMG90cklWU2hDQkdzcU5xRE5qbEdweXdaZWs?oc=5",
+      "published": "2026-11-09T07:00:53.000Z",
+      "titleZh": "迈克尔·卡里克是曼联的混沌队长"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTFA2b1JLMnlrMnFJWTZNSFNvVFFaMS04LTF2OWVleTlhUXBWMTJOamhLeXkyWEFYcDRrS2RkNkVlRXlIZElQblRyc2ZDcUFFMUhaM2w0U0dlaWVsQmRXQ3BSYjhnU0VrMEx2",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd 4-4 Aston Villa: Bizarre and thrilling theatre as Carrick's future still in limbo",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2b1JLMnlrMnFJWTZNSFNvVFFaMS04LTF2OWVleTlhUXBWMTJOamhLeXkyWEFYcDRrS2RkNkVlRXlIZElQblRyc2ZDcUFFMUhaM2w0U0dlaWVsQmRXQ3BSYjhnU0VrMEx2?oc=5",
+      "published": "2026-11-08T21:50:05.000Z",
+      "titleZh": "曼联4-4阿斯顿维拉：奇异而惊心动魄的剧院，因为卡里克的未来仍然悬而未决"
+    },
+    {
+      "id": "Fabrizio Romano:CBMikwFBVV95cUxQd1VybFNUZWFiZDA2Njg5d25weFVJT0xVeC05MXBLWGxjelNTSktndm93RkJLOFZ0bTN0aFR2SjZldmxzanVISVV6YkFEMGNZQmcyYWxFTzhNckNfV2ptNExqOWt0OExyS0tvQzJJUXR1UTdobWM0a0IxMWp1ZEROWXQ0UTNBQ29ldjNhN3ZWTWNnQVU",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd: Romano reveals Dalot January transfer decision after boos from fans",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1VybFNUZWFiZDA2Njg5d25weFVJT0xVeC05MXBLWGxjelNTSktndm93RkJLOFZ0bTN0aFR2SjZldmxzanVISVV6YkFEMGNZQmcyYWxFTzhNckNfV2ptNExqOWt0OExyS0tvQzJJUXR1UTdobWM0a0IxMWp1ZEROWXQ0UTNBQ29ldjNhN3ZWTWNnQVU?oc=5",
+      "published": "2026-11-08T21:13:12.000Z",
+      "titleZh": "曼联：罗马诺在球迷嘘声后透露达洛1月转会决定"
+    },
+    {
       "id": "Rob Dawson:CBMiiAFBVV95cUxOQUtzcDVmbUFVVzVac1hNdDhQb0hsT3ZnNmU1VnZya1pvTFRIcC1kN21BbENSbUthWGxrNVk0MFNORm96VlctVnZSbkhLT0tvLUI4Y0FiUkVUbmcxOFFtNFljaHNFUUJMbnhCSURqLURqSUZOemJ0MW8tSVI1anZJeDFyb2wzOW1y",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -42092,18 +42128,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODh6ZlBUN2hfZkVVY2gtMEV3RVRrVGFxOXB1R2dSYjlsUmo3WFBEbjF1YV80ZHZ6T01wMVhlak9GSFVRUEdUY243VWFQcF9BX2czSHA1X3MxRlpfa3BTSHAyeV9KWU5lejAwREtJWEhiZ3pnWk9oYjRRT2RySlR4UTlRSkMwa0h0U3ZxQnM1WHdfMnMzN0hJZ3FmWjZEcmQwWEtwVlJfdjVWN2JW?oc=5",
       "published": "2026-11-08T07:30:00.000Z",
       "titleZh": "重新审视曼联的降级战"
-    },
-    {
-      "id": "Chris Wheeler:CBMijwJBVV95cUxObjM4QzFudy1KdEFYVTlGMWd4Y08yS3R5T05IaXFXb3BlMHdEaDBGR1BpUFdzQTdDQlFrNm1VQ29vc3RZUWd3LWxRQTh0NHBueGQxaUtNVXAtMlExbk9mR1RQRkVXd0NvTEs1VmZOTVRLWU91dDBBLTJQMjc5dzlrendTOFZaVjZ4al9xVXVkcE1UVURKeWZVb3FKNGdvS2MyT3FZa0xnVnBXYjRhcjBtdzhSUFd2UzFTNlo4c2MzRWNUaVFWcktGTlF3N3loZXc2NjQ2cjdjUjdpRjNOVXFacU0zejVpcG9LbFNveFF3MVF1MGNfTEhMNi15REhJUHM5aFhKOFhhMm40eGpoa29B",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Michael Carrick given no guarantees over his Man United future",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObjM4QzFudy1KdEFYVTlGMWd4Y08yS3R5T05IaXFXb3BlMHdEaDBGR1BpUFdzQTdDQlFrNm1VQ29vc3RZUWd3LWxRQTh0NHBueGQxaUtNVXAtMlExbk9mR1RQRkVXd0NvTEs1VmZOTVRLWU91dDBBLTJQMjc5dzlrendTOFZaVjZ4al9xVXVkcE1UVURKeWZVb3FKNGdvS2MyT3FZa0xnVnBXYjRhcjBtdzhSUFd2UzFTNlo4c2MzRWNUaVFWcktGTlF3N3loZXc2NjQ2cjdjUjdpRjNOVXFacU0zejVpcG9LbFNveFF3MVF1MGNfTEhMNi15REhJUHM5aFhKOFhhMm40eGpoa29B?oc=5",
-      "published": "2026-11-07T22:30:16.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）对他的曼联未来没有任何保证"
     },
     {
       "id": "Fabrizio Romano:CBMifkFVX3lxTFBtRFF4Yk1vdGc3ZGVaNURzVUtEUWdHNEU3eXRib3ItX1Jrb2pRM0VrNGlnMi0tcnh1cWs4Y1JaM2FfYnVFYl9ockJnSHZubVUxaFZXeEZydmpBY0l0UTFjb3d6azd4N21zZjRob1dnTnRUZk1JQmw3dTJmNGRjUQ",
@@ -42262,18 +42286,6 @@
       "titleZh": "JJ Gabriel ： Ornstein确认曼联明星的下一个目的地，退出日期现已达成“协议”"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE5XcF9sZzNRUms3bXV4RG9lc1pIV21pbjI2YkZvanVrVjRwcXVLbDFXU3gtcmxKMUhvckxEX3psNGZmUEZWUVBCQ0VEdlNydnF2WFFNSHM2YlB3ZEpMNXd5S0pEejMyRXRI",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "JJ Gabriel transfer news: Real Madrid confident of signing Manchester United forward",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XcF9sZzNRUms3bXV4RG9lc1pIV21pbjI2YkZvanVrVjRwcXVLbDFXU3gtcmxKMUhvckxEX3psNGZmUEZWUVBCQ0VEdlNydnF2WFFNSHM2YlB3ZEpMNXd5S0pEejMyRXRI?oc=5",
-      "published": "2026-11-04T09:15:15.000Z",
-      "titleZh": "JJ Gabriel转会新闻：皇家马德里有信心签下曼联前锋"
-    },
-    {
       "id": "Chris Wheeler:CBMi9AFBVV95cUxNZzM4SC0zT21sR2h5TWJhbER6OFJma1JOM2VSZk93U2g5dFE5eEJ5YVZ2N3YwZTRfSHNGdXdsWkkxQ0J4SVNhQWpCUVJaMDZDeTdHeUxJUFBaYlhaazVIRWFnVWNhN0ZSV1E1aVNjcGlVM0RRZFIyemdjMjBfWnpOMWhPeGdRUXVfaXEwU2k3SGpRbllJc0pCVW1LNGxxUzFxUDJra2NIUnRnUkUxYjJIbTluRlE3b1lrcVNTc3pzZ3pCQUNJYWIybTExanVITVI4R2s2bEY0X0hGR2RTMlNHOUNZQ2V4RlR6OGpZNG00LU9OMHNZ",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -42310,18 +42322,6 @@
       "titleZh": "费尔南德斯在卡里克裂缝上打出“谎言”"
     },
     {
-      "id": "Laurie Whitwell:CBMiqgFBVV95cUxQTkc0R01vazE5MXRISHN3VWg0M2dJVFRLRnNkN0JobHNOZHFDSjZiT0RaOUVScHAyVGpBd3U4ZlVTam5ZbGRubzRNSFNyOW5jd29zdDB2Z2lBT0NVZkVCa2pWbVkxSjVDLVBLd3F1V0ctNXhQSDNwTW0tMWdrQktyWGc4MjlWTlYyTzJSZUt5Slp4R092LVFNNkdQcHJlMkxLY0VDeTdreEczdw",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "What do Manchester United do now? Is there a plan? - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkc0R01vazE5MXRISHN3VWg0M2dJVFRLRnNkN0JobHNOZHFDSjZiT0RaOUVScHAyVGpBd3U4ZlVTam5ZbGRubzRNSFNyOW5jd29zdDB2Z2lBT0NVZkVCa2pWbVkxSjVDLVBLd3F1V0ctNXhQSDNwTW0tMWdrQktyWGc4MjlWTlYyTzJSZUt5Slp4R092LVFNNkdQcHJlMkxLY0VDeTdreEczdw?oc=5",
-      "published": "2026-11-03T08:00:00.000Z",
-      "titleZh": "曼联现在做什么？有什么计划吗？ - The Athletic"
-    },
-    {
       "id": "Laurie Whitwell:CBMijwFBVV95cUxPV18zZ0h5Z1RYRmNEZmdBWU5BaFk3NjVzOVl5Mk5fSUYtbWJsMG0yUHQ5eURPbzVRcnR0cW1Qb3l0bjY4b0VjQ2kzVDYyR0xBQjBMT2R1bXdEM1RlSXluOGl2bkJGQ0E1YXFHeF9sRVc2SXlhMVYzYmFYWXpfLWRGdjBKQXVkRnNQOXYtVDRHSQ",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -42334,7 +42334,7 @@
       "titleZh": "迈克尔·卡里克（ Michael Carrick ）预计将接受培训，因为曼联仍处于困境-体育"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-08T22:52:01.141Z",
+  "journalistsUpdatedAt": "2026-11-09T09:58:27.787Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

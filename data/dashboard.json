@@ -42057,6 +42057,66 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMiigJBVV95cUxPR2F1RkpHcEFITzFHLS0xaHRhVEV3NmdDNTJzd3JwTGxzYTRhd2w5UzA1RVBmaTZYdHk5OEtFT0VCRlh0SnhMSndVVXhuX2lXS0pFRjU4bWlRbWRwd2cwU0x4U3JVaXN2anJqaXBZcTVOS3dHZjFXQUZtMDh0UnlhekRLaDJ6dFQ4ajBaWVdfN29yTlZCX0JZOFNwVU9GakJ4VGU0YkdaQW9sb25KX2YzZ3MzeG5NTEE2ZWQ2TmtuTE91cWFWZlZqNGx2Z0tZeXdzcGdMWkU5QXRVNElEdHBVWVlMZVBoMzltX19HanlwM2V4RmVOUlVRbGpFSFMtYVpIaXlyM1d4SThZdw",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Our experts' verdict on the Premier League campaign so far",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPR2F1RkpHcEFITzFHLS0xaHRhVEV3NmdDNTJzd3JwTGxzYTRhd2w5UzA1RVBmaTZYdHk5OEtFT0VCRlh0SnhMSndVVXhuX2lXS0pFRjU4bWlRbWRwd2cwU0x4U3JVaXN2anJqaXBZcTVOS3dHZjFXQUZtMDh0UnlhekRLaDJ6dFQ4ajBaWVdfN29yTlZCX0JZOFNwVU9GakJ4VGU0YkdaQW9sb25KX2YzZ3MzeG5NTEE2ZWQ2TmtuTE91cWFWZlZqNGx2Z0tZeXdzcGdMWkU5QXRVNElEdHBVWVlMZVBoMzltX19HanlwM2V4RmVOUlVRbGpFSFMtYVpIaXlyM1d4SThZdw?oc=5",
+      "published": "2026-11-10T20:31:24.000Z",
+      "titleZh": "到目前为止，我们的专家对英超联赛活动的判断"
+    },
+    {
+      "id": "Rob Dawson:CBMirgFBVV95cUxNQkF4bm9yR1RxZW91TnZfQndrVm4zN3RlQUVVUHpMaVVFRFFGejd4YjBDb29kRXdYRG9TQmo5VmJiOTcwUGI2X1c3MEJMeXFIcnMtWVdBcUJjbTBkeHhVcl9OdlFoM0pBT3dtbXZuNEVlaHQzdHRzUDJ5eTA4M053RHlnTUYxWnQ3aW91UUlxbUZONWJRM0NDT2FZV1hjbkdvTk83MHB4c3Z5RmhIN0E",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "USMNT or Manchester United: Pros and cons of Pochettino's options",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkF4bm9yR1RxZW91TnZfQndrVm4zN3RlQUVVUHpMaVVFRFFGejd4YjBDb29kRXdYRG9TQmo5VmJiOTcwUGI2X1c3MEJMeXFIcnMtWVdBcUJjbTBkeHhVcl9OdlFoM0pBT3dtbXZuNEVlaHQzdHRzUDJ5eTA4M053RHlnTUYxWnQ3aW91UUlxbUZONWJRM0NDT2FZV1hjbkdvTk83MHB4c3Z5RmhIN0E?oc=5",
+      "published": "2026-11-10T18:33:00.000Z",
+      "titleZh": "USMNT或曼联： Pochettino选择的利弊"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE0wZ3N4czNYNFJXWTd0dmVxek9FNnlDdXFBTXNlSTRxWk95SzNrVGFVRGxSWXJwQVhzM3F6LTdOcHdmNm4xTmwxNU1pQmNVdENKQ1UybmdvRm1JMTFZQ3NzUG15MmtMaTBl",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Manchester United: Michael Carrick future to be discussed at Monaco meeting",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wZ3N4czNYNFJXWTd0dmVxek9FNnlDdXFBTXNlSTRxWk95SzNrVGFVRGxSWXJwQVhzM3F6LTdOcHdmNm4xTmwxNU1pQmNVdENKQ1UybmdvRm1JMTFZQ3NzUG15MmtMaTBl?oc=5",
+      "published": "2026-11-10T18:12:02.000Z",
+      "titleZh": "曼联：摩纳哥会议将讨论迈克尔·卡里克的未来"
+    },
+    {
+      "id": "James Ducker:CBMipAFBVV95cUxOc1Z1YUJSVE5tYVNGYmFQU01PekExbGRxWXdOWFh6ZHdoM05KQUdPTXByc3gtN0lieEF1TDl4a3hlR3ZxN2xDbnc0ZVFSYUJNYk5EMldWT3dqUFNRU0FiWWI1Nkk0X2dYMENZNTFWLVE2ODlyOE44a201OXdsUjBJLXVnSGlTY0ZnZ3pWSDJZYzE1SmVobVA2Z2hXVTUwcENUdlAzdA",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Jason Wilcox and Omar Berrada to keep jobs despite Man Utd chaos",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1Z1YUJSVE5tYVNGYmFQU01PekExbGRxWXdOWFh6ZHdoM05KQUdPTXByc3gtN0lieEF1TDl4a3hlR3ZxN2xDbnc0ZVFSYUJNYk5EMldWT3dqUFNRU0FiWWI1Nkk0X2dYMENZNTFWLVE2ODlyOE44a201OXdsUjBJLXVnSGlTY0ZnZ3pWSDJZYzE1SmVobVA2Z2hXVTUwcENUdlAzdA?oc=5",
+      "published": "2026-11-10T14:50:00.000Z",
+      "titleZh": "尽管曼联一片混乱， Jason Wilcox和Omar Berrada仍将保住工作"
+    },
+    {
+      "id": "Laurie Whitwell:CBMirwFBVV95cUxPR0Rvd1BpZnZmYnNkVnlRZVVFWWlBYjhWNW5LMUZHX2RkVTlpbUZ2aUVfOWRKdEduQ0RCRVhNQ3FKSlFhaTBCN3dWM3FJMXVRR09SenA0ZThEV3MzcnNpVVJjUWdrQW1EOEZ2UUxZeHZvbExMdHUzMFFnN0o2NGdCLUpneGtkbk1oTjNzUWxxWmlad1pxYllKSk9uY2lBc3VKZlpuNUhIX290RGVXRG5v",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Michael Carrick takes Manchester United training with execs set for talks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR0Rvd1BpZnZmYnNkVnlRZVVFWWlBYjhWNW5LMUZHX2RkVTlpbUZ2aUVfOWRKdEduQ0RCRVhNQ3FKSlFhaTBCN3dWM3FJMXVRR09SenA0ZThEV3MzcnNpVVJjUWdrQW1EOEZ2UUxZeHZvbExMdHUzMFFnN0o2NGdCLUpneGtkbk1oTjNzUWxxWmlad1pxYllKSk9uY2lBc3VKZlpuNUhIX290RGVXRG5v?oc=5",
+      "published": "2026-11-10T13:08:46.000Z",
+      "titleZh": "迈克尔·卡里克（ Michael Carrick ）接受曼联培训，高管将参加会谈"
+    },
+    {
       "id": "Fabrizio Romano:CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -42105,6 +42165,18 @@
       "titleZh": "迈克尔·卡里克是曼联的混沌队长"
     },
     {
+      "id": "David Ornstein:CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United expected to sack Michael Carrick as head coach - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ?oc=5",
+      "published": "2026-11-10T08:19:00.000Z",
+      "titleZh": "曼联预计将解雇Michael Carrick担任主教练- The Athletic"
+    },
+    {
       "id": "David Ornstein:CBMipAFBVV95cUxQZm9BQVZNWWhlalpnREhOQnJIbU43clRhVzBmQ2hwQ3J5WjJxc1cwOGFCbmJYWlhEYkJhUTV5ZGpRQ1o3YzV5SXdBTm5jZTBnYUFRX0lRVlAwb0hTZ2o1NmJTNUVxLUZNUTMwQWRJVVV6RlJVbEhONTZPcFFtLWdfSUxBeHUtOHZZVzdtZERmQmlhX1pXQlF6UXhjMjA0d183TGVNVw",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -42113,20 +42185,8 @@
       "tier": 1,
       "title": "Man Utd: Ornstein reveals Carrick sack imminent as Pochettino on three-man shortlist",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZm9BQVZNWWhlalpnREhOQnJIbU43clRhVzBmQ2hwQ3J5WjJxc1cwOGFCbmJYWlhEYkJhUTV5ZGpRQ1o3YzV5SXdBTm5jZTBnYUFRX0lRVlAwb0hTZ2o1NmJTNUVxLUZNUTMwQWRJVVV6RlJVbEhONTZPcFFtLWdfSUxBeHUtOHZZVzdtZERmQmlhX1pXQlF6UXhjMjA0d183TGVNVw?oc=5",
-      "published": "2026-11-09T22:34:09.000Z",
+      "published": "2026-11-10T01:47:47.000Z",
       "titleZh": "曼联： Ornstein透露Carrick Sack即将成为三人入围名单中的Pochettino"
-    },
-    {
-      "id": "Laurie Whitwell:CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United expected to sack Michael Carrick as head coach - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ?oc=5",
-      "published": "2026-11-09T21:57:00.000Z",
-      "titleZh": "曼联预计将解雇Michael Carrick担任主教练- The Athletic"
     },
     {
       "id": "Fabrizio Romano:CBMikwFBVV95cUxQd1VybFNUZWFiZDA2Njg5d25weFVJT0xVeC05MXBLWGxjelNTSktndm93RkJLOFZ0bTN0aFR2SjZldmxzanVISVV6YkFEMGNZQmcyYWxFTzhNckNfV2ptNExqOWt0OExyS0tvQzJJUXR1UTdobWM0a0IxMWp1ZEROWXQ0UTNBQ29ldjNhN3ZWTWNnQVU",
@@ -42163,18 +42223,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkc0R01vazE5MXRISHN3VWg0M2dJVFRLRnNkN0JobHNOZHFDSjZiT0RaOUVScHAyVGpBd3U4ZlVTam5ZbGRubzRNSFNyOW5jd29zdDB2Z2lBT0NVZkVCa2pWbVkxSjVDLVBLd3F1V0ctNXhQSDNwTW0tMWdrQktyWGc4MjlWTlYyTzJSZUt5Slp4R092LVFNNkdQcHJlMkxLY0VDeTdreEczdw?oc=5",
       "published": "2026-11-09T02:51:00.000Z",
       "titleZh": "曼联现在做什么？有什么计划吗？ - The Athletic"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTFA2b1JLMnlrMnFJWTZNSFNvVFFaMS04LTF2OWVleTlhUXBWMTJOamhLeXkyWEFYcDRrS2RkNkVlRXlIZElQblRyc2ZDcUFFMUhaM2w0U0dlaWVsQmRXQ3BSYjhnU0VrMEx2",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd 4-4 Aston Villa: Bizarre and thrilling theatre as Carrick's future still in limbo",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2b1JLMnlrMnFJWTZNSFNvVFFaMS04LTF2OWVleTlhUXBWMTJOamhLeXkyWEFYcDRrS2RkNkVlRXlIZElQblRyc2ZDcUFFMUhaM2w0U0dlaWVsQmRXQ3BSYjhnU0VrMEx2?oc=5",
-      "published": "2026-11-08T21:50:05.000Z",
-      "titleZh": "曼联4-4阿斯顿维拉：奇异而惊心动魄的剧院，因为卡里克的未来仍然悬而未决"
     },
     {
       "id": "Rob Dawson:CBMiiAFBVV95cUxOQUtzcDVmbUFVVzVac1hNdDhQb0hsT3ZnNmU1VnZya1pvTFRIcC1kN21BbENSbUthWGxrNVk0MFNORm96VlctVnZSbkhLT0tvLUI4Y0FiUkVUbmcxOFFtNFljaHNFUUJMbnhCSURqLURqSUZOemJ0MW8tSVI1anZJeDFyb2wzOW1y",
@@ -42223,18 +42271,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODh6ZlBUN2hfZkVVY2gtMEV3RVRrVGFxOXB1R2dSYjlsUmo3WFBEbjF1YV80ZHZ6T01wMVhlak9GSFVRUEdUY243VWFQcF9BX2czSHA1X3MxRlpfa3BTSHAyeV9KWU5lejAwREtJWEhiZ3pnWk9oYjRRT2RySlR4UTlRSkMwa0h0U3ZxQnM1WHdfMnMzN0hJZ3FmWjZEcmQwWEtwVlJfdjVWN2JW?oc=5",
       "published": "2026-11-08T07:30:00.000Z",
       "titleZh": "重新审视曼联的降级战"
-    },
-    {
-      "id": "Chris Wheeler:CBMijwJBVV95cUxObjM4QzFudy1KdEFYVTlGMWd4Y08yS3R5T05IaXFXb3BlMHdEaDBGR1BpUFdzQTdDQlFrNm1VQ29vc3RZUWd3LWxRQTh0NHBueGQxaUtNVXAtMlExbk9mR1RQRkVXd0NvTEs1VmZOTVRLWU91dDBBLTJQMjc5dzlrendTOFZaVjZ4al9xVXVkcE1UVURKeWZVb3FKNGdvS2MyT3FZa0xnVnBXYjRhcjBtdzhSUFd2UzFTNlo4c2MzRWNUaVFWcktGTlF3N3loZXc2NjQ2cjdjUjdpRjNOVXFacU0zejVpcG9LbFNveFF3MVF1MGNfTEhMNi15REhJUHM5aFhKOFhhMm40eGpoa29B",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Michael Carrick given no guarantees over his Man United future",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObjM4QzFudy1KdEFYVTlGMWd4Y08yS3R5T05IaXFXb3BlMHdEaDBGR1BpUFdzQTdDQlFrNm1VQ29vc3RZUWd3LWxRQTh0NHBueGQxaUtNVXAtMlExbk9mR1RQRkVXd0NvTEs1VmZOTVRLWU91dDBBLTJQMjc5dzlrendTOFZaVjZ4al9xVXVkcE1UVURKeWZVb3FKNGdvS2MyT3FZa0xnVnBXYjRhcjBtdzhSUFd2UzFTNlo4c2MzRWNUaVFWcktGTlF3N3loZXc2NjQ2cjdjUjdpRjNOVXFacU0zejVpcG9LbFNveFF3MVF1MGNfTEhMNi15REhJUHM5aFhKOFhhMm40eGpoa29B?oc=5",
-      "published": "2026-11-07T22:30:16.000Z",
-      "titleZh": "迈克尔·卡里克（ Michael Carrick ）对他的曼联未来没有任何保证"
     },
     {
       "id": "Fabrizio Romano:CBMiqwFBVV95cUxPR0lfaUctQjk2Nl9kYl90ZmFJR2FCV2dDbXZkX3JiVFpXZ0tQX1dQRlZacThYZk05T2EySVBTNWJSY0lYaFRsZHFnNWZfMW14d1NyWWR2OTJuTWJnOXJsU3lRNTFuM1BzYlA3dFNDaHRmaEdxLUhuc0FWNFkwN29UbG9ub3NVMzNTTF9qd1JFSDZGVHBISHVJSmpxRzc2UXZQdkpKRERqRkFEWWM",
@@ -42307,45 +42343,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVp0UkVKWTY0WmZYQ1VpZS1vZDBZV2I3bE1FOEdua0tEMXlDSnBjaXRtQlFVTW9xNENuV2V2OFVwZzJ0bzBibklhN2RBR3VocnQ3OHJXX05QcVBmSEVsRlBSbFgzdjJlcV93YVl5QVhGZkF1ZEtUTFNpZ0RwQlNtYzRJUzZhSW5JSzZCT3I4a01jTnFZWHA1Y2dCMDNzanVLWXVvYjBuZGk?oc=5",
       "published": "2026-11-05T15:08:50.000Z",
       "titleZh": "曼联：法布里齐奥·罗马诺揭示了Unai Emery最终决定取代迈克尔·卡里克的真正原因"
-    },
-    {
-      "id": "James Ducker:CBMioAFBVV95cUxNWmtkOFd6WFVIaU5jWmN2SXFFamZFTFU3Q1lTalBqYlhBVWcwcWllcWNPaTZNOXNDUHFLRlZSUnNyMHpPMjdaUDhkeFFSVXhGczNTUlBDdzVSanNKcXlVeTVwb3NLOFNtSU1wMVh4RGt0c0RQVkJDUUoyd0dWR2Yxc3dEbzh2UHZEa1F6bEkwNUp4SEZnaEQtTkotS0dXODdN",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Man Utd owe debt of gratitude to Liverpool for teenage sensation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmtkOFd6WFVIaU5jWmN2SXFFamZFTFU3Q1lTalBqYlhBVWcwcWllcWNPaTZNOXNDUHFLRlZSUnNyMHpPMjdaUDhkeFFSVXhGczNTUlBDdzVSanNKcXlVeTVwb3NLOFNtSU1wMVh4RGt0c0RQVkJDUUoyd0dWR2Yxc3dEbzh2UHZEa1F6bEkwNUp4SEZnaEQtTkotS0dXODdN?oc=5",
-      "published": "2026-11-05T14:36:00.000Z",
-      "titleZh": "曼联对利物浦的青少年轰动表示感谢"
-    },
-    {
-      "id": "Laurie Whitwell:CBMiogFBVV95cUxOVExLLUcyOXJ2TVBZYVRmU2N3X25wUW95TE1XV29wQmhvTGRfZEF6QWdUdVgzcW9BNmVtSHFnN3BNRVB2TXVWekNGaWZScTduUkRCamxSZ1ZkMlIyNFZGbkwtZHFWTDd2eXVFTE9MdFVyNkIxREVUX1JqaHoya0RPRmRBaEFacmpSZENfX2prUHYyV2s2QmdDZ1pub25uMkdZWUE",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Avram Glazer says Manchester United not reliant on sporting success for commercial power - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVExLLUcyOXJ2TVBZYVRmU2N3X25wUW95TE1XV29wQmhvTGRfZEF6QWdUdVgzcW9BNmVtSHFnN3BNRVB2TXVWekNGaWZScTduUkRCamxSZ1ZkMlIyNFZGbkwtZHFWTDd2eXVFTE9MdFVyNkIxREVUX1JqaHoya0RPRmRBaEFacmpSZENfX2prUHYyV2s2QmdDZ1pub25uMkdZWUE?oc=5",
-      "published": "2026-11-05T07:49:35.000Z",
-      "titleZh": "阿夫拉姆·格雷泽（ Avram Glazer ）表示，曼联的商业力量不依赖于体育运动的成功- The Athletic"
-    },
-    {
-      "id": "David Ornstein:CBMimAFBVV95cUxQSnpnSkxPd1l4cklfZG1TaWw3RHBaR0ZTTDZ5MmFkdmE2N19xSkozdHRfTXIwOEFmUkNnQk1HekJyT1dKSW4wemxoRE9sS3I1WmVydFpzYi1LZi1idjctLVFkdFlybnc2VGYtY2RCTTZ3NmZWWmJsNmcwVUg2T2ZidjRHdkwtU2pOWWR1X2hnTmZSZzU2eWI5MQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s JJ Gabriel expected to join Real Madrid in January - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnpnSkxPd1l4cklfZG1TaWw3RHBaR0ZTTDZ5MmFkdmE2N19xSkozdHRfTXIwOEFmUkNnQk1HekJyT1dKSW4wemxoRE9sS3I1WmVydFpzYi1LZi1idjctLVFkdFlybnc2VGYtY2RCTTZ3NmZWWmJsNmcwVUg2T2ZidjRHdkwtU2pOWWR1X2hnTmZSZzU2eWI5MQ?oc=5",
-      "published": "2026-11-04T16:58:39.000Z",
-      "titleZh": "曼联的JJ加布里埃尔预计将于1月加入皇家马德里-体育"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-10T18:38:30.245Z",
+  "journalistsUpdatedAt": "2026-11-10T23:46:33.037Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

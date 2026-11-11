@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T19:42:06.298Z",
+  "updatedAt": "2026-11-11T06:14:15.962Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,8 +41380,15 @@
   ],
   "news": [
     {
+      "title": "Ogden: Stars aligning for Pochettino to join Manchester United",
+      "published": "2026-11-10T22:49:46Z",
+      "url": "https://www.espn.com/video/clip/_/id/50446824/stars-aligning-pochettino-join-manchester-united",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1110/dm_261110_Ogden_Stars_aligning_for_Pochettino_to_join_Manchester_United/dm_261110_Ogden_Stars_aligning_for_Pochettino_to_join_Manchester_United.jpg",
+      "titleZh": "奥格登：波切蒂诺加盟曼联的明星"
+    },
+    {
       "title": "USMNT or Manchester United: Pros and cons of Pochettino's options",
-      "published": "2026-11-10T18:33:31Z",
+      "published": "2026-11-10T19:52:34Z",
       "url": "https://www.espn.com/soccer/story/_/id/50442775/usmnt-manchester-united-pros-cons-mauricio-pochettino-options",
       "image": "https://a.espncdn.com/photo/2026/1110/r1744028_1296x729_16-9.jpg",
       "titleZh": "USMNT或曼联： Pochettino选择的利弊"
@@ -41455,13 +41462,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50428521/premier-league-laliga-analysis-marcotti-man-united-carrick-barcelona-atletico",
       "image": "https://a.espncdn.com/photo/2026/1109/r1743504_1296x729_16-9.jpg",
       "titleZh": "尽管别墅卷土重来，曼联不应该留住卡里克；巴萨是如何击败马竞的"
-    },
-    {
-      "title": "Man United's Patrick Dorgu 'not happy' despite scoring 96th-minute equaliser",
-      "published": "2026-11-09T13:06:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50431844/man-united-patrick-dorgu-last-minute-equaliser-aston-villa",
-      "image": "https://a.espncdn.com/photo/2026/1109/r1743489_2_1296x729_16-9.jpg",
-      "titleZh": "曼联的帕特里克·多古（ Patrick Dorgu ）尽管在第96分钟扳平比分，但“不开心”"
     }
   ],
   "transfers": [

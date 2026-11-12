@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T14:28:35.484Z",
+  "updatedAt": "2026-11-12T00:40:47.842Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,6 +41380,13 @@
   ],
   "news": [
     {
+      "title": "Pochettino expected to coach USMNT games vs. Haiti amid Man United talks - source",
+      "published": "2026-11-11T19:49:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50454123/pochettino-due-coach-usmnt-games-haiti-man-united-source",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744478_1296x729_16-9.jpg",
+      "titleZh": "据消息人士透露，波切蒂诺预计将在与曼联谈判期间执教美国男足对阵海地的比赛"
+    },
+    {
       "title": "Wayne Rooney joins 'I'm a Celebrity ...Get Me Out of Here!' line-up",
       "published": "2026-11-11T12:37:54Z",
       "url": "https://www.espn.com/soccer/story/_/id/50367652/wayne-rooney-joins-im-celebrity-get-here-line-up",
@@ -41395,7 +41402,7 @@
     },
     {
       "title": "Man United near Mauricio Pochettino deal, Michael Carrick awaits verdict - sources",
-      "published": "2026-11-11T11:58:55Z",
+      "published": "2026-11-11T17:09:18Z",
       "url": "https://www.espn.com/soccer/story/_/id/50451384/michael-carrick-mauricio-pochettino-man-united",
       "image": "https://a.espncdn.com/photo/2026/1111/r1744373_1296x729_16-9.jpg",
       "titleZh": "曼联接近毛里西奥·波切蒂诺的交易，迈克尔·卡里克等待判决-消息来源"
@@ -41455,16 +41462,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50434026/premier-league-overreactions-brighton-arsenal-title-rivals-man-united-resilience",
       "image": "https://a.espncdn.com/photo/2026/1109/r1743713_1296x729_16-9.jpg",
       "titleZh": "英超联赛反应过度：布莱顿vs阿森纳争夺冠军？曼联的韧性会拯救他们吗？"
-    },
-    {
-      "title": "Transfer rumors, news: Man United eye move for Forest's Murillo",
-      "published": "2026-11-10T05:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50430657/transfer-rumors-news-man-united-hire-usmnt-pochettino-replace-carrick",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743804_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联聘请USMNT的波切蒂诺取代卡里克？"
     }
   ],
   "transfers": [
+    {
+      "title": "Pochettino expected to coach USMNT games vs. Haiti amid Man United talks - source",
+      "published": "2026-11-11T19:49:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50454123/pochettino-due-coach-usmnt-games-haiti-man-united-source",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744478_1296x729_16-9.jpg",
+      "titleZh": "据消息人士透露，波切蒂诺预计将在与曼联谈判期间执教美国男足对阵海地的比赛",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Man United add Brentford defender Nathan Collins to shortlist",
       "published": "2026-11-11T11:51:55Z",
@@ -41477,20 +41487,10 @@
     },
     {
       "title": "Man United near Mauricio Pochettino deal, Michael Carrick awaits verdict - sources",
-      "published": "2026-11-11T11:58:55Z",
+      "published": "2026-11-11T17:09:18Z",
       "url": "https://www.espn.com/soccer/story/_/id/50451384/michael-carrick-mauricio-pochettino-man-united",
       "image": "https://a.espncdn.com/photo/2026/1111/r1744373_1296x729_16-9.jpg",
       "titleZh": "曼联接近毛里西奥·波切蒂诺的交易，迈克尔·卡里克等待判决-消息来源",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Man United eye move for Forest's Murillo",
-      "published": "2026-11-10T05:37:14Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50430657/transfer-rumors-news-man-united-hire-usmnt-pochettino-replace-carrick",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743804_1296x729_16-9.jpg",
-      "titleZh": "转移谣言，新闻：曼联聘请USMNT的波切蒂诺取代卡里克？",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

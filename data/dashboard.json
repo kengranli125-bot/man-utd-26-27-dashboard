@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:42:02.626Z",
+  "updatedAt": "2026-11-13T19:39:36.937Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,107 +41380,117 @@
   ],
   "news": [
     {
-      "title": "Hislop: Pochettino's late arrival 'on brand' for Manchester United",
-      "published": "2026-11-12T22:39:12Z",
-      "url": "https://www.espn.com/video/clip/_/id/50465151/pochettino-late-arrival-brand-manchester-united",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1112/dm_261112_COM_SOC_Analysis_Hislop_Pochettinos_late_arrival_on_brand_for_Manchester_United_20261112_GLO/dm_261112_COM_SOC_Analysis_Hislop_Pochettinos_late_arrival_on_brand_for_Manchester_United_20261112_GLO.jpg",
-      "titleZh": "希斯洛普：波切蒂诺的迟到“符合”曼联的风格"
+      "title": "Recap: USMNT's Pochettino in tears as he agrees to join Man United",
+      "published": "2026-11-13T17:16:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50470402/live-updates-mauricio-pochettino-usmnt-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745277_1296x729_16-9.jpg",
+      "titleZh": "回顾：美国男足主帅波切蒂诺在同意加盟曼联时泪流满面"
     },
     {
-      "title": "Paul Scholes: Mauricio Pochettino has the 'presence' to be Man United boss",
-      "published": "2026-11-12T17:19:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50462862/man-united-mauricio-pochettino-paul-scholes",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744868_1296x729_16-9.jpg",
-      "titleZh": "保罗·斯科尔斯：毛里西奥·波切蒂诺具备成为曼联主帅的“气场”"
+      "title": "Pochettino explains why he decided to join Man United and leave USMNT",
+      "published": "2026-11-13T15:46:02Z",
+      "url": "https://www.espn.com/video/clip/_/id/50472256/pochettino-explains-why-decided-join-man-united-leave-usmnt",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026.jpg",
+      "titleZh": "波切蒂诺解释了他为何决定加盟曼联并离开美国男足国家队"
     },
     {
-      "title": "Reaction as Man United sack Michael Carrick as manager",
-      "published": "2026-11-12T17:01:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50441200/live-updates-reaction-man-united-sack-michael-carrick",
+      "title": "Emotional Pochettino says bye to USMNT after accepting Man United role",
+      "published": "2026-11-13T15:26:33Z",
+      "url": "https://www.espn.com/video/clip/_/id/50471923/emotional-pochettino-says-bye-usmnt-accepting-man-united-role",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626.jpg",
+      "titleZh": "波切蒂诺在接受曼联职务后含泪告别美国男足国家队"
+    },
+    {
+      "title": "Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino",
+      "published": "2026-11-13T15:02:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745185_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：曼联看中美国男足的巴洛贡和弗里曼，以供波切蒂诺使用"
+    },
+    {
+      "title": "Mauricio Pochettino to Man United: Is Tottenham love affair finally over?",
+      "published": "2026-11-13T14:20:41Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745200_1296x729_16-9.jpg",
+      "titleZh": "毛里西奥·波切蒂诺加盟曼联：他与托特纳姆的爱情故事终于结束了吗？"
+    },
+    {
+      "title": "Mauricio Pochettino to Man United: 'Never a better time,' says Harry Redknapp",
+      "published": "2026-11-13T13:26:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50471147/harry-redknapp-mauricio-pochettino-man-united",
+      "image": "https://a.espncdn.com/photo/2023/1212/r1265427_1296x729_16-9.jpg",
+      "titleZh": "哈里·雷德克纳普谈毛里西奥·波切蒂诺加盟曼联：“再没有比现在更好的时机了。”"
+    },
+    {
+      "title": "Michael Carrick breaks silence after Man United sacking, love for club 'never dies'",
+      "published": "2026-11-13T13:05:40Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50471058/michael-carrick-man-united-sacked-silence",
       "image": "https://a.espncdn.com/photo/2026/1108/r1742973_1296x729_16-9.jpg",
-      "titleZh": "实时更新：曼联解雇主教练迈克尔·卡里克后的反应"
+      "titleZh": "迈克尔·卡里克在被曼联解雇后打破沉默，对俱乐部的热爱“永不消逝”"
     },
     {
-      "title": "Balogun wants Pochettino to stay amid Man United talks: He raised standard",
-      "published": "2026-11-12T16:47:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50462703/balogun-wants-pochettino-stay-amid-talk-exit-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744841_1296x729_16-9.jpg",
-      "titleZh": "巴洛贡希望波切蒂诺在与曼联谈判期间留任：他提高了球队的标准"
+      "title": "In Mauricio Pochettino, Manchester United have finally hired a proper manager",
+      "published": "2026-11-13T13:04:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50452091/manchester-united-hire-mauricio-pochettino-reaction",
+      "image": "https://a.espncdn.com/photo/2026/1111/r1744396_1296x729_16-9.jpg",
+      "titleZh": "曼联终于聘请了一位合适的教练——毛里西奥·波切蒂诺"
     },
     {
-      "title": "What does Pochettino need to change to make Man United successful?",
-      "published": "2026-11-12T13:26:59Z",
-      "url": "https://www.espn.com/video/clip/_/id/50461394/what-does-pochettino-need-change-make-man-united-successful",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1112/dm_261112_COM_SOC_ANALYSIS_What_does_Pochettino_need_to_change_to_make_Man_United_successful_2026_11_12/dm_261112_COM_SOC_ANALYSIS_What_does_Pochettino_need_to_change_to_make_Man_United_successful_2026_11_12.jpg",
-      "titleZh": "波切蒂诺需要做出哪些改变，才能让曼联取得成功？"
+      "title": "Man United confirm Mauricio Pochettino as Michael Carrick replacement",
+      "published": "2026-11-13T15:10:48Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50469660/man-united-mauricio-pochettino-manager-michael-carrick",
+      "image": "https://a.espncdn.com/photo/2026/0624/r1678650_1296x729_16-9.jpg",
+      "titleZh": "曼联确认任命毛里西奥·波切蒂诺接替迈克尔·卡里克"
     },
     {
-      "title": "Man United hope to seal Mauricio Pochettino deal on Thursday - sources",
-      "published": "2026-11-12T15:22:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50461316/man-united-mauricio-pochettino-michael-carrick-manager",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689507_2_1296x729_16-9.jpg",
-      "titleZh": "消息人士称，曼联希望在周四敲定与毛里西奥·波切蒂诺的签约事宜"
+      "title": "Bruno Fernandes rejects contract, Man United relaxed as talks continue - sources",
+      "published": "2026-11-13T13:29:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50470480/bruno-fernandes-man-united-contract",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738889_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯拒绝续约，曼联态度放松，谈判仍在继续——消息人士透露"
     },
     {
-      "title": "Man United fan group blame owners, not Michael Carrick, for woes",
-      "published": "2026-11-12T12:40:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50461082/man-united-jim-ratcliffe-ineos-michael-carrick",
-      "image": "https://a.espncdn.com/photo/2026/0328/r1635171_1296x729_16-9.jpg",
-      "titleZh": "曼联球迷团体将球队的困境归咎于俱乐部老板，而非迈克尔·卡里克"
+      "title": "Why now is the right time for Man United and Pochettino",
+      "published": "2026-11-13T12:03:42Z",
+      "url": "https://www.espn.com/video/clip/_/id/50470161/why-now-right-man-united-pochettino",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_ANALYSIS_Why_now_is_the_right_time_for_Man_United_and_Pochettino_2026_11_13/dm_261113_COM_SOC_ANALYSIS_Why_now_is_the_right_time_for_Man_United_and_Pochettino_2026_11_13.jpg",
+      "titleZh": "为什么现在是曼联和波切蒂诺的合适时机"
     },
     {
-      "title": "Gary Neville slams Man United's 'classless' handling of Michael Carrick sacking",
-      "published": "2026-11-12T11:32:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50460693/man-united-michael-carrick-sacked-gary-neville",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744733_1296x729_16-9.jpg",
-      "titleZh": "加里·内维尔抨击曼联在迈克尔·卡里克被解雇一事上的“没品”处理方式"
-    },
-    {
-      "title": "Michael Carrick's Man United collapse: The stats behind his sacking",
-      "published": "2026-11-12T10:46:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50440076/michael-carrick-man-united-sacked-stats-records",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1742973_608x342_16-9.jpg",
-      "titleZh": "迈克尔·卡里克在曼联的溃败：解雇背后的数据"
-    },
-    {
-      "title": "How Michael Carrick's stint as Man United boss unravelled - a timeline",
-      "published": "2026-11-12T10:45:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50277466/michael-carrick-man-united-sacked-line",
-      "image": "https://a.espncdn.com/photo/2026/1025/r1735947_608x342_16-9.jpg",
-      "titleZh": "迈克尔·卡里克执教曼联的历程——时间轴"
-    },
-    {
-      "title": "Michael Carrick sacked by Man United; sources say Mauricio Pochettino close",
-      "published": "2026-11-12T19:48:17Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50180844/man-united-michael-carrick-sacked-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克被曼联解雇；有消息称毛里西奥·波切蒂诺即将上任"
-    },
-    {
-      "title": "How Michael Carrick won the Manchester United job, then lost it 10 months later",
-      "published": "2026-11-12T10:51:47Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50437253/manchester-united-fire-michael-carrick-analysis",
-      "image": "https://a.espncdn.com/photo/2026/1110/r1743807_1296x729_16-9.jpg",
-      "titleZh": "迈克尔·卡里克是如何赢得曼联帅位的，又如何在10个月后失去帅位的"
+      "title": "Mauricio Pochettino agrees Man United deal, announcement expected - sources",
+      "published": "2026-11-13T14:43:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697370_1296x729_16-9.jpg",
+      "titleZh": "消息人士称，毛里西奥·波切蒂诺已同意与曼联签约，预计将正式宣布"
     }
   ],
   "transfers": [
     {
-      "title": "Balogun wants Pochettino to stay amid Man United talks: He raised standard",
-      "published": "2026-11-12T16:47:22Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50462703/balogun-wants-pochettino-stay-amid-talk-exit-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1112/r1744841_1296x729_16-9.jpg",
-      "titleZh": "巴洛贡希望波切蒂诺在与曼联谈判期间留任：他提高了球队的标准",
+      "title": "Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino",
+      "published": "2026-11-13T15:02:36Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50469742/transfer-rumors-news-man-united-balogun-freeman-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1113/r1745185_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：曼联看中美国男足的巴洛贡和弗里曼，以供波切蒂诺使用",
       "player": "",
       "status": "推进中",
       "statusType": "progress"
     },
     {
-      "title": "Man United hope to seal Mauricio Pochettino deal on Thursday - sources",
-      "published": "2026-11-12T15:22:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50461316/man-united-mauricio-pochettino-michael-carrick-manager",
-      "image": "https://a.espncdn.com/photo/2026/0715/r1689507_2_1296x729_16-9.jpg",
-      "titleZh": "消息人士称，曼联希望在周四敲定与毛里西奥·波切蒂诺的签约事宜",
+      "title": "Bruno Fernandes rejects contract, Man United relaxed as talks continue - sources",
+      "published": "2026-11-13T13:29:12Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50470480/bruno-fernandes-man-united-contract",
+      "image": "https://a.espncdn.com/photo/2026/1031/r1738889_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯拒绝续约，曼联态度放松，谈判仍在继续——消息人士透露",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
+    {
+      "title": "Mauricio Pochettino agrees Man United deal, announcement expected - sources",
+      "published": "2026-11-13T14:43:16Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50452966/mauricio-pochettino-man-united-deal-sources",
+      "image": "https://a.espncdn.com/photo/2026/0804/r1697370_1296x729_16-9.jpg",
+      "titleZh": "消息人士称，毛里西奥·波切蒂诺已同意与曼联签约，预计将正式宣布",
       "player": "",
       "status": "推进中",
       "statusType": "progress"
@@ -41665,7 +41675,7 @@
       "shortNameZh": "约罗",
       "jersey": "15",
       "position": "Defender",
-      "age": 20,
+      "age": 21,
       "nationality": "France",
       "nationalityZh": "法国",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
@@ -42408,7 +42418,7 @@
           "shortNameZh": "约罗",
           "jersey": "15",
           "position": "Defender",
-          "age": 20,
+          "age": 21,
           "nationality": "France",
           "nationalityZh": "法国",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
@@ -42752,7 +42762,7 @@
           "shortNameZh": "约罗",
           "jersey": "15",
           "position": "Defender",
-          "age": 20,
+          "age": 21,
           "nationality": "France",
           "nationalityZh": "法国",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
@@ -42809,7 +42819,7 @@
         },
         {
           "label": "经验值",
-          "value": 77
+          "value": 78
         },
         {
           "label": "攻守平衡",
@@ -42982,7 +42992,7 @@
           "shortNameZh": "约罗",
           "jersey": "15",
           "position": "Defender",
-          "age": 20,
+          "age": 21,
           "nationality": "France",
           "nationalityZh": "法国",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",

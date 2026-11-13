@@ -42091,18 +42091,6 @@
       "titleZh": "布鲁诺·费尔南德斯拒绝曼联的第二份合同报价 - The Athletic"
     },
     {
-      "id": "Rob Dawson:CBMipAFBVV95cUxOeU90X3dyS2NuRUZJMjNXV1ZIazkybEVvRC0yV2YxVUh4ZldHRnl2cVZvNWRWVXgzeUxZRE9uU1YwSWlDSjlVMTlvNzUwSXVqY0Q5cXBzZERwY0hCQnZXMHdaVVFsQ3FzVVdvZG1LU0NieGpDQUJxRF83XzF6cllEMUY1N1VneFUtZjB4X19WT2xURkJqcVk5Q2FMWE5sX05kRGoxcQ",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Man United hope to seal Mauricio Pochettino deal on Thursday - sources",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeU90X3dyS2NuRUZJMjNXV1ZIazkybEVvRC0yV2YxVUh4ZldHRnl2cVZvNWRWVXgzeUxZRE9uU1YwSWlDSjlVMTlvNzUwSXVqY0Q5cXBzZERwY0hCQnZXMHdaVVFsQ3FzVVdvZG1LU0NieGpDQUJxRF83XzF6cllEMUY1N1VneFUtZjB4X19WT2xURkJqcVk5Q2FMWE5sX05kRGoxcQ?oc=5",
-      "published": "2026-11-12T13:17:00.000Z",
-      "titleZh": "消息人士称，曼联希望在周四敲定与毛里西奥·波切蒂诺的签约事宜"
-    },
-    {
       "id": "Laurie Whitwell:CBMipwFBVV95cUxOcnd5M01CSnpYSDloM0sxV0Q0aDB6WUpmeVN5R2V5ejVkeUJ0NzY0eEo3SUozcnVQWVcwRWZ2UmRXTExXdlNQNG1JWWtURVpSRGZob2liWU1KQWg4b0xPai1lRlRjRVFEckhxaDhTSHREQUdYbXJ1SlBtZmtuSHN0bDBhUDZzUFRfR19fWEZleE5vSkEwNjlqYmR6SUVHUmh0ZkM4OXRRRQ",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -42115,16 +42103,28 @@
       "titleZh": "曼联与迈克尔·卡里克分道扬镳 - The Athletic"
     },
     {
-      "id": "Chris Wheeler:CBMirAFBVV95cUxQMTFMV0dYZ29QcWpZRVZzNzN4bFZ5UE0wVmJVMlcwMEJjU0tGOUVKelBlZi1vRjFrXzFrMXRRVmVnc3pBcFoyRmhFdmJmVDYtM0dlNVBnM0ZFYVhTNGZmU3BvRWdWWGU0Q2tPN21HYXBaclEzeTh2SHd6ZU84aDdqNFBua0lUYWFZWjREeE8yUFA0bTFJQTJUUVFqRW1oaEpaR2FVelNMbVJNaGJ1",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "How Michael Carrick's Manchester United fell apart",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTFMV0dYZ29QcWpZRVZzNzN4bFZ5UE0wVmJVMlcwMEJjU0tGOUVKelBlZi1vRjFrXzFrMXRRVmVnc3pBcFoyRmhFdmJmVDYtM0dlNVBnM0ZFYVhTNGZmU3BvRWdWWGU0Q2tPN21HYXBaclEzeTh2SHd6ZU84aDdqNFBua0lUYWFZWjREeE8yUFA0bTFJQTJUUVFqRW1oaEpaR2FVelNMbVJNaGJ1?oc=5",
-      "published": "2026-11-12T11:44:20.000Z",
-      "titleZh": "迈克尔·卡里克执教的曼联是如何分崩离析的"
+      "id": "Rob Dawson:CBMimwFBVV95cUxNSm9aa3R1VzhZQkpKRWJtZmFYRllucmNtczNWLURuckdjTVFsZ1BZSnRmOGRwbVNVaFdpc3c0YTl0TFJjUWVsekgyNVMtOHdQTTB1QTBoMHh0cjJ2SDc4R3MxTDZKM2xoNFFNNllzZ0I4Tmtpc2RKcUVtU29KQVRmMnNnVWRZRDJCa2xpYTlrd0xWVElYRkJzUERWOA",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "How Michael Carrick won the Manchester United job, then lost it 10 months later",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSm9aa3R1VzhZQkpKRWJtZmFYRllucmNtczNWLURuckdjTVFsZ1BZSnRmOGRwbVNVaFdpc3c0YTl0TFJjUWVsekgyNVMtOHdQTTB1QTBoMHh0cjJ2SDc4R3MxTDZKM2xoNFFNNllzZ0I4Tmtpc2RKcUVtU29KQVRmMnNnVWRZRDJCa2xpYTlrd0xWVElYRkJzUERWOA?oc=5",
+      "published": "2026-11-12T10:35:00.000Z",
+      "titleZh": "迈克尔·卡里克是如何赢得曼联教练一职，然后在10个月后失去这份工作的"
+    },
+    {
+      "id": "James Ducker:CBMiqwFBVV95cUxPOWtUdzBxM0xKbTN0Sk40VlFDazVDQVFmN3NmNUxIeHpZMW9IR1UyRmYtVDNJYUlYUFlxOHA5alVoNmhpbHE2Q1NOYzNTYTdCSllmZGlPVFR0MlJyNmxRT05KMVpKSmNpNTlDRWNoWk1iOWhOMnFLZ1ZGdTNIVnZQRkw5aUxyaWEzZG5aVHdod2VxV2MtLWJYcHVqY25oaEFBZE1xTzNIQlRpMlE",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Michael Carrick’s Man Utd implosion and why Amazon cannot believe its luck",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtUdzBxM0xKbTN0Sk40VlFDazVDQVFmN3NmNUxIeHpZMW9IR1UyRmYtVDNJYUlYUFlxOHA5alVoNmhpbHE2Q1NOYzNTYTdCSllmZGlPVFR0MlJyNmxRT05KMVpKSmNpNTlDRWNoWk1iOWhOMnFLZ1ZGdTNIVnZQRkw5aUxyaWEzZG5aVHdod2VxV2MtLWJYcHVqY25oaEFBZE1xTzNIQlRpMlE?oc=5",
+      "published": "2026-11-12T10:30:00.000Z",
+      "titleZh": "迈克尔·卡里克在曼联的崩溃，以及亚马逊为何不敢相信自己的运气"
     },
     {
       "id": "Simon Stone:CBMiaEFVX3lxTE9UUm9aT29OWjJWdUNSREpNajRsRkhUaXRJMXp0RkctLTVrRXdVb1B6U2dtVXQ5QVhRejR4M0h2MndraVZSVHI5cDhVLXBJRm8zazFtWE9OVmsxVGY0YU9IQVVLbjdPUXN2",
@@ -42151,6 +42151,18 @@
       "titleZh": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino - The Athletic"
     },
     {
+      "id": "Chris Wheeler:CBMirAFBVV95cUxQMTFMV0dYZ29QcWpZRVZzNzN4bFZ5UE0wVmJVMlcwMEJjU0tGOUVKelBlZi1vRjFrXzFrMXRRVmVnc3pBcFoyRmhFdmJmVDYtM0dlNVBnM0ZFYVhTNGZmU3BvRWdWWGU0Q2tPN21HYXBaclEzeTh2SHd6ZU84aDdqNFBua0lUYWFZWjREeE8yUFA0bTFJQTJUUVFqRW1oaEpaR2FVelNMbVJNaGJ1",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "How Michael Carrick's Manchester United fell apart",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTFMV0dYZ29QcWpZRVZzNzN4bFZ5UE0wVmJVMlcwMEJjU0tGOUVKelBlZi1vRjFrXzFrMXRRVmVnc3pBcFoyRmhFdmJmVDYtM0dlNVBnM0ZFYVhTNGZmU3BvRWdWWGU0Q2tPN21HYXBaclEzeTh2SHd6ZU84aDdqNFBua0lUYWFZWjREeE8yUFA0bTFJQTJUUVFqRW1oaEpaR2FVelNMbVJNaGJ1?oc=5",
+      "published": "2026-11-11T15:30:46.000Z",
+      "titleZh": "迈克尔·卡里克执教的曼联是如何分崩离析的"
+    },
+    {
       "id": "David Ornstein:CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -42161,6 +42173,30 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ?oc=5",
       "published": "2026-11-11T14:12:41.000Z",
       "titleZh": "如果迈克尔·卡里克（ Michael Carrick ）离开，曼联将与毛里西奥·波切蒂诺（ Mauricio Pochettino ）达成协议- The Ath"
+    },
+    {
+      "id": "James Ducker:CBMiqAFBVV95cUxPUXlqTFVTQnFXQzJ5SkF0WDUzVnZDbjI2SWxWS1g2M1doWHV0NjhlYklCNTBlWVNCenpvU2xZNERaR3NzYXhBT1RLU1l5VEw4bEtZNE1DaTREeGl1alV0bVFobHRYbHRSTTdGVDRZU3ZVbFF3VnZYSEdwdzZlRl80TU84TE53LUEwZk56d25qZGZkdzBELXNRQzNvUFUxSjc4amNYSm9oUGg",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Who could replace Michael Carrick at Man Utd?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXlqTFVTQnFXQzJ5SkF0WDUzVnZDbjI2SWxWS1g2M1doWHV0NjhlYklCNTBlWVNCenpvU2xZNERaR3NzYXhBT1RLU1l5VEw4bEtZNE1DaTREeGl1alV0bVFobHRYbHRSTTdGVDRZU3ZVbFF3VnZYSEdwdzZlRl80TU84TE53LUEwZk56d25qZGZkdzBELXNRQzNvUFUxSjc4amNYSm9oUGg?oc=5",
+      "published": "2026-11-11T11:33:00.000Z",
+      "titleZh": "谁能接替迈克尔·卡里克在曼联的职位？"
+    },
+    {
+      "id": "Chris Wheeler:CBMiygFBVV95cUxQMEFkYU4tZVJtbW9xZlp2X2o4Y0k5cFdQVlZteE5hdjBYZ1FDWWlKRDJVVXh0UHhmaC1oQkNpeVNqVDBlVXc5eWQxalFFc0hmWGRCcUdpak15T1owY0RpbTd4eVRtTmQ1ZWozVEtMUXplUGM0bE1mcVZXWkdTV3lhbFRadXNSNzl0d2J4YWNQVWhERmxEYVpiREdRZER0Yl9XNzUyRU9JZ2xmazYyajE3UHpjVXBidjh4LWJqNENlUnZ2WlVrMHcwam9R",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Michael Carrick's D-Day: Man United boss arrives with sack looming",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEFkYU4tZVJtbW9xZlp2X2o4Y0k5cFdQVlZteE5hdjBYZ1FDWWlKRDJVVXh0UHhmaC1oQkNpeVNqVDBlVXc5eWQxalFFc0hmWGRCcUdpak15T1owY0RpbTd4eVRtTmQ1ZWozVEtMUXplUGM0bE1mcVZXWkdTV3lhbFRadXNSNzl0d2J4YWNQVWhERmxEYVpiREdRZER0Yl9XNzUyRU9JZ2xmazYyajE3UHpjVXBidjh4LWJqNENlUnZ2WlVrMHcwam9R?oc=5",
+      "published": "2026-11-11T08:10:10.000Z",
+      "titleZh": "迈克尔·卡里克的大日子：曼联主帅抵达，解雇风波迫在眉睫"
     },
     {
       "id": "David Ornstein:CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ",
@@ -42197,18 +42233,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWNCdGlsVGZMaktUTFNlZjZDeHBoSmxyTUNGQ000S0pHUk9JVTFEbkxyTjRWUGoxMk5nZW41YTMzQ1lpTmd1ZzVncjBrODJrcnloSlVyVkgwcDlZWnJqVFJUX2xZOWZNVkEybTZDV0gtX2dqSlJKVnMza3FsdXNHcVZaNTl0MTlHbVZnVkdoVlRwdlNBU1g2cnIxekxsMEJiTlVLbjN6MA?oc=5",
       "published": "2026-11-11T06:00:00.000Z",
       "titleZh": "The £114 bottle of wine with Sir Alex that set Pochettino on path to Man Utd"
-    },
-    {
-      "id": "Chris Wheeler:CBMiigJBVV95cUxPR2F1RkpHcEFITzFHLS0xaHRhVEV3NmdDNTJzd3JwTGxzYTRhd2w5UzA1RVBmaTZYdHk5OEtFT0VCRlh0SnhMSndVVXhuX2lXS0pFRjU4bWlRbWRwd2cwU0x4U3JVaXN2anJqaXBZcTVOS3dHZjFXQUZtMDh0UnlhekRLaDJ6dFQ4ajBaWVdfN29yTlZCX0JZOFNwVU9GakJ4VGU0YkdaQW9sb25KX2YzZ3MzeG5NTEE2ZWQ2TmtuTE91cWFWZlZqNGx2Z0tZeXdzcGdMWkU5QXRVNElEdHBVWVlMZVBoMzltX19HanlwM2V4RmVOUlVRbGpFSFMtYVpIaXlyM1d4SThZdw",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Our experts' verdict on the Premier League campaign so far",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPR2F1RkpHcEFITzFHLS0xaHRhVEV3NmdDNTJzd3JwTGxzYTRhd2w5UzA1RVBmaTZYdHk5OEtFT0VCRlh0SnhMSndVVXhuX2lXS0pFRjU4bWlRbWRwd2cwU0x4U3JVaXN2anJqaXBZcTVOS3dHZjFXQUZtMDh0UnlhekRLaDJ6dFQ4ajBaWVdfN29yTlZCX0JZOFNwVU9GakJ4VGU0YkdaQW9sb25KX2YzZ3MzeG5NTEE2ZWQ2TmtuTE91cWFWZlZqNGx2Z0tZeXdzcGdMWkU5QXRVNElEdHBVWVlMZVBoMzltX19HanlwM2V4RmVOUlVRbGpFSFMtYVpIaXlyM1d4SThZdw?oc=5",
-      "published": "2026-11-10T20:31:24.000Z",
-      "titleZh": "我们的专家对英超联赛迄今为止的战绩的评判"
     },
     {
       "id": "Rob Dawson:CBMiswFBVV95cUxQbGczSWJabVNNXzY1Y2poNXpWaDdxZm8wN1FkNUJCRUJBeUVuNGJDSm5zSnBtVzloT3p2SFktQ0I1eEY5Ti1vWFpVZ2xhS3hZekEtNmI2cjRDWXRWMWVGYXZDZXJ1emhrTXhXNVRnNGtKZWp5bElIdDA0Y3ZZdkZzUnItQUtZT28yNWdWR0lhblpjNGxaOEQ3NnJsWFNqZTJiNk1LTktCdmo0ckxVcVprQUxOWQ",
@@ -42283,18 +42307,6 @@
       "titleZh": "迈克尔·卡里克：曼联主教练的未来将在摩纳哥会议上讨论"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE1XUDJzM2JJNjBDTHpfUFNzQUxVWkRYU3V5Y3l3YWlEZFoydzRvYndLNi1KN0NvMzAwY21EOG8xM0s0eTVGZy1fbHFmd1RfeGNqaEtralh4MnJfTF96eFJ1aWYxekk3d3d1",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Michael Carrick: Manchester United yet to make decision on whether to sack manager",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XUDJzM2JJNjBDTHpfUFNzQUxVWkRYU3V5Y3l3YWlEZFoydzRvYndLNi1KN0NvMzAwY21EOG8xM0s0eTVGZy1fbHFmd1RfeGNqaEtralh4MnJfTF96eFJ1aWYxekk3d3d1?oc=5",
-      "published": "2026-11-09T17:49:05.000Z",
-      "titleZh": "迈克尔·卡里克：曼联尚未决定是否解雇主教练"
-    },
-    {
       "id": "Fabrizio Romano:CBMikwFBVV95cUxQd1VybFNUZWFiZDA2Njg5d25weFVJT0xVeC05MXBLWGxjelNTSktndm93RkJLOFZ0bTN0aFR2SjZldmxzanVISVV6YkFEMGNZQmcyYWxFTzhNckNfV2ptNExqOWt0OExyS0tvQzJJUXR1UTdobWM0a0IxMWp1ZEROWXQ0UTNBQ29ldjNhN3ZWTWNnQVU",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -42305,18 +42317,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1VybFNUZWFiZDA2Njg5d25weFVJT0xVeC05MXBLWGxjelNTSktndm93RkJLOFZ0bTN0aFR2SjZldmxzanVISVV6YkFEMGNZQmcyYWxFTzhNckNfV2ptNExqOWt0OExyS0tvQzJJUXR1UTdobWM0a0IxMWp1ZEROWXQ0UTNBQ29ldjNhN3ZWTWNnQVU?oc=5",
       "published": "2026-11-09T09:55:10.000Z",
       "titleZh": "曼联：在球迷发出嘘声后，罗马诺透露了达洛特1月转会的决定"
-    },
-    {
-      "id": "Fabrizio Romano:CBMitAFBVV95cUxPcXlibXExcERoZThMbGxrdXpkaURZRnVCS055X1IwY2QzNmJ6aWtfVTMtNlJJMGlMSHVVcjRYWFVjMEtVWUlGeDdyTnczdThiZktfelUyakhlbzFLV2J0N0ZjR3JUd2l4VUtuQ0xRdEVNN2ZmOWh6eGdsUXpTclQ5V3J5TUNVei1RTnFJWkRkMnlKN1FsTWNXSkNpQU9rRF9tNTlzVkR0NFU5bVA1aG1udk5pUlY",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "TEAMtalk",
-      "tier": 1,
-      "title": "Michael Carrick sack: Fabrizio Romano reveals decision Man Utd just made",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXlibXExcERoZThMbGxrdXpkaURZRnVCS055X1IwY2QzNmJ6aWtfVTMtNlJJMGlMSHVVcjRYWFVjMEtVWUlGeDdyTnczdThiZktfelUyakhlbzFLV2J0N0ZjR3JUd2l4VUtuQ0xRdEVNN2ZmOWh6eGdsUXpTclQ5V3J5TUNVei1RTnFJWkRkMnlKN1FsTWNXSkNpQU9rRF9tNTlzVkR0NFU5bVA1aG1udk5pUlY?oc=5",
-      "published": "2026-11-09T09:52:15.000Z",
-      "titleZh": "Michael Carrick sack: Fabrizio Romano reveals decision Man Utd just made"
     },
     {
       "id": "Rob Dawson:CBMiiAFBVV95cUxOQUtzcDVmbUFVVzVac1hNdDhQb0hsT3ZnNmU1VnZya1pvTFRIcC1kN21BbENSbUthWGxrNVk0MFNORm96VlctVnZSbkhLT0tvLUI4Y0FiUkVUbmcxOFFtNFljaHNFUUJMbnhCSURqLURqSUZOemJ0MW8tSVI1anZJeDFyb2wzOW1y",
@@ -42331,18 +42331,6 @@
       "titleZh": "曼联在降级区，但迈克尔·卡里克坚持认为：我应该保住工作"
     },
     {
-      "id": "David Ornstein:CBMitwFBVV95cUxOd05kNmduX05BNzRSejdHeGQ2MlFDenFjWThFVTQzOE1hLUl5MExxc0J5T3BKZ1JBcHpEWFZ4LVNlSmNyV19nTWlULXlaaHNkcFBzQTRUQnFQUHl3TUlJX1lKczhtaURmZTE0c1VPdkI3bzFhUGFscTBDUFlKc0VfM3R2U21VUlh2M3BpeExFUG9NTVpxU2kzWWR1bC1CMGd1elRLTnlJZHNYN1I1aDQyaU5taHJYanc",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd: Ornstein reveals whether INEOS will sack Carrick if Red Devils suffer ‘disastrous result’ vs Aston Villa",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd05kNmduX05BNzRSejdHeGQ2MlFDenFjWThFVTQzOE1hLUl5MExxc0J5T3BKZ1JBcHpEWFZ4LVNlSmNyV19nTWlULXlaaHNkcFBzQTRUQnFQUHl3TUlJX1lKczhtaURmZTE0c1VPdkI3bzFhUGFscTBDUFlKc0VfM3R2U21VUlh2M3BpeExFUG9NTVpxU2kzWWR1bC1CMGd1elRLTnlJZHNYN1I1aDQyaU5taHJYanc?oc=5",
-      "published": "2026-11-08T15:22:18.000Z",
-      "titleZh": "曼联：奥恩斯坦透露，如果红魔在对阵阿斯顿维拉的比赛中遭遇“惨败”，INEOS 是否会解雇卡里克"
-    },
-    {
       "id": "Laurie Whitwell:CBMiqgFBVV95cUxQTkc0R01vazE5MXRISHN3VWg0M2dJVFRLRnNkN0JobHNOZHFDSjZiT0RaOUVScHAyVGpBd3U4ZlVTam5ZbGRubzRNSFNyOW5jd29zdDB2Z2lBT0NVZkVCa2pWbVkxSjVDLVBLd3F1V0ctNXhQSDNwTW0tMWdrQktyWGc4MjlWTlYyTzJSZUt5Slp4R092LVFNNkdQcHJlMkxLY0VDeTdreEczdw",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -42353,9 +42341,21 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkc0R01vazE5MXRISHN3VWg0M2dJVFRLRnNkN0JobHNOZHFDSjZiT0RaOUVScHAyVGpBd3U4ZlVTam5ZbGRubzRNSFNyOW5jd29zdDB2Z2lBT0NVZkVCa2pWbVkxSjVDLVBLd3F1V0ctNXhQSDNwTW0tMWdrQktyWGc4MjlWTlYyTzJSZUt5Slp4R092LVFNNkdQcHJlMkxLY0VDeTdreEczdw?oc=5",
       "published": "2026-11-08T08:00:00.000Z",
       "titleZh": "曼联现在做什么？有什么计划吗？ - The Athletic"
+    },
+    {
+      "id": "Chris Wheeler:CBMijwJBVV95cUxObjM4QzFudy1KdEFYVTlGMWd4Y08yS3R5T05IaXFXb3BlMHdEaDBGR1BpUFdzQTdDQlFrNm1VQ29vc3RZUWd3LWxRQTh0NHBueGQxaUtNVXAtMlExbk9mR1RQRkVXd0NvTEs1VmZOTVRLWU91dDBBLTJQMjc5dzlrendTOFZaVjZ4al9xVXVkcE1UVURKeWZVb3FKNGdvS2MyT3FZa0xnVnBXYjRhcjBtdzhSUFd2UzFTNlo4c2MzRWNUaVFWcktGTlF3N3loZXc2NjQ2cjdjUjdpRjNOVXFacU0zejVpcG9LbFNveFF3MVF1MGNfTEhMNi15REhJUHM5aFhKOFhhMm40eGpoa29B",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Michael Carrick given no guarantees over his Man United future",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObjM4QzFudy1KdEFYVTlGMWd4Y08yS3R5T05IaXFXb3BlMHdEaDBGR1BpUFdzQTdDQlFrNm1VQ29vc3RZUWd3LWxRQTh0NHBueGQxaUtNVXAtMlExbk9mR1RQRkVXd0NvTEs1VmZOTVRLWU91dDBBLTJQMjc5dzlrendTOFZaVjZ4al9xVXVkcE1UVURKeWZVb3FKNGdvS2MyT3FZa0xnVnBXYjRhcjBtdzhSUFd2UzFTNlo4c2MzRWNUaVFWcktGTlF3N3loZXc2NjQ2cjdjUjdpRjNOVXFacU0zejVpcG9LbFNveFF3MVF1MGNfTEhMNi15REhJUHM5aFhKOFhhMm40eGpoa29B?oc=5",
+      "published": "2026-11-07T22:30:16.000Z",
+      "titleZh": "迈克尔·卡里克未获曼联对其未来的保证"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-13T02:58:37.534Z",
+  "journalistsUpdatedAt": "2026-11-13T10:51:27.374Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

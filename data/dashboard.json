@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:49:40.736Z",
+  "updatedAt": "2026-11-16T06:25:00.995Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,6 +41380,13 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Will Bruno Fernandes stay put at Man United?",
+      "published": "2026-11-16T04:52:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：布鲁诺·费尔南德斯会留在曼联吗？"
+    },
+    {
       "title": "Mauricio Pochettino to Man United: Is Tottenham love affair finally over?",
       "published": "2026-11-15T13:15:23Z",
       "url": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
@@ -41455,16 +41462,19 @@
       "url": "https://www.espn.com/video/clip/_/id/50472256/pochettino-explains-why-decided-join-man-united-leave-usmnt",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026/dm_261113_COM_SOC_Analysis_Pochettino_explains_why_he_decided_to_join_Man_United_and_leave_USMNT_GLOBAL_2026.jpg",
       "titleZh": "波切蒂诺解释了他为何决定加盟曼联并离开美国男足国家队"
-    },
-    {
-      "title": "Emotional Pochettino says bye to USMNT after accepting Man United role",
-      "published": "2026-11-13T15:26:33Z",
-      "url": "https://www.espn.com/video/clip/_/id/50471923/emotional-pochettino-says-bye-usmnt-accepting-man-united-role",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1113/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626/dm_261113_COM_SOC_Analysis_Emotional_Pochettino_sa626.jpg",
-      "titleZh": "波切蒂诺在接受曼联职务后含泪告别美国男足国家队"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Will Bruno Fernandes stay put at Man United?",
+      "published": "2026-11-16T04:52:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：布鲁诺·费尔南德斯会留在曼联吗？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Como's Nico Paz to be Pochettino's first Man United summer signing?",
       "published": "2026-11-14T15:42:44Z",

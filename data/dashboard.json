@@ -42077,14 +42077,38 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMia0FVX3lxTFB5M1hTV2JONTZvdmo4aGd3Ym1LOWtNdTNNVVJ4ZDlvVWhGRFotb2NqdE1HRDA1d3dWR01way1JeC1lQ2UzMVFYU0R6UktQbUFBV25LVXB2eHF6bENEUkVYTkRfbFVlWW5pWHhR",
+      "id": "Chris Wheeler:CBMirAFBVV95cUxNS2gyTEM3aklEWXZvc0FvWmd4WTBXaGp5MUFnVnlIQjI4UzZlRURyT3JzM1J2NzVCWHVJM2J4M21QY3NEcmZyUkdSc2JUbHJmS2ZVU3dWZXhDVmdLRmVxTUJ6OTJhWVpvdHRaVExIdTZoRUgtN1hwUy1iVzlWRWpfUld4MVN2TndZS3AwSy1rdjg4S0ZhaVFIUnduVU0wV3k0SlJtc1R4Q2o5SkFo",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Man United braced for legal fight with Real Madrid over JJ Gabriel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2gyTEM3aklEWXZvc0FvWmd4WTBXaGp5MUFnVnlIQjI4UzZlRURyT3JzM1J2NzVCWHVJM2J4M21QY3NEcmZyUkdSc2JUbHJmS2ZVU3dWZXhDVmdLRmVxTUJ6OTJhWVpvdHRaVExIdTZoRUgtN1hwUy1iVzlWRWpfUld4MVN2TndZS3AwSy1rdjg4S0ZhaVFIUnduVU0wV3k0SlJtc1R4Q2o5SkFo?oc=5",
+      "published": "2026-11-18T11:01:24.000Z",
+      "titleZh": "曼联为就加布里埃尔·马丁内利与皇家马德里展开法律斗争做好准备"
+    },
+    {
+      "id": "James Ducker:CBMipAFBVV95cUxOclo0MlRXeW12YS1ncEs3OWJPSDR0bjNWR0hGdS1CUDBCTGFvSkVpa0pTSzdsdUNYdThOTHFLdDRBSkExdDJpZlRjOHZqMTVnOGRZM0JaQnd2M0JQWmtpbS1lZUZfNTlxZUQyN1MwVXcxT21XS2RQMmhqTEtZMThwMnZJa3RNbjdSd2NyVW9tWWJCQW9sSV8taTN0eXM3OHpyVnUzYg",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Pochettino arrives by private jet to tackle ‘dumpster fire’ Man Utd challenge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOclo0MlRXeW12YS1ncEs3OWJPSDR0bjNWR0hGdS1CUDBCTGFvSkVpa0pTSzdsdUNYdThOTHFLdDRBSkExdDJpZlRjOHZqMTVnOGRZM0JaQnd2M0JQWmtpbS1lZUZfNTlxZUQyN1MwVXcxT21XS2RQMmhqTEtZMThwMnZJa3RNbjdSd2NyVW9tWWJCQW9sSV8taTN0eXM3OHpyVnUzYg?oc=5",
+      "published": "2026-11-18T06:36:00.000Z",
+      "titleZh": "波切蒂诺乘坐私人飞机抵达，准备应对曼联的“一团糟”局面"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE9wUW5iRWZNQVljaThkLWlvdmlIZUdXVWoyaGpybDNneHBudFF4Zmt4SXlURkZ1cUNxSGJFQjUzRVdmcm42Y2VWLV9iUHM0SUY3STBvcVVaN1pIcWhzVFJrN1pmS3F3RXpu",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "JJ Gabriel: Man Utd teenager posts farewell message before Real Madrid move",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5M1hTV2JONTZvdmo4aGd3Ym1LOWtNdTNNVVJ4ZDlvVWhGRFotb2NqdE1HRDA1d3dWR01way1JeC1lQ2UzMVFYU0R6UktQbUFBV25LVXB2eHF6bENEUkVYTkRfbFVlWW5pWHhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wUW5iRWZNQVljaThkLWlvdmlIZUdXVWoyaGpybDNneHBudFF4Zmt4SXlURkZ1cUNxSGJFQjUzRVdmcm42Y2VWLV9iUHM0SUY3STBvcVVaN1pIcWhzVFJrN1pmS3F3RXpu?oc=5",
       "published": "2026-11-17T19:35:06.000Z",
       "titleZh": "JJ·加布里埃尔：曼联小将转会皇家马德里前发布告别信"
     },
@@ -42113,6 +42137,18 @@
       "titleZh": "法布里齐奥·罗马诺透露，曼联1月份的第一笔离队交易已进入“最后阶段”"
     },
     {
+      "id": "Fabrizio Romano:CBMijgFBVV95cUxNRXZCbEZsN1FjWmVmbTZ0WXJiYkhtN2xmWDVnUE5MWmNveXdFbjdfbGhLc1djOVRCTXFTRjcxMG5yWE02UFRlUTRmQTNDOXA5U0RxYTFsc0NIVDgzRVpVWXNjaVQxSm1WUFpaZlZaVkZlOXlHSmxTSTM3NW5oc2F2OXgxakJFVkxfZlgzX1Jn",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Yahoo Sports",
+      "tier": 1,
+      "title": "Tyler Adjei: Fabrizio Romano confirms United have completed deal to sign striker for academy",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXZCbEZsN1FjWmVmbTZ0WXJiYkhtN2xmWDVnUE5MWmNveXdFbjdfbGhLc1djOVRCTXFTRjcxMG5yWE02UFRlUTRmQTNDOXA5U0RxYTFsc0NIVDgzRVpVWXNjaVQxSm1WUFpaZlZaVkZlOXlHSmxTSTM3NW5oc2F2OXgxakJFVkxfZlgzX1Jn?oc=5",
+      "published": "2026-11-14T13:35:00.000Z",
+      "titleZh": "Tyler Adjei：法布里齐奥·罗马诺确认曼联已完成签约青训营前锋的交易"
+    },
+    {
       "id": "David Ornstein:CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -42125,6 +42161,18 @@
       "titleZh": "曼联预计将解雇主教练迈克尔·卡里克"
     },
     {
+      "id": "Laurie Whitwell:CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United finalising deal for Mauricio Pochettino if Michael Carrick departs - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ?oc=5",
+      "published": "2026-11-14T08:00:00.000Z",
+      "titleZh": "如果迈克尔·卡里克离任，曼联将敲定与毛里西奥·波切蒂诺的签约——《The Athletic》"
+    },
+    {
       "id": "Laurie Whitwell:CBMiogFBVV95cUxPMHFRelMxbzlWbWR2anNzZzFjTWhXVVNJa25NTVFoZ0w1SVBHbHBqcE1XN29NanY2M2tOTXRDejZvbEdfR3BqZENEQnFFNTRhR3ZsT29nVDBMTkRRb0VqV2pYUjNaR2FDb01kWEM2ZWVHcmlfZHdETGZ6UEthU2ZsZnFXZTgxb0V4UUtHUklFdVpZZ3pUeFcwU0ZxS0NmLW03eXc",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
@@ -42135,18 +42183,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHFRelMxbzlWbWR2anNzZzFjTWhXVVNJa25NTVFoZ0w1SVBHbHBqcE1XN29NanY2M2tOTXRDejZvbEdfR3BqZENEQnFFNTRhR3ZsT29nVDBMTkRRb0VqV2pYUjNaR2FDb01kWEM2ZWVHcmlfZHdETGZ6UEthU2ZsZnFXZTgxb0V4UUtHUklFdVpZZ3pUeFcwU0ZxS0NmLW03eXc?oc=5",
       "published": "2026-11-14T08:00:00.000Z",
       "titleZh": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino - The Athletic"
-    },
-    {
-      "id": "Chris Wheeler:CBMitgFBVV95cUxPWkVsLUNET3RiZW4xZ0dhTmJHaVVCNjRSSFRBWm1uWDJxVU5JcXdPUFlEelpHSG5ZdXNjWkttdUdzdkd2WFdXMktZM2NVN0VWdjRHZ2VhUW1yc0FtX0hCWE8ybkhnSDAwbFYtLWtyd1pFMlg2QjJGYi1kWkFwMzNWM0FDd0tiMDhHeXh1RFJJVEZwSEg3MWlCdEctSjJlSkhLbTlndnhmallIeXRWM2NIanI1NjVRZw",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Mauricio Pochettino breaks his silence on Man United RECAP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkVsLUNET3RiZW4xZ0dhTmJHaVVCNjRSSFRBWm1uWDJxVU5JcXdPUFlEelpHSG5ZdXNjWkttdUdzdkd2WFdXMktZM2NVN0VWdjRHZ2VhUW1yc0FtX0hCWE8ybkhnSDAwbFYtLWtyd1pFMlg2QjJGYi1kWkFwMzNWM0FDd0tiMDhHeXh1RFJJVEZwSEg3MWlCdEctSjJlSkhLbTlndnhmallIeXRWM2NIanI1NjVRZw?oc=5",
-      "published": "2026-11-13T20:20:12.000Z",
-      "titleZh": "毛里西奥·波切蒂诺打破沉默，谈论曼联\n回顾"
     },
     {
       "id": "David Ornstein:CBMiqgFBVV95cUxNWWM3dDFyQjM0YnhlNld6d1Vfd05wclh3SHJEOUlHOW9EOE5oWll3NmlMTG5MMUtnb1Z4ZDNZSkVnRU9HcHNDZ0hqMjl5MkFmM083ejRJWkJpMldwMGVpWHFJMl9Bck9MbnVwckZBNXNZRHdHdndlR1lUQnA5cWtIeU1Jb2Zhd2ZmVFdGVzd3V2JsejhrU1RhSmcwZVZhczU3RGhsQlhWYzZnQQ",
@@ -42209,6 +42245,18 @@
       "titleZh": "迈克尔·卡里克被曼联解雇的内幕——《The Athletic》"
     },
     {
+      "id": "Simon Stone:CBMiaEFVX3lxTE91Tno2ZXNwbU16SldrQzdSRVZxYnprZFZFLUEwUVhtdVFVbXMxUjQ2SHBMMGVxQXMyTU9tNDNpc0tNc1V2TXdUejN0RGYwOW9xZVh5VDROZ01TRVpJMENpcWV4aFVZdl9L",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Bruno Fernades rejects second contract proposal",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Tno2ZXNwbU16SldrQzdSRVZxYnprZFZFLUEwUVhtdVFVbXMxUjQ2SHBMMGVxQXMyTU9tNDNpc0tNc1V2TXdUejN0RGYwOW9xZVh5VDROZ01TRVpJMENpcWV4aFVZdl9L?oc=5",
+      "published": "2026-11-13T10:26:07.000Z",
+      "titleZh": "曼联新闻：布鲁诺·费尔南德斯拒绝第二份合同提议"
+    },
+    {
       "id": "Simon Stone:CBMiaEFVX3lxTE9TOUh1SzdkX3B5TVY0SGNQOENSbFJUaHkwWHVVN1RrVTNNWk8xZ25sNEtZWko3bkluQlRnOGM1SVZwYnRtZ1U4WGF1UU5GVWd6ZHhoVUJwNDRwTlUtYkZTcHZrLVJIa1Bv",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
@@ -42221,16 +42269,16 @@
       "titleZh": "布鲁诺·费尔南德斯拒绝曼联的第二份合同报价"
     },
     {
-      "id": "Fabrizio Romano:CBMinAFBVV95cUxPdUpkdlVCWmJIRlJGQVNYaHNzSW1WNzBRSHV2QmVhVFE1U09MNWd4SUFkOEdvMDlPX2dTUnVPa0ZDXzljbXotRHBReTlqYy0tWEQ5RW5CTEx6VVY1eURmZ1ByMVI5MmE2NURpeDRSUnR2QTNKcXM3VDNhVnRRaENnUkJTdGpZVnltVFEtZG5meTNIU2d4UTM2VGgxWjk",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
+      "id": "James Ducker:CBMipgFBVV95cUxOaWp0OEFWOTFRU04tWWNrUVVsSmRiWXZuWWVLRTN3YWp4ZjUtMnpqc0NpT2FhVXkzUzA1NE5wUFBOVS11V2JGdmg4SnVhZUFQYkNCZFJSNlJjT0RuTmNXVzFxUmVQdy1UWl9ZV1RIblhyY25hb0w1MGxINTlNX25wb3hXTzBJa2dBVTNpWjlKTHpMTG5KaDg3RkE1aHhYZGVlbDZ0MTZR",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
       "tier": 1,
-      "title": "Man Utd: Romano reveals two real reasons why Pochettino has accepted job - 'he is 100% convinced'",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUpkdlVCWmJIRlJGQVNYaHNzSW1WNzBRSHV2QmVhVFE1U09MNWd4SUFkOEdvMDlPX2dTUnVPa0ZDXzljbXotRHBReTlqYy0tWEQ5RW5CTEx6VVY1eURmZ1ByMVI5MmE2NURpeDRSUnR2QTNKcXM3VDNhVnRRaENnUkJTdGpZVnltVFEtZG5meTNIU2d4UTM2VGgxWjk?oc=5",
-      "published": "2026-11-13T08:25:48.000Z",
-      "titleZh": "曼联：罗马诺透露波切蒂诺接受这份工作的两个真正原因——“他100%确信”"
+      "title": "Michael Carrick hurt by how Man Utd handled his sacking",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWp0OEFWOTFRU04tWWNrUVVsSmRiWXZuWWVLRTN3YWp4ZjUtMnpqc0NpT2FhVXkzUzA1NE5wUFBOVS11V2JGdmg4SnVhZUFQYkNCZFJSNlJjT0RuTmNXVzFxUmVQdy1UWl9ZV1RIblhyY25hb0w1MGxINTlNX25wb3hXTzBJa2dBVTNpWjlKTHpMTG5KaDg3RkE1aHhYZGVlbDZ0MTZR?oc=5",
+      "published": "2026-11-12T19:56:00.000Z",
+      "titleZh": "迈克尔·卡里克对曼联处理其解雇的方式感到不满"
     },
     {
       "id": "Chris Wheeler:CBMigAJBVV95cUxOLW00LVlvTDZDcW9YU1hZdExrcHdfbUFxZV93cVFqcXFVU2NDektyNnUwN3g5S1JwRHZJR1YzT0lrRFhHakxCRlFtRWkycFNOZUdCWC00RHZSVWhOUVdCUHZQci1kVDBSY0NkbUJnTlJ6cVZZdHVNQzduUk1OVDl5OWs0T0tFNnE1b19qM3UtNEJKX0NiYm1YdDZxWWdzNWZXMkZUMDl3eWZsc2JPYnUxVzdzYkxUQ2d0ZTFJWi1mNG0tSTBOUi1FNEpNUVpaU0hiMUdrWThsT3V0LXNTeVdlUE5UWWtSVkZVMnJyY1gxcmhuRWNycDNtWTYzS1BRdzdV",
@@ -42315,57 +42363,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWtUdzBxM0xKbTN0Sk40VlFDazVDQVFmN3NmNUxIeHpZMW9IR1UyRmYtVDNJYUlYUFlxOHA5alVoNmhpbHE2Q1NOYzNTYTdCSllmZGlPVFR0MlJyNmxRT05KMVpKSmNpNTlDRWNoWk1iOWhOMnFLZ1ZGdTNIVnZQRkw5aUxyaWEzZG5aVHdod2VxV2MtLWJYcHVqY25oaEFBZE1xTzNIQlRpMlE?oc=5",
       "published": "2026-11-12T10:30:00.000Z",
       "titleZh": "迈克尔·卡里克在曼联的内爆，以及亚马逊为何不敢相信自己的运气"
-    },
-    {
-      "id": "Laurie Whitwell:CBMiqAFBVV95cUxNbkdUclg0MXFFM1ZEdVV1LXNCMk9fSml1NmJfTGRtNjlRNUJOd2NUX1ItaGY3N0syQjZiOFlqaXdJaWhRclNKckljRUJvS3NXcC1raG9iOExWMmdaWWR2a1JUVjJ6SjJWa3plRzgyUW9ManJsX2hkZU9lZXNUWFhxUGdlVHFITWVXVGVxQzN2X0h0ZWd4NFdNZ0RBN0pxaExpVnVJWWI4UXE",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Mauricio Pochettino, Manchester United and a move 10 years in the making - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkdUclg0MXFFM1ZEdVV1LXNCMk9fSml1NmJfTGRtNjlRNUJOd2NUX1ItaGY3N0syQjZiOFlqaXdJaWhRclNKckljRUJvS3NXcC1raG9iOExWMmdaWWR2a1JUVjJ6SjJWa3plRzgyUW9ManJsX2hkZU9lZXNUWFhxUGdlVHFITWVXVGVxQzN2X0h0ZWd4NFdNZ0RBN0pxaExpVnVJWWI4UXE?oc=5",
-      "published": "2026-11-12T09:26:29.000Z",
-      "titleZh": "毛里西奥·波切蒂诺、曼联和酝酿了10年的转会——《The Athletic》"
-    },
-    {
-      "id": "Rob Dawson:CBMikAFBVV95cUxOVkZ3NzF0dW8wY2RPODZXVmlSdVAxSDN2XzdQOVlUNlFpbGpYVzIyOVFfSnplNWtxS1ZiSFlEaENYX1poMWlQSjJWVmRZY0dBT2h3YkpEa3o4WHluLUZVY3dESzBHQ0ZLbXJhT05LY3FNU3E1STc4UVpwMGRNbWl0WEdaWHFhTDZsU2lndHhEcXI",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
-      "tier": 1,
-      "title": "Sources: Man United contact U.S. Soccer over Poch; Carrick meeting Thursday",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVkZ3NzF0dW8wY2RPODZXVmlSdVAxSDN2XzdQOVlUNlFpbGpYVzIyOVFfSnplNWtxS1ZiSFlEaENYX1poMWlQSjJWVmRZY0dBT2h3YkpEa3o4WHluLUZVY3dESzBHQ0ZLbXJhT05LY3FNU3E1STc4UVpwMGRNbWl0WEdaWHFhTDZsU2lndHhEcXI?oc=5",
-      "published": "2026-11-11T22:13:00.000Z",
-      "titleZh": "消息来源：曼联就波切蒂诺一事与美国足球协会联系；卡里克将于周四会面"
-    },
-    {
-      "id": "James Ducker:CBMiqAFBVV95cUxPUXlqTFVTQnFXQzJ5SkF0WDUzVnZDbjI2SWxWS1g2M1doWHV0NjhlYklCNTBlWVNCenpvU2xZNERaR3NzYXhBT1RLU1l5VEw4bEtZNE1DaTREeGl1alV0bVFobHRYbHRSTTdGVDRZU3ZVbFF3VnZYSEdwdzZlRl80TU84TE53LUEwZk56d25qZGZkdzBELXNRQzNvUFUxSjc4amNYSm9oUGg",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Who could replace Michael Carrick at Man Utd?",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXlqTFVTQnFXQzJ5SkF0WDUzVnZDbjI2SWxWS1g2M1doWHV0NjhlYklCNTBlWVNCenpvU2xZNERaR3NzYXhBT1RLU1l5VEw4bEtZNE1DaTREeGl1alV0bVFobHRYbHRSTTdGVDRZU3ZVbFF3VnZYSEdwdzZlRl80TU84TE53LUEwZk56d25qZGZkdzBELXNRQzNvUFUxSjc4amNYSm9oUGg?oc=5",
-      "published": "2026-11-11T11:33:00.000Z",
-      "titleZh": "谁能接替迈克尔·卡里克在曼联的职位？"
-    },
-    {
-      "id": "James Ducker:CBMiqwFBVV95cUxNQW0ybjlKUmZ6XzYzb2dmaEsyVmRQR3F0SjZyX3FERmdXUHVoOTFlNUp6dUs1SlZqNjBHR0NacjR2SXI5T3pwZE1FblpzblAtQWdLcGxxbFJpSVRhd2pSY2VrSkg0Y0lxUXpnOGN4V2RieTZFTW5mcjFzRWpqMmNObGNoOURjWVBlM2FFMzRVcm9HaFlpM2doSElkbFJYUFlENTVzMk40TkNQY0k",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "The cost of failure: Man Utd have spent more than £100m hiring and firing since Sir Alex",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQW0ybjlKUmZ6XzYzb2dmaEsyVmRQR3F0SjZyX3FERmdXUHVoOTFlNUp6dUs1SlZqNjBHR0NacjR2SXI5T3pwZE1FblpzblAtQWdLcGxxbFJpSVRhd2pSY2VrSkg0Y0lxUXpnOGN4V2RieTZFTW5mcjFzRWpqMmNObGNoOURjWVBlM2FFMzRVcm9HaFlpM2doSElkbFJYUFlENTVzMk40TkNQY0k?oc=5",
-      "published": "2026-11-11T11:10:00.000Z",
-      "titleZh": "失败的代价：自弗格森爵士离任以来，曼联在聘用和解雇教练上已花费超过1亿英镑"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-18T08:28:14.969Z",
+  "journalistsUpdatedAt": "2026-11-18T17:30:10.746Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

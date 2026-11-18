@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:53:13.008Z",
+  "updatedAt": "2026-11-18T07:25:47.037Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41381,7 +41381,7 @@
   "news": [
     {
       "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
-      "published": "2026-11-17T18:49:36Z",
+      "published": "2026-11-17T21:06:50Z",
       "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
       "titleZh": "随着皇马转会临近，加布里埃尔·马丁内利确认将离开曼联"
@@ -41392,13 +41392,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50510071/wayne-rooney-manchester-united-mental-health",
       "image": "https://a.espncdn.com/photo/2026/1117/r1747037_1296x729_16-9.jpg",
       "titleZh": "韦恩·鲁尼透露，在曼联生涯巅峰时期，他曾有过自杀的念头。"
-    },
-    {
-      "title": "Transfer rumors, news: Manchester United eye Newcastle defender Malick Thiaw",
-      "published": "2026-11-17T12:10:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1747004_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：曼联盯上纽卡斯尔后卫马利克·蒂亚乌"
     },
     {
       "title": "Mauricio Pochettino can't fix Man United on his own, the owners have to do their jobs",
@@ -41462,25 +41455,22 @@
       "url": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers",
       "image": "https://a.espncdn.com/photo/2026/1112/r1744720_1296x729_16-9.jpg",
       "titleZh": "自格雷泽家族收购以来，曼联的每位球员、主教练和高管：他们现在在哪里？"
+    },
+    {
+      "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
+      "published": "2026-11-15T02:36:22Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1114/r1745894_1296x729_16-9.jpg",
+      "titleZh": "在痛宰海地队后，即将离任的波切蒂诺预测美国男足将迎来“光明未来”"
     }
   ],
   "transfers": [
     {
       "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
-      "published": "2026-11-17T18:49:36Z",
+      "published": "2026-11-17T21:06:50Z",
       "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
       "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
       "titleZh": "随着皇马转会临近，加布里埃尔·马丁内利确认将离开曼联",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Manchester United eye Newcastle defender Malick Thiaw",
-      "published": "2026-11-17T12:10:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50508862/transfer-rumors-news-manchester-united-newcastle-malick-thiaw",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1747004_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：曼联盯上纽卡斯尔后卫马利克·蒂亚乌",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

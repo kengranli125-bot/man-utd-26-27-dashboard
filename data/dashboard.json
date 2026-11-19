@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:29:03.796Z",
+  "updatedAt": "2026-11-19T07:21:56.004Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,6 +41380,13 @@
   ],
   "news": [
     {
+      "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
+      "published": "2026-11-18T21:58:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：曼联的马泰斯·德利赫特进入贝西克塔斯的视野"
+    },
+    {
       "title": "Pochettino addresses Manchester United supporters for the first time",
       "published": "2026-11-18T16:26:13Z",
       "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first",
@@ -41455,16 +41462,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
       "image": "https://a.espncdn.com/photo/2026/1117/r1746963_1296x729_16-9.jpg",
       "titleZh": "毛里西奥·波切蒂诺无法单凭一己之力拯救曼联，俱乐部老板必须尽到自己的职责。"
-    },
-    {
-      "title": "Mauricio Pochettino to Man United: Is Tottenham love affair finally over?",
-      "published": "2026-11-17T07:07:18Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50470622/mauricio-pochettino-tottenham-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1113/r1745200_1296x729_16-9.jpg",
-      "titleZh": "毛里西奥·波切蒂诺加盟曼联：他与托特纳姆的爱情故事终于结束了吗？"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
+      "published": "2026-11-18T21:58:25Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：曼联的马泰斯·德利赫特进入贝西克塔斯的视野",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
       "published": "2026-11-17T21:06:50Z",

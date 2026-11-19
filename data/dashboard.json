@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:21:56.004Z",
+  "updatedAt": "2026-11-19T20:33:36.154Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,6 +41380,34 @@
   ],
   "news": [
     {
+      "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
+      "published": "2026-11-19T13:08:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
+      "titleZh": "梅西对阵C罗，曼联聘请莫耶斯：GTA V在另一个足球世界中发布"
+    },
+    {
+      "title": "Mauricio Pochettino: Man United players must relearn 'about being winners'",
+      "published": "2026-11-19T17:16:14Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50529858/mauricio-pochettino-man-united-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1748016_1296x729_16-9.jpg",
+      "titleZh": "毛里西奥·波切蒂诺：曼联球员必须重新学习“如何成为赢家”"
+    },
+    {
+      "title": "Predicting how all 20 Premier League teams will finish the season",
+      "published": "2026-11-19T13:50:09Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
+      "titleZh": "预测英超联赛所有20支球队的赛季排名"
+    },
+    {
+      "title": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
+      "published": "2026-11-19T11:51:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
+      "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
+      "titleZh": "经过十年的错过，曼联终于迎来了毛里西奥·波切蒂诺"
+    },
+    {
       "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
       "published": "2026-11-18T21:58:25Z",
       "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
@@ -41434,34 +41462,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
       "image": "https://a.espncdn.com/photo/2026/1118/r1747534_1296x729_16-9.jpg",
       "titleZh": "胡安·马塔在辉煌的职业生涯后宣布在 38 岁退役"
-    },
-    {
-      "title": "As Nike replaces Adidas, is UEFA Champions League star ball on its way out?",
-      "published": "2026-11-18T09:04:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49730333/uefa-champions-league-adidas-nike-ball",
-      "image": "https://a.espncdn.com/photo/2026/0826/r1707048_2_1296x729_16-9.jpg",
-      "titleZh": "耐克取代阿迪达斯，欧冠联赛的明星足球是否即将谢幕？"
-    },
-    {
-      "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
-      "published": "2026-11-17T21:06:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
-      "titleZh": "随着皇马转会临近，加布里埃尔·马丁内利确认将离开曼联"
-    },
-    {
-      "title": "Wayne Rooney reveals he contemplated suicide at height of Man United career",
-      "published": "2026-11-17T12:27:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50510071/wayne-rooney-manchester-united-mental-health",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1747037_1296x729_16-9.jpg",
-      "titleZh": "韦恩·鲁尼透露，在曼联生涯巅峰时期，他曾有过自杀的念头。"
-    },
-    {
-      "title": "Mauricio Pochettino can't fix Man United on his own, the owners have to do their jobs",
-      "published": "2026-11-17T08:58:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50504141/manchester-united-mauricio-pochettino-jim-ratcliffe-glazers-transfers",
-      "image": "https://a.espncdn.com/photo/2026/1117/r1746963_1296x729_16-9.jpg",
-      "titleZh": "毛里西奥·波切蒂诺无法单凭一己之力拯救曼联，俱乐部老板必须尽到自己的职责。"
     }
   ],
   "transfers": [
@@ -41471,16 +41471,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
       "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
       "titleZh": "转会传闻、新闻：曼联的马泰斯·德利赫特进入贝西克塔斯的视野",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "JJ Gabriel confirms Man United exit as Real Madrid transfer nears",
-      "published": "2026-11-17T21:06:50Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50512542/jj-gabriel-man-united-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/0922/r1720327_1296x729_16-9.jpg",
-      "titleZh": "随着皇马转会临近，加布里埃尔·马丁内利确认将离开曼联",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

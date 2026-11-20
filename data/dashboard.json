@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:11:57.784Z",
+  "updatedAt": "2026-11-20T20:14:55.523Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,15 +41380,71 @@
   ],
   "news": [
     {
-      "title": "Mauricio Pochettino's 1st Man United training session filmed by drone operator",
-      "published": "2026-11-19T22:28:35Z",
+      "title": "Man United CEO Berrada: Club 'heading in right direction' despite relegation form",
+      "published": "2026-11-20T17:28:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50541948/omar-berrada-man-united-ceo-interview-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748586_1296x729_16-9.jpg",
+      "titleZh": "Man United CEO Berrada: Club 'heading in right direction' despite relegation form"
+    },
+    {
+      "title": "Pochettino admits he missed club management during USMNT tenure",
+      "published": "2026-11-20T15:30:22Z",
+      "url": "https://www.espn.com/video/clip/_/id/50541358/pochettino-admits-missed-club-management-usmnt-tenure",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1120/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL/dm_261120_COM_SOC_Presser_Pochettino_admits_he_missed_club_management_during_USMNT_tenure_20261120_GLOBAL.jpg",
+      "titleZh": "Pochettino admits he missed club management during USMNT tenure"
+    },
+    {
+      "title": "Mauricio Pochettino wants input on Man United transfer decisions",
+      "published": "2026-11-20T17:06:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50540980/mauricio-pochettino-man-united-transfers",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748528_1296x729_16-9.jpg",
+      "titleZh": "Mauricio Pochettino wants input on Man United transfer decisions"
+    },
+    {
+      "title": "Mauricio Pochettino, Man United have advantage over Liverpool - Andoni Iraola",
+      "published": "2026-11-20T14:19:59Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50540745/liverpool-manchester-united-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748525_1296x729_16-9.jpg",
+      "titleZh": "Mauricio Pochettino, Man United have advantage over Liverpool - Andoni Iraola"
+    },
+    {
+      "title": "Man United to take legal action if drone interruption happens again - sources",
+      "published": "2026-11-20T14:34:58Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748522_1296x729_16-9.jpg",
+      "titleZh": "Man United to take legal action if drone interruption happens again - sources"
+    },
+    {
+      "title": "Fabian Hürzeler commits to Brighton following Man United rumours",
+      "published": "2026-11-20T14:02:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1015/r1731248_1296x729_16-9.jpg",
+      "titleZh": "Fabian Hürzeler commits to Brighton following Man United rumours"
+    },
+    {
+      "title": "Mauricio Pochettino's Man United squad audit: Should Fernandes, Rashford stay?",
+      "published": "2026-11-20T13:39:15Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
+      "image": "https://a.espncdn.com/photo/2026/1118/r1747570_1296x729_16-9.jpg",
+      "titleZh": "Mauricio Pochettino's Man United squad audit: Should Fernandes, Rashford stay?"
+    },
+    {
+      "title": "Andoni Iraola, Mikel Arteta warn of drone risk after Man United incident",
+      "published": "2026-11-20T17:26:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50539774/arsenal-mikel-arteta-man-united-drone-pochettino",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748473_1296x729_16-9.jpg",
+      "titleZh": "Andoni Iraola, Mikel Arteta warn of drone risk after Man United incident"
+    },
+    {
+      "title": "Drone operator who filmed Mauricio Pochettino at Man United apologises",
+      "published": "2026-11-20T09:55:09Z",
       "url": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
       "image": "https://a.espncdn.com/photo/2026/1119/r1748242_1296x729_16-9.jpg",
       "titleZh": "无人机操作员拍摄的毛里西奥·波切蒂诺执教曼联的首堂训练课"
     },
     {
       "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-      "published": "2026-11-19T13:08:47Z",
+      "published": "2026-11-20T09:55:12Z",
       "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
       "image": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
       "titleZh": "梅西对阵C罗，曼联聘请莫耶斯：GTA V在另一个足球世界中发布"
@@ -41406,71 +41462,15 @@
       "url": "https://www.espn.com/soccer/story/_/id/50525964/predicting-premier-league-standings-2026-27-arsenal-liverpool-manchester-chelsea",
       "image": "https://a.espncdn.com/photo/2026/1119/r1747926_1296x729_16-9.jpg",
       "titleZh": "预测英超联赛所有20支球队的赛季排名"
-    },
-    {
-      "title": "Manchester United finally get Mauricio Pochettino after a decade of near misses",
-      "published": "2026-11-19T11:51:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50502738/manchester-united-pochettino-manager-hiring-decade",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748000_1296x729_16-9.jpg",
-      "titleZh": "经过十年的错过，曼联终于迎来了毛里西奥·波切蒂诺"
-    },
-    {
-      "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-      "published": "2026-11-18T21:58:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：曼联的马泰斯·德利赫特进入贝西克塔斯的视野"
-    },
-    {
-      "title": "Pochettino addresses Manchester United supporters for the first time",
-      "published": "2026-11-18T16:26:13Z",
-      "url": "https://www.espn.com/video/clip/_/id/50521970/pochettino-addresses-manchester-united-supporters-first",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time/dm_261118_Pochettino_addresses_Manchester_United_supporters_for_the_first_time.jpg",
-      "titleZh": "波切蒂诺首次向曼联球迷发表讲话"
-    },
-    {
-      "title": "Mauricio Pochettino arrives at Man United: 'You will see, give me time'",
-      "published": "2026-11-18T16:46:01Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50518493/mauricio-pochettino-man-united-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747663_1296x729_16-9.jpg",
-      "titleZh": "毛里西奥·波切蒂诺加盟曼联：“你们会看到的，给我点时间。”"
-    },
-    {
-      "title": "Pochettino arrives at Carrington for first day as Man United head coach",
-      "published": "2026-11-18T14:32:00Z",
-      "url": "https://www.espn.com/video/clip/_/id/50520661/pochettino-arrives-carrington-first-day-man-united-head-coach",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1118/dm_261118_Pochettino_arrives_at_Carrington_for_first_day_as_Man_United_head_coachNEW/dm_261118_Pochettino_arrives_at_Carrington_for_first_day_as_Man_United_head_coachNEW.jpg",
-      "titleZh": "波切蒂诺抵达卡灵顿，开始担任曼联主教练的第一天"
-    },
-    {
-      "title": "Man United to take legal action if JJ Gabriel was illegally approached - sources",
-      "published": "2026-11-18T15:04:23Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50519120/man-united-jj-gabriel-legal-action-real-madrid",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747531_1296x729_16-9.jpg",
-      "titleZh": "消息人士称，如果加布里埃尔·马丁内利·席尔瓦（JJ Gabriel）遭到非法接触，曼联将采取法律行动"
-    },
-    {
-      "title": "Reranking the MVP for each of the top Premier League clubs",
-      "published": "2026-11-18T12:02:03Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50461269/mvp-premier-league-arsenal-man-united-chelsea-man-city-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/1114/r1745603_1296x729_16-9.jpg",
-      "titleZh": "重新排名英超联赛各豪门俱乐部的MVP"
-    },
-    {
-      "title": "Man United's Amad hits out at content creator over goal drought",
-      "published": "2026-11-18T12:15:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50519777/man-united-amad-ivory-coast",
-      "image": "https://a.espncdn.com/photo/2026/1108/r1743054_1296x729_16-9.jpg",
-      "titleZh": "曼联的阿马德因进球荒而抨击内容创作者"
     }
   ],
   "transfers": [
     {
-      "title": "Transfer rumors, news: Manchester United's Matthijs de Ligt on Besiktas' radar",
-      "published": "2026-11-18T21:58:25Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50518634/transfer-rumors-news-liverpool-bayern-gladbach-wael-mohya",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：曼联的马泰斯·德利赫特进入贝西克塔斯的视野",
+      "title": "Mauricio Pochettino wants input on Man United transfer decisions",
+      "published": "2026-11-20T17:06:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50540980/mauricio-pochettino-man-united-transfers",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748528_1296x729_16-9.jpg",
+      "titleZh": "Mauricio Pochettino wants input on Man United transfer decisions",
       "player": "",
       "status": "推进中",
       "statusType": "progress"
@@ -41536,7 +41536,7 @@
       "shortNameZh": "Mee",
       "jersey": "45",
       "position": "Goalkeeper",
-      "age": 23,
+      "age": 24,
       "nationality": "Northern Ireland",
       "nationalityZh": "北爱尔兰",
       "flag": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",

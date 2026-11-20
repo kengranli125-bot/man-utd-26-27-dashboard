@@ -42057,18 +42057,6 @@
   ],
   "journalists": [
     {
-      "id": "Simon Stone:CBMia0FVX3lxTFBfVFBjWmhjNC16REdKUWllNFhpaktsOGJnODVTVGNsc2ZidnktSnhlRF96d2Rfb0NudUtkUjBhckhUOEc3dWxyUGJhWW5CVXB2Z3pyU3ZTamktUjQ1Y2h1alk4TndsalpyLUZv",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Pochettino's first Man Utd training session filmed by drone operator",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfVFBjWmhjNC16REdKUWllNFhpaktsOGJnODVTVGNsc2ZidnktSnhlRF96d2Rfb0NudUtkUjBhckhUOEc3dWxyUGJhWW5CVXB2Z3pyU3ZTamktUjQ1Y2h1alk4TndsalpyLUZv?oc=5",
-      "published": "2026-11-19T18:45:56.000Z",
-      "titleZh": "无人机操作员拍摄的波切蒂诺首堂曼联训练课"
-    },
-    {
       "id": "David Ornstein:CBMioAFBVV95cUxNckk4RkhOdll1ZEtXSjI5RE92VTdFZ2lmYTUxUkNnU1lsbWpHdlFRUE9VRXE2Q0NtVnloYWhYRVVIYnVzaVR3S1R2aG51SXprTjBSSDM3Y3d3dGZsTXlCUGpzY0VUTXhsUlQ0R1JPREV3ck9hcE1lQ2xZaExxdUFlVXNUM0I1N0FDNTItZV82ZFd0eUdKcmY5d0tmbHF1VEoy",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -42105,6 +42093,18 @@
       "titleZh": "经过十年的错过，曼联终于迎来了毛里西奥·波切蒂诺"
     },
     {
+      "id": "Fabrizio Romano:CBMijwFBVV95cUxNRVdXeV94Q0p6MVFjaWRGRjY3UGsxcXR4YU5LYUFpUVlyOWI4QmNzb2RqazVUWDk2TW5mai10V0s3NThjRExLUmJtN3ZkcGlEMGFWaG1HS3REclNMZnRaN1pSblZnajcweG9ONEcxcVZnVmZPTjAxNHQ0S1FoSU5vdTM0RUg1XzN4d0EzY25KNNIBlAFBVV95cUxNYVY2cURBU05FZzJBZ2N4cmRJeDFKTmI1by0temw1NVctbGJENEEwblNVYmZWbXdqbW5KMWdXVFhRenNuRmVTM3RhQm82VUtIOUN2OWhEMGo3MGRPSF9OOUR1SklLYUViSWo2M0VELWFCcGdiOS1zRGZZYVhHQ3F3WVZqS3d0VUVuZHd4T2J4MVR6Q0R4",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "utdreport",
+      "tier": 1,
+      "title": "Meeting scheduled: Romano confirms sought-after Man Utd star will hold talks with Pochettino to discuss January exit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVdXeV94Q0p6MVFjaWRGRjY3UGsxcXR4YU5LYUFpUVlyOWI4QmNzb2RqazVUWDk2TW5mai10V0s3NThjRExLUmJtN3ZkcGlEMGFWaG1HS3REclNMZnRaN1pSblZnajcweG9ONEcxcVZnVmZPTjAxNHQ0S1FoSU5vdTM0RUg1XzN4d0EzY25KNNIBlAFBVV95cUxNYVY2cURBU05FZzJBZ2N4cmRJeDFKTmI1by0temw1NVctbGJENEEwblNVYmZWbXdqbW5KMWdXVFhRenNuRmVTM3RhQm82VUtIOUN2OWhEMGo3MGRPSF9OOUR1SklLYUViSWo2M0VELWFCcGdiOS1zRGZZYVhHQ3F3WVZqS3d0VUVuZHd4T2J4MVR6Q0R4?oc=5",
+      "published": "2026-11-19T08:00:51.000Z",
+      "titleZh": "会面已安排：罗马诺确认曼联炙手可热的球星将与波切蒂诺会谈，讨论 1 月离队事宜"
+    },
+    {
       "id": "Rob Dawson:CBMimgFBVV95cUxQTGh3cFp4VlFtLWNWbHQ2bmt0bU1ob19ZTUNab0JyZm9RYmR4RlhnSzJTN1YwVU5JNnRwSkFIRlFjNWpQdW5vc3VsUnpocmJpNU9HVU9rS2MteEdwN0QyTm11X192cldpZlUxME1QNlkxdzRiSjlkWC00NTJNLXg3a1VSeVUzQ1BMWTdlZVpFT0VSbWhMLUVSRjZB",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -42139,18 +42139,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOclo0MlRXeW12YS1ncEs3OWJPSDR0bjNWR0hGdS1CUDBCTGFvSkVpa0pTSzdsdUNYdThOTHFLdDRBSkExdDJpZlRjOHZqMTVnOGRZM0JaQnd2M0JQWmtpbS1lZUZfNTlxZUQyN1MwVXcxT21XS2RQMmhqTEtZMThwMnZJa3RNbjdSd2NyVW9tWWJCQW9sSV8taTN0eXM3OHpyVnUzYg?oc=5",
       "published": "2026-11-18T06:36:00.000Z",
       "titleZh": "波切蒂诺乘坐私人飞机抵达，准备应对曼联的“一团糟”局面"
-    },
-    {
-      "id": "Fabrizio Romano:CBMisgFBVV95cUxPRkVmbUt3RXBXSkhBdk8wcmV5NldLZlVGZFJ6bERGMXNRdDFNaUsxN1FCUXVSWjVla1o2QW4tenNtOHE0eEJ3VFBaNTh6elVpb1otNFVUQXpKaVBJcUlwT3BDa0dwS2F1ZnR4d0lScExrZm42LVVQbHVUVERnSHExOEZYMUNicmtfVk1LaGhVOFVGU0E3RGhjVFFIM0ZkaHp0djZXckJrSVJuQ1RJNUp4anh3",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Man Utd: Fabrizio Romano confirms first January transfer under Mauricio Pochettino",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkVmbUt3RXBXSkhBdk8wcmV5NldLZlVGZFJ6bERGMXNRdDFNaUsxN1FCUXVSWjVla1o2QW4tenNtOHE0eEJ3VFBaNTh6elVpb1otNFVUQXpKaVBJcUlwT3BDa0dwS2F1ZnR4d0lScExrZm42LVVQbHVUVERnSHExOEZYMUNicmtfVk1LaGhVOFVGU0E3RGhjVFFIM0ZkaHp0djZXckJrSVJuQ1RJNUp4anh3?oc=5",
-      "published": "2026-11-17T09:13:51.000Z",
-      "titleZh": "曼联：法布里齐奥·罗马诺确认毛里西奥·波切蒂诺执教下的首笔1月转会"
     },
     {
       "id": "Fabrizio Romano:CBMiigFBVV95cUxNTVZjUWRuOTg4T253QUVYcm5VWjJWR04za0JWWDQ2ZGdJTDlGcTJBaC1ZQWd1dTlET09jYkQ0WTQwMmFXU0lmV19FSU40VUhwOGdzZGVZZ3hkYy1lTUZGaVNjLVNPTTRQOEZOUE4wVlJwOVNPZlNtbUdJVEZybzR5a0l0Z3htbkpXenfSAY8BQVVfeXFMT1dtNUpDcmw2S0hEVXRCdE5JMUJ5enJPV3pPNXYxcnNnSV92eVRZWnRBbnQ3Z3hKVFNBZ0NTWEpCVWNDZElXelM3TlhPOHh1QVoyNjc3dVYydUdoOFAxUUo3TTkxSUFwQ0F2bVF5Szk4R2Q5dFFTUzlRTFl5d1l1OHUxWVV5Q0hfSldwX3FQZ00",
@@ -42213,10 +42201,10 @@
       "titleZh": "Tyler Adjei：法布里齐奥·罗马诺确认曼联已完成签约青训营前锋的交易"
     },
     {
-      "id": "David Ornstein:CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
+      "id": "Laurie Whitwell:CBMimAFBVV95cUxObURtYmFmREFqUmxBN0xmeURTcXNZRGNEUmZWUHVBZjBEdGU4a1pHTUhaM2RKVWJiWHVOU0Q5UGZiazhnU3h2MV9KX0x6SmlGb2VmTzB6eHBrNVN0RGxydGVpaWFILTAzX0Jucl9LUzBfWXVyc25lZURNWXZtT2ZfaExORWtWbWRScnM5S01WV0k5bWdPX1NnQQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
       "title": "Manchester United expected to sack Michael Carrick as head coach",
@@ -42333,6 +42321,18 @@
       "titleZh": "曼联新闻：布鲁诺·费尔南德斯拒绝第二份合同提议"
     },
     {
+      "id": "Simon Stone:CBMiaEFVX3lxTE9TOUh1SzdkX3B5TVY0SGNQOENSbFJUaHkwWHVVN1RrVTNNWk8xZ25sNEtZWko3bkluQlRnOGM1SVZwYnRtZ1U4WGF1UU5GVWd6ZHhoVUJwNDRwTlUtYkZTcHZrLVJIa1Bv",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Bruno Fernandes rejects second Manchester United contract offer",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TOUh1SzdkX3B5TVY0SGNQOENSbFJUaHkwWHVVN1RrVTNNWk8xZ25sNEtZWko3bkluQlRnOGM1SVZwYnRtZ1U4WGF1UU5GVWd6ZHhoVUJwNDRwTlUtYkZTcHZrLVJIa1Bv?oc=5",
+      "published": "2026-11-13T09:55:01.000Z",
+      "titleZh": "布鲁诺·费尔南德斯拒绝曼联的第二份合同报价"
+    },
+    {
       "id": "Rob Dawson:CBMilgFBVV95cUxPeUxwM3d3MnkzZ3lCVC1BajB5S2szRzd3Rlg1OEd6VGNGS1lzTWlabU1zUnJRMnBXZkxjRlJwWjZhdktVRU5Sa2JwTmpoaVdvSk1ReU0wRzFpUUxFSEFRU2JpTmh3M3dHMGQ2bFhIX29zZUEyTVlQOTN2NG1URnh3SVE0WEExdUpUeS15cWVWSGt0emlHRnc",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -42345,7 +42345,7 @@
       "titleZh": "消息人士称，毛里西奥·波切蒂诺已同意与曼联签约，预计将正式宣布"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-19T21:56:04.441Z",
+  "journalistsUpdatedAt": "2026-11-20T03:03:44.908Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:03:26.555Z",
+  "updatedAt": "2026-11-21T19:13:38.284Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,6 +41380,34 @@
   ],
   "news": [
     {
+      "title": "VAR review: Should Haaland's goal vs Fulham have been disallowed?",
+      "published": "2026-11-21T15:51:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/1121/r1748913_1296x729_16-9.jpg",
+      "titleZh": "VAR 回顾：哈兰德对阵富勒姆的进球是否应该被判无效？"
+    },
+    {
+      "title": "Mauricio Pochettino's Man United moment has arrived. Is he ready?",
+      "published": "2026-11-21T13:49:38Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/1120/r1748696_1296x729_16-9.jpg",
+      "titleZh": "毛里西奥·波切蒂诺的曼联时刻已经到来。他准备好了吗？"
+    },
+    {
+      "title": "Transfer rumors, news: Could Scott McTominay return to Man United?",
+      "published": "2026-11-21T11:10:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？"
+    },
+    {
+      "title": "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
+      "published": "2026-11-21T07:54:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50509480/mauricio-pochettino-manchester-united-tottenham-chelsea",
+      "image": "https://a.espncdn.com/photo/2018/1009/r444484_608x342_16-9.jpg",
+      "titleZh": "毛里西奥·波切蒂诺在曼联的开局会很强势吗？他的职业生涯数据说明了什么"
+    },
+    {
       "title": "Burley labels Pochettino has the biggest manager since Mourinho for Man United",
       "published": "2026-11-20T22:49:50Z",
       "url": "https://www.espn.com/video/clip/_/id/50544050/burley-labels-pochettino-biggest-manager-mourinho-man-united",
@@ -41434,37 +41462,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
       "image": "https://a.espncdn.com/photo/2026/1015/r1731248_1296x729_16-9.jpg",
       "titleZh": "在有关曼联的传闻之后，法比安·许尔勒 (Fabian Hürzeler) 承诺将留在布莱顿"
-    },
-    {
-      "title": "Mauricio Pochettino's Man United squad audit: Should Fernandes, Rashford stay?",
-      "published": "2026-11-20T13:39:15Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
-      "image": "https://a.espncdn.com/photo/2026/1118/r1747570_1296x729_16-9.jpg",
-      "titleZh": "毛里西奥·波切蒂诺对曼联阵容的评估：B·费尔南德斯和拉什福德该留下来吗？"
-    },
-    {
-      "title": "Andoni Iraola, Mikel Arteta warn of drone risk after Man United incident",
-      "published": "2026-11-20T17:26:46Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50539774/arsenal-mikel-arteta-man-united-drone-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748473_1296x729_16-9.jpg",
-      "titleZh": "安多尼·伊拉奥拉和米克尔·阿尔特塔在曼联事件后警告无人机风险"
-    },
-    {
-      "title": "Drone operator who filmed Mauricio Pochettino at Man United apologises",
-      "published": "2026-11-20T09:55:09Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50533559/mauricio-pochettino-man-united-training-drone-filmed-online",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748242_1296x729_16-9.jpg",
-      "titleZh": "无人机操作员拍摄的毛里西奥·波切蒂诺执教曼联的首堂训练课"
-    },
-    {
-      "title": "Messi vs. Ronaldo, Man Utd hire Moyes: GTA V came out in a different soccer world",
-      "published": "2026-11-20T09:55:12Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/1119/r1748037_2_1296x729_16-9.jpg",
-      "titleZh": "梅西对阵C罗，曼联聘请莫耶斯：GTA V在另一个足球世界中发布"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Could Scott McTominay return to Man United?",
+      "published": "2026-11-21T11:10:30Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
+      "image": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Mauricio Pochettino wants input on Man United transfer decisions",
       "published": "2026-11-20T17:06:46Z",

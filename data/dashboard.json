@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:13:38.284Z",
+  "updatedAt": "2026-11-22T06:44:34.793Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -41380,6 +41380,20 @@
   ],
   "news": [
     {
+      "title": "Man Utd's Jariyah Shah giving the Joeys a bounce at U17 World Cup",
+      "published": "2026-11-22T01:51:27Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50556106/man-utds-jariyah-shah-giving-joeys-bounce-u17-world-cup",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749364_1296x729_16-9.jpg",
+      "titleZh": "曼联的 Jariyah Shah 在 U17 世界杯上为澳大利亚青年队带来希望"
+    },
+    {
+      "title": "Transfer rumors, news: Liverpool, Man United want Scalvini",
+      "published": "2026-11-21T21:44:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
+      "image": "https://a.espncdn.com/photo/2026/1121/r1749172_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？"
+    },
+    {
       "title": "VAR review: Should Haaland's goal vs Fulham have been disallowed?",
       "published": "2026-11-21T15:51:55Z",
       "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
@@ -41392,13 +41406,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool",
       "image": "https://a.espncdn.com/photo/2026/1120/r1748696_1296x729_16-9.jpg",
       "titleZh": "毛里西奥·波切蒂诺的曼联时刻已经到来。他准备好了吗？"
-    },
-    {
-      "title": "Transfer rumors, news: Could Scott McTominay return to Man United?",
-      "published": "2026-11-21T11:10:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？"
     },
     {
       "title": "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
@@ -41455,21 +41462,14 @@
       "url": "https://www.espn.com/soccer/story/_/id/50540789/manchester-united-drone-mauricio-pochettino",
       "image": "https://a.espncdn.com/photo/2026/1120/r1748522_1296x729_16-9.jpg",
       "titleZh": "消息人士称，如果无人机再次干扰比赛，曼联将采取法律行动"
-    },
-    {
-      "title": "Fabian Hürzeler commits to Brighton following Man United rumours",
-      "published": "2026-11-20T14:02:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50540734/fabin-hurzeler-brighton-man-united-mauricio-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/1015/r1731248_1296x729_16-9.jpg",
-      "titleZh": "在有关曼联的传闻之后，法比安·许尔勒 (Fabian Hürzeler) 承诺将留在布莱顿"
     }
   ],
   "transfers": [
     {
-      "title": "Transfer rumors, news: Could Scott McTominay return to Man United?",
-      "published": "2026-11-21T11:10:30Z",
+      "title": "Transfer rumors, news: Liverpool, Man United want Scalvini",
+      "published": "2026-11-21T21:44:21Z",
       "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
-      "image": "https://a.espncdn.com/photo/2026/0908/r1713214_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1121/r1749172_1296x729_16-9.jpg",
       "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？",
       "player": "",
       "status": "推进中",

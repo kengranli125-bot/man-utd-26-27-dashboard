@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:56:31.850Z",
+  "updatedAt": "2026-11-23T07:34:30.584Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -43024,8 +43024,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/422685.png",
       "goals": 4,
       "assists": 2,
-      "appearances": 9,
-      "minutes": 810
+      "appearances": 10,
+      "minutes": 900
     },
     {
       "id": "271170",
@@ -43034,8 +43034,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
       "goals": 4,
       "assists": 0,
-      "appearances": 10,
-      "minutes": 893
+      "appearances": 11,
+      "minutes": 915
     },
     {
       "id": "259902",
@@ -43044,8 +43044,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/863098.png",
       "goals": 1,
       "assists": 2,
-      "appearances": 10,
-      "minutes": 1600
+      "appearances": 11,
+      "minutes": 1645
     },
     {
       "id": "366781",
@@ -43054,8 +43054,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
       "goals": 1,
       "assists": 2,
-      "appearances": 6,
-      "minutes": 435
+      "appearances": 7,
+      "minutes": 500
     },
     {
       "id": "193297",
@@ -43064,8 +43064,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/465960.png",
       "goals": 1,
       "assists": 1,
-      "appearances": 9,
-      "minutes": 658
+      "appearances": 10,
+      "minutes": 723
     },
     {
       "id": "233937",
@@ -43074,8 +43074,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
       "goals": 1,
       "assists": 0,
-      "appearances": 8,
-      "minutes": 650
+      "appearances": 9,
+      "minutes": 740
     },
     {
       "id": "276327",
@@ -43084,8 +43084,8 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/950830.png",
       "goals": 1,
       "assists": 0,
-      "appearances": 6,
-      "minutes": 451
+      "appearances": 7,
+      "minutes": 496
     },
     {
       "id": "289155",
@@ -43104,41 +43104,83 @@
       "headshot": "https://images.fotmob.com/image_resources/playerimages/1292810.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 8,
-      "minutes": 639
+      "appearances": 9,
+      "minutes": 726
     },
     {
-      "id": "167127",
-      "name": "Luke Shaw",
-      "nameZh": "卢克·肖",
-      "headshot": "https://images.fotmob.com/image_resources/playerimages/362694.png",
+      "id": "239350",
+      "name": "Noussair Mazraoui",
+      "nameZh": "努赛尔·马兹拉维",
+      "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
       "goals": 0,
       "assists": 1,
-      "appearances": 5,
-      "minutes": 2053
+      "appearances": 6,
+      "minutes": 1254
     }
   ],
   "news": [
     {
-      "title": "Liverpool vs. Man United LIVE: Premier League score, updates and commentary",
-      "published": "2026-11-22T18:49:11Z",
+      "title": "Bruno Fernandes disputes Leny Yoro red card in Liverpool's rout of Man United",
+      "published": "2026-11-22T21:34:31Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50565229/bruno-fernandes-man-united-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749810_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯对利物浦大胜曼联时莱尼·约罗的红牌提出异议"
+    },
+    {
+      "title": "Pochettino: Isak wasn't in control of the ball for Yoro red card",
+      "published": "2026-11-22T20:23:47Z",
+      "url": "https://www.espn.com/video/clip/_/id/50564280/isak-control-ball-yoro-red-card",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1122/dm_261122_COM_SOC_Presser_Pochettino_Isak_wasnt_in_control_of_the_ball_for_Yoro_red_card_20261122_GLOBAL/dm_261122_COM_SOC_Presser_Pochettino_Isak_wasnt_in_control_of_the_ball_for_Yoro_red_card_20261122_GLOBAL.jpg",
+      "titleZh": "波切蒂诺：伊萨克没有控制住球，导致约罗被红牌罚下"
+    },
+    {
+      "title": "Poch blames 'circumstances' in painful Man United loss to Liverpool",
+      "published": "2026-11-22T20:37:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749718_1024x576_16-9.jpg",
+      "titleZh": "波切蒂诺将曼联惨败给利物浦归咎于“客观情况”"
+    },
+    {
+      "title": "Liverpool 4-0 Man United: Pochettino endures nightmare start - as it happened",
+      "published": "2026-11-22T19:58:48Z",
       "url": "https://www.espn.com/soccer/story/_/id/50561903/liverpool-man-united-live-premier-league-updates",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749710_1296x729_16-9.jpg",
       "titleZh": "利物浦对曼联直播：英超联赛比分、最新消息和解说"
     },
     {
-      "title": "Liverpool trounce 10-man United in Pochettino's first game in charge",
-      "published": "2026-11-22T18:48:49Z",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878755",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749699_1296x729_16-9.jpg",
-      "titleZh": "波切蒂诺执教首场比赛，利物浦大胜10人应战的曼联"
+      "title": "Roy Keane: Man United fans 'applauding rubbish' after Liverpool hammering",
+      "published": "2026-11-22T20:05:06Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50564123/roy-keane-man-united-fans-applauding-rubbish-liverpool-hammering",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749729_594x334_16-9.jpg",
+      "titleZh": "罗伊·基恩：曼联球迷在利物浦大胜后“为垃圾鼓掌”"
+    },
+    {
+      "title": "Nicol: Man United are an 'absolute shambles' defensively",
+      "published": "2026-11-22T19:40:03Z",
+      "url": "https://www.espn.com/video/clip/_/id/50564026/man-united-absolute-shambles-defensively",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1122/dm_261122_COM_SOC_Analysis_Nicol_Man_United_are_an_absolute_shambles_defensively_20261122_GLOBAL/dm_261122_COM_SOC_Analysis_Nicol_Man_United_are_an_absolute_shambles_defensively_20261122_GLOBAL.jpg",
+      "titleZh": "尼科尔：曼联的防守“一团糟”"
+    },
+    {
+      "title": "Mauricio Pochettino gets reality check as Liverpool ruin his Man United debut",
+      "published": "2026-11-22T22:51:18Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50563684/liverpool-ruin-pochettino-manchester-united-debut",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749714_1296x729_16-9.jpg",
+      "titleZh": "利物浦毁了毛里西奥·波切蒂诺在曼联的首秀，让他认清了现实"
     },
     {
       "title": "Recap: Liverpool spoil Mauricio Pochettino's debut by crushing Man United",
-      "published": "2026-11-22T18:25:09Z",
+      "published": "2026-11-22T19:12:07Z",
       "url": "https://www.espn.com/soccer/story/_/id/50533932/live-updates-pochettino-manchester-united-liverpool",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749660_2_1296x729_16-9.jpg",
       "titleZh": "回顾：利物浦大胜曼联，毁了毛里西奥·波切蒂诺的首秀"
+    },
+    {
+      "title": "Liverpool trounce 10-man United in Pochettino's first game in charge",
+      "published": "2026-11-22T19:11:26Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401878755",
+      "image": "https://a.espncdn.com/photo/2026/1122/r1749699_1296x729_16-9.jpg",
+      "titleZh": "波切蒂诺执教首场比赛，利物浦大胜10人应战的曼联"
     },
     {
       "title": "Liverpool fans taunt Mauricio Pochettino in calamitous Man United defeat: 'Sacked in the morning'",
@@ -43160,82 +43202,9 @@
       "url": "https://www.espn.com/soccer/story/_/id/50562310/man-united-mauricio-pochettino-team-news-liverpool",
       "image": "https://a.espncdn.com/photo/2026/1118/r1747830_1296x729_16-9.jpg",
       "titleZh": "随着波切蒂诺做出变阵，曼联的德里赫特时隔一年首次在英超首发"
-    },
-    {
-      "title": "Transfer rumors, news: Antonee Robinson latest USMNT star linked with Man United",
-      "published": "2026-11-22T11:16:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50560783/transfer-rumors-news-antonee-robinson-usmnt-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749524_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：美国男足最新明星球员安托尼·罗宾逊与曼联传出绯闻"
-    },
-    {
-      "title": "Bruno Fernandes confirms Manchester United contract talks on hold, 'priority is winning'",
-      "published": "2026-11-22T13:14:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50560581/bruno-fernandes-manchester-united-premier-league-mauricio-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742541_1296x729_16-9.jpg",
-      "titleZh": "布鲁诺·费尔南德斯确认曼联合同谈判暂停，“当务之急是赢球”"
-    },
-    {
-      "title": "Will Mauricio Pochettino start strongly at Man United? What his career stats say",
-      "published": "2026-11-22T08:08:30Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50509480/mauricio-pochettino-manchester-united-tottenham-chelsea",
-      "image": "https://a.espncdn.com/photo/2018/1009/r444484_608x342_16-9.jpg",
-      "titleZh": "毛里西奥·波切蒂诺在曼联的开局会很强势吗？他的职业生涯数据说明了什么"
-    },
-    {
-      "title": "Man Utd's Jariyah Shah giving the Joeys a bounce at U17 World Cup",
-      "published": "2026-11-22T01:51:27Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50556106/man-utds-jariyah-shah-giving-joeys-bounce-u17-world-cup",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749364_1296x729_16-9.jpg",
-      "titleZh": "曼联的 Jariyah Shah 在 U17 世界杯上为澳大利亚青年队带来希望"
-    },
-    {
-      "title": "Transfer rumors, news: Liverpool, Man United want Scalvini",
-      "published": "2026-11-21T21:44:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
-      "image": "https://a.espncdn.com/photo/2026/1121/r1749172_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？"
-    },
-    {
-      "title": "Mauricio Pochettino's Man United moment has arrived. Is he ready?",
-      "published": "2026-11-21T13:49:38Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50543478/pochettino-manchester-united-debut-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/1120/r1748696_1296x729_16-9.jpg",
-      "titleZh": "毛里西奥·波切蒂诺的曼联时刻已经到来。他准备好了吗？"
     }
   ],
-  "transfers": [
-    {
-      "title": "Transfer rumors, news: Antonee Robinson latest USMNT star linked with Man United",
-      "published": "2026-11-22T11:16:19Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50560783/transfer-rumors-news-antonee-robinson-usmnt-man-united",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749524_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：美国男足最新明星球员安托尼·罗宾逊与曼联传出绯闻",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Bruno Fernandes confirms Manchester United contract talks on hold, 'priority is winning'",
-      "published": "2026-11-22T13:14:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50560581/bruno-fernandes-manchester-united-premier-league-mauricio-pochettino",
-      "image": "https://a.espncdn.com/photo/2026/1107/r1742541_1296x729_16-9.jpg",
-      "titleZh": "布鲁诺·费尔南德斯确认曼联合同谈判暂停，“当务之急是赢球”",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Liverpool, Man United want Scalvini",
-      "published": "2026-11-21T21:44:21Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
-      "image": "https://a.espncdn.com/photo/2026/1121/r1749172_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：斯科特·麦克托米奈能否重返曼联？",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    }
-  ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",
@@ -44110,7 +44079,7 @@
     "league": {
       "formation": "4-3-3",
       "title": "英超预测首发",
-      "summary": "以最近一场英超对阿斯顿维拉的已确认首发为基线，并优先排除官方伤缺球员。",
+      "summary": "以最近一场英超对利物浦的已确认首发为基线，并优先排除官方伤缺球员。",
       "players": [
         {
           "id": "301425",
@@ -44132,18 +44101,18 @@
           "role": "门将"
         },
         {
-          "id": "157073",
-          "name": "Harry Maguire",
-          "nameZh": "哈里·马奎尔",
-          "shortName": "H. Maguire",
-          "shortNameZh": "马奎尔",
-          "jersey": "5",
+          "id": "239349",
+          "name": "Matthijs de Ligt",
+          "nameZh": "马泰斯·德利赫特",
+          "shortName": "M. de Ligt",
+          "shortNameZh": "德利赫特",
+          "jersey": "4",
           "position": "Defender",
-          "age": 33,
-          "nationality": "England",
-          "nationalityZh": "英格兰",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/255610.png",
+          "age": 27,
+          "nationality": "Netherlands",
+          "nationalityZh": "荷兰",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/769895.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -44170,6 +44139,25 @@
           "role": "中后卫"
         },
         {
+          "id": "233937",
+          "name": "Lisandro Martínez",
+          "nameZh": "利桑德罗·马丁内斯",
+          "shortName": "L. Martínez",
+          "shortNameZh": "利马",
+          "jersey": "6",
+          "position": "Defender",
+          "age": 28,
+          "nationality": "Argentina",
+          "nationalityZh": "阿根廷",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/847983.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
+          "line": "D",
+          "role": "左后卫"
+        },
+        {
           "id": "238902",
           "name": "Diogo Dalot",
           "nameZh": "迪奥戈·达洛特",
@@ -44182,25 +44170,6 @@
           "nationalityZh": "葡萄牙",
           "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
           "headshot": "https://images.fotmob.com/image_resources/playerimages/751550.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "D",
-          "role": "左后卫"
-        },
-        {
-          "id": "239350",
-          "name": "Noussair Mazraoui",
-          "nameZh": "努赛尔·马兹拉维",
-          "shortName": "N. Mazraoui",
-          "shortNameZh": "马兹拉维",
-          "jersey": "3",
-          "position": "Defender",
-          "age": 29,
-          "nationality": "Morocco",
-          "nationalityZh": "摩洛哥",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/mor.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/775539.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -44265,25 +44234,6 @@
           "role": "中场"
         },
         {
-          "id": "271170",
-          "name": "Bryan Mbeumo",
-          "nameZh": "布莱恩·姆伯莫",
-          "shortName": "B. Mbeumo",
-          "shortNameZh": "姆伯莫",
-          "jersey": "19",
-          "position": "Forward",
-          "age": 27,
-          "nationality": "Cameroon",
-          "nationalityZh": "喀麦隆",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
-          "statusType": "available",
-          "statusLabel": "可用",
-          "availabilityScore": 90,
-          "line": "F",
-          "role": "中锋"
-        },
-        {
           "id": "259902",
           "name": "Matheus Cunha",
           "nameZh": "马特乌斯·库尼亚",
@@ -44299,22 +44249,41 @@
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
+          "line": "F",
+          "role": "中锋"
+        },
+        {
+          "id": "366781",
+          "name": "Patrick Dorgu",
+          "nameZh": "帕特里克·多尔古",
+          "shortName": "P. Dorgu",
+          "shortNameZh": "多尔古",
+          "jersey": "13",
+          "position": "Defender",
+          "age": 22,
+          "nationality": "Denmark",
+          "nationalityZh": "丹麦",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/1526560.png",
+          "statusType": "available",
+          "statusLabel": "可用",
+          "availabilityScore": 90,
           "line": "AM",
           "role": "左翼"
         },
         {
-          "id": "291630",
-          "name": "Amad Diallo",
-          "nameZh": "阿马德·迪亚洛",
-          "shortName": "A. Diallo",
-          "shortNameZh": "阿马德",
-          "jersey": "16",
+          "id": "271170",
+          "name": "Bryan Mbeumo",
+          "nameZh": "布莱恩·姆伯莫",
+          "shortName": "B. Mbeumo",
+          "shortNameZh": "姆伯莫",
+          "jersey": "19",
           "position": "Forward",
-          "age": 24,
-          "nationality": "Ivory Coast",
-          "nationalityZh": "科特迪瓦",
-          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
-          "headshot": "https://images.fotmob.com/image_resources/playerimages/1070052.png",
+          "age": 27,
+          "nationality": "Cameroon",
+          "nationalityZh": "喀麦隆",
+          "flag": "https://a.espncdn.com/i/teamlogos/countries/500/crm.png",
+          "headshot": "https://images.fotmob.com/image_resources/playerimages/923312.png",
           "statusType": "available",
           "statusLabel": "可用",
           "availabilityScore": 90,
@@ -44329,7 +44298,7 @@
         },
         {
           "label": "经验值",
-          "value": 82
+          "value": 80
         },
         {
           "label": "攻守平衡",

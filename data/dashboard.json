@@ -43817,30 +43817,6 @@
   ],
   "journalists": [
     {
-      "id": "James Ducker:CBMirAFBVV95cUxOSjVvNW96THVpUnZNU2JxOHp5dE1EZmJobjJIMUlZRXI4NlFqMVZtRVVIYkd5ZWJueFBQOUlrVDhIRHhxT2VDdzR1LWh5bW5iWXg5NVdqUk1JcWFScGhjdVdWS2p5U0FaU3VBSVRZWG9uMUhyb3pJUXV3Q1NfQXAtbGI1N0ZwdGZINEFwQVJ6VDI1eFdqODdxTUVxYWdHS2RWM3NDbFhJVG5hSVg2",
-      "reporter": "James Ducker",
-      "reporterZh": "詹姆斯·达克",
-      "reporterOutlet": "每日电讯报",
-      "source": "The Telegraph",
-      "tier": 1,
-      "title": "Anatomy of Man Utd’s Anfield capitulation – and was Yoro red card correct?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjVvNW96THVpUnZNU2JxOHp5dE1EZmJobjJIMUlZRXI4NlFqMVZtRVVIYkd5ZWJueFBQOUlrVDhIRHhxT2VDdzR1LWh5bW5iWXg5NVdqUk1JcWFScGhjdVdWS2p5U0FaU3VBSVRZWG9uMUhyb3pJUXV3Q1NfQXAtbGI1N0ZwdGZINEFwQVJ6VDI1eFdqODdxTUVxYWdHS2RWM3NDbFhJVG5hSVg2?oc=5",
-      "published": "2026-11-22T18:57:00.000Z",
-      "titleZh": "曼联在安菲尔德的溃败分析——尤罗的红牌判罚是否正确？"
-    },
-    {
-      "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
-      "published": "2026-11-22T15:11:00.000Z",
-      "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
-    },
-    {
       "id": "James Ducker:CBMiqgFBVV95cUxOWENQZXo0RjFLazdiLUFjM2p6bHppeVMtNkRCME9zdXdva2dIZ3FnWnVEaTVET3hJNnVsUGk3QmFUT29JVHdVMWVTaGFBMnM3ZVNxS1MwV280TkJrU293Y2ZadTJhMVpGVno2STk5Sk5HeThwX3pydHpTRURnU2xZY29iaXV5RTNwOGdTVFRJWnFiWFAzUVhWblA4ZVJhRzdRVjlDcGF6bXg5dw",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -43851,6 +43827,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWENQZXo0RjFLazdiLUFjM2p6bHppeVMtNkRCME9zdXdva2dIZ3FnWnVEaTVET3hJNnVsUGk3QmFUT29JVHdVMWVTaGFBMnM3ZVNxS1MwV280TkJrU293Y2ZadTJhMVpGVno2STk5Sk5HeThwX3pydHpTRURnU2xZY29iaXV5RTNwOGdTVFRJWnFiWFAzUVhWblA4ZVJhRzdRVjlDcGF6bXg5dw?oc=5",
       "published": "2026-11-22T08:01:00.000Z",
       "titleZh": "曼联更衣室里那些“硬汉”都去哪儿了？"
+    },
+    {
+      "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
+      "published": "2026-11-21T15:04:13.000Z",
+      "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
     },
     {
       "id": "Rob Dawson:CBMilwFBVV95cUxOV0JzZmh3bThxeGlRRk04SThDX3hrclMxbFozbjk1TFQwOVg5N1JuUzI4UlZMU0pac1d6Tlh3SkE4TFpSWmVibUhzWnVZZVFGMWE1VXNGUnNYQXd1bWpuc2xRY1A3TkR2dy1WcF9fcUhkTkw2WGl0cU5SR2YzMEYyZTAtRDBVUXc3LUVMeXpnMkZhSlBRUUdn",
@@ -43865,25 +43853,13 @@
       "titleZh": "毛里西奥·波切蒂诺执教曼联的时刻已经到来。他准备好了吗？"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTFBBdGhuMTh2bS13d3ZmMnViNEtiUW8tX1RoaXlnaWNpWWJUcVh0T2JrN0ExeGpQaW5PbmhmZU4zMHZqRWJqdHhqOXdSci1HLXJuU3JDZk9LdzNCSkd2TjhRZ3lJRDM2WDRV",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBdGhuMTh2bS13d3ZmMnViNEtiUW8tX1RoaXlnaWNpWWJUcVh0T2JrN0ExeGpQaW5PbmhmZU4zMHZqRWJqdHhqOXdSci1HLXJuU3JDZk9LdzNCSkd2TjhRZ3lJRDM2WDRV?oc=5",
-      "published": "2026-11-20T23:18:16.000Z",
-      "titleZh": "曼联聘请和解雇教练的费用接近 1 亿英镑"
-    },
-    {
       "id": "Laurie Whitwell:CBMiqgFBVV95cUxPdDJNZC1OUUlQM3pIcmxET1JxZTdaRjlSV195cGZNSjRXeWN3dlJ4U185WnlfTkVsTVNJTmZFTkQ2bXVWN1E5dzFWQjIwSTBlU0k3TlZHazNSbkt1MnVQZkttN250cGhnWGR4ZUpPLXhXSjJWTTNxU2VraHN5Mml0SThjN2hKeF9KclZYNjBBTGQ5NnZzdHNrYlUyVFZqN2kxck82Sk1ZY1Nodw",
       "reporter": "Laurie Whitwell",
       "reporterZh": "劳里·惠特韦尔",
       "reporterOutlet": "The Athletic 曼联跟队",
       "source": "The New York Times",
       "tier": 1,
-      "title": "Antonio Conte suggests Manchester United are ‘frightened of winning’ after manager snub - The Athletic",
+      "title": "Antonio Conte suggests Manchester United are ‘frightened of winning’ after manager snub",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdDJNZC1OUUlQM3pIcmxET1JxZTdaRjlSV195cGZNSjRXeWN3dlJ4U185WnlfTkVsTVNJTmZFTkQ2bXVWN1E5dzFWQjIwSTBlU0k3TlZHazNSbkt1MnVQZkttN250cGhnWGR4ZUpPLXhXSjJWTTNxU2VraHN5Mml0SThjN2hKeF9KclZYNjBBTGQ5NnZzdHNrYlUyVFZqN2kxck82Sk1ZY1Nodw?oc=5",
       "published": "2026-11-20T21:56:39.000Z",
       "titleZh": "Antonio Conte suggests Manchester United are ‘frightened of winning’ after manager snub"
@@ -43935,6 +43911,18 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN25QOF9XUTE4dEk5eFUyUGYwQ3FMN0RoSTJMeHN6aGRkdmVCdWY4YjlGb1dGTWN5UE52XzU3WEdrN055X1NJOWJuSk1tVmNiemsya2JVbmhvZ3dXcnhUMlZCcWhCS1dWT2xaNG9kMERyNGRMTktISVFWMHhteUFZbTYta01kMnJ6dmtHZmpDY2JxZTRFSVE?oc=5",
       "published": "2026-11-20T14:09:00.000Z",
       "titleZh": "消息人士称，如果无人机再次干扰比赛，曼联将采取法律行动"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE40UHNCSVNoNl9FRnN4cmNYdmtqR3NXMERIZlRxZUNkSjVmWUxnUFBpRV9wTnBrMTBKY2xVQUtkVGVmQXRFX1ZXSDRnNHpaNFBrT21pNENlTVhPQXlqREM0U21EalFyNHMx",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Can Mauricio Pochettino unite Manchester United?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UHNCSVNoNl9FRnN4cmNYdmtqR3NXMERIZlRxZUNkSjVmWUxnUFBpRV9wTnBrMTBKY2xVQUtkVGVmQXRFX1ZXSDRnNHpaNFBrT21pNENlTVhPQXlqREM0U21EalFyNHMx?oc=5",
+      "published": "2026-11-20T11:32:51.000Z",
+      "titleZh": "曼联新闻：毛里西奥·波切蒂诺能否团结曼联？"
     },
     {
       "id": "Laurie Whitwell:CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ",
@@ -44103,9 +44091,21 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVZjUWRuOTg4T253QUVYcm5VWjJWR04za0JWWDQ2ZGdJTDlGcTJBaC1ZQWd1dTlET09jYkQ0WTQwMmFXU0lmV19FSU40VUhwOGdzZGVZZ3hkYy1lTUZGaVNjLVNPTTRQOEZOUE4wVlJwOVNPZlNtbUdJVEZybzR5a0l0Z3htbkpXenfSAY8BQVVfeXFMT1dtNUpDcmw2S0hEVXRCdE5JMUJ5enJPV3pPNXYxcnNnSV92eVRZWnRBbnQ3Z3hKVFNBZ0NTWEpCVWNDZElXelM3TlhPOHh1QVoyNjc3dVYydUdoOFAxUUo3TTkxSUFwQ0F2bVF5Szk4R2Q5dFFTUzlRTFl5d1l1OHUxWVV5Q0hfSldwX3FQZ00?oc=5",
       "published": "2026-11-17T08:24:15.000Z",
       "titleZh": "法布里齐奥·罗马诺透露，曼联1月份的第一笔离队交易已进入“最后阶段”"
+    },
+    {
+      "id": "James Ducker:CBMipwFBVV95cUxPUV9OU3RMYk9RTUVwaEJGclZUeUxfQ1BNWnJWVnJEUzZWcHhTYXY1T3JSbDN6eXBDSkZBS1ZLV3NVOENnNXUzRS1FYTdkYk9uNWoxVkluaTFVZkxmRkhLOWNJUGpMTDhZZ19aNWZXZnpRZHNIRTlteF90Q3FCY3djYU5RQlh5eGZXV2lMSXZRUWxaTkU5OVRNQnl2NktHdUxLRlpPOEpiZw",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Pochettino’s key lieutenants already in Manchester and planning for Liverpool clash",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUV9OU3RMYk9RTUVwaEJGclZUeUxfQ1BNWnJWVnJEUzZWcHhTYXY1T3JSbDN6eXBDSkZBS1ZLV3NVOENnNXUzRS1FYTdkYk9uNWoxVkluaTFVZkxmRkhLOWNJUGpMTDhZZ19aNWZXZnpRZHNIRTlteF90Q3FCY3djYU5RQlh5eGZXV2lMSXZRUWxaTkU5OVRNQnl2NktHdUxLRlpPOEpiZw?oc=5",
+      "published": "2026-11-16T18:11:00.000Z",
+      "titleZh": "波切蒂诺的主要助手已抵达曼彻斯特，并正为与利物浦的对决做准备"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-22T22:26:09.035Z",
+  "journalistsUpdatedAt": "2026-11-23T03:03:39.108Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

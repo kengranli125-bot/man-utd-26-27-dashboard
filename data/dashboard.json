@@ -43807,13 +43807,37 @@
   ],
   "journalists": [
     {
+      "id": "James Ducker:CBMipgFBVV95cUxPdDc4dzd3VEVDX2ZrQnNsNlhvY0dILWpmVEhNN0FWYTRreGtIanJpdnRDdUlHM1dQaktXcDRKR0toNEh4NmVwcXN6cTdxNEk1THkwaGpRM0ZKMjZXcUlydDYxa1pudHhIdkFsTURGaDVaWXp3NTI2M1dfbFZ0dlpHQW9TT19LX1pHazFGUUhZRnRqdjlVX0ZaUDktd1EwS0JGRkVQVEln",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Man Utd fury at officials despite Leny Yoro red card being overturned",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc4dzd3VEVDX2ZrQnNsNlhvY0dILWpmVEhNN0FWYTRreGtIanJpdnRDdUlHM1dQaktXcDRKR0toNEh4NmVwcXN6cTdxNEk1THkwaGpRM0ZKMjZXcUlydDYxa1pudHhIdkFsTURGaDVaWXp3NTI2M1dfbFZ0dlpHQW9TT19LX1pHazFGUUhZRnRqdjlVX0ZaUDktd1EwS0JGRkVQVEln?oc=5",
+      "published": "2026-11-24T16:47:00.000Z",
+      "titleZh": "尽管莱尼·约罗的红牌被撤销，曼联仍对裁判大为不满"
+    },
+    {
+      "id": "Simon Stone:CBMia0FVX3lxTFBvZUdGTTZsUlJHd1VvMFllYnU4WXlRR09YQmg2RExEYlc5N21MTkVkc0JpZHdLMmd3UXFtT0pnNUJNZ2FLUnFXWDB2VUU4UTlZcjNVNXZVUTNod3N1MU16S25JdVZVQVctMTJr",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Leny Yoro red card: Manchester United defender cleared to face Brentford on Saturday",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZUdGTTZsUlJHd1VvMFllYnU4WXlRR09YQmg2RExEYlc5N21MTkVkc0JpZHdLMmd3UXFtT0pnNUJNZ2FLUnFXWDB2VUU4UTlZcjNVNXZVUTNod3N1MU16S25JdVZVQVctMTJr?oc=5",
+      "published": "2026-11-24T15:59:59.000Z",
+      "titleZh": "莱尼·约罗红牌：曼联后卫获准在周六对阵布伦特福德的比赛中上场"
+    },
+    {
       "id": "Simon Stone:CBMiaEFVX3lxTE5YVGw3YUJ0bHVqS3pOYy1sdFJNY25YdVhQa1JYNU5kMWgwemViTHdxN2luWEFRVW42RjZCLWt3azNrLXVQS2ttYTI4S1NpTlBKT2Y3NGpzd2x4dmVVZ3djaDI0M2dtZkk5",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
-      "title": "Man Utd news: Will January be the answer Manchester United need?",
+      "title": "Will January be the answer Man Utd need?",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YVGw3YUJ0bHVqS3pOYy1sdFJNY25YdVhQa1JYNU5kMWgwemViTHdxN2luWEFRVW42RjZCLWt3azNrLXVQS2ttYTI4S1NpTlBKT2Y3NGpzd2x4dmVVZ3djaDI0M2dtZkk5?oc=5",
       "published": "2026-11-24T08:46:15.000Z",
       "titleZh": "曼联新闻：1月份会是曼联需要的答案吗？"
@@ -43879,30 +43903,6 @@
       "titleZh": "法布里齐奥·罗马诺揭示布鲁诺·费尔南德斯合同的重要条款"
     },
     {
-      "id": "Chris Wheeler:CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Man Utd need all of Pochettino's powers to get them out of drop zone",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU?oc=5",
-      "published": "2026-11-23T07:00:52.000Z",
-      "titleZh": "曼联需要波切蒂诺的全部能力，才能让他们摆脱降级区"
-    },
-    {
-      "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
-      "published": "2026-11-23T00:16:00.000Z",
-      "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
-    },
-    {
       "id": "James Ducker:CBMirAFBVV95cUxOSjVvNW96THVpUnZNU2JxOHp5dE1EZmJobjJIMUlZRXI4NlFqMVZtRVVIYkd5ZWJueFBQOUlrVDhIRHhxT2VDdzR1LWh5bW5iWXg5NVdqUk1JcWFScGhjdVdWS2p5U0FaU3VBSVRZWG9uMUhyb3pJUXV3Q1NfQXAtbGI1N0ZwdGZINEFwQVJ6VDI1eFdqODdxTUVxYWdHS2RWM3NDbFhJVG5hSVg2",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -43937,6 +43937,18 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFVuUUZJV0ZpLWl5dUpxLWZ5TkdrSWRXYXZFMnd4aGNyMnllQUNNai1aeWt5ZUZwMjlCejRqaUd2alJNdHdjR0p1TkNnaFVGZ2ZYX21hT1BfTHRxWmp5WEVZYTFiWlVWTURUTy13UmFZalM0dFBPSzZzbXRfdllvc1RZeWpLSVE?oc=5",
       "published": "2026-11-22T08:00:00.000Z",
       "titleZh": "迈克尔·卡里克被曼联解雇的内幕——《The Athletic》"
+    },
+    {
+      "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
+      "published": "2026-11-21T15:04:13.000Z",
+      "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
     },
     {
       "id": "Rob Dawson:CBMilwFBVV95cUxOV0JzZmh3bThxeGlRRk04SThDX3hrclMxbFozbjk1TFQwOVg5N1JuUzI4UlZMU0pac1d6Tlh3SkE4TFpSWmVibUhzWnVZZVFGMWE1VXNGUnNYQXd1bWpuc2xRY1A3TkR2dy1WcF9fcUhkTkw2WGl0cU5SR2YzMEYyZTAtRDBVUXc3LUVMeXpnMkZhSlBRUUdn",
@@ -43985,18 +43997,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN25QOF9XUTE4dEk5eFUyUGYwQ3FMN0RoSTJMeHN6aGRkdmVCdWY4YjlGb1dGTWN5UE52XzU3WEdrN055X1NJOWJuSk1tVmNiemsya2JVbmhvZ3dXcnhUMlZCcWhCS1dWT2xaNG9kMERyNGRMTktISVFWMHhteUFZbTYta01kMnJ6dmtHZmpDY2JxZTRFSVE?oc=5",
       "published": "2026-11-20T14:09:00.000Z",
       "titleZh": "消息人士称，如果无人机再次干扰比赛，曼联将采取法律行动"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTE40UHNCSVNoNl9FRnN4cmNYdmtqR3NXMERIZlRxZUNkSjVmWUxnUFBpRV9wTnBrMTBKY2xVQUtkVGVmQXRFX1ZXSDRnNHpaNFBrT21pNENlTVhPQXlqREM0U21EalFyNHMx",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Can Mauricio Pochettino unite Manchester United?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UHNCSVNoNl9FRnN4cmNYdmtqR3NXMERIZlRxZUNkSjVmWUxnUFBpRV9wTnBrMTBKY2xVQUtkVGVmQXRFX1ZXSDRnNHpaNFBrT21pNENlTVhPQXlqREM0U21EalFyNHMx?oc=5",
-      "published": "2026-11-20T11:32:51.000Z",
-      "titleZh": "曼联新闻：毛里西奥·波切蒂诺能否团结曼联？"
     },
     {
       "id": "David Ornstein:CBMiqgFBVV95cUxNWWM3dDFyQjM0YnhlNld6d1Vfd05wclh3SHJEOUlHOW9EOE5oWll3NmlMTG5MMUtnb1Z4ZDNZSkVnRU9HcHNDZ0hqMjl5MkFmM083ejRJWkJpMldwMGVpWHFJMl9Bck9MbnVwckZBNXNZRHdHdndlR1lUQnA5cWtIeU1Jb2Zhd2ZmVFdGVzd3V2JsejhrU1RhSmcwZVZhczU3RGhsQlhWYzZnQQ",
@@ -44059,18 +44059,6 @@
       "titleZh": "毛里西奥·波切蒂诺：曼联主帅的优先事项包括费尔南德斯、球队文化和防守"
     },
     {
-      "id": "Chris Wheeler:CBMivgJBVV95cUxPenJPV3RSTlpILW0xVGFZSDYyNEtZUnJQcVJGNzNDNzA1WHRfR3N3d3pwcU9QTjU5bVZ2c2w3c0gtQjhUTGZjTXJBaVVWNlZxVTJpZDdHVnNJaFUwNTlrNXMyWFloQlB4Qk1lUmIwV3ViZW1BRWdmU2FLRWFTVmlqZjJvTFl3Wk94Nl9qai10Uk1ITk1DVENIOWRGbjN4U0FqS0RzVWdqQlJ0bURGV3RiOUx5RDRQNUNnRTlnQ3k2YlFYbG4tUWJENnRCUDJSdzJ0V19FWWF1aWpET0lRSW9DYjFsMnFSQ3ZQbThhY1hpZWEzc2RyX1VvdDRlVllTOFh0Uk04U3hXZ08yWXlxS3VyaFR1eWV0VXQyOTJ4UHFJZ3F6eDg1QW9zQWJrOWtYbGlhZUtrenJFM1hpOEJSSXc",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Man United toast £146.1m revenues",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPenJPV3RSTlpILW0xVGFZSDYyNEtZUnJQcVJGNzNDNzA1WHRfR3N3d3pwcU9QTjU5bVZ2c2w3c0gtQjhUTGZjTXJBaVVWNlZxVTJpZDdHVnNJaFUwNTlrNXMyWFloQlB4Qk1lUmIwV3ViZW1BRWdmU2FLRWFTVmlqZjJvTFl3Wk94Nl9qai10Uk1ITk1DVENIOWRGbjN4U0FqS0RzVWdqQlJ0bURGV3RiOUx5RDRQNUNnRTlnQ3k2YlFYbG4tUWJENnRCUDJSdzJ0V19FWWF1aWpET0lRSW9DYjFsMnFSQ3ZQbThhY1hpZWEzc2RyX1VvdDRlVllTOFh0Uk04U3hXZ08yWXlxS3VyaFR1eWV0VXQyOTJ4UHFJZ3F6eDg1QW9zQWJrOWtYbGlhZUtrenJFM1hpOEJSSXc?oc=5",
-      "published": "2026-11-19T13:14:07.000Z",
-      "titleZh": "曼联庆祝 1.461 亿英镑的收入"
-    },
-    {
       "id": "Rob Dawson:CBMipgFBVV95cUxOcUZoelRBczhyN2xaaFRsbDA0ZU00OFNJSEJ3TDZmVC0yMFFjdGd4RlVRcHJTNVpOWUJscjRsVnVkdTZWYW54VWFzZWt3MmFRVW5fMEpLOEtPVmxDT2lXdDFjdjZWOURWejhmSzBfaURpYUJ3WGNDaUEwWU95VUhOVXd1Nk95VUc2SmlNREd2alJVX2ZubWItZFR4QTN0dDN3N2xqNkpR",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -44093,9 +44081,21 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVdXeV94Q0p6MVFjaWRGRjY3UGsxcXR4YU5LYUFpUVlyOWI4QmNzb2RqazVUWDk2TW5mai10V0s3NThjRExLUmJtN3ZkcGlEMGFWaG1HS3REclNMZnRaN1pSblZnajcweG9ONEcxcVZnVmZPTjAxNHQ0S1FoSU5vdTM0RUg1XzN4d0EzY25KNNIBlAFBVV95cUxNYVY2cURBU05FZzJBZ2N4cmRJeDFKTmI1by0temw1NVctbGJENEEwblNVYmZWbXdqbW5KMWdXVFhRenNuRmVTM3RhQm82VUtIOUN2OWhEMGo3MGRPSF9OOUR1SklLYUViSWo2M0VELWFCcGdiOS1zRGZZYVhHQ3F3WVZqS3d0VUVuZHd4T2J4MVR6Q0R4?oc=5",
       "published": "2026-11-19T08:00:51.000Z",
       "titleZh": "会面已安排：罗马诺确认曼联炙手可热的球星将与波切蒂诺会谈，讨论 1 月离队事宜"
+    },
+    {
+      "id": "Rob Dawson:CBMimgFBVV95cUxQTGh3cFp4VlFtLWNWbHQ2bmt0bU1ob19ZTUNab0JyZm9RYmR4RlhnSzJTN1YwVU5JNnRwSkFIRlFjNWpQdW5vc3VsUnpocmJpNU9HVU9rS2MteEdwN0QyTm11X192cldpZlUxME1QNlkxdzRiSjlkWC00NTJNLXg3a1VSeVUzQ1BMWTdlZVpFT0VSbWhMLUVSRjZB",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Man United to take legal action if JJ Gabriel was illegally approached - sources",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGh3cFp4VlFtLWNWbHQ2bmt0bU1ob19ZTUNab0JyZm9RYmR4RlhnSzJTN1YwVU5JNnRwSkFIRlFjNWpQdW5vc3VsUnpocmJpNU9HVU9rS2MteEdwN0QyTm11X192cldpZlUxME1QNlkxdzRiSjlkWC00NTJNLXg3a1VSeVUzQ1BMWTdlZVpFT0VSbWhMLUVSRjZB?oc=5",
+      "published": "2026-11-18T13:21:00.000Z",
+      "titleZh": "消息人士称，如果 JJ 加布里埃尔遭到非法接触，曼联将采取法律行动"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-24T10:07:27.720Z",
+  "journalistsUpdatedAt": "2026-11-24T20:42:46.340Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

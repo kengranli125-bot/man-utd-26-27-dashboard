@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:51:23.344Z",
+  "updatedAt": "2026-11-24T09:51:50.159Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -43120,6 +43120,27 @@
   ],
   "news": [
     {
+      "title": "Which USMNT players could follow Mauricio Pochettino to Manchester United?",
+      "published": "2026-11-24T08:40:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
+      "image": "https://a.espncdn.com/photo/2026/1123/r1750340_1296x729_16-9.jpg",
+      "titleZh": "哪些美国男足国家队球员可能会跟随毛里西奥·波切蒂诺加盟曼联？"
+    },
+    {
+      "title": "Burley questions Man United's desire after Anfield collapse",
+      "published": "2026-11-23T22:53:38Z",
+      "url": "https://www.espn.com/video/clip/_/id/50577165/burley-questions-man-united-desire-anfield-collapse",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/dm_261123_Burley_questions_Man_Uniteds_desire_after_Anfield_collapse/dm_261123_Burley_questions_Man_Uniteds_desire_after_Anfield_collapse.jpg",
+      "titleZh": "伯利对曼联在安菲尔德惨败后的雄心壮志提出质疑"
+    },
+    {
+      "title": "Transfer rumors, news: Manchester United eye move for Ivan Toney",
+      "published": "2026-11-23T21:27:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
+      "image": "https://a.espncdn.com/photo/2026/1123/r1750348_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：AC 米兰将签下利物浦后卫维吉尔·范戴克？"
+    },
+    {
       "title": "Man United's heavy Liverpool loss didn't tell us anything new; epic Barça comeback",
       "published": "2026-11-23T15:15:07Z",
       "url": "https://www.espn.com/soccer/story/_/id/50568399/man-united-liverpool-pochettino-barcelona-man-city",
@@ -43132,13 +43153,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749668_1296x729_16-9.jpg",
       "titleZh": "消息人士称，曼联将就莱尼·约罗在对阵利物浦的比赛中被出示红牌一事提出上诉"
-    },
-    {
-      "title": "Transfer rumors, news: AC Milan to land Liverpool defender Virgil van Dijk?",
-      "published": "2026-11-23T11:50:20Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
-      "image": "https://a.espncdn.com/photo/2026/1030/r1738605_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：AC 米兰将签下利物浦后卫维吉尔·范戴克？"
     },
     {
       "title": "Kobbie Mainoo: 'No one's coming to save us' amid Man United crisis",
@@ -43188,23 +43202,19 @@
       "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool",
       "image": "https://a.espncdn.com/photo/2026/1122/r1749718_1024x576_16-9.jpg",
       "titleZh": "波切蒂诺将曼联惨败给利物浦归咎于“客观情况”"
-    },
-    {
-      "title": "Liverpool 4-0 Man United: Pochettino endures nightmare start - as it happened",
-      "published": "2026-11-22T19:58:48Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50561903/liverpool-man-united-live-premier-league-updates",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749710_1296x729_16-9.jpg",
-      "titleZh": "利物浦对曼联直播：英超联赛比分、最新消息和解说"
-    },
-    {
-      "title": "Roy Keane: Man United fans 'applauding rubbish' after Liverpool hammering",
-      "published": "2026-11-22T20:05:06Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50564123/roy-keane-man-united-fans-applauding-rubbish-liverpool-hammering",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749729_594x334_16-9.jpg",
-      "titleZh": "罗伊·基恩：曼联球迷在利物浦大胜后“为垃圾鼓掌”"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Manchester United eye move for Ivan Toney",
+      "published": "2026-11-23T21:27:52Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
+      "image": "https://a.espncdn.com/photo/2026/1123/r1750348_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：AC 米兰将签下利物浦后卫维吉尔·范戴克？",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Man United need big January transfer spending to avoid Premier League relegation",
       "published": "2026-11-23T13:10:44Z",

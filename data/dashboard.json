@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:38:26.167Z",
+  "updatedAt": "2026-11-25T21:39:50.087Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -43150,11 +43150,24 @@
       "points": 12
     },
     {
+      "id": "83",
+      "name": "Barcelona",
+      "nameZh": "Barcelona",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "position": 4,
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goalDifference": 11,
+      "points": 12
+    },
+    {
       "id": "244",
       "name": "Real Betis",
       "nameZh": "Real Betis",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "position": 4,
+      "position": 5,
       "played": 5,
       "wins": 4,
       "draws": 0,
@@ -43167,7 +43180,7 @@
       "name": "Arsenal",
       "nameZh": "阿森纳",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "position": 5,
+      "position": 6,
       "played": 5,
       "wins": 3,
       "draws": 2,
@@ -43180,7 +43193,7 @@
       "name": "Manchester City",
       "nameZh": "曼城",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "position": 6,
+      "position": 7,
       "played": 5,
       "wins": 3,
       "draws": 1,
@@ -43193,26 +43206,13 @@
       "name": "Borussia Dortmund",
       "nameZh": "Borussia Dortmund",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "position": 7,
+      "position": 8,
       "played": 5,
       "wins": 3,
       "draws": 1,
       "losses": 1,
       "goalDifference": 2,
       "points": 10
-    },
-    {
-      "id": "83",
-      "name": "Barcelona",
-      "nameZh": "Barcelona",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-      "position": 8,
-      "played": 4,
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "goalDifference": 8,
-      "points": 9
     },
     {
       "id": "362",
@@ -43384,11 +43384,24 @@
       "points": 6
     },
     {
+      "id": "102",
+      "name": "Villarreal",
+      "nameZh": "Villarreal",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "position": 22,
+      "played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "goalDifference": -5,
+      "points": 6
+    },
+    {
       "id": "436",
       "name": "Fenerbahce",
       "nameZh": "Fenerbahce",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-      "position": 22,
+      "position": 23,
       "played": 4,
       "wins": 1,
       "draws": 2,
@@ -43401,7 +43414,7 @@
       "name": "AS Roma",
       "nameZh": "AS Roma",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "position": 23,
+      "position": 24,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -43414,7 +43427,7 @@
       "name": "Shakhtar Donetsk",
       "nameZh": "Shakhtar Donetsk",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-      "position": 24,
+      "position": 25,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -43427,7 +43440,7 @@
       "name": "Viking FK",
       "nameZh": "Viking FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-      "position": 25,
+      "position": 26,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -43440,7 +43453,7 @@
       "name": "Atlético Madrid",
       "nameZh": "马德里竞技",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "position": 26,
+      "position": 27,
       "played": 4,
       "wins": 1,
       "draws": 1,
@@ -43453,7 +43466,7 @@
       "name": "Napoli",
       "nameZh": "Napoli",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-      "position": 27,
+      "position": 28,
       "played": 5,
       "wins": 1,
       "draws": 1,
@@ -43466,7 +43479,7 @@
       "name": "PSV Eindhoven",
       "nameZh": "PSV Eindhoven",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-      "position": 28,
+      "position": 29,
       "played": 5,
       "wins": 1,
       "draws": 1,
@@ -43475,37 +43488,11 @@
       "points": 4
     },
     {
-      "id": "102",
-      "name": "Villarreal",
-      "nameZh": "Villarreal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "position": 29,
-      "played": 4,
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "goalDifference": -6,
-      "points": 3
-    },
-    {
-      "id": "21922",
-      "name": "Sabah FK",
-      "nameZh": "Sabah FK",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-      "position": 30,
-      "played": 4,
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "goalDifference": -6,
-      "points": 3
-    },
-    {
       "id": "887",
       "name": "AEK Athens",
       "nameZh": "AEK Athens",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-      "position": 31,
+      "position": 30,
       "played": 5,
       "wins": 1,
       "draws": 0,
@@ -43518,12 +43505,25 @@
       "name": "Feyenoord Rotterdam",
       "nameZh": "Feyenoord Rotterdam",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-      "position": 32,
+      "position": 31,
       "played": 5,
       "wins": 1,
       "draws": 0,
       "losses": 4,
       "goalDifference": -8,
+      "points": 3
+    },
+    {
+      "id": "21922",
+      "name": "Sabah FK",
+      "nameZh": "Sabah FK",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+      "position": 32,
+      "played": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "goalDifference": -9,
       "points": 3
     },
     {
@@ -43545,11 +43545,11 @@
       "nameZh": "Slavia Prague",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
       "position": 34,
-      "played": 4,
+      "played": 5,
       "wins": 0,
       "draws": 1,
-      "losses": 3,
-      "goalDifference": -4,
+      "losses": 4,
+      "goalDifference": -5,
       "points": 1
     },
     {
@@ -43683,6 +43683,41 @@
   ],
   "news": [
     {
+      "title": "Champions League live updates: Sporting take lead over Pochettino's United",
+      "published": "2026-11-25T20:33:29Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50574274/uefa-champions-league-live-updates",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751239_1296x729_16-9.jpg",
+      "titleZh": "欧冠联赛实时更新：葡萄牙体育领先波切蒂诺执教的曼联"
+    },
+    {
+      "title": "Pochettino: Manchester United's situation is fragile not the team",
+      "published": "2026-11-25T09:47:58Z",
+      "url": "https://www.espn.com/video/clip/_/id/50591416/manchester-united-situation-fragile-not-team",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_COM_SOC_Presser_Pochettino_Manchester_Uniteds_situation_is_fragile_not_the_team_20261125_GLOBA/dm_261125_COM_SOC_Presser_Pochettino_Manchester_Uniteds_situation_is_fragile_not_the_team_20261125_GLOBA.jpg",
+      "titleZh": "波切蒂诺：曼联的处境脆弱，但球队并不脆弱"
+    },
+    {
+      "title": "Who are Sabah FK, Barcelona's Champions League opponents?",
+      "published": "2026-11-25T09:24:56Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
+      "image": "https://a.espncdn.com/photo/2026/0827/r1707627_1296x729_16-9.jpg",
+      "titleZh": "巴塞罗那的欧冠对手萨巴赫足球俱乐部是哪支球队？"
+    },
+    {
+      "title": "Man United crisis: How did it start? Who is to blame? Is Pochettino the answer?",
+      "published": "2026-11-25T09:14:07Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
+      "image": "https://a.espncdn.com/photo/2026/1124/r1750553_1296x729_16-9.jpg",
+      "titleZh": "曼联危机：是如何开始的？该怪谁？波切蒂诺是答案吗？"
+    },
+    {
+      "title": "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
+      "published": "2026-11-25T09:06:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：尤文图斯盯上了曼联的布鲁诺·费尔南德斯"
+    },
+    {
       "title": "Rasmus Højlund on aiming Man United dig at Man City fans: 'Some good banter'",
       "published": "2026-11-24T23:52:02Z",
       "url": "https://www.espn.com/soccer/story/_/id/50587028/rasmus-hojlund-man-united-man-city-napoli-champions-league",
@@ -43730,60 +43765,25 @@
       "url": "https://www.espn.com/soccer/story/_/id/50568399/man-united-liverpool-pochettino-barcelona-man-city",
       "image": "https://a.espncdn.com/photo/2026/1123/r1750121_1296x729_16-9.jpg",
       "titleZh": "曼联惨败利物浦不足为奇；巴萨上演史诗级逆转"
-    },
-    {
-      "title": "Man United to appeal Leny Yoro red card against Liverpool - sources",
-      "published": "2026-11-23T15:07:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749668_1296x729_16-9.jpg",
-      "titleZh": "消息人士称，曼联将就莱尼·约罗在对阵利物浦的比赛中被出示红牌一事提出上诉"
-    },
-    {
-      "title": "Kobbie Mainoo: 'No one's coming to save us' amid Man United crisis",
-      "published": "2026-11-23T11:14:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571766/kobbie-mainoo-manchester-united-liverpool",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750090_1296x729_16-9.jpg",
-      "titleZh": "科比·马伊努：在曼联的危机中，“没有人会来拯救我们”"
-    },
-    {
-      "title": "Juan Mata: Man United had 'short-term view' after Sir Alex Ferguson",
-      "published": "2026-11-23T11:46:45Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571677/juan-mata-manchester-united-ferguson",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750082_1296x729_16-9.jpg",
-      "titleZh": "胡安·马塔：曼联在弗格森爵士离任后采取了“短期主义”"
-    },
-    {
-      "title": "Man United need big January transfer spending to avoid Premier League relegation",
-      "published": "2026-11-23T13:10:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571270/man-united-january-transfers-premier-league-relegation",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750067_1296x729_16-9.jpg",
-      "titleZh": "曼联需要在1月份的转会窗口投入巨资，以避免英超联赛的降级"
-    },
-    {
-      "title": "Man United in a relegation battle? Jamie Carragher explains 'problem' they face",
-      "published": "2026-11-23T09:19:41Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571320/man-united-relegation-battle-jamie-carragher-gary-neville-roy-keane",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750067_1296x729_16-9.jpg",
-      "titleZh": "曼联陷入保级大战？杰米·卡拉格解释他们面临的“问题”"
     }
   ],
   "transfers": [
+    {
+      "title": "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
+      "published": "2026-11-25T09:06:55Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：尤文图斯盯上了曼联的布鲁诺·费尔南德斯",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    },
     {
       "title": "Transfer rumors, news: Manchester United eye move for Ivan Toney",
       "published": "2026-11-23T21:27:52Z",
       "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
       "image": "https://a.espncdn.com/photo/2026/1123/r1750348_1296x729_16-9.jpg",
       "titleZh": "转会传闻、新闻：AC 米兰将签下利物浦后卫维吉尔·范戴克？",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Man United need big January transfer spending to avoid Premier League relegation",
-      "published": "2026-11-23T13:10:44Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571270/man-united-january-transfers-premier-league-relegation",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750067_1296x729_16-9.jpg",
-      "titleZh": "曼联需要在1月份的转会窗口投入巨资，以避免英超联赛的降级",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:07:27.961Z",
+  "updatedAt": "2026-11-26T08:13:49.385Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -44506,12 +44506,12 @@
       "nameZh": "巴黎圣日耳曼",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
       "position": 2,
-      "played": 4,
+      "played": 5,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
       "goalDifference": 15,
-      "points": 12
+      "points": 13
     },
     {
       "id": "2572",
@@ -44540,11 +44540,24 @@
       "points": 12
     },
     {
+      "id": "364",
+      "name": "Liverpool",
+      "nameZh": "利物浦",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "position": 5,
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goalDifference": 7,
+      "points": 12
+    },
+    {
       "id": "244",
       "name": "Real Betis",
       "nameZh": "Real Betis",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-      "position": 5,
+      "position": 6,
       "played": 5,
       "wins": 4,
       "draws": 0,
@@ -44557,7 +44570,7 @@
       "name": "Arsenal",
       "nameZh": "阿森纳",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-      "position": 6,
+      "position": 7,
       "played": 5,
       "wins": 3,
       "draws": 2,
@@ -44570,7 +44583,7 @@
       "name": "Manchester City",
       "nameZh": "曼城",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-      "position": 7,
+      "position": 8,
       "played": 5,
       "wins": 3,
       "draws": 1,
@@ -44579,11 +44592,24 @@
       "points": 10
     },
     {
+      "id": "2250",
+      "name": "Sporting CP",
+      "nameZh": "Sporting CP",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+      "position": 9,
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalDifference": 4,
+      "points": 10
+    },
+    {
       "id": "124",
       "name": "Borussia Dortmund",
       "nameZh": "Borussia Dortmund",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
-      "position": 8,
+      "position": 10,
       "played": 5,
       "wins": 3,
       "draws": 1,
@@ -44596,7 +44622,7 @@
       "name": "Aston Villa",
       "nameZh": "阿斯顿维拉",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-      "position": 9,
+      "position": 11,
       "played": 5,
       "wins": 3,
       "draws": 0,
@@ -44605,15 +44631,15 @@
       "points": 9
     },
     {
-      "id": "364",
-      "name": "Liverpool",
-      "nameZh": "利物浦",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "position": 10,
-      "played": 4,
+      "id": "110",
+      "name": "Internazionale",
+      "nameZh": "Internazionale",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "position": 12,
+      "played": 5,
       "wins": 3,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goalDifference": 4,
       "points": 9
     },
@@ -44622,25 +44648,12 @@
       "name": "Club Brugge",
       "nameZh": "Club Brugge",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
-      "position": 11,
-      "played": 4,
+      "position": 13,
+      "played": 5,
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "goalDifference": 4,
-      "points": 9
-    },
-    {
-      "id": "2250",
-      "name": "Sporting CP",
-      "nameZh": "Sporting CP",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-      "position": 12,
-      "played": 4,
-      "wins": 3,
-      "draws": 0,
-      "losses": 1,
-      "goalDifference": 4,
+      "losses": 2,
+      "goalDifference": 1,
       "points": 9
     },
     {
@@ -44648,7 +44661,7 @@
       "name": "Galatasaray",
       "nameZh": "Galatasaray",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
-      "position": 13,
+      "position": 14,
       "played": 5,
       "wins": 3,
       "draws": 0,
@@ -44661,12 +44674,25 @@
       "name": "Bayern Munich",
       "nameZh": "Bayern Munich",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "position": 14,
-      "played": 4,
+      "position": 15,
+      "played": 5,
       "wins": 2,
       "draws": 2,
-      "losses": 0,
-      "goalDifference": 7,
+      "losses": 1,
+      "goalDifference": 6,
+      "points": 8
+    },
+    {
+      "id": "436",
+      "name": "Fenerbahce",
+      "nameZh": "Fenerbahce",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+      "position": 16,
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalDifference": -4,
       "points": 8
     },
     {
@@ -44674,12 +44700,38 @@
       "name": "VfB Stuttgart",
       "nameZh": "VfB Stuttgart",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "position": 15,
-      "played": 4,
+      "position": 17,
+      "played": 5,
       "wins": 2,
       "draws": 1,
-      "losses": 1,
-      "goalDifference": 3,
+      "losses": 2,
+      "goalDifference": 1,
+      "points": 7
+    },
+    {
+      "id": "1068",
+      "name": "Atlético Madrid",
+      "nameZh": "马德里竞技",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "position": 18,
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalDifference": 1,
+      "points": 7
+    },
+    {
+      "id": "360",
+      "name": "Manchester United",
+      "nameZh": "曼联",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "position": 19,
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalDifference": 0,
       "points": 7
     },
     {
@@ -44687,7 +44739,7 @@
       "name": "Bodo/Glimt",
       "nameZh": "Bodo/Glimt",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png",
-      "position": 16,
+      "position": 20,
       "played": 5,
       "wins": 2,
       "draws": 1,
@@ -44696,24 +44748,11 @@
       "points": 7
     },
     {
-      "id": "110",
-      "name": "Internazionale",
-      "nameZh": "Internazionale",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "position": 17,
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "goalDifference": 2,
-      "points": 6
-    },
-    {
       "id": "4411",
       "name": "LASK Linz",
       "nameZh": "LASK Linz",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png",
-      "position": 18,
+      "position": 21,
       "played": 5,
       "wins": 2,
       "draws": 0,
@@ -44722,24 +44761,11 @@
       "points": 6
     },
     {
-      "id": "360",
-      "name": "Manchester United",
-      "nameZh": "曼联",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "position": 19,
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "goalDifference": 0,
-      "points": 6
-    },
-    {
       "id": "437",
       "name": "FC Porto",
       "nameZh": "FC Porto",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-      "position": 20,
+      "position": 22,
       "played": 5,
       "wins": 2,
       "draws": 0,
@@ -44752,7 +44778,7 @@
       "name": "RB Leipzig",
       "nameZh": "RB Leipzig",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-      "position": 21,
+      "position": 23,
       "played": 5,
       "wins": 2,
       "draws": 0,
@@ -44765,7 +44791,7 @@
       "name": "Villarreal",
       "nameZh": "Villarreal",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-      "position": 22,
+      "position": 24,
       "played": 5,
       "wins": 2,
       "draws": 0,
@@ -44774,42 +44800,29 @@
       "points": 6
     },
     {
-      "id": "436",
-      "name": "Fenerbahce",
-      "nameZh": "Fenerbahce",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-      "position": 23,
-      "played": 4,
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "goalDifference": -5,
-      "points": 5
-    },
-    {
       "id": "104",
       "name": "AS Roma",
       "nameZh": "AS Roma",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "position": 24,
-      "played": 4,
+      "position": 25,
+      "played": 5,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
       "goalDifference": 2,
-      "points": 4
+      "points": 5
     },
     {
       "id": "493",
       "name": "Shakhtar Donetsk",
       "nameZh": "Shakhtar Donetsk",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-      "position": 25,
-      "played": 4,
+      "position": 26,
+      "played": 5,
       "wins": 1,
       "draws": 1,
-      "losses": 2,
-      "goalDifference": 0,
+      "losses": 3,
+      "goalDifference": -1,
       "points": 4
     },
     {
@@ -44817,25 +44830,12 @@
       "name": "Viking FK",
       "nameZh": "Viking FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-      "position": 26,
-      "played": 4,
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "goalDifference": -1,
-      "points": 4
-    },
-    {
-      "id": "1068",
-      "name": "Atlético Madrid",
-      "nameZh": "马德里竞技",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
       "position": 27,
-      "played": 4,
+      "played": 5,
       "wins": 1,
       "draws": 1,
-      "losses": 2,
-      "goalDifference": -1,
+      "losses": 3,
+      "goalDifference": -3,
       "points": 4
     },
     {
@@ -44852,11 +44852,24 @@
       "points": 4
     },
     {
+      "id": "166",
+      "name": "Lille",
+      "nameZh": "Lille",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "position": 29,
+      "played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goalDifference": -5,
+      "points": 4
+    },
+    {
       "id": "148",
       "name": "PSV Eindhoven",
       "nameZh": "PSV Eindhoven",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
-      "position": 29,
+      "position": 30,
       "played": 5,
       "wins": 1,
       "draws": 1,
@@ -44869,7 +44882,7 @@
       "name": "AEK Athens",
       "nameZh": "AEK Athens",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png",
-      "position": 30,
+      "position": 31,
       "played": 5,
       "wins": 1,
       "draws": 0,
@@ -44882,7 +44895,7 @@
       "name": "Feyenoord Rotterdam",
       "nameZh": "Feyenoord Rotterdam",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
-      "position": 31,
+      "position": 32,
       "played": 5,
       "wins": 1,
       "draws": 0,
@@ -44895,7 +44908,7 @@
       "name": "Sabah FK",
       "nameZh": "Sabah FK",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-      "position": 32,
+      "position": 33,
       "played": 5,
       "wins": 1,
       "draws": 0,
@@ -44908,7 +44921,7 @@
       "name": "Lens",
       "nameZh": "Lens",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-      "position": 33,
+      "position": 34,
       "played": 5,
       "wins": 1,
       "draws": 0,
@@ -44921,25 +44934,12 @@
       "name": "Slavia Prague",
       "nameZh": "Slavia Prague",
       "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
-      "position": 34,
+      "position": 35,
       "played": 5,
       "wins": 0,
       "draws": 1,
       "losses": 4,
       "goalDifference": -5,
-      "points": 1
-    },
-    {
-      "id": "166",
-      "name": "Lille",
-      "nameZh": "Lille",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "position": 35,
-      "played": 4,
-      "wins": 0,
-      "draws": 1,
-      "losses": 3,
-      "goalDifference": -6,
       "points": 1
     },
     {
@@ -45060,11 +45060,81 @@
   ],
   "news": [
     {
-      "title": "Champions League live updates: Sporting take lead over Pochettino's United",
-      "published": "2026-11-25T20:33:29Z",
+      "title": "Champions League talking points: Was this a good result for Man United?",
+      "published": "2026-11-26T02:23:47Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50594529/champions-league-talking-points-manchester-united-sporting-draw",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751438_1296x729_16-9.jpg",
+      "titleZh": "欧冠联赛热点话题：这对曼联来说是一个好结果吗？"
+    },
+    {
+      "title": "VAR review: Why Man United should've gotten winner vs. Sporting",
+      "published": "2026-11-26T00:48:50Z",
+      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751409_1296x729_16-9.jpg",
+      "titleZh": "VAR 回顾：曼联为何本应在与葡萄牙体育的比赛中获胜"
+    },
+    {
+      "title": "Mauricio Pochettino: Man United were 'punished' by officials in Sporting draw",
+      "published": "2026-11-26T00:12:21Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
+      "image": "https://a.espncdn.com/photo/2026/1126/r1751404_1296x729_16-9.jpg",
+      "titleZh": "毛里西奥·波切蒂诺：曼联在与里斯本竞技的平局中被裁判“惩罚”了"
+    },
+    {
+      "title": "Man United's costly errors overshadow early progress under Mauricio Pochettino",
+      "published": "2026-11-26T01:32:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751389_1296x729_16-9.jpg",
+      "titleZh": "曼联的代价高昂的失误掩盖了在毛里西奥·波切蒂诺执教下的早期进步"
+    },
+    {
+      "title": "Bruno Fernandes' 'strange' divot-assisted goal left even Man United star confused",
+      "published": "2026-11-26T00:43:28Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50598666/bruno-fernandes-goal-man-united-sporting-divot-champions-league",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751390_1296x729_16-9.jpg",
+      "titleZh": "布鲁诺·费尔南德斯的“奇怪”草皮助攻进球让曼联球星也感到困惑"
+    },
+    {
+      "title": "Burley predicts how Pochettino will motivate Manchester United players",
+      "published": "2026-11-25T23:15:40Z",
+      "url": "https://www.espn.com/video/clip/_/id/50598530/burley-predicts-how-pochettino-motivate-manchester-united-players",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_Burley_predicts_how_Pochettino_will_motivate_Manchester_United_players/dm_261125_Burley_predicts_how_Pochettino_will_motivate_Manchester_United_players.jpg",
+      "titleZh": "伯利预测波切蒂诺将如何激励曼联球员"
+    },
+    {
+      "title": "Hargreaves sees funny side of Fernandes' bizarre divot-assisted Man United goal",
+      "published": "2026-11-25T23:17:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50598468/bruno-fernandes-man-united-divot-owen-hargreaves-sporting-cp",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751372_1296x729_16-9.jpg",
+      "titleZh": "哈格里夫斯看到了费尔南德斯为曼联打入的、由草皮块“助攻”的怪异进球的搞笑一面"
+    },
+    {
+      "title": "Moreno: Disallowing Sporting's equaliser would have 'bailed out' Lammens",
+      "published": "2026-11-25T23:01:35Z",
+      "url": "https://www.espn.com/video/clip/_/id/50598399/disallowing-sporting-equaliser-bailed-lammens",
+      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_Moreno_Disallowing_Sportings_equaliser_would_have_bailed_out_Lammens/dm_261125_Moreno_Disallowing_Sportings_equaliser_would_have_bailed_out_Lammens.jpg",
+      "titleZh": "莫雷诺：不判里斯本竞技的扳平球将“救”了拉门斯"
+    },
+    {
+      "title": "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+      "published": "2026-11-25T22:57:35Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751363_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：尤文图斯盯上了曼联的布鲁诺·费尔南德斯"
+    },
+    {
+      "title": "Champions League recap: Another night of mayhem for Pochettino's Man United",
+      "published": "2026-11-25T22:56:59Z",
       "url": "https://www.espn.com/soccer/story/_/id/50574274/uefa-champions-league-live-updates",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1751239_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751311_1296x729_16-9.jpg",
       "titleZh": "欧冠联赛实时更新：葡萄牙体育领先波切蒂诺执教的曼联"
+    },
+    {
+      "title": "Lammens errors cost Man United win despite bizarre Fernandes goal",
+      "published": "2026-11-25T22:19:51Z",
+      "url": "http://www.espn.com/soccer/report/_/gameId/401915373",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751321_1296x729_16-9.jpg",
+      "titleZh": "尽管费尔南德斯打入匪夷所思的进球，但拉门斯的失误让曼联错失胜利"
     },
     {
       "title": "Pochettino: Manchester United's situation is fragile not the team",
@@ -45072,95 +45142,15 @@
       "url": "https://www.espn.com/video/clip/_/id/50591416/manchester-united-situation-fragile-not-team",
       "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_COM_SOC_Presser_Pochettino_Manchester_Uniteds_situation_is_fragile_not_the_team_20261125_GLOBA/dm_261125_COM_SOC_Presser_Pochettino_Manchester_Uniteds_situation_is_fragile_not_the_team_20261125_GLOBA.jpg",
       "titleZh": "波切蒂诺：曼联的处境脆弱，但球队并不脆弱"
-    },
-    {
-      "title": "Who are Sabah FK, Barcelona's Champions League opponents?",
-      "published": "2026-11-25T09:24:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/49742966/who-champions-league-debutants-sabah-fk-heres-need-know",
-      "image": "https://a.espncdn.com/photo/2026/0827/r1707627_1296x729_16-9.jpg",
-      "titleZh": "巴塞罗那的欧冠对手萨巴赫足球俱乐部是哪支球队？"
-    },
-    {
-      "title": "Man United crisis: How did it start? Who is to blame? Is Pochettino the answer?",
-      "published": "2026-11-25T09:14:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50581456/manchester-united-premier-league-pochettino-ratcliffe",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750553_1296x729_16-9.jpg",
-      "titleZh": "曼联危机：是如何开始的？该怪谁？波切蒂诺是答案吗？"
-    },
-    {
-      "title": "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
-      "published": "2026-11-25T09:06:55Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：尤文图斯盯上了曼联的布鲁诺·费尔南德斯"
-    },
-    {
-      "title": "Rasmus Højlund on aiming Man United dig at Man City fans: 'Some good banter'",
-      "published": "2026-11-24T23:52:02Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50587028/rasmus-hojlund-man-united-man-city-napoli-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1124/r1750857_1296x729_16-9.jpg",
-      "titleZh": "拉斯穆斯·霍伊伦谈到针对曼城球迷的曼联嘲讽时表示：“一些不错的玩笑话”"
-    },
-    {
-      "title": "Fernandes: United contract talks will wait until we're 'winning games'",
-      "published": "2026-11-24T20:44:34Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50585584/fernandes-man-united-contract-talks-wait",
-      "image": "https://a.espncdn.com/photo/2026/1031/r1738924_1296x729_16-9.jpg",
-      "titleZh": "费尔南德斯：曼联的合同谈判将等到我们“赢得比赛”时再进行"
-    },
-    {
-      "title": "Man United win appeal over Leny Yoro red card",
-      "published": "2026-11-24T17:32:56Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50583223/man-united-win-appeal-leny-yoro-red-card",
-      "image": "https://a.espncdn.com/photo/2026/1122/r1749683_1296x729_16-9.jpg",
-      "titleZh": "曼联就莱尼·约罗的红牌提出上诉并胜诉"
-    },
-    {
-      "title": "Which USMNT players could follow Mauricio Pochettino to Manchester United?",
-      "published": "2026-11-24T10:39:36Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750340_1296x729_16-9.jpg",
-      "titleZh": "哪些美国男足国家队球员可能会跟随毛里西奥·波切蒂诺加盟曼联？"
-    },
-    {
-      "title": "Burley questions Man United's desire after Anfield collapse",
-      "published": "2026-11-23T22:53:38Z",
-      "url": "https://www.espn.com/video/clip/_/id/50577165/burley-questions-man-united-desire-anfield-collapse",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/dm_261123_Burley_questions_Man_Uniteds_desire_after_Anfield_collapse/dm_261123_Burley_questions_Man_Uniteds_desire_after_Anfield_collapse.jpg",
-      "titleZh": "伯利对曼联在安菲尔德惨败后的雄心壮志提出质疑"
-    },
-    {
-      "title": "Transfer rumors, news: Manchester United eye move for Ivan Toney",
-      "published": "2026-11-23T21:27:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750348_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：AC 米兰将签下利物浦后卫维吉尔·范戴克？"
-    },
-    {
-      "title": "Man United's heavy Liverpool loss didn't tell us anything new; epic Barça comeback",
-      "published": "2026-11-23T15:15:07Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50568399/man-united-liverpool-pochettino-barcelona-man-city",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750121_1296x729_16-9.jpg",
-      "titleZh": "曼联惨败利物浦不足为奇；巴萨上演史诗级逆转"
     }
   ],
   "transfers": [
     {
-      "title": "Transfer rumors, news: Manchester United's Bruno Fernandes eyed by Juventus",
-      "published": "2026-11-25T09:06:55Z",
+      "title": "Transfer rumors, news: Man United, Barcelona eye USMNT's Mathis Albert",
+      "published": "2026-11-25T22:57:35Z",
       "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
-      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751363_1296x729_16-9.jpg",
       "titleZh": "转会传闻、新闻：尤文图斯盯上了曼联的布鲁诺·费尔南德斯",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
-    },
-    {
-      "title": "Transfer rumors, news: Manchester United eye move for Ivan Toney",
-      "published": "2026-11-23T21:27:52Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50571173/transfer-rumors-news-liverpool-virgil-van-dijk-milan",
-      "image": "https://a.espncdn.com/photo/2026/1123/r1750348_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：AC 米兰将签下利物浦后卫维吉尔·范戴克？",
       "player": "",
       "status": "推进中",
       "statusType": "progress"

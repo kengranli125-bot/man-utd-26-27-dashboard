@@ -45737,6 +45737,54 @@
   ],
   "journalists": [
     {
+      "id": "Chris Wheeler:CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Senne Lammens' two errors cost Man United victory at Sporting",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA?oc=5",
+      "published": "2026-11-26T10:01:27.000Z",
+      "titleZh": "森内·拉门斯的两次失误让曼联在对阵葡萄牙体育的比赛中痛失胜利"
+    },
+    {
+      "id": "James Ducker:CBMioAFBVV95cUxObDl2MWFyMm80ajlMLUttdkxuMXNjejg5QXRZV0Q5ekt2UzcyQ1JMUF9NUHBUQjM5MWRtMkFZQ3FGWENQTU5PR2tWUnpta001LXhLN0VZYXFKM2s0UDk5MG9tUkpxc2tWbGMxelR5dEFCZjcwSHBhUUJRc3I0T21LU1dRbHFwdzZLRk5icUh2cG9kY1gtNEVVaTVyNG9tN0tJ",
+      "reporter": "James Ducker",
+      "reporterZh": "詹姆斯·达克",
+      "reporterOutlet": "每日电讯报",
+      "source": "The Telegraph",
+      "tier": 1,
+      "title": "Joshua Zirkzee: It feels like the world is against Man Utd",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDl2MWFyMm80ajlMLUttdkxuMXNjejg5QXRZV0Q5ekt2UzcyQ1JMUF9NUHBUQjM5MWRtMkFZQ3FGWENQTU5PR2tWUnpta001LXhLN0VZYXFKM2s0UDk5MG9tUkpxc2tWbGMxelR5dEFCZjcwSHBhUUJRc3I0T21LU1dRbHFwdzZLRk5icUh2cG9kY1gtNEVVaTVyNG9tN0tJ?oc=5",
+      "published": "2026-11-26T09:31:00.000Z",
+      "titleZh": "约书亚·齐尔克泽：感觉全世界都在和曼联作对"
+    },
+    {
+      "id": "Simon Stone:CBMia0FVX3lxTE4yZW9TVEZwRFA4Z0tQM3V1Yi05Y3p4RnBKVUZXQlQ3RVhUaG41bEhTdHlJRFBNX1ZCc0Uyd3lIYlhvOGNhRUxOU01BcGZIRkdmRGxCbFROLU9zSEl3dTVpcWgtTmRLT09CbTBV",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Goalkeeper Lammens will get the support he needs - Zirkzee",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yZW9TVEZwRFA4Z0tQM3V1Yi05Y3p4RnBKVUZXQlQ3RVhUaG41bEhTdHlJRFBNX1ZCc0Uyd3lIYlhvOGNhRUxOU01BcGZIRkdmRGxCbFROLU9zSEl3dTVpcWgtTmRLT09CbTBV?oc=5",
+      "published": "2026-11-26T09:12:10.000Z",
+      "titleZh": "曼联新闻：齐尔克泽表示，门将拉姆斯将得到他所需要的支持"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE83dU43RjBaRUs2N0h4bl9yMG16QW56Zkw1TDAzUWJpX0VOc3Yyb012ZEVxMWwwbkRpZlVSVUk1LXlobGMzWnNDSmszOGZMUHlHam92WVF5SXVMdGM5XzI3R3kydHFSNlA4",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd on wrong end of more controversial decisions in Sporting draw",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83dU43RjBaRUs2N0h4bl9yMG16QW56Zkw1TDAzUWJpX0VOc3Yyb012ZEVxMWwwbkRpZlVSVUk1LXlobGMzWnNDSmszOGZMUHlHam92WVF5SXVMdGM5XzI3R3kydHFSNlA4?oc=5",
+      "published": "2026-11-26T00:24:48.000Z",
+      "titleZh": "曼联在与葡萄牙体育的平局中因更多有争议的判罚而处于不利地位"
+    },
+    {
       "id": "Chris Wheeler:CBMixAFBVV95cUxQNUtDSXlxSlhNME5iUElpa2xzNVZlY1BXd3pheTlkRTlwaUxDTk4zNURSY3pwaXZLdFN2R054NlJ1bTdiSE1TQ0NMN2U5cGdhdUZNX3EzaWo5bHBtX3p5enJQUndvdlJYVkZyamNteWdVdDRlMFQ1emt5RnpnUkxLbkdma0x6WXdla1Nsb0hWUVloN2pGLUdib21Ea0tZRWhpYTJobzV2aXlPa2ZFZnNUU3BfSXlDYURGU2U5RFI2c3NDd3dL",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -45759,18 +45807,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHZ1bE92MTF1NzROSzNkRjcybUFGcjlfZ2ZNTDI3Rk16Q213a0FSSThSYll0dlhyNk81QXV2NDE3b0VmMVd0dzZidXluQnhnMlE2MEVqSDJuZW9IVmY3RzNXc1g1VndmTkVNdHVqd2l4Q2R4NGtiMzlfeTd1M252a194MlBZUXZEUGI4SW92QUJaemV3QWJjdW9CLVVpaHRoM1R4UA?oc=5",
       "published": "2026-11-25T23:58:00.000Z",
       "titleZh": "曼联的代价高昂的失误掩盖了在毛里西奥·波切蒂诺的带领下取得的早期进步"
-    },
-    {
-      "id": "Chris Wheeler:CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Senne Lammens' two errors cost Man United victory at Sporting",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA?oc=5",
-      "published": "2026-11-25T22:18:39.000Z",
-      "titleZh": "森内·拉门斯的两次失误让曼联在对阵葡萄牙体育的比赛中痛失胜利"
     },
     {
       "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
@@ -45833,6 +45869,18 @@
       "titleZh": "莱尼·约罗红牌：曼联后卫获准在周六对阵布伦特福德的比赛中上场"
     },
     {
+      "id": "Chris Wheeler:CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Man Utd need all of Pochettino's powers to get them out of drop zone",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU?oc=5",
+      "published": "2026-11-24T15:28:47.000Z",
+      "titleZh": "曼联需要波切蒂诺的全部实力来帮助他们摆脱降级区"
+    },
+    {
       "id": "Chris Wheeler:CBMipwFBVV95cUxQTkM0dThrMEQzQ045MVZDREIzR3c1ODZGOVRZTkxPS0ptWWNHWExxU2piV0hOM0NlekE4c2tkcjRzQ0xPZ2l5OXdFa1cxOHJXZl9rVUFHaXYwR282Q3V0RjFTVm9GdWwtYlFGczllRTdObFpFQWdvQVZZM1d6U3NKSVN0cFlUdGliaUpJQzduaVMxazVVVklqdjVuMmFOZ1lMZEkydVpJNA",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -45843,6 +45891,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkM0dThrMEQzQ045MVZDREIzR3c1ODZGOVRZTkxPS0ptWWNHWExxU2piV0hOM0NlekE4c2tkcjRzQ0xPZ2l5OXdFa1cxOHJXZl9rVUFHaXYwR282Q3V0RjFTVm9GdWwtYlFGczllRTdObFpFQWdvQVZZM1d6U3NKSVN0cFlUdGliaUpJQzduaVMxazVVVklqdjVuMmFOZ1lMZEkydVpJNA?oc=5",
       "published": "2026-11-23T21:30:24.000Z",
       "titleZh": "曼联的 1 月转会预算将不到 5000 万英镑"
+    },
+    {
+      "id": "Fabrizio Romano:CBMivAFBVV95cUxPV1VLVUxTYlE3TkxXWHZydC1HR0Rrb2syVWRuUmZxd29ZbHNPYW9YR2VEMDJGdlAxWFJtZEFNbTE1RXpYZk44cWNzSXBiQXExbFl5bGdUYWhjenlFWEtWWkplUDNNQ0JZWGZVeGwwV0JpNmJIeTlFTHVQaFBHQ3M4UFl4TWh5OUtVenJsWF9sTnhIR2lhQ2dIeGlVM0lBYS15WFhyWUQyWEZpZzU2UnNNTGt5Rlk0cVNhNEdoSg",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "TEAMtalk",
+      "tier": 1,
+      "title": "Fabrizio Romano reveals Man Utd transfer talks ‘this week’ as top priority named",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1VLVUxTYlE3TkxXWHZydC1HR0Rrb2syVWRuUmZxd29ZbHNPYW9YR2VEMDJGdlAxWFJtZEFNbTE1RXpYZk44cWNzSXBiQXExbFl5bGdUYWhjenlFWEtWWkplUDNNQ0JZWGZVeGwwV0JpNmJIeTlFTHVQaFBHQ3M4UFl4TWh5OUtVenJsWF9sTnhIR2lhQ2dIeGlVM0lBYS15WFhyWUQyWEZpZzU2UnNNTGt5Rlk0cVNhNEdoSg?oc=5",
+      "published": "2026-11-23T21:24:34.000Z",
+      "titleZh": "法布里齐奥·罗马诺透露，曼联“本周”将转会谈判列为重中之重"
     },
     {
       "id": "Andy Mitten:CBMiqwFBVV95cUxNUndkdXkwWTJPa0s4MGg2Uk5XSENOT2dsTGZSdUdrX1VQQ1YyTDJrd2ZyODFUaU1Wc2NaTXlrMlY3LVE2SmdxanJDa3ZlM0JLMm5mSUwwb01XWDVMZHpHVXRfUFJ0dWV4a2ZrWnRGRHluNWhBYmpRQTh4U1NFYzBHSzFxdTdDV0JBZ2RvVnpYYlFkLWwtRTNkNmFfMXlYSThOSHhJZDI2NDkxVWM",
@@ -45869,16 +45929,16 @@
       "titleZh": "法布里齐奥·罗马诺揭示布鲁诺·费尔南德斯合同的重要条款"
     },
     {
-      "id": "Chris Wheeler:CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Man Utd need all of Pochettino's powers to get them out of drop zone",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU?oc=5",
-      "published": "2026-11-23T07:00:52.000Z",
-      "titleZh": "曼联需要波切蒂诺的全部实力来帮助他们摆脱降级区"
+      "id": "Laurie Whitwell:CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Pochettino’s De Ligt gamble proves costly, but Manchester United’s problems run deeper",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR?oc=5",
+      "published": "2026-11-23T08:37:45.000Z",
+      "titleZh": "波切蒂诺在德里赫特身上的赌注代价高昂，但曼联的问题更加根深蒂固"
     },
     {
       "id": "James Ducker:CBMirAFBVV95cUxOSjVvNW96THVpUnZNU2JxOHp5dE1EZmJobjJIMUlZRXI4NlFqMVZtRVVIYkd5ZWJueFBQOUlrVDhIRHhxT2VDdzR1LWh5bW5iWXg5NVdqUk1JcWFScGhjdVdWS2p5U0FaU3VBSVRZWG9uMUhyb3pJUXV3Q1NfQXAtbGI1N0ZwdGZINEFwQVJ6VDI1eFdqODdxTUVxYWdHS2RWM3NDbFhJVG5hSVg2",
@@ -45941,18 +46001,6 @@
       "titleZh": "Mauricio Pochettino promises brave football as he gets Manchester United’s latest new era underway"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTE9uZGhuWldVSVpybzdvcXhLLS1EeEdSQzJpUDZRMF9PNnlNSWhnazMxR0JJcTdKLUdOMHZITUVMMldmODh0U2UzNTNQRzRWV3ZWUy1hUEJkQ2F1MldqdEZKdGtCSUpDWTNE",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Manchester United fan criticism has gone too far at times - Omar Berrada",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uZGhuWldVSVpybzdvcXhLLS1EeEdSQzJpUDZRMF9PNnlNSWhnazMxR0JJcTdKLUdOMHZITUVMMldmODh0U2UzNTNQRzRWV3ZWUy1hUEJkQ2F1MldqdEZKdGtCSUpDWTNE?oc=5",
-      "published": "2026-11-20T16:24:46.000Z",
-      "titleZh": "奥马尔·贝拉达：曼联球迷的批评有时太过分了"
-    },
-    {
       "id": "Rob Dawson:CBMikgFBVV95cUxNdFJMNlY0TFB4X1dqdDNQdXFZYm5zSTExNk5xcXZIOWxReGdVMGJDQ1Q1Sm5JQzQ3TzZhWTRTclVjX1p5WXFzN0J0QlZtZ3lBZFBVbGpFQkdtZDZEUXo5VzZVVVMya1lKRDhPUk4tR2JWMnBtdnVRbFNNSTNPRXI5enpWUTBxYzZfRUNORWoxZ01OUQ",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
@@ -45975,57 +46023,9 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN25QOF9XUTE4dEk5eFUyUGYwQ3FMN0RoSTJMeHN6aGRkdmVCdWY4YjlGb1dGTWN5UE52XzU3WEdrN055X1NJOWJuSk1tVmNiemsya2JVbmhvZ3dXcnhUMlZCcWhCS1dWT2xaNG9kMERyNGRMTktISVFWMHhteUFZbTYta01kMnJ6dmtHZmpDY2JxZTRFSVE?oc=5",
       "published": "2026-11-20T14:09:00.000Z",
       "titleZh": "消息人士称，如果无人机再次干扰比赛，曼联将采取法律行动"
-    },
-    {
-      "id": "Simon Stone:CBMiaEFVX3lxTE40UHNCSVNoNl9FRnN4cmNYdmtqR3NXMERIZlRxZUNkSjVmWUxnUFBpRV9wTnBrMTBKY2xVQUtkVGVmQXRFX1ZXSDRnNHpaNFBrT21pNENlTVhPQXlqREM0U21EalFyNHMx",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Can Mauricio Pochettino unite Manchester United?",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UHNCSVNoNl9FRnN4cmNYdmtqR3NXMERIZlRxZUNkSjVmWUxnUFBpRV9wTnBrMTBKY2xVQUtkVGVmQXRFX1ZXSDRnNHpaNFBrT21pNENlTVhPQXlqREM0U21EalFyNHMx?oc=5",
-      "published": "2026-11-20T11:32:51.000Z",
-      "titleZh": "曼联新闻：毛里西奥·波切蒂诺能否团结曼联？"
-    },
-    {
-      "id": "Fabrizio Romano:CBMikwFBVV95cUxNcXlGZUMwQ0dIZ1U3T1lGV3JnaENGcldsRU1YS0ZRU1hEZWNkWVlSc01oV0tkWGxzRzBKOG1vTzdvNXA4bkpObklUUUZKNEk4bG9MaTNDbk5PWUFHc1V6Q1BXd1VrOTNUSUg2S21QQWs1Y1VvQjBZQnFnOEhjMFBFR0VpZFdyTWMxUldrY3MwX3pybWfSAZgBQVVfeXFMTS1MWjN3VUdPOGVFZDZiLS1ZQXRLZXU2d3N4OEtKZ2FMNFdoellERl9pM1ZZbHp5aVhqM09Td05CVlp2OWRKS2JIRG5sSDJGN2RhSlc1bS1uSXRrcFoyd1Y3MHVab2pNZHpsbmdRUC1HVTZhN1pOZThQXzFraWdvWEt3MTZGaHQyekhWSGZlZTBralVZcFNGZXY",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "utdreport",
-      "tier": 1,
-      "title": "Romano confirms Man Utd’s January plans as Sesko & Zirkzee status revealed",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlGZUMwQ0dIZ1U3T1lGV3JnaENGcldsRU1YS0ZRU1hEZWNkWVlSc01oV0tkWGxzRzBKOG1vTzdvNXA4bkpObklUUUZKNEk4bG9MaTNDbk5PWUFHc1V6Q1BXd1VrOTNUSUg2S21QQWs1Y1VvQjBZQnFnOEhjMFBFR0VpZFdyTWMxUldrY3MwX3pybWfSAZgBQVVfeXFMTS1MWjN3VUdPOGVFZDZiLS1ZQXRLZXU2d3N4OEtKZ2FMNFdoellERl9pM1ZZbHp5aVhqM09Td05CVlp2OWRKS2JIRG5sSDJGN2RhSlc1bS1uSXRrcFoyd1Y3MHVab2pNZHpsbmdRUC1HVTZhN1pOZThQXzFraWdvWEt3MTZGaHQyekhWSGZlZTBralVZcFNGZXY?oc=5",
-      "published": "2026-11-20T11:32:17.000Z",
-      "titleZh": "罗马诺确认曼联的1月计划，并透露了塞斯科和齐尔克泽的最新情况"
-    },
-    {
-      "id": "Laurie Whitwell:CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United finalising deal for Mauricio Pochettino if Michael Carrick departs - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ?oc=5",
-      "published": "2026-11-20T08:00:00.000Z",
-      "titleZh": "如果迈克尔·卡里克离任，曼联将敲定与毛里西奥·波切蒂诺的签约——《The Athletic》"
-    },
-    {
-      "id": "Fabrizio Romano:CBMigAFBVV95cUxQWmJ5VVZBbWlkUE14VlQ3eUFCSlB0OEN1Unp5c2ZpZ2xOc1M2X0NZZWpkdDVqZFU2VEN3MndSaEZSM3BZUjNlbWJYV2F0RXZnOHZxVEE2TzdvOE0yeE5MaGRSRnZZNXE2am9CakJ4QV9LSUxyNy1iaHkyc3ltcGs5a9IBhgFBVV95cUxPaENxQmV3UGZRbUtCcWRQV215ZWE1X0wzVURKRVMtT0E3SUhjYXA0aEw4Q3pzbzNGRy1zTXF3WTRBZXhWV3N2eWNaUHEwVXZNV0FUTlJETHpBVC1tQ0Z6LUI0ZG5Gdks0U2d0UDd3elIyMlpZQ3VNWVUwTF8yTGRZTWtGZUZCZw",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "utdreport",
-      "tier": 1,
-      "title": "Fabrizio Romano reveals Man Utd’s stance on signing ex-Leeds flop: “All under control”",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmJ5VVZBbWlkUE14VlQ3eUFCSlB0OEN1Unp5c2ZpZ2xOc1M2X0NZZWpkdDVqZFU2VEN3MndSaEZSM3BZUjNlbWJYV2F0RXZnOHZxVEE2TzdvOE0yeE5MaGRSRnZZNXE2am9CakJ4QV9LSUxyNy1iaHkyc3ltcGs5a9IBhgFBVV95cUxPaENxQmV3UGZRbUtCcWRQV215ZWE1X0wzVURKRVMtT0E3SUhjYXA0aEw4Q3pzbzNGRy1zTXF3WTRBZXhWV3N2eWNaUHEwVXZNV0FUTlJETHpBVC1tQ0Z6LUI0ZG5Gdks0U2d0UDd3elIyMlpZQ3VNWVUwTF8yTGRZTWtGZUZCZw?oc=5",
-      "published": "2026-11-20T05:12:17.000Z",
-      "titleZh": "法布里齐奥·罗马诺透露曼联对签下前利兹联失败者的态度：“一切尽在掌控之中”"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-26T04:34:50.778Z",
+  "journalistsUpdatedAt": "2026-11-26T14:25:40.341Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

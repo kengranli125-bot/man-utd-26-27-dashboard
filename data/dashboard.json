@@ -45726,6 +45726,18 @@
   ],
   "journalists": [
     {
+      "id": "Simon Stone:CBMia0FVX3lxTE9mNHgzUFdCVVhxOUdWdXMxUDVxa19IdXdSWEYwbzJJa29XdzI2cTdWYW9sM0tUcV83cnV0WVB5alFrZWxFX1MzVTg1ejY2UVFycllsTjJzcnRRX1hqWDhFZURLM3BwenhJLThv",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "'Lammens has proven to be fallible'",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mNHgzUFdCVVhxOUdWdXMxUDVxa19IdXdSWEYwbzJJa29XdzI2cTdWYW9sM0tUcV83cnV0WVB5alFrZWxFX1MzVTg1ejY2UVFycllsTjJzcnRRX1hqWDhFZURLM3BwenhJLThv?oc=5",
+      "published": "2026-11-26T10:33:10.000Z",
+      "titleZh": "“Lammens已证明自己并非无懈可击”"
+    },
+    {
       "id": "Chris Wheeler:CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA",
       "reporter": "Chris Wheeler",
       "reporterZh": "克里斯·惠勒",
@@ -45736,6 +45748,18 @@
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA?oc=5",
       "published": "2026-11-26T10:01:27.000Z",
       "titleZh": "森内·拉门斯的两次失误让曼联在对阵葡萄牙体育的比赛中痛失胜利"
+    },
+    {
+      "id": "David Ornstein:CBMiZkFVX3lxTE1rcWdEQmlTUDhyTGhtRTIzemJZVzhDeW9YRE1TMGRvb0d3RFlmZFRNejV3ejQ5Z09sRzJyMU5sLTlrM3o0d09YUUlTUW5lVVZqUkcwVGIwVDNwdUE5VW1DT25SbFMxQQ",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Video: David Ornstein on Pochettino's influence at Manchester United",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rcWdEQmlTUDhyTGhtRTIzemJZVzhDeW9YRE1TMGRvb0d3RFlmZFRNejV3ejQ5Z09sRzJyMU5sLTlrM3o0d09YUUlTUW5lVVZqUkcwVGIwVDNwdUE5VW1DT25SbFMxQQ?oc=5",
+      "published": "2026-11-26T09:48:52.000Z",
+      "titleZh": "视频：大卫·奥恩斯坦谈波切蒂诺对曼联的影响"
     },
     {
       "id": "James Ducker:CBMioAFBVV95cUxObDl2MWFyMm80ajlMLUttdkxuMXNjejg5QXRZV0Q5ekt2UzcyQ1JMUF9NUHBUQjM5MWRtMkFZQ3FGWENQTU5PR2tWUnpta001LXhLN0VZYXFKM2s0UDk5MG9tUkpxc2tWbGMxelR5dEFCZjcwSHBhUUJRc3I0T21LU1dRbHFwdzZLRk5icUh2cG9kY1gtNEVVaTVyNG9tN0tJ",
@@ -45798,30 +45822,6 @@
       "titleZh": "曼联的代价高昂的失误掩盖了在毛里西奥·波切蒂诺的带领下取得的早期进步"
     },
     {
-      "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
-      "published": "2026-11-25T15:11:00.000Z",
-      "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
-    },
-    {
-      "id": "David Ornstein:CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E",
-      "reporter": "David Ornstein",
-      "reporterZh": "大卫·奥恩斯坦",
-      "reporterOutlet": "The Athletic",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "David Ornstein’s The Athletic FC Q&A: Will Man Utd try to do business in January? Does Glasner have support?",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E?oc=5",
-      "published": "2026-11-25T15:10:00.000Z",
-      "titleZh": "大卫·奥恩斯坦的《The Athletic FC》问答：曼联是否会在1月份尝试进行引援？格拉斯纳有支持吗？"
-    },
-    {
       "id": "David Ornstein:CBMirgFBVV95cUxQTzhlZXpva1p0WHJIa1Q0bkluNUNJUFkwRWRwN2l2dkxtc1czRURydDBBNU0zVFFGeTVPQVZIU1plZmVvRTIzMW80Z1J2N1lBbXpWdVNuc1hENXAwLUR3QzEzb3VSMElfbC1aMEJUbU1tVVV2cWEtNGFhckw0ZmxBNUZqdjJEM0NieFQ3RFBtQnBvZF9HZzJRczVzQWFwOUY4NHphQlpqLXBER2xxZHc",
       "reporter": "David Ornstein",
       "reporterZh": "大卫·奥恩斯坦",
@@ -45834,6 +45834,30 @@
       "titleZh": "奥恩斯坦透露曼联在“首笔签约”传闻之际的1月“紧急”转会计划——“危机时刻”"
     },
     {
+      "id": "Fabrizio Romano:CBMiswFBVV95cUxPV2YxQ0QwXzY4Y3NlRHR4bXk3X05ObTNkS2tqV1pIVGk4TWRCbW1PNXpxOFdqRmo5LUpBbkxSOU5Jdy1abmVoYlYwanY0enBjRkdDM0FiTXhPNTFCNFE5LWV2R2REOHNUUGdXXzJ6OVAwZFF2UTV5WXhlcHRZaENBQ0RLQmJBc0F6WjFwZG9oZkxCc3RheDJiZUhyUGJ4TXFKR0NmRDU1YlFQVGcxdGNBWHMxSQ",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Man Utd: Romano reveals Pochettino 'priority' signing in January as decision reached on 'dream target'",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2YxQ0QwXzY4Y3NlRHR4bXk3X05ObTNkS2tqV1pIVGk4TWRCbW1PNXpxOFdqRmo5LUpBbkxSOU5Jdy1abmVoYlYwanY0enBjRkdDM0FiTXhPNTFCNFE5LWV2R2REOHNUUGdXXzJ6OVAwZFF2UTV5WXhlcHRZaENBQ0RLQmJBc0F6WjFwZG9oZkxCc3RheDJiZUhyUGJ4TXFKR0NmRDU1YlFQVGcxdGNBWHMxSQ?oc=5",
+      "published": "2026-11-25T09:19:08.000Z",
+      "titleZh": "曼联：罗马诺透露波切蒂诺1月份的“首选”签约，已就“梦寐以求的目标”做出决定"
+    },
+    {
+      "id": "David Ornstein:CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E",
+      "reporter": "David Ornstein",
+      "reporterZh": "大卫·奥恩斯坦",
+      "reporterOutlet": "The Athletic",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "David Ornstein’s The Athletic FC Q&A: Will Man Utd try to do business in January? Does Glasner have support?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E?oc=5",
+      "published": "2026-11-25T05:00:00.000Z",
+      "titleZh": "大卫·奥恩斯坦的《The Athletic FC》问答：曼联是否会在1月份尝试进行引援？格拉斯纳有支持吗？"
+    },
+    {
       "id": "James Ducker:CBMipgFBVV95cUxPdDc4dzd3VEVDX2ZrQnNsNlhvY0dILWpmVEhNN0FWYTRreGtIanJpdnRDdUlHM1dQaktXcDRKR0toNEh4NmVwcXN6cTdxNEk1THkwaGpRM0ZKMjZXcUlydDYxa1pudHhIdkFsTURGaDVaWXp3NTI2M1dfbFZ0dlpHQW9TT19LX1pHazFGUUhZRnRqdjlVX0ZaUDktd1EwS0JGRkVQVEln",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -45844,18 +45868,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc4dzd3VEVDX2ZrQnNsNlhvY0dILWpmVEhNN0FWYTRreGtIanJpdnRDdUlHM1dQaktXcDRKR0toNEh4NmVwcXN6cTdxNEk1THkwaGpRM0ZKMjZXcUlydDYxa1pudHhIdkFsTURGaDVaWXp3NTI2M1dfbFZ0dlpHQW9TT19LX1pHazFGUUhZRnRqdjlVX0ZaUDktd1EwS0JGRkVQVEln?oc=5",
       "published": "2026-11-24T16:47:00.000Z",
       "titleZh": "尽管莱尼·约罗的红牌被撤销，曼联仍对裁判大为不满"
-    },
-    {
-      "id": "Simon Stone:CBMia0FVX3lxTFBvZUdGTTZsUlJHd1VvMFllYnU4WXlRR09YQmg2RExEYlc5N21MTkVkc0JpZHdLMmd3UXFtT0pnNUJNZ2FLUnFXWDB2VUU4UTlZcjNVNXZVUTNod3N1MU16S25JdVZVQVctMTJr",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Leny Yoro red card: Manchester United defender cleared to face Brentford on Saturday",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZUdGTTZsUlJHd1VvMFllYnU4WXlRR09YQmg2RExEYlc5N21MTkVkc0JpZHdLMmd3UXFtT0pnNUJNZ2FLUnFXWDB2VUU4UTlZcjNVNXZVUTNod3N1MU16S25JdVZVQVctMTJr?oc=5",
-      "published": "2026-11-24T15:59:59.000Z",
-      "titleZh": "莱尼·约罗红牌：曼联后卫获准在周六对阵布伦特福德的比赛中上场"
     },
     {
       "id": "Chris Wheeler:CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU",
@@ -45882,18 +45894,6 @@
       "titleZh": "曼联的 1 月转会预算将不到 5000 万英镑"
     },
     {
-      "id": "Fabrizio Romano:CBMivAFBVV95cUxPV1VLVUxTYlE3TkxXWHZydC1HR0Rrb2syVWRuUmZxd29ZbHNPYW9YR2VEMDJGdlAxWFJtZEFNbTE1RXpYZk44cWNzSXBiQXExbFl5bGdUYWhjenlFWEtWWkplUDNNQ0JZWGZVeGwwV0JpNmJIeTlFTHVQaFBHQ3M4UFl4TWh5OUtVenJsWF9sTnhIR2lhQ2dIeGlVM0lBYS15WFhyWUQyWEZpZzU2UnNNTGt5Rlk0cVNhNEdoSg",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "TEAMtalk",
-      "tier": 1,
-      "title": "Fabrizio Romano reveals Man Utd transfer talks ‘this week’ as top priority named",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1VLVUxTYlE3TkxXWHZydC1HR0Rrb2syVWRuUmZxd29ZbHNPYW9YR2VEMDJGdlAxWFJtZEFNbTE1RXpYZk44cWNzSXBiQXExbFl5bGdUYWhjenlFWEtWWkplUDNNQ0JZWGZVeGwwV0JpNmJIeTlFTHVQaFBHQ3M4UFl4TWh5OUtVenJsWF9sTnhIR2lhQ2dIeGlVM0lBYS15WFhyWUQyWEZpZzU2UnNNTGt5Rlk0cVNhNEdoSg?oc=5",
-      "published": "2026-11-23T21:24:34.000Z",
-      "titleZh": "法布里齐奥·罗马诺透露，曼联“本周”将转会谈判列为重中之重"
-    },
-    {
       "id": "Andy Mitten:CBMiqwFBVV95cUxNUndkdXkwWTJPa0s4MGg2Uk5XSENOT2dsTGZSdUdrX1VQQ1YyTDJrd2ZyODFUaU1Wc2NaTXlrMlY3LVE2SmdxanJDa3ZlM0JLMm5mSUwwb01XWDVMZHpHVXRfUFJ0dWV4a2ZrWnRGRHluNWhBYmpRQTh4U1NFYzBHSzFxdTdDV0JBZ2RvVnpYYlFkLWwtRTNkNmFfMXlYSThOSHhJZDI2NDkxVWM",
       "reporter": "Andy Mitten",
       "reporterZh": "安迪·米滕",
@@ -45916,18 +45916,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHhHcmlFaWtSb3hqeWdULWpabkRydG9rOVNRdDdrckd6dXA0X2kydlZjM29KTU1jNHAtZGJCem8zOFE0UW1XaWJmUDVoRG1CTE1JNzFvQkJWX3BBejIzY0JvRDA4V3ZwZURiQ3ByTVBFUlBjTUtnWGVoYkVwbGRueUR6TlQ5VHkwa1NlU3d5ZDJaZw?oc=5",
       "published": "2026-11-23T14:29:09.000Z",
       "titleZh": "法布里齐奥·罗马诺揭示布鲁诺·费尔南德斯合同的重要条款"
-    },
-    {
-      "id": "Laurie Whitwell:CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Pochettino’s De Ligt gamble proves costly, but Manchester United’s problems run deeper",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR?oc=5",
-      "published": "2026-11-23T08:37:45.000Z",
-      "titleZh": "波切蒂诺在德里赫特身上的赌注代价高昂，但曼联的问题更加根深蒂固"
     },
     {
       "id": "James Ducker:CBMirAFBVV95cUxOSjVvNW96THVpUnZNU2JxOHp5dE1EZmJobjJIMUlZRXI4NlFqMVZtRVVIYkd5ZWJueFBQOUlrVDhIRHhxT2VDdzR1LWh5bW5iWXg5NVdqUk1JcWFScGhjdVdWS2p5U0FaU3VBSVRZWG9uMUhyb3pJUXV3Q1NfQXAtbGI1N0ZwdGZINEFwQVJ6VDI1eFdqODdxTUVxYWdHS2RWM3NDbFhJVG5hSVg2",
@@ -45966,16 +45954,28 @@
       "titleZh": "迈克尔·卡里克被曼联解雇的内幕——《The Athletic》"
     },
     {
-      "id": "Rob Dawson:CBMilwFBVV95cUxOV0JzZmh3bThxeGlRRk04SThDX3hrclMxbFozbjk1TFQwOVg5N1JuUzI4UlZMU0pac1d6Tlh3SkE4TFpSWmVibUhzWnVZZVFGMWE1VXNGUnNYQXd1bWpuc2xRY1A3TkR2dy1WcF9fcUhkTkw2WGl0cU5SR2YzMEYyZTAtRDBVUXc3LUVMeXpnMkZhSlBRUUdn",
+      "id": "Rob Dawson:CBMiiwFBVV95cUxPazFmYklqelFRTUtmWURaaU9XSTN3U0FOdVFkSnRyZnNaVFp4eF83SHMtM0FNV1oxRkpLNEU4RGlTVC04TzhBVTZoTV9WLV93ZG12cjNwY1B1RjZTRWxSWjRRbk1KNVY3bkFnU1Blc0lFaDRFdUJPRzdiY2RneHNtYmVIUHNmU3B5c1Nn",
       "reporter": "Rob Dawson",
       "reporterZh": "罗布·道森",
       "reporterOutlet": "ESPN 曼联跟队",
       "source": "ESPN",
       "tier": 1,
-      "title": "Mauricio Pochettino's Man United moment has arrived. Is he ready?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0JzZmh3bThxeGlRRk04SThDX3hrclMxbFozbjk1TFQwOVg5N1JuUzI4UlZMU0pac1d6Tlh3SkE4TFpSWmVibUhzWnVZZVFGMWE1VXNGUnNYQXd1bWpuc2xRY1A3TkR2dy1WcF9fcUhkTkw2WGl0cU5SR2YzMEYyZTAtRDBVUXc3LUVMeXpnMkZhSlBRUUdn?oc=5",
-      "published": "2026-11-21T12:05:00.000Z",
-      "titleZh": "毛里西奥·波切蒂诺执教曼联的时刻已经到来。他准备好了吗？"
+      "title": "Dawson: Things don't get any easier for Man City after Fulham draw",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazFmYklqelFRTUtmWURaaU9XSTN3U0FOdVFkSnRyZnNaVFp4eF83SHMtM0FNV1oxRkpLNEU4RGlTVC04TzhBVTZoTV9WLV93ZG12cjNwY1B1RjZTRWxSWjRRbk1KNVY3bkFnU1Blc0lFaDRFdUJPRzdiY2RneHNtYmVIUHNmU3B5c1Nn?oc=5",
+      "published": "2026-11-21T16:27:08.000Z",
+      "titleZh": "道森：富勒姆逼平曼城后，曼城的情况不会变得更容易"
+    },
+    {
+      "id": "Laurie Whitwell:CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
+      "published": "2026-11-21T15:04:13.000Z",
+      "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
     },
     {
       "id": "Laurie Whitwell:CBMipwFBVV95cUxQR2NvVWxnbDhQaEJieTAweEt6eXVobUZvRVJObVJVOTFyUGFVR2xWenFMMjNVd1dYV09fa3g2b0E2REMyWXpaZkRuVXJfV2RKUjJiSmVrR0dONzhGSExFa2RJbzdRaDkwUEVyLWhiMzV1cG5QTG9Td1lBLWp4THZWNHB4YmpBWlVYdmdyLVFRSExKRDlDeWFsaVZTQVNpeFJTdUUzTnJYcw",
@@ -46014,7 +46014,7 @@
       "titleZh": "消息人士称，如果无人机再次干扰比赛，曼联将采取法律行动"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-26T14:25:40.341Z",
+  "journalistsUpdatedAt": "2026-11-26T23:15:55.443Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

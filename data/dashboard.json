@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:27:23.413Z",
+  "updatedAt": "2026-11-27T21:14:28.649Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -45060,6 +45060,34 @@
   ],
   "news": [
     {
+      "title": "Pochettino defends his Man United management style: 'I'm not nice'",
+      "published": "2026-11-27T16:04:46Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50612072/pochettino-defends-management-style-man-united",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1752074_594x334_16-9.jpg",
+      "titleZh": "波切蒂诺为自己的曼联执教风格辩护：“我并不友善”"
+    },
+    {
+      "title": "Transfer rumors, news:Transfer rumors, news: Nico Paz open to Man United; against Real Madrid return",
+      "published": "2026-11-27T15:30:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751970_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：转会传闻、新闻：尼科·帕斯愿意加盟曼联；不愿重返皇家马德里"
+    },
+    {
+      "title": "Bruno Fernandes contract extended by Man United until 2028 - sources",
+      "published": "2026-11-27T14:38:39Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610575/bruno-fernandes-man-united-brentford",
+      "image": "https://a.espncdn.com/photo/2026/1115/r1746239_1296x729_16-9.jpg",
+      "titleZh": "消息人士透露，曼联与布鲁诺·费尔南德斯续约至 2028 年"
+    },
+    {
+      "title": "Would any USMNT players really make Man United better if they followed Poch?",
+      "published": "2026-11-27T09:02:01Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50607825/usmnt-man-united-pochettino-transfers-sign-premier-league-usa",
+      "image": "https://a.espncdn.com/photo/2026/0806/r1698479_1296x729_16-9.jpg",
+      "titleZh": "如果美国男足国家队的球员们真的追随波切蒂诺，他们真的能让曼联变得更好吗？"
+    },
+    {
       "title": "Hislop: Next games a 'barometer' in Man United relegation battle",
       "published": "2026-11-26T17:43:52Z",
       "url": "https://www.espn.com/video/clip/_/id/50605063/next-games-barometer-man-united-relegation-battle",
@@ -45114,37 +45142,20 @@
       "url": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
       "image": "https://a.espncdn.com/photo/2026/1126/r1751404_1296x729_16-9.jpg",
       "titleZh": "毛里西奥·波切蒂诺：曼联在与里斯本竞技的平局中被裁判“惩罚”了"
-    },
-    {
-      "title": "Man United's costly errors overshadow early progress under Mauricio Pochettino",
-      "published": "2026-11-26T01:32:43Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1751389_1296x729_16-9.jpg",
-      "titleZh": "曼联的代价高昂的失误掩盖了在毛里西奥·波切蒂诺执教下的早期进步"
-    },
-    {
-      "title": "Bruno Fernandes' 'strange' divot-assisted goal left even Man United star confused",
-      "published": "2026-11-26T00:43:28Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50598666/bruno-fernandes-goal-man-united-sporting-divot-champions-league",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1751390_1296x729_16-9.jpg",
-      "titleZh": "布鲁诺·费尔南德斯的“奇怪”草皮助攻进球让曼联球星也感到困惑"
-    },
-    {
-      "title": "Burley predicts how Pochettino will motivate Manchester United players",
-      "published": "2026-11-25T23:15:40Z",
-      "url": "https://www.espn.com/video/clip/_/id/50598530/burley-predicts-how-pochettino-motivate-manchester-united-players",
-      "image": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1125/dm_261125_Burley_predicts_how_Pochettino_will_motivate_Manchester_United_players/dm_261125_Burley_predicts_how_Pochettino_will_motivate_Manchester_United_players.jpg",
-      "titleZh": "伯利预测波切蒂诺将如何激励曼联球员"
-    },
-    {
-      "title": "Hargreaves sees funny side of Fernandes' bizarre divot-assisted Man United goal",
-      "published": "2026-11-25T23:17:39Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50598468/bruno-fernandes-man-united-divot-owen-hargreaves-sporting-cp",
-      "image": "https://a.espncdn.com/photo/2026/1125/r1751372_1296x729_16-9.jpg",
-      "titleZh": "哈格里夫斯看到了费尔南德斯为曼联打入的、由草皮块“助攻”的怪异进球的搞笑一面"
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "title": "Transfer rumors, news:Transfer rumors, news: Nico Paz open to Man United; against Real Madrid return",
+      "published": "2026-11-27T15:30:51Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como",
+      "image": "https://a.espncdn.com/photo/2026/1127/r1751970_1296x729_16-9.jpg",
+      "titleZh": "转会传闻、新闻：转会传闻、新闻：尼科·帕斯愿意加盟曼联；不愿重返皇家马德里",
+      "player": "",
+      "status": "推进中",
+      "statusType": "progress"
+    }
+  ],
   "roster": [
     {
       "id": "301425",

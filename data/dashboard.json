@@ -45726,6 +45726,18 @@
   ],
   "journalists": [
     {
+      "id": "Fabrizio Romano:CBMingFBVV95cUxQc1FSbmw2cmwwVDR0dXFnOHVFbFc1TExqb3lWRlVQYXBNeDlkaDRIZ1RIaTlTd1BXS3BQQ2l1UURNTjlVdmtDTWJub1B2UVZPZkpnVUlTU2tFOElxMnFVLUJPdzZyRGxrcDhvRnd5T3FjQVdQX2N5MEM2M3oxZFlsRVJxd0ozZTNmbWFxRmIxd0FKWHdqZFZSMG1VUWxqdw",
+      "reporter": "Fabrizio Romano",
+      "reporterZh": "法布里齐奥·罗马诺",
+      "reporterOutlet": "国际转会记者",
+      "source": "Football365",
+      "tier": 1,
+      "title": "Fabrizio Romano reveals Man Utd plan for Marcus Rashford with Pochettino key",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc1FSbmw2cmwwVDR0dXFnOHVFbFc1TExqb3lWRlVQYXBNeDlkaDRIZ1RIaTlTd1BXS3BQQ2l1UURNTjlVdmtDTWJub1B2UVZPZkpnVUlTU2tFOElxMnFVLUJPdzZyRGxrcDhvRnd5T3FjQVdQX2N5MEM2M3oxZFlsRVJxd0ozZTNmbWFxRmIxd0FKWHdqZFZSMG1VUWxqdw?oc=5",
+      "published": "2026-11-28T11:28:47.000Z",
+      "titleZh": "法布里齐奥·罗马诺透露曼联对马库斯·拉什福德的计划，波切蒂诺是关键"
+    },
+    {
       "id": "James Ducker:CBMipgFBVV95cUxNRTd5aVlWQ0dQMEYyQTJ6Mi1Vb1pPbmZxaTVqM0RuX093OTE0dl9fakV0Vzd2V3ZtVTkxbjVvSzB2ek9tdGU3VGZFdE01dG5vbHZHekdzbkNGV1lXMzMtbklEaXllQ2JaczBsYi1oblFCYkJPSTVWU3E2N19nMjJlUHBYcm4wbUk0YklQbDc2QjQxdXdDSTkxWGNCQ2c1UExfbHpkVDZR",
       "reporter": "James Ducker",
       "reporterZh": "詹姆斯·达克",
@@ -45738,14 +45750,26 @@
       "titleZh": "毛里西奥·波切蒂诺反驳了“过于友善”的指责"
     },
     {
-      "id": "Simon Stone:CBMiaEFVX3lxTFBnbzFtTTI0cExHN0IxNG15UFM0ZTZCWDhnMlRNeEtFbllkN1cyMU1GZFROYnQwNDJJSnZiRktDSjFXMmxUMzJyNlZOckc2bTlneC1XaDBzMTA3ZzZUdWppQU5WVUdtSVp5",
+      "id": "Rob Dawson:CBMimgFBVV95cUxNN2FCLXFNQWVJYUVtV1l1UV9yWXpudjlKZ2pKTEZFTVA5cHNPcS13cWVfWWFIcnd0clZFTHQtalFDWWVOUEhId3lPX2wzVHNTZTZJLUlocFhoUzBTb0xmbUR3QUx0SkctNVdJUHpsdWp6ZW1DTjFwdi1LdnV0VmFSMGQybjNIQVd1RnRUYTh3UGsyU2F2T1NnSy13",
+      "reporter": "Rob Dawson",
+      "reporterZh": "罗布·道森",
+      "reporterOutlet": "ESPN 曼联跟队",
+      "source": "ESPN",
+      "tier": 1,
+      "title": "Pochettino defends his Man United management style: 'I'm not nice'",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2FCLXFNQWVJYUVtV1l1UV9yWXpudjlKZ2pKTEZFTVA5cHNPcS13cWVfWWFIcnd0clZFTHQtalFDWWVOUEhId3lPX2wzVHNTZTZJLUlocFhoUzBTb0xmbUR3QUx0SkctNVdJUHpsdWp6ZW1DTjFwdi1LdnV0VmFSMGQybjNIQVd1RnRUYTh3UGsyU2F2T1NnSy13?oc=5",
+      "published": "2026-11-27T15:54:00.000Z",
+      "titleZh": "波切蒂诺为自己在曼联的管理风格辩护：“我并不友善”"
+    },
+    {
+      "id": "Simon Stone:CBMia0FVX3lxTE02SXpoWS1xWWx1UnJrWlVZS1pDWTJ2S1l6Z1ZwYlpVZ2pIa2NIMEI4UkdFY2lQVkhyTXlnV1ZZYmpjSmFXQ0R0T0NkOGtUc2duM3BLbnNlQWpsRTdFaDZCbW1LNlJSMzVBLWV3",
       "reporter": "Simon Stone",
       "reporterZh": "西蒙·斯通",
       "reporterOutlet": "BBC 体育",
       "source": "BBC",
       "tier": 1,
       "title": "Man Utd trigger Fernandes' one-year contract extension",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbzFtTTI0cExHN0IxNG15UFM0ZTZCWDhnMlRNeEtFbllkN1cyMU1GZFROYnQwNDJJSnZiRktDSjFXMmxUMzJyNlZOckc2bTlneC1XaDBzMTA3ZzZUdWppQU5WVUdtSVp5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02SXpoWS1xWWx1UnJrWlVZS1pDWTJ2S1l6Z1ZwYlpVZ2pIa2NIMEI4UkdFY2lQVkhyTXlnV1ZZYmpjSmFXQ0R0T0NkOGtUc2duM3BLbnNlQWpsRTdFaDZCbW1LNlJSMzVBLWV3?oc=5",
       "published": "2026-11-27T14:22:46.000Z",
       "titleZh": "曼联启动与费尔南德斯的一年合同续约条款"
     },
@@ -45770,20 +45794,8 @@
       "tier": 1,
       "title": "The 2027 Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzdTTkxpcFB2ckI4clNvX0E5OG0xd1VWY1ZFd2V1TlZadExPM3FiWlRNRGprY0Ixd3FpRkhwSTFDVkZoRnR4SWszbE93Rmd2Z2N3LUFXSW5ZbEpTTGJTQVFpdWIxT2RhTmxnUkxicWRIUkNvQkVYV1l3cnJJTUx5U2dfdk41TXBXd2xuZWY1b0FfZUpnSU5UYTNTTUVsNVJhcHU3QV9mblJYYWVJck9FZ01fSUpUd2JVQkY4Y21DdjVvUWtvc2d4bFV5WEkyaGNzbUE?oc=5",
-      "published": "2026-11-27T10:47:42.000Z",
+      "published": "2026-11-27T07:50:46.000Z",
       "titleZh": "2027年转会交易清单：曼联、阿森纳、利物浦、皇家马德里等球队的最新消息 - The Athletic"
-    },
-    {
-      "id": "Laurie Whitwell:CBMingFBVV95cUxPZHlrcENrYXYyS29OS2pmcTY4bVllY3FGVE4tSlQtUXdSTEduNkhKVGJlTEdaOUltZzZYQjJudGdGV0NlMng5bHBIRnhLbkNySmRaSUVHaHpRaFlKQ0hSQ1B5YTlXQWExcC1qZFN2YVFUR1Jrd2lNdzFHb0lFeXJSTHVXcGlLalFORVFVdU4wZ2xYVXZQNzVucDBlUlBUZw",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Manchester United 2027 Transfer DealSheet – Calvin Bassey interest and contract latest - The Athletic",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZHlrcENrYXYyS29OS2pmcTY4bVllY3FGVE4tSlQtUXdSTEduNkhKVGJlTEdaOUltZzZYQjJudGdGV0NlMng5bHBIRnhLbkNySmRaSUVHaHpRaFlKQ0hSQ1B5YTlXQWExcC1qZFN2YVFUR1Jrd2lNdzFHb0lFeXJSTHVXcGlLalFORVFVdU4wZ2xYVXZQNzVucDBlUlBUZw?oc=5",
-      "published": "2026-11-27T07:47:56.000Z",
-      "titleZh": "曼联2027年转会交易表——卡尔文·巴塞的兴趣和最新合同情况 - The Athletic"
     },
     {
       "id": "Simon Stone:CBMia0FVX3lxTE9mNHgzUFdCVVhxOUdWdXMxUDVxa19IdXdSWEYwbzJJa29XdzI2cTdWYW9sM0tUcV83cnV0WVB5alFrZWxFX1MzVTg1ejY2UVFycllsTjJzcnRRX1hqWDhFZURLM3BwenhJLThv",
@@ -45798,16 +45810,16 @@
       "titleZh": "“Lammens已证明自己并非无懈可击”"
     },
     {
-      "id": "Fabrizio Romano:CBMiswFBVV95cUxOOFAzTFJDcE5LT2wyWXBDbWlFcEoyOFZxR3YwYWZvc1pnU1NkMFlLNnZmVndFeC1wLV9qSlc4TG9tUGpEQm5jc3oxbGlUY2ZIeThhODVmdGUwa25zRHVTd3hWa2JIWHZmQThpMlF0dmM4N0ZJRS1UM3gtb3pLTC12SmNabjdXb3d5a3NDeFEydVJwVUhJMlkzMFlCZUM5QmJ2ZU5RZktoZFlFR0VSOG9DSDczTQ",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Football365",
-      "tier": 1,
-      "title": "Fabrizio Romano reveals Liverpool ‘agreement’ to sign new right winger",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFAzTFJDcE5LT2wyWXBDbWlFcEoyOFZxR3YwYWZvc1pnU1NkMFlLNnZmVndFeC1wLV9qSlc4TG9tUGpEQm5jc3oxbGlUY2ZIeThhODVmdGUwa25zRHVTd3hWa2JIWHZmQThpMlF0dmM4N0ZJRS1UM3gtb3pLTC12SmNabjdXb3d5a3NDeFEydVJwVUhJMlkzMFlCZUM5QmJ2ZU5RZktoZFlFR0VSOG9DSDczTQ?oc=5",
-      "published": "2026-11-26T09:53:46.000Z",
-      "titleZh": "法布里齐奥·罗马诺透露利物浦“已达成协议”签下新右边锋"
+      "id": "Chris Wheeler:CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Senne Lammens' two errors cost Man United victory at Sporting",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA?oc=5",
+      "published": "2026-11-26T10:01:27.000Z",
+      "titleZh": "森内·拉门斯的两次失误让曼联在对阵葡萄牙体育的比赛中痛失胜利"
     },
     {
       "id": "David Ornstein:CBMiZkFVX3lxTE1rcWdEQmlTUDhyTGhtRTIzemJZVzhDeW9YRE1TMGRvb0d3RFlmZFRNejV3ejQ5Z09sRzJyMU5sLTlrM3o0d09YUUlTUW5lVVZqUkcwVGIwVDNwdUE5VW1DT25SbFMxQQ",
@@ -45832,30 +45844,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDl2MWFyMm80ajlMLUttdkxuMXNjejg5QXRZV0Q5ekt2UzcyQ1JMUF9NUHBUQjM5MWRtMkFZQ3FGWENQTU5PR2tWUnpta001LXhLN0VZYXFKM2s0UDk5MG9tUkpxc2tWbGMxelR5dEFCZjcwSHBhUUJRc3I0T21LU1dRbHFwdzZLRk5icUh2cG9kY1gtNEVVaTVyNG9tN0tJ?oc=5",
       "published": "2026-11-26T09:31:00.000Z",
       "titleZh": "约书亚·齐尔克泽：感觉全世界都在和曼联作对"
-    },
-    {
-      "id": "Simon Stone:CBMia0FVX3lxTE4yZW9TVEZwRFA4Z0tQM3V1Yi05Y3p4RnBKVUZXQlQ3RVhUaG41bEhTdHlJRFBNX1ZCc0Uyd3lIYlhvOGNhRUxOU01BcGZIRkdmRGxCbFROLU9zSEl3dTVpcWgtTmRLT09CbTBV",
-      "reporter": "Simon Stone",
-      "reporterZh": "西蒙·斯通",
-      "reporterOutlet": "BBC 体育",
-      "source": "BBC",
-      "tier": 1,
-      "title": "Man Utd news: Goalkeeper Lammens will get the support he needs - Zirkzee",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yZW9TVEZwRFA4Z0tQM3V1Yi05Y3p4RnBKVUZXQlQ3RVhUaG41bEhTdHlJRFBNX1ZCc0Uyd3lIYlhvOGNhRUxOU01BcGZIRkdmRGxCbFROLU9zSEl3dTVpcWgtTmRLT09CbTBV?oc=5",
-      "published": "2026-11-26T09:12:10.000Z",
-      "titleZh": "曼联新闻：齐尔克泽表示门将拉姆斯将获得他所需的支持"
-    },
-    {
-      "id": "Laurie Whitwell:CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR",
-      "reporter": "Laurie Whitwell",
-      "reporterZh": "劳里·惠特韦尔",
-      "reporterOutlet": "The Athletic 曼联跟队",
-      "source": "The New York Times",
-      "tier": 1,
-      "title": "Pochettino’s De Ligt gamble proves costly, but Manchester United’s problems run deeper",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR?oc=5",
-      "published": "2026-11-26T02:16:00.000Z",
-      "titleZh": "波切蒂诺在德里赫特身上的赌注代价高昂，但曼联的问题更为深层次"
     },
     {
       "id": "David Ornstein:CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E",
@@ -45888,7 +45876,7 @@
       "reporterOutlet": "每日邮报曼联跟队",
       "source": "Daily Mail",
       "tier": 2,
-      "title": "Sporting Lisbon vs Man United RECAP: Visitors held after having TWO goals ruled out in crazy clash",
+      "title": "Sporting Lisbon vs Man United RECAP",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNUtDSXlxSlhNME5iUElpa2xzNVZlY1BXd3pheTlkRTlwaUxDTk4zNURSY3pwaXZLdFN2R054NlJ1bTdiSE1TQ0NMN2U5cGdhdUZNX3EzaWo5bHBtX3p5enJQUndvdlJYVkZyamNteWdVdDRlMFQ1emt5RnpnUkxLbkdma0x6WXdla1Nsb0hWUVloN2pGLUdib21Ea0tZRWhpYTJobzV2aXlPa2ZFZnNUU3BfSXlDYURGU2U5RFI2c3NDd3dL?oc=5",
       "published": "2026-11-26T00:02:00.000Z",
       "titleZh": "里斯本竞技对曼联回顾"
@@ -45918,18 +45906,6 @@
       "titleZh": "曼联的代价高昂的失误掩盖了在毛里西奥·波切蒂诺的带领下取得的早期进步"
     },
     {
-      "id": "Chris Wheeler:CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA",
-      "reporter": "Chris Wheeler",
-      "reporterZh": "克里斯·惠勒",
-      "reporterOutlet": "每日邮报曼联跟队",
-      "source": "Daily Mail",
-      "tier": 2,
-      "title": "Senne Lammens' two errors cost Man United victory at Sporting",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQMUNWZk5zcHNVV3gwOWRaMDNFLURxTy1aUXpjNUJSV2hzOThsYXdydVhRaXpBNmhobnphSDlZaHFWWUZQNUt6OTV5OHZ3a0Foc0kweDhucEZkYUIzRnlOaEsySmQtdVA3b0VRNFVZTndId0FRQmRLdGdraHBtUmQ2TnpiRkNzYTh1TVpObVNqUUNhc3UxRmxnNnZmQjJRQ05YS0ZUQWJZLTQ3anpMc28zRmhTTTZaSkFqbDktX1BvdVp1cG9CdzQ1MkNYQkxEQVJBcFVEd3V0WVFZTzJjbXlMUldROW9MNkpGeUUtR3RYemNrN2x4ZmN3MnA2TVR4QzI1V0FWd2dLNlhOZTUtNkEwZ2U3Q2FydFBtSzBoUHdlZjU1Q1JtX3I1a01rRGdsS2gwRi0xLWJhdnk5M3g3U3BSNGJwUWpBNXJGTk1DbVBIdElJVVdMS3p4NA?oc=5",
-      "published": "2026-11-25T22:18:39.000Z",
-      "titleZh": "森内·拉门斯的两次失误让曼联在对阵葡萄牙体育的比赛中痛失胜利"
-    },
-    {
       "id": "Fabrizio Romano:CBMiswFBVV95cUxPV2YxQ0QwXzY4Y3NlRHR4bXk3X05ObTNkS2tqV1pIVGk4TWRCbW1PNXpxOFdqRmo5LUpBbkxSOU5Jdy1abmVoYlYwanY0enBjRkdDM0FiTXhPNTFCNFE5LWV2R2REOHNUUGdXXzJ6OVAwZFF2UTV5WXhlcHRZaENBQ0RLQmJBc0F6WjFwZG9oZkxCc3RheDJiZUhyUGJ4TXFKR0NmRDU1YlFQVGcxdGNBWHMxSQ",
       "reporter": "Fabrizio Romano",
       "reporterZh": "法布里齐奥·罗马诺",
@@ -45954,16 +45930,52 @@
       "titleZh": "曼联向美国足球协会支付的毛里西奥·波切蒂诺费用在财务更新中得到详细说明"
     },
     {
-      "id": "Rob Dawson:CBMikgFBVV95cUxONlFLb3hNLVRQOWwtTXBvLURCcnR5NzNiLS1LRTVMZndwT3JhTmdNV2Ewd1Y5MGl2cUxkXzExUmp4WG8tejdBT0s2Tk94ak9UeHlTQzZWRmVxX1BMcUZCZDZIM0VTQ25uQmY5Y3F6MzVrS1NEM0l6cFhNa1dDWllqQnkwZTlRcHJrc1NocVpfR29NZw",
-      "reporter": "Rob Dawson",
-      "reporterZh": "罗布·道森",
-      "reporterOutlet": "ESPN 曼联跟队",
-      "source": "ESPN",
+      "id": "Laurie Whitwell:CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
       "tier": 1,
-      "title": "Man United win appeal over Leny Yoro red card",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONlFLb3hNLVRQOWwtTXBvLURCcnR5NzNiLS1LRTVMZndwT3JhTmdNV2Ewd1Y5MGl2cUxkXzExUmp4WG8tejdBT0s2Tk94ak9UeHlTQzZWRmVxX1BMcUZCZDZIM0VTQ25uQmY5Y3F6MzVrS1NEM0l6cFhNa1dDWllqQnkwZTlRcHJrc1NocVpfR29NZw?oc=5",
-      "published": "2026-11-24T15:32:00.000Z",
-      "titleZh": "曼联就莱尼·约罗的红牌提出上诉并胜诉"
+      "title": "Pochettino’s De Ligt gamble proves costly, but Manchester United’s problems run deeper",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDdaUWlGYVNnUHkzMkx4V3U2VmtveWs2LUE0dW1CSWdfT3pMY21Fa0IwdmhBYVI3MDFyaEc5a0k4UWIzdjNnbDM0blQzZHI4T1U3dEtNa2tiejBNc3dUa0FFZWJOWWtXT2tPOExnRFJqaTNzUlZ5NTRobGdrMHFjRUJPNm9XY18tZFNndmxSTHIzLXRzYlQ3STVwQ21JZHpR?oc=5",
+      "published": "2026-11-25T08:00:00.000Z",
+      "titleZh": "波切蒂诺在德里赫特身上的赌注代价高昂，但曼联的问题更为深层次"
+    },
+    {
+      "id": "Chris Wheeler:CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU",
+      "reporter": "Chris Wheeler",
+      "reporterZh": "克里斯·惠勒",
+      "reporterOutlet": "每日邮报曼联跟队",
+      "source": "Daily Mail",
+      "tier": 2,
+      "title": "Man Utd need all of Pochettino's powers to get them out of drop zone",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVmNCclZxNWRHUHN4Wm9tOHNIWHRKUDRPWVRvZWVaMDRzQ0s3WHV4UkJrNno0azM2UjJ6UTVBVnRhVW96bmdGVTcyaWZXWHFRWW1DSlJ2ZDZjdUFOU2NYTUo2dE4ycFBWQUlINzRZM1NSemVuT3paTDFoTm1ad3RuVEF2MWl4dW8yWlgyc2xNYlJ3UEZ0bXVfcld5d1RWblg2eUVPbWM3cVdlRy1NYWVsc2x2QnRFQ0N1OFJ2NHVpNkFUUldoZmJLbEhyUFdKTUV6blhXLVlKa2ExWVZuR2dxZDBKdFdmWmk0TVlWdDhPX3QtVHhQVFZzaEFOOFV3QTBLY0ZKQkY3Y0gzUEF1Q2hYdlJlQXFuZzRjMUhnNlRjeEU?oc=5",
+      "published": "2026-11-24T15:28:47.000Z",
+      "titleZh": "曼联需要波切蒂诺的全部能力来帮助他们摆脱降级区"
+    },
+    {
+      "id": "Simon Stone:CBMiaEFVX3lxTE5YVGw3YUJ0bHVqS3pOYy1sdFJNY25YdVhQa1JYNU5kMWgwemViTHdxN2luWEFRVW42RjZCLWt3azNrLXVQS2ttYTI4S1NpTlBKT2Y3NGpzd2x4dmVVZ3djaDI0M2dtZkk5",
+      "reporter": "Simon Stone",
+      "reporterZh": "西蒙·斯通",
+      "reporterOutlet": "BBC 体育",
+      "source": "BBC",
+      "tier": 1,
+      "title": "Man Utd news: Will January be the answer Manchester United need?",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YVGw3YUJ0bHVqS3pOYy1sdFJNY25YdVhQa1JYNU5kMWgwemViTHdxN2luWEFRVW42RjZCLWt3azNrLXVQS2ttYTI4S1NpTlBKT2Y3NGpzd2x4dmVVZ3djaDI0M2dtZkk5?oc=5",
+      "published": "2026-11-24T08:46:15.000Z",
+      "titleZh": "曼联新闻：1月份会是曼联需要的答案吗？"
+    },
+    {
+      "id": "Laurie Whitwell:CBMinAFBVV95cUxPcDVudWh1SGhoblBjaDNYd0EtT01GVk50alRWODJGQ0Q2MHY3ZjZhaGxrQVBlbDdld3dBVnhzdTdqZ3hnenRDbG14WUFMblEtVm5xVkJBSlhHYzhVU2FQRHEzQkdrLWhIUlFFS1ltb09jSGRvdTlDVlZBbVctcl93dVJZYmFsMm1sUUdLdHZzTi1XNzdHbkUtdkVFaWs",
+      "reporter": "Laurie Whitwell",
+      "reporterZh": "劳里·惠特韦尔",
+      "reporterOutlet": "The Athletic 曼联跟队",
+      "source": "The New York Times",
+      "tier": 1,
+      "title": "Manchester United to appeal Leny Yoro’s red card vs. Liverpool - The Athletic",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDVudWh1SGhoblBjaDNYd0EtT01GVk50alRWODJGQ0Q2MHY3ZjZhaGxrQVBlbDdld3dBVnhzdTdqZ3hnenRDbG14WUFMblEtVm5xVkJBSlhHYzhVU2FQRHEzQkdrLWhIUlFFS1ltb09jSGRvdTlDVlZBbVctcl93dVJZYmFsMm1sUUdLdHZzTi1XNzdHbkUtdkVFaWs?oc=5",
+      "published": "2026-11-23T23:32:25.000Z",
+      "titleZh": "曼联将就莱尼·约罗在对阵利物浦的比赛中被出示红牌提出上诉 - The Athletic"
     },
     {
       "id": "Chris Wheeler:CBMipwFBVV95cUxQTkM0dThrMEQzQ045MVZDREIzR3c1ODZGOVRZTkxPS0ptWWNHWExxU2piV0hOM0NlekE4c2tkcjRzQ0xPZ2l5OXdFa1cxOHJXZl9rVUFHaXYwR282Q3V0RjFTVm9GdWwtYlFGczllRTdObFpFQWdvQVZZM1d6U3NKSVN0cFlUdGliaUpJQzduaVMxazVVVklqdjVuMmFOZ1lMZEkydVpJNA",
@@ -46000,21 +46012,9 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUndkdXkwWTJPa0s4MGg2Uk5XSENOT2dsTGZSdUdrX1VQQ1YyTDJrd2ZyODFUaU1Wc2NaTXlrMlY3LVE2SmdxanJDa3ZlM0JLMm5mSUwwb01XWDVMZHpHVXRfUFJ0dWV4a2ZrWnRGRHluNWhBYmpRQTh4U1NFYzBHSzFxdTdDV0JBZ2RvVnpYYlFkLWwtRTNkNmFfMXlYSThOSHhJZDI2NDkxVWM?oc=5",
       "published": "2026-11-23T19:00:00.000Z",
       "titleZh": "安迪·米滕透露，刘易斯·霍尔是曼联的四个引援目标之一"
-    },
-    {
-      "id": "Fabrizio Romano:CBMikgFBVV95cUxPaHhHcmlFaWtSb3hqeWdULWpabkRydG9rOVNRdDdrckd6dXA0X2kydlZjM29KTU1jNHAtZGJCem8zOFE0UW1XaWJmUDVoRG1CTE1JNzFvQkJWX3BBejIzY0JvRDA4V3ZwZURiQ3ByTVBFUlBjTUtnWGVoYkVwbGRueUR6TlQ5VHkwa1NlU3d5ZDJaZw",
-      "reporter": "Fabrizio Romano",
-      "reporterZh": "法布里齐奥·罗马诺",
-      "reporterOutlet": "国际转会记者",
-      "source": "Yahoo Sports",
-      "tier": 1,
-      "title": "Fabrizio Romano Reveals Important Bruno Fernandes Contract Clause",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHhHcmlFaWtSb3hqeWdULWpabkRydG9rOVNRdDdrckd6dXA0X2kydlZjM29KTU1jNHAtZGJCem8zOFE0UW1XaWJmUDVoRG1CTE1JNzFvQkJWX3BBejIzY0JvRDA4V3ZwZURiQ3ByTVBFUlBjTUtnWGVoYkVwbGRueUR6TlQ5VHkwa1NlU3d5ZDJaZw?oc=5",
-      "published": "2026-11-23T14:29:09.000Z",
-      "titleZh": "法布里齐奥·罗马诺揭示布鲁诺·费尔南德斯合同的重要条款"
     }
   ],
-  "journalistsUpdatedAt": "2026-11-27T23:36:49.264Z",
+  "journalistsUpdatedAt": "2026-11-28T14:06:24.261Z",
   "predictions": {
     "league": {
       "formation": "4-3-3",

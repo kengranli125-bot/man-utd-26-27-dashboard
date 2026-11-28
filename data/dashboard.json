@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T21:14:28.649Z",
+  "updatedAt": "2026-11-28T07:45:00.964Z",
   "season": "2026/27",
   "statusMessage": "已同步 53 场全赛事赛程 · 含季前赛",
   "summary": {
@@ -45067,13 +45067,6 @@
       "titleZh": "波切蒂诺为自己的曼联执教风格辩护：“我并不友善”"
     },
     {
-      "title": "Transfer rumors, news:Transfer rumors, news: Nico Paz open to Man United; against Real Madrid return",
-      "published": "2026-11-27T15:30:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751970_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：转会传闻、新闻：尼科·帕斯愿意加盟曼联；不愿重返皇家马德里"
-    },
-    {
       "title": "Bruno Fernandes contract extended by Man United until 2028 - sources",
       "published": "2026-11-27T14:38:39Z",
       "url": "https://www.espn.com/soccer/story/_/id/50610575/bruno-fernandes-man-united-brentford",
@@ -45142,20 +45135,16 @@
       "url": "https://www.espn.com/soccer/story/_/id/50599139/man-united-mauricio-pochettino-sporting-referee-var-goal",
       "image": "https://a.espncdn.com/photo/2026/1126/r1751404_1296x729_16-9.jpg",
       "titleZh": "毛里西奥·波切蒂诺：曼联在与里斯本竞技的平局中被裁判“惩罚”了"
-    }
-  ],
-  "transfers": [
+    },
     {
-      "title": "Transfer rumors, news:Transfer rumors, news: Nico Paz open to Man United; against Real Madrid return",
-      "published": "2026-11-27T15:30:51Z",
-      "url": "https://www.espn.com/soccer/story/_/id/50610066/transfer-rumors-news-nico-paz-man-united-real-madrid-como",
-      "image": "https://a.espncdn.com/photo/2026/1127/r1751970_1296x729_16-9.jpg",
-      "titleZh": "转会传闻、新闻：转会传闻、新闻：尼科·帕斯愿意加盟曼联；不愿重返皇家马德里",
-      "player": "",
-      "status": "推进中",
-      "statusType": "progress"
+      "title": "Man United's costly errors overshadow early progress under Mauricio Pochettino",
+      "published": "2026-11-26T01:32:43Z",
+      "url": "https://www.espn.com/soccer/story/_/id/50598965/manchester-united-pochettino-champions-league-sporting",
+      "image": "https://a.espncdn.com/photo/2026/1125/r1751389_1296x729_16-9.jpg",
+      "titleZh": "曼联的代价高昂的失误掩盖了在毛里西奥·波切蒂诺执教下的早期进步"
     }
   ],
+  "transfers": [],
   "roster": [
     {
       "id": "301425",
